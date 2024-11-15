@@ -69,7 +69,7 @@ ________________________________________________________________________________
 
 ## A mesterséges intelligenciáért folytatott verseny, amely az emberektől azt követeli, hogy úgy viselkedjenek, mint gépek.
 
-# A mesterséges intelligencia minden, amire törekednünk kellene? Hogyan befolyásolja az életünket? Kell-e úgy viselkednünk, mint a gépek? Egy tech-rajongó gondolatai az Mesterséges Intelligenciáról és annak a saját életünkre gyakorolt hatásairól.
+# A mesterséges intelligencia minden, amire törekednünk kellene? Hogyan befolyásolja az életünket? Kell-e úgy viselkednünk, mint a gépek? Egy tech-rajongó gondolatai a Mesterséges Intelligenciáról és annak a saját életünkre gyakorolt hatásairól.
 
 ## @ The Switch - magyarul: Sejtcserés támadás (2010 Mozifilm):
 
