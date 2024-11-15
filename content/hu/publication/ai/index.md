@@ -166,7 +166,7 @@ Az én piciny mondandóm mindehhez a következő: A mesterséges intelligencia c
 
 Kíváncsi vagyok, hogy valaha is megértjük-e a lényeget, ahogy a mozifilm befejező sorai olyan szépen rámutattak:
 
-## @ The Switch - Sejtcserés támadás (2010-es film) befejező sorok:
+## @ The Switch - Sejtcserés támadás (2010-es Mozifilm) befejező sorok:
 
 **"Nézz ránk! Rohangálunk, mindig sietünk, mindig elkésünk. Gondolom, ezért hívják emberi „versenynek/fajnak”. De néha csupán annyira lassul le, hogy minden darab a helyére kerüljön. A sors megteszi a maga varázslatát. És te összekapcsolódtál. Időnként a sok véletlenszerűség mellett, történik valami váratlan, ami mindannyiunkat előbbre visz. És az igazság az... amit kezdek gondolni..., amit kezdek érezni..., hogy TALÁN az emberi "verseny/faj" egyáltalán nem is „verseny”... „**.
 
