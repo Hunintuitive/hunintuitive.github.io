@@ -39,7 +39,8 @@ profiles:
 interests:
   - IT általánosságban, hardver és szoftver
   - Technológia általánosságban
-  - Zene Tánc
+  - Zene
+  - Tánc
   - Pszichológia
   - Fizikai és mentális egészség
   - Minden tudományág

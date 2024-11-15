@@ -39,7 +39,8 @@ profiles:
 interests:
   - IT im Allgemeinen, Hardware und Software
   - Technologie im Allgemeinen
-  - Musik Tanz
+  - Musik
+  - Tanz
   - Psychologie
   - Körperliche und geistige Gesundheit
   - Alle Wissenschaften
