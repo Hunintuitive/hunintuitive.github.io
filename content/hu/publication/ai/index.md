@@ -78,9 +78,9 @@ ________________________________________________________________________________
 
 Szóval, mit gondolsz? Lehet, hogy van némi igazság a film nyitó soraiban?
 
-Milyen szempontból lehet releváns a mesterséges intelligencia? Az emberi faj számára, vagy csak egy random értelmetlen „ verseny” kedvéért?
+Milyen szempontból lehet releváns a mesterséges intelligencia? Az emberi faj számára, vagy csak egy véletlenszerű értelmetlen „verseny” kedvéért?
 
-Egyáltalán nem könnyű kérdés. Elgondolkodtatott, ez ihlette ezt a cikket. Nem akarlak igazán befolyásolni egyik irányba sem. Csak szeretnék rámutatni néhány dologra ezzel kapcsolatban, józan ésszel ítélve, és bevonva más, nálam zseniálisabb és műveltebb emberek néhány gondolatát és véleményét ezekről a témákról, amelyek megragadták a figyelmemet.
+Egyáltalán nem könnyű kérdés. Elgondolkodtatott, ez ihlette ezt a cikket. Nem akarlak igazán befolyásolni egyik irányba sem. Csak szeretnék rámutatni néhány dologra ezzel kapcsolatban, józan ésszel ítélve, és bevonva más, nálam zseniálisabb és műveltebb emberek néhány gondolatát és véleményét ezekről a témákról, melyek megragadták a figyelmemet.
 
 ## Mi a legfontosabb számunkra, emberek számára?
 
@@ -88,15 +88,15 @@ Hajlamos vagyok egyetérteni azzal a nézettel, hogy nekünk embereknek, az embe
 
 ## Hogyan hat az MI az életünkre?
 
-A folyamatosan fejlődő technológiai környezetben a mesterséges intelligencia („MI”) iránti versenyfutás forró beszédtémává vált. Ahogy a gépek egyre „intelligensebbé” válnak, és egyre többféle feladat elvégzésére képesek, úgy nő az emberekre nehezedő nyomás, hogy alkalmazkodjanak, és egyre inkább úgy viselkedjenek, mint a gépek, és ez nem biztos, hogy jó dolog. A probléma persze a saját szemléletünk lehet, az, ahogyan a technológiai fejlődésre reagálunk, vagy ahogyan használjuk ezeket az eszközöket, és ahogyan a mindennapi életben viszonyulunk hozzájuk.
+A folyamatosan fejlődő technológiai környezetben a mesterséges intelligencia (MI) iránti versenyfutás forró beszédtémává vált. Ahogy a gépek egyre „intelligensebbé” válnak, és egyre többféle feladat elvégzésére képesek, úgy nő az emberekre nehezedő nyomás, hogy alkalmazkodjanak, és egyre inkább úgy viselkedjenek, mint a gépek, és ez nem biztos, hogy jó dolog. A probléma persze a saját szemléletünk lehet, az, ahogyan a technológiai fejlődésre reagálunk, vagy ahogyan használjuk ezeket az eszközöket, és ahogyan a mindennapi életben viszonyulunk hozzájuk.
 
 A mesterséges intelligencia forradalmasítja az iparágakat az egészségügytől a pénzügyekig, és a folyamatok egyszerűsítésében, valamint a hatékonyság növelésében rejlő lehetőségei tagadhatatlanok. Azonban ahogy a gépek egyre fejlettebbé válnak, úgy nő az igény arra, hogy az emberek is ugyanúgy viselkedjenek, mint a gépek.
 
-Tudtad, hogy ha egy karrieroldalon jelentkezel egy állásra, az úgynevezett ATS (azaz Applicant Tracking System - Jelült követő rendszer) rendszerek, amelyek képesek AI-megoldásokat beépíteni, eldönthetik, hogy az önéletrajzodat egyáltalán figyelembe veszik-e, vagy továbbítják-e egy emberi toborzónak? Eltekintve néhány, az ilyen eszközöket alkalmazó vállalatok által felhozott jogos érvtől, te hogyan érzed magad emiatt?
+Tudtad, hogy ha egy karrieroldalon jelentkezel egy állásra, az úgynevezett ATS rendszerek (azaz Applicant Tracking System - Jelölt követő rendszer), amelyek képesek MI-megoldásokat beépíteni, eldönthetik, hogy az önéletrajzodat egyáltalán figyelembe veszik-e, vagy továbbítják-e egy emberi toborzónak? Eltekintve néhány, az ilyen eszközöket alkalmazó vállalatok által felhozott jogos érvtől, te hogyan érzed magad emiatt?
 
 Ha fogalmad sincs arról, hogy egy algoritmus fog értékelni, vagy nem tudod, hogyan kell olyan önéletrajzot írni, amely átmegy a mesterséges intelligencia tesztjén, akkor mi hasznod származik belőle, vagy az azt használó vállalatnak? - merül fel a remélhetőleg logikus kérdés a fejemben. Az biztos, hogy a toborzóknak kevesebb életrajzot kell majd átolvasniuk a beküldött ezrek közül, de vajon tényleg hasznára válik-e ez a vállalatnak, biztosítja-e, hogy a legjobb jelölteket kapja meg, akik megfelelnek az adott munkakörnek? A döntést rád bízom.
 
-Vicces volt, hogy az utóbbi időben sok állásra jelentkeztem, csak azért, hogy az algoritmusok elutasítsanak, csakhogy aztán meglepő módon később ugyanannak a cégnek néhány toborzója felvegye velem a kapcsolatot. Látták a LinkedIn-profilomat online, és hasonló állást ajánlottak, mint amire jelentkeztem, és elsőre elutasítottak a cég karrieroldalán, amely ezeket az MI algoritmusokat használja. 
+Vicces volt, hogy az utóbbi időben sok állásra jelentkeztem, csak azért, hogy az algoritmusok elutasítsanak. Meglepett viszont, hogy később ugyanannak a cégnek egy toborzója felvette velem a kapcsolatot. Látta a LinkedIn-profilomat online, hasonló állást ajánlott, mint amire korábban jelentkeztem, és elsőre elutasítottak a cég karrieroldalán, amely ezeket az MI algoritmusokat használja. 
 
 Mit gondolsz? Előnyös volt az MI használata ebben az esetben, vagy inkább az ellenkezője?
 
@@ -114,17 +114,16 @@ Ráadásul az a nyomás, hogy gépként viselkedjünk, negatív hatással lehet 
 
 Szóval, merre tovább? Egyértelmű, hogy a mesterséges intelligencia itt van, hogy megmarad, és továbbra is jelentős szerepet fog játszani a munka, sőt az élet más aspektusainak alakításában. Fontos azonban, hogy az emberek ne feledjék, hogy ők nem gépek, és senkitől sem szabad elvárni, hogy úgy viselkedjen, mint a gépek. Ez alatt azt értem, hogy nekünk, embereknek ennek megfelelően kell alakítanunk az elvárásainkat, hogy egyetlen embertársunk sem lesz igazán képes úgy teljesíteni, mint egy gép. 
 
-A hatékonyság és a kreativitás közötti egyensúly megtalálása kulcsfontosságú egy olyan világban, ahol a mesterséges intelligencia egyre inkább beépül a mindennapi életünkbe. A mesterséges intelligencia előnyeinek elfogadása, ugyanakkor az emberi intelligencia egyedi erősségeinek elismerése és kihasználása kulcsfontosságú lesz ahhoz, hogy az emberi faj számára fenntartható és kifizetődő módon navigáljunk a mesterséges intelligenciáért folytatott versenyben.
+A hatékonyság és a kreativitás közötti egyensúly megtalálása kulcsfontosságú egy olyan világban, ahol a mesterséges intelligencia egyre inkább beépül a mindennapi életünkbe. Az MI előnyeinek kihasználása mellett az emberi intelligencia egyedi erejének elismerése és hasznosítása kulcsfontosságú lesz ahhoz, hogy a mesterséges intelligencia fejlesztését fenntartható és jövedelmező módon irányítsuk az emberiség számára.
 
-Az emberek alkotásaként szándékosan hagytam ki az AI-t a fenti egyenletből.
+Az emberek alkotásaként szándékosan hagytam ki az MI-t a fenti egyenletből.
 
-Egyesek talán úgy gondolnak az AI-ra és a gépekre, mint az emberi evolúció következő lépésére, ahogyan fejlődni fogunk a jövőben. De vajon ez az egyetlen út? És vajon jó-e ez az út?
+Egyesek talán úgy gondolnak az MI-ra és a gépekre, mint az emberi evolúció következő lépésére, ahogyan fejlődni fogunk a jövőben. De vajon ez az egyetlen út? És vajon jó-e ez az út?
 
-And while there is some sense of beauty in machines created by us, even more so in every aspect of life around us, and if you will, we humans, are one example of an extraordinary creation, a biological "machine" which is, at least now more precious and wonderful as a machine or "intelligence" created by us, even if in some ways it is faster in making some decisions and in some instances it outperforms us.
 
-És mialatt az általunk teremtett gépekben van némi szépségélmény, még inkább a körülöttünk lévő élet minden aspektusában, és ha úgy tetszik, mi, emberek, egy rendkívüli teremtés példája vagyunk, egy biológiai „gép”, amely legalábbis most értékesebb és csodálatosabb, mint egy általunk teremtett gép vagy „intelligencia”, még ha bizonyos szempontból gyorsabb is bizonyos döntések meghozatalában, és bizonyos esetekben felül is múl minket.
+És bár van egyfajta szépség a saját magunk által létrehozott gépekben, még inkább a körülöttünk lévő élet minden aspektusában. Ha úgy tetszik, mi emberek is példái vagyunk egy rendkívüli alkotásnak, egy biológiai „gépet” alkotva, mely értékesebb és csodálatosabb, mint a mi általunk létrehozott gép vagy "intelligencia", még akkor is, ha bizonyos szempontból gyorsabban hoz döntéseket, és egyes tulajdonságokban és esetekben még felül is múl minket.
 
-Hajlamos vagyok azt hinni, hogy nem a természet véletlen művei vagyunk. Úgy tűnik, hogy a Föld bolygón minden élet apró biológiai „gépekből” áll, kifinomult „hardverrel”, mint például fehérjék, DNS, földi ásványok és vegyületek, és „szoftverrel”, ami az összes élőlény DNS-ében kódolt hatalmas információra utal. Ez az információ nagyobb rendszereket alkot, a baktériumoktól kezdve a bolygónk legnagyobb élőlényeiig. Akár Istennek, akár egy idegen fajnak nevezzük, a jelenség mögött álló intelligencia igen mélyreható, csodálatos lehet, és több kutatást érdemel a mi oldalunkról. Mindezekhez képest a mesterséges intelligencia nagyszerű eredmény, de nem a legjelentősebb.
+Hajlok arra, hogy azt gondoljam, mi emberek, nem a természet véletlen művei vagyunk. Úgy tűnik, hogy a Föld bolygón minden élet apró biológiai „gépekből” áll, kifinomult „hardverrel”, mint például fehérjék, DNS, földi ásványok és vegyületek, és „szoftverrel”, ami az összes élőlény DNS-ében kódolt hatalmas információra utal. Ez az információ nagyobb rendszereket alkot, a baktériumoktól kezdve a bolygónk legnagyobb élőlényeiig. Akár Istennek, akár egy idegen fajnak nevezzük, a jelenség mögött álló intelligencia igen mélyreható, csodálatos lehet, és több kutatást érdemel a mi oldalunkról. Mindezekhez képest a mesterséges intelligencia nagyszerű eredmény, de nem a legjelentősebb.
 
 Alig értjük magunkat és a környezetünket, és máris valami újat akarunk létrehozni, és úgy viselkedünk, mintha ez lenne a jövőnk és a legfontosabb számunkra? Nehéz kérdés, nem igaz?
 
