@@ -165,7 +165,7 @@ Meine Argumente für all das sind: Künstliche Intelligenz ist ein wunderbares W
 
 Ich frage mich, ob wir jemals auf den Punkt kommen werden, wie es in den letzten Zeilen des Films so schön heißt:
 
-## @ The Switch - Umständlich Verliebt (2010 Kinostreifen) Schlusszeilen:
+## @ The Switch - Umständlich Verliebt (2010 Kinofilm) Schlusszeilen:
 
 **„Schau uns an! Wir rennen herum, immer hastig, immer zu spät. Ich schätze, deshalb nennt man es das/die menschliche ‚Rennen/Rasse‘. Aber manchmal verlangsamt es sich gerade genug, damit alle Teile an ihren Platz fallen. Das Schicksal wirkt sein Wunder. Und du bist verbunden. Ab und zu geschieht mit all dem Zufall etwas Unerwartetes, das uns alle vorantreibt. Und die Wahrheit ist... was ich anfange zu denken..., was ich anfange zu fühlen..., ist, dass das menschliche Rennen vielleicht überhaupt kein ‚Rennen‘ ist...“**
 
