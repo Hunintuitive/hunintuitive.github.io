@@ -1,5 +1,5 @@
 ---
-title: "Übernimm Verantwortung für deine Gesundheit - Mein Weg vom Kampf zum Sieg"
+title: "Übernimm Verantwortung für Deine Gesundheit - Mein Weg vom Kampf zum Sieg"
 authors:
 - admin
 date: "2024-11-12T00:00:00Z"
@@ -57,7 +57,7 @@ slides: example
 
 ## Ich weiß, dass es zwar einfach ist, zu sagen: „Tu es einfach“, aber das Handeln kann sich oft überwältigend anfühlen. Ich erinnere mich lebhaft an die Frage meines früheren Ichs: „Ist das dein Ernst? Wie kann ich das überhaupt in Angriff nehmen? Es gibt so viele Informationen, wie soll ich wissen, was wirklich hilfreich für mich ist? Reicht es nicht, wenn ich meine Ärzte konsultiere? Ich habe einfach keine Zeit für so etwas!"
 
-Die Realität ist, dass **Du** die Verantwortung für deine Gesundheit übernehmen **kannst.** **Wenn Du Dich jedoch auf die falschen Informationen verlässt, kann das zu ernsthaften Problemen führen.** Letztlich ist Deine Gesundheit **Deine** Verantwortung; niemand sonst wird sie übernehmen.
+Die Realität ist, dass **Du** die Verantwortung für Deine Gesundheit übernehmen **kannst.** **Wenn Du Dich jedoch auf die falschen Informationen verlässt, kann das zu ernsthaften Problemen führen.** Letztlich ist Deine Gesundheit **Deine** Verantwortung; niemand sonst wird sie übernehmen.
 
 
 ## Es mag Dich überraschen, wenn Du erfährst, dass ich das damals im Herbst 2019 war: bescheidene Anfänge, in der Tat...
@@ -68,7 +68,7 @@ Die Realität ist, dass **Du** die Verantwortung für deine Gesundheit übernehm
 
 ![Alt text](/mehealthy.png) 
 
-## Hättest du mich, nachdem du dich an mein früheres Ich aus dem Jahr 2019 gewöhnt hast, im Jahr 2022 erkannt, als ich mit dieser Sonnenbrille an dir vorbeiging?
+## Hättest Du mich, nachdem Du Dich an mein früheres Ich aus dem Jahr 2019 gewöhnt hast, im Jahr 2022 erkannt, als ich mit dieser Sonnenbrille an Dir vorbeiging?
 
 Um dies zu verdeutlichen, befand ich mich zu Beginn der COVID-19-Pandemie in einer schwierigen Situation. Ich wog 107 kg und hatte mit zahlreichen gesundheitlichen Problemen zu kämpfen. Ich fühlte mich elend, kämpfte mit Hirnnebel, hatte mit Bluthochdruck zu kämpfen und litt unter einer komplizierten Migräne mit Aura, die die Symptome eines Schlaganfalls nachahmte. Außerdem kämpfte ich mit Depression und war wahrscheinlich insulinresistent, was darauf hindeutete, dass ich kurz davor stand, Prädiabetiker zu werden. Obwohl ich mich an die gängigen Ernährungsempfehlungen hielt und mich auf die Ernährungspyramide stützte, glaubte ich, gesündere Entscheidungen zu treffen. Ich kaufte mir sogar ein Rudergerät, um Sport zu treiben, doch anstatt sich zu verbessern, verschlimmerte sich mein Zustand nur - ich wurde immer fettleibiger, obwohl ich versuchte, weniger zu essen.
 
@@ -143,7 +143,7 @@ Aber zurück zu meiner Geschichte. Nach mehreren Jahren auf dieser neuen Reise d
 
 Ich musste den Tiefpunkt erreichen, um meine Veränderung in Gang zu setzen. Ich brauchte dieses Video von Dr. Eckberg, das einen besonderen Nerv traf und meine Motivation zur Veränderung entfachte. Ich musste erkennen, dass ich meine Ergebnisse nicht ändern konnte, wenn ich dieselben Verhaltensweisen fortsetzte, die zuvor zu ihnen geführt hatten, und einfach auf ein positives Ergebnis hoffte. Denk daran, es gibt keine Wunderpille.
 
-Ich musste mich umfassend über die Biochemie des Körpers, die Ernährung und die jüngere Geschichte informieren und lernen, zwischen echter Wissenschaft und Pseudowissenschaft zu unterscheiden. Zum Beispiel ist es wichtig, den Unterschied zwischen „Korrelation“ und „Kausalität“ zu verstehen. Erkundige dich, wer die Studien, auf die du dich verlässt, finanziert, und bedenke deren mögliche Anreize. Es ist alles andere als unmöglich, begründete Vermutungen anzustellen, nicht wahr?
+Ich musste mich umfassend über die Biochemie des Körpers, die Ernährung und die jüngere Geschichte informieren und lernen, zwischen echter Wissenschaft und Pseudowissenschaft zu unterscheiden. Zum Beispiel ist es wichtig, den Unterschied zwischen „Korrelation“ und „Kausalität“ zu verstehen. Erkundige Dich, wer die Studien, auf die Du Dich verlässt, finanziert, und bedenke deren mögliche Anreize. Es ist alles andere als unmöglich, begründete Vermutungen anzustellen, nicht wahr?
 
 Ich musste zwischen echten Lebensmitteln und Produkten, die lediglich als „Lebensmittel“ bezeichnet werden, unterscheiden. Wie Dr. Lustig in seinem Buch feststellt **"Die Leute denken, Nahrungsergänzungsmittel seien das Gegenmittel für schlechte Lebensmittel. Das sind sie aber nicht. Vielmehr ist echte Nahrung die Behandlung, während schlechte Nahrung das Gift ist.“ Echte Lebensmittel enthalten wenig Zucker und viele Ballaststoffe, die den Insulinspiegel senken, die Leber schützen und unsere Darmflora nähren.** Echte Lebensmittel haben in der Regel eine kurze Haltbarkeit und werden selten in einer Verpackung mit einem Etikett oder Nährwertangaben geliefert.
 
