@@ -86,7 +86,7 @@ Egyáltalán nem könnyű kérdés. Elgondolkodtatott, ez ihlette ezt a cikket. 
 
 Hajlamos vagyok egyetérteni azzal a nézettel, hogy nekünk embereknek, az emberi fajnak, ami végső soron fontos cél, vagy nevezzük talán „szükségletnek” az életben, eltekintve a megélhetéstől, a békére való törekvéstől és a lehetőségektől, hogy alapvetően „jó” életet éljünk, az, hogy értelmes módon vágyunk a környezetünkkel való kapcsolatra, legyen az a természet, a körülöttünk élő emberek vagy akár magasabb erők, mint Isten, földönkívüli kultúrák és így tovább.... Válaszd azt, ami a te képzeletedet táplálja, vagy ami fontos számodra.
 
-## Hogyan hat az MI az életünkre?
+## Hogyan hat a Mesterséges Intelligencia az életünkre?
 
 A folyamatosan fejlődő technológiai környezetben a mesterséges intelligencia (MI) iránti versenyfutás forró beszédtémává vált. Ahogy a gépek egyre „intelligensebbé” válnak, és egyre többféle feladat elvégzésére képesek, úgy nő az emberekre nehezedő nyomás, hogy alkalmazkodjanak, és egyre inkább úgy viselkedjenek, mint a gépek, és ez nem biztos, hogy jó dolog. A probléma persze a saját szemléletünk lehet, az, ahogyan a technológiai fejlődésre reagálunk, vagy ahogyan használjuk ezeket az eszközöket, és ahogyan a mindennapi életben viszonyulunk hozzájuk.
 
