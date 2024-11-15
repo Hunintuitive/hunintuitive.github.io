@@ -1,0 +1,174 @@
+---
+title: "Die Zukunft der KI: Wie relevant ist sie für die Menschheit?"
+authors:
+- admin
+date: "2024-11-09T00:00:00Z"
+doi: ""
+
+# Schedule page publish date (NOT publication's date).
+publishDate: "2024-11-09T00:00:00Z"
+
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article"]
+
+# Publication name and optional abbreviated publication name.
+publication: ""
+publication_short: ""
+
+abstract: 
+
+
+
+# Summary. An optional shortened abstract.
+summary: Der Wettlauf um die KI, die von den Menschen verlangt, wie Maschinen zu handeln.
+
+tags:
+- KI Artikel
+- Technologie
+- Arbeit
+- Arbeitssuche
+- Informationstechnologie
+
+featured: true
+
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Bild generiert über LinkedIn Artikelschreiber'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects:
+- internal-project
+
+# Slides (optional).
+#   Associate this publication with Markdown slides.
+#   Simply enter your slide deck's filename without extension.
+#   E.g. `slides: "example"` references `content/slides/example/index.md`.
+#   Otherwise, set `slides: ""`.
+slides: example
+---
+
+**Dieser Artikel wurde ursprünglich von den Schwierigkeiten inspiriert, die richtige Stelle zu finden, nur um dann festzustellen, wie schädlich der Einsatz von künstlicher Intelligenz in manchen Fällen sein kann. Der Einsatz von KI-Algorithmen in ATS-Systemen (Applicant Tracking System) ist nicht so vorteilhaft, wie manche Leute denken. Ich habe einige interessante Links von YouTube zum Thema KI und ATS-Systeme eingefügt. Sie sind mit englischen, aber automatisch sogar auf Deutsch übersetzten Untertiteln versehen. Viel Spaß beim Lesen!**
+
+
+_________________________________________________________________________________________________
+
+{{< youtube 6nGM37ThEsU >}}
+
+{{< youtube 8QEK7B9GUhM >}}
+
+{{< youtube 468IKvaTf_k >}}
+
+## Der Wettlauf um die KI, der von den Menschen verlangt, wie Maschinen zu handeln
+
+# Ist KI alles, was man anstreben sollte? Wie wirkt sie sich auf unser Leben aus? Müssen wir uns wie Maschinen verhalten? Die Gedanken eines Technik-Enthusiasten über KI und ihre Auswirkungen auf unser Leben.
+
+## @ The Switch (Deutscher Titel: Umständlich Verliebt - 2010 Kinostreifen):
+
+**"„Schau uns an! Wir rennen ständig herum, sind immer in Eile, immer zu spät. Ich schätze, deshalb nennt man es das/die „menschliche“ „Rennen/Rasse“ (Hier wird das englische Wort 'race' genutzt, das, je nach Kontext, entweder 'Rasse' oder 'Rennen' bedeutet). Was wir in dieser Welt am meisten begehren, ist Verbindung...“"**
+
+Und was meinst du? Könnte an den ersten Zeilen dieses Films etwas Wahres dran sein?
+
+Wofür kann KI relevant sein?  Für die menschliche Rasse oder nur für einen zufälliges sinnloses Rennen?
+
+Das ist keine einfache Frage. Das hat mich zum Nachdenken angeregt, und so entstand dieser Artikel. Ich möchte dich nicht wirklich in die eine oder andere Richtung beeinflussen. Ich möchte nur auf einige Dinge hinweisen, die mit gesundem Menschenverstand zu beurteilen sind, und einige der Gedanken und Meinungen anderer brillanter und gebildeter Menschen als mich zu diesen Themen einbeziehen, die meine Aufmerksamkeit fesselten.
+
+## Was ist für uns Menschen wichtiger?
+
+Ich neige dazu, dem Standpunkt zuzustimmen, dass für uns Menschen und für das menschliche Geschlecht das, was letztlich ein wichtiges Ziel ist, oder nennen wir es vielleicht ein „Bedürfnis“ im Leben, abgesehen davon, dass wir unseren Lebensunterhalt verdienen, Frieden haben wollen und die Möglichkeiten haben, ein an sich „gutes“ Leben zu führen, darin besteht, dass wir uns auf sinnvolle Weise danach sehnen, mit unserer Umwelt in Verbindung zu treten. Sei es mit der Natur, den Menschen um uns herum oder sogar mit höheren Mächten wie Gott, außserirdische Kulturen und so weiter... wir brauchen das. Such dir das aus, was deine Phantasie anregt oder dir persönlich wichtig ist.
+
+## Wie beeinflusst die KI unser Leben?
+
+In der sich ständig weiterentwickelnden Technologielandschaft ist der Wettlauf um die künstliche Intelligenz (KI) zu einem heißen Gesprächsthema geworden. Da Maschinen immer „intelligenter“ werden und eine Vielzahl von Aufgaben übernehmen können, steigt der Druck auf den Menschen, sich anzupassen und sich mehr wie Maschinen zu verhalten, und das ist vielleicht keine gute Sache. Das Problem könnte natürlich unsere eigene Sicht der Dinge sein, die Art und Weise, wie wir auf technologische Fortschritte reagieren, oder die Art und Weise, wie wir sie nutzen und im Alltag mit ihr umgehen.
+
+Die KI revolutioniert Branchen vom Gesundheitswesen bis zum Finanzwesen, und ihr Potenzial zur Optimierung von Prozessen und zur Steigerung der Effizienz ist unbestreitbar. Da die Maschinen jedoch immer fortschrittlicher werden, steigt auch die Nachfrage für Menschen, sich wie Maschinen zu verhalten.
+
+Wusstest du, dass, wenn du dich auf einer Karriereseite für eine Stelle bewirbst, so genannte ATS-Systeme (Applicant Tracking System), die KI-Lösungen integrieren können, darüber entscheiden können, ob dein Lebenslauf überhaupt berücksichtigt oder an einen menschlichen Personalverantwortlichen weitergeleitet wird? Abgesehen von einigen stichhaltigen Gründen, die von den Unternehmen angeführt werden, die diese Tools einsetzen, wie fühlst du dich dabei? 
+
+Wenn du keine Ahnung hast, dass du von einem Algorithmus bewertet wirst, oder nicht weißt, wie man einen Lebenslauf verfasst, der den Test der KI besteht, welchen Nutzen bringt er dann dir oder dem Unternehmen, das ihn einsetzt? - stellt sich die hoffentlich logische Frage in meinem Kopf. Sicherlich werden die Personalverantwortlichen weniger Tausende von Lebensläufen lesen müssen, aber wird es dem Unternehmen wirklich nützen, wird es sicherstellen, dass es die besten Bewerber für die Stelle bekommt? Ich überlasse es dir, das zu entscheiden.
+
+Lustigerweise habe ich mich in letzter Zeit auf viele Stellen beworben, nur um von den Algorithmen abgelehnt zu werden, und überraschenderweise wurde ich später von einigen Personalverantwortlichen desselben Unternehmens kontaktiert. Sie sahen mein LinkedIn-Profil und boten mir eine ähnliche Stelle an wie die, auf die ich mich beworben hatte und die ich im ersten Anlauf auf der Karriereseite des Unternehmens, das diese KI-Algorithmen verwendet, abgelehnt hatte. 
+
+Was meinst du dazu? War der Einsatz von KI in diesem Fall von Vorteil oder eher das Gegenteil?
+
+## Kann es sein, dass wir dazu verleitet werden, uns wie unsere eigene Schöpfung verhalten zu wollen? Ist das überhaupt gut für uns?
+
+In einer Welt, in der Geschwindigkeit und Genauigkeit entscheidend sind, wird der Mensch dazu gedrängt, Aufgaben mit maschinenähnlicher Präzision auszuführen. In Branchen wie der Fertigung und der Logistik ist die Fähigkeit, schnell und fehlerfrei zu arbeiten, entscheidend, um wettbewerbsfähig zu bleiben. Auch im Kundendienst wird immer mehr verlangt, dass man schnell ist, mehrere Werkzeuge gleichzeitig benutzen kann und in der Lage ist, Multitasking in kürzester Zeit zu maximieren. Dies hat zu einem Wandel in der Arbeitsweise der Menschen geführt, bei dem Effizienz und Produktivität an erster Stelle stehen. Wir erwarten, dass jeder Dienst, jedes Gerät und sogar unsere Mitmenschen jederzeit und unter allen möglichen Umständen perfekt funktionieren. Das einzige Problem mit dieser Erwartung ist nur, dass sie überhaupt nicht realistisch ist.
+
+Das erinnert mich an ein berühmtes Zitat von Esther Perel: „Erwartungen sind der Nährboden für Groll“. Ja, wenn Erwartungen nicht realistisch sind oder wir ihnen zu viel Bedeutung beimessen, können wir mehr negative Ergebnisse erzeugen, als es uns lieb ist.
+
+Sich wie eine Maschine zu verhalten, ist nicht unproblematisch. Menschen sind emotionale Wesen, und der Versuch, diese Emotionen zugunsten eines eher roboterhaften Ansatzes zu unterdrücken, kann schwierig sein. Studien haben gezeigt, dass Burnout und psychische Gesundheitsprobleme in Branchen, die großen Wert auf Produktivität und Effizienz legen, auf dem Vormarsch sind. Einige Wissenschaftler behaupten, dass kein Mensch wirklich multitaskingfähig ist, zumindest nicht so effizient wie eine Multicore-CPU in einem Computer. (Wissenswertes: Wussten Sie, dass Computer ursprünglich Menschen bei der NASA waren, die mit Hilfe von Mathematik die Berechnungen für die Erforschung des Weltraums unterstützten? ) Dennoch wird von uns immer mehr erwartet, dass wir uns durch Multitasking auszeichnen, was immer das auch bedeuten mag.
+
+Darüber hinaus kann der Druck, wie Maschinen zu handeln, negative Auswirkungen auf Kreativität und Innovation haben. Maschinen mögen zwar in der Lage sein, Aufgaben schnell und präzise auszuführen, aber es fehlt ihnen an der Fähigkeit, über den Tellerrand zu schauen und neue Ideen zu entwickeln. In dem Maße, in dem Menschen dazu gedrängt werden, sich ausschließlich auf Effizienz zu konzentrieren, steigt das Risiko, dass die Kreativität unterdrückt wird.
+
+## Wie wäre es mit einigen Schlussfolgerungen zu all dem?
+
+Wie geht es nun weiter? Es ist klar, dass die KI nicht mehr aufzuhalten ist und weiterhin eine wichtige Rolle bei der Gestaltung der Zukunft der Arbeit und sogar anderer Aspekte des Lebens spielen wird. Es ist jedoch wichtig, dass sich die Menschen daran erinnern, dass sie keine Maschinen sind und dass niemand von ihnen erwarten sollte, sich wie sie zu verhalten. Und damit meine ich, dass wir Menschen unsere Erwartungen entsprechend der Tatsache gestalten sollten, dass kein Mitmensch wirklich in der Lage sein wird, so zu arbeiten wie eine Maschine. 
+
+In einer Welt, in der KI zunehmend in unser tägliches Leben integriert wird, ist es entscheidend, ein Gleichgewicht zwischen Effizienz und Kreativität zu finden. Die Vorteile der KI zu nutzen und gleichzeitig die einzigartigen Stärken der menschlichen Intelligenz anzuerkennen und zu nutzen, wird der Schlüssel dazu sein, den Wettlauf um die KI so zu gestalten, dass er für die Menschheit nachhaltig und lohnend ist.
+
+Als Schöpfung des Menschen habe ich die KI in der obigen Gleichung absichtlich außen vor gelassen.
+
+Manche mögen KI und Maschinen als den nächsten Schritt der menschlichen Evolution betrachten, als die Art und Weise, wie wir uns in Zukunft entwickeln werden. Aber ist dies der einzige Weg? Und ist es ein guter Weg?
+
+Und auch wenn von uns geschaffene Maschinen in gewisser Weise schön sind, so sind wir Menschen doch umso mehr ein Beispiel für eine außergewöhnliche Schöpfung, eine biologische "Maschine", die zumindest jetzt immer noch wertvoller und wundervoller ist als eine von uns geschaffene Maschine oder "Intelligenz", auch wenn sie in mancher Hinsicht schneller ist, wenn sie Entscheidungen trifft, und in manchen Fällen mehr leistet als wir.
+
+Ich neige zu der Überzeugung, dass wir kein Zufall der Natur sind. Alles Leben auf dem Planeten Erde scheint aus winzigen biologischen „Maschinen“ mit hochentwickelter „Hardware“, wie Proteinen, DNA, Erdmineralien und Verbindungen, und „Software“ zu bestehen, was sich auf die enorme Information bezieht, die in der DNA aller Lebewesen kodiert ist. Diese Informationen bilden größere Systeme, die von Bakterien bis hin zu den größten Lebewesen auf unserem Planeten reichen. Ob man es nun Gott oder eine außerirdische Rasse nennt, die Intelligenz, die hinter diesem Phänomen steht, muss tiefgreifend sein und verdient es, dass wir mehr Forschung betreiben. Verglichen damit ist die künstliche Intelligenz zwar eine große Errungenschaft, aber nicht die bedeutendste.
+
+Wir verstehen uns selbst und unsere Umwelt kaum, und schon wollen wir etwas Neues schaffen und so tun, als sei dies unsere Zukunft und das Wichtigste für uns? Das ist eine schwierige Frage, nicht wahr?
+
+KI ist weder gut noch schlecht. Es kommt darauf an, wie wir sie nutzen und wie wir uns ihr gegenüber verhalten.
+
+## Ein kleines Experiment: Ich fragte Chat GPT, ob KI empfindungsfähig oder mit menschlicher Intelligenz vergleichbar sei. 
+
+Die Antwort war keineswegs überraschend:
+
+„Zum jetzigen Zeitpunkt ist KI weder empfindungsfähig noch mit menschlicher Intelligenz im vollen Sinne vergleichbar. KI-Systeme, einschließlich fortgeschrittener Modelle wie GPT-3 und seiner Nachfolger, arbeiten auf der Grundlage von Algorithmen und Datenmustern und nicht mit Bewusstsein, Selbstbewusstsein oder emotionalem Verständnis.
+
+Empfindungsvermögen: Empfindungsvermögen bezieht sich auf die Fähigkeit, Gefühle, Wahrnehmungen und subjektive Erfahrungen zu haben. Der heutigen KI fehlen diese Eigenschaften; sie besitzt weder ein Bewusstsein noch die Fähigkeit, Gefühle zu empfinden. KI kann Gespräche simulieren und auf Anfragen antworten, hat aber keine Wünsche, Überzeugungen oder subjektiven Erfahrungen.
+Menschliche Intelligenz: Die menschliche Intelligenz umfasst ein breites Spektrum an kognitiven Fähigkeiten, darunter logisches Denken, Problemlösung, emotionales Verständnis, Kreativität und soziale Interaktion. Künstliche Intelligenz kann sich bei bestimmten Aufgaben hervortun und den Menschen in bestimmten Bereichen (wie Datenverarbeitung oder Mustererkennung) übertreffen. Sie verfügt jedoch nicht über die allgemeine Intelligenz des Menschen, zu der emotionale und soziale Intelligenz, ethisches Denken und die Fähigkeit, sich an neue Situationen anzupassen, gehören.
+
+Zusammenfassend lässt sich sagen, dass die KI zwar Aspekte des menschlichen Verhaltens nachahmen und komplexe Aufgaben erfüllen kann, ihr aber das Bewusstsein und die gesamte Bandbreite menschlicher kognitiver und emotionaler Fähigkeiten fehlt.“
+
+## Das Experiment geht weiter - Frage an die KI: Ist die KI dem Menschen überlegen? In welcher Hinsicht?
+
+Die Antwort der KI war auch dieses Mal nicht überraschend:
+
+KI kann den Menschen bei verschiedenen Aufgaben und in verschiedenen Bereichen übertreffen, insbesondere in Bereichen, in denen große Datenmengen verarbeitet oder sich wiederholende Aufgaben ausgeführt werden müssen. Im Folgenden werden einige Bereiche genannt, in denen KI im Vergleich zum Menschen überlegen ist:
+
+Datenverarbeitung und -analyse: KI-Algorithmen können große Datenmengen schnell und genau analysieren und Muster und Trends erkennen, die für Menschen nur mit großem Aufwand oder gar nicht zu erkennen wären.
+Geschwindigkeit und Effizienz: KI-Systeme können Berechnungen und Aufgaben mit einer Geschwindigkeit durchführen, die menschliche Fähigkeiten weit übersteigt. Dies ist besonders in Bereichen wie dem Finanzwesen von Vorteil, wo eine schnelle Entscheidungsfindung entscheidend ist.
+Prädiktive Analysen: KI kann auf der Grundlage historischer Daten Vorhersagen treffen. In Bereichen wie Marketing, Gesundheitswesen und Finanzen können Prognosemodelle Erkenntnisse liefern, die Unternehmen helfen, fundierte Entscheidungen zu treffen.
+Automatisierung von sich wiederholenden Aufgaben: KI kann Routineaufgaben wie Dateneingabe, Terminplanung und Bestandsverwaltung automatisieren, so dass sich menschliche Arbeitskräfte auf komplexere und kreativere Aufgaben konzentrieren können.
+Präzision und Genauigkeit: In Bereichen wie der medizinischen Bildgebung und der Fertigung kann KI ein höheres Maß an Präzision und Konsistenz als der Mensch erreichen und so die Fehlerwahrscheinlichkeit verringern.
+Verarbeitung natürlicher Sprache (NLP): KI-gestützte Sprachmodelle können menschliche Sprache verstehen und generieren, so dass sie in einigen Szenarien effizienter als Menschen beim Schreiben, Übersetzen und im Kundendienst helfen können.
+Bild- und Spracherkennung: KI-Systeme können Menschen bei der Klassifizierung von Bildern und der Stimmerkennung übertreffen, was sie für Anwendungen von der Sicherheit bis zur Zugänglichkeit wertvoll macht.
+Spiele spielen: Bei strategischen Spielen wie Schach, Go und Videospielen hat die KI ihre Fähigkeit unter Beweis gestellt, menschliche Spitzenspieler durch fortschrittliche Algorithmen und Deep-Learning-Techniken zu übertreffen.
+Personalisierung: KI kann das Verhalten und die Vorlieben der Nutzer analysieren, um personalisierte Empfehlungen in Bereichen wie E-Commerce, Streaming-Dienste und Werbung zu geben, was oft zu einer höheren Kundenzufriedenheit und -bindung führt.
+
+Zusammenfassend lässt sich sagen, dass KI zwar in diesen Bereichen überragende Leistungen erbringt, der Mensch jedoch nach wie vor über einzigartige Qualitäten verfügt, wie z. B. emotionale Intelligenz, Kreativität und komplexe Entscheidungsfähigkeiten, die KI nicht nachahmen kann. Die effektivsten Anwendungen erfordern häufig die Zusammenarbeit zwischen KI-Systemen und menschlichem Fachwissen.
+
+## Schlussgedanken:
+
+Versteh mich nicht falsch, ich schätze die Hilfe der KI in vielen Anwendungsbereichen, in denen sie ein nützliches Werkzeug ist, wie z. B. in der Medizin und vielen anderen Anwendungsbereichen, da sie einige unserer fehlenden Fähigkeiten „ergänzt“. Ich habe sie sogar als Hilfsmittel benutzt, um diesen Artikel zu prüfen. Aber so wunderbar sie auch ist, als eine Schöpfung einiger genialer Menschen, so widerstrebt es mir, mich mit ihrer Schöpfung zu vergleichen und zu versuchen, mit ihr zu konkurrieren, oder zu etwas aufzusteigen, was ich nicht bin und vielleicht nie sein werde.
+
+Meine Argumente zu all dem sind: Die künstliche Intelligenz ist ein wunderbares Hilfsmittel, das weise für sehr gute, aber auch für sehr schlechte und schädliche Zwecke eingesetzt werden kann. Als Mensch versuche ich, Perfektion anzustreben, aber die Wahrheit ist, dass viele von uns, mich selbst eingeschlossen, keine wirkliche Ahnung haben, was der Begriff Perfektion überhaupt bedeuten oder darstellen sollte. Es kommt darauf an, wen man fragt, also ist das vielleicht kein so zuverlässiger Wert, wie wir ihn uns vorstellen. Manchmal müssen wir einen Gang zurückschalten und die Realität um uns herum so verarbeiten, wie sie ist. Mit unseren eigenen Fähigkeiten, die uns nach unserer Geburt geschenkt wurden. Hier kann uns die künstliche Intelligenz vielleicht nicht helfen und uns nicht in die richtige Richtung lenken.
+
+Ich frage mich, ob wir jemals auf den Punkt kommen werden, wie es in den letzten Zeilen des Films so schön heißt:
+
+## @ The Switch - Umständlich Verliebt (2010 Kinostreifen) Schlusszeilen:
+
+**„Schau uns an! Wir rennen herum, immer hastig, immer zu spät. Ich schätze, deshalb nennt man es das/die menschliche ‚Rennen/Rasse‘. Aber manchmal verlangsamt es sich gerade genug, damit alle Teile an ihren Platz fallen. Das Schicksal wirkt sein Wunder. Und du bist verbunden. Ab und zu geschieht mit all dem Zufall etwas Unerwartetes, das uns alle vorantreibt. Und die Wahrheit ist... was ich anfange zu denken..., was ich anfange zu fühlen..., ist, dass das menschliche Rennen vielleicht überhaupt kein ‚Rennen‘ ist...“**
+
+_________________________________________________________________________________________________
+
+Haftungsausschluss: Die in diesem Artikel geäußerten Ansichten spiegeln ausschließlich die Meinung des Autors wider und stellen nicht notwendigerweise die Meinungen oder Überzeugungen einer Organisation oder Zugehörigkeit dar.
