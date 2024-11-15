@@ -172,4 +172,4 @@ Kíváncsi vagyok, hogy valaha is megértjük-e a lényeget, ahogy a mozifilm be
 
 _________________________________________________________________________________________________
 
-Jogi nyilatkozat: A cikkben kifejtett nézetek kizárólag a szerző véleményét tükrözik, és nem feltétlenül képviselik bármely szervezet vagy szervezethez tartozó szervezet véleményét vagy meggyőződését.
+Jogi nyilatkozat: A cikkben kifejtett nézetek kizárólag a szerző véleményét tükrözik, és nem feltétlenül képviselik bármely szervezet vagy szervezethez tartozó egyének véleményét vagy meggyőződését.
