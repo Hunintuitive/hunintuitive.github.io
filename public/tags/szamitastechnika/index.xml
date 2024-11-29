@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Számítástechnika | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/szamitastechnika/</link>
+      <atom:link href="http://localhost:1313/tags/szamitastechnika/index.xml" rel="self" type="application/rss+xml" />
+    <description>Számítástechnika</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Számítástechnika</title>
+      <link>http://localhost:1313/tags/szamitastechnika/</link>
+    </image>
+    
+    <item>
+      <title>Számítástechnikai szolgáltatásaim</title>
+      <link>http://localhost:1313/project/itservice/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/itservice/</guid>
+      <description>&lt;p&gt;Számítástechnikai Szolgáltatások:&lt;/p&gt;
+&lt;p&gt;🌐 Fedezd fel a digitális világot az én segítségemmel!&lt;/p&gt;
+&lt;p&gt;Kínálok neked egy sor számítástechnikai szolgáltatást, amelyek célja, hogy megkönnyítsék az életedet. Segítségemet és szaktudásomat szívesen állítom mindazok szolgálatába, akiknek korlátozottabbak a lehetőségeik, nem tudnak megfizetni nagyon drága &amp;ldquo;professzionális&amp;rdquo; szolgáltatásokat, de valamilyen formában elérhető áron van szüksegük egyszeri, de akár rendszeres segítségre. Ezen a térem kínálom én fel a szolgáltatásaimat magánemberként, olyan terüeten, melyen a szolgáltatók nagy része nem kínál fel segítséget.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Szolgáltatásaim közé tartozik:&lt;/p&gt;
+&lt;p&gt;🖥️ Számítógépes Oktatás: Indulj el a digitális tudományok világában! Egyéni, személyre szabható oktatásaim során megtanulhatod az alapokat, vagy elmélyítheted tudását a különböző szoftverek és alkalmazások használatában.&lt;/p&gt;
+&lt;p&gt;🔧 Hardveres és Szoftveres Segítség:
+Bármilyen problémád van, legyen szó hardveres meghibásodásról vagy szoftveres problémákról, szívesen segítek neked megoldást találni.&lt;/p&gt;
+&lt;p&gt;🛠️ Javítás és Oktatás:
+A hibák kezelése mellett megtanítom, hogyan végezhetsz egyszerűbb javításokat otthon is. Ismerd meg a számítógépek belső működését!&lt;/p&gt;
+&lt;p&gt;💻 Gépépítés és Operációs Rendszerek Telepítése:
+Segítek megépíteni az álmaid számítógépét, és telepítem az Általad választott operációs rendszert!
+Adatvédelmi és használati szempontok alapján ajánlom és szívesen segítek a régi számítógépeid Linux asztali operációs rendszerrel való újjáélesztésében és segítek a karbantartásban is, ha szükséged van rá.&lt;/p&gt;
+&lt;p&gt;💾 Adatmentés:
+Fontos adataidnak biztonságban kell lennie. Szakszerű adatmentési módszereim segíthetnek abban, hogy értékes információid ne vesszenek el, vagy hogy magad tudd megoldani a védelmet!&lt;/p&gt;
+&lt;p&gt;🔒 Biztonsági Oktatás:
+Ismerd meg a digitális világ kockázatait! Segíthetek neked megtanulni, hogyan védekezz a cyber fenyegetések ellen.&lt;/p&gt;
+&lt;p&gt;🗣️ Tanácsadás:
+Szívesen segítek neked specifikus igényeidhez igazított tanácsokkal, hogy a legjobbat hozhasd ki technológiai felszerelésedből és lehetőségeidből magánemberként!
+Ha arra van szükséged, szívesen segítek eligazodni abban is, hogy milyen készülékeket érdemes megvásárolni igényeidnek megfelelően, hogy a legöbet hozhasd ki az anyagi ráfordításból.&lt;/p&gt;
+&lt;p&gt;Miért válassz engem?&lt;/p&gt;
+&lt;p&gt;Sok éves tapasztalattal rendelkezem a számítástechnika világában, támogattam már ügyfeleket barátokat, családtagokat, ismerősöket, mind engem hívnak, ha számítástechnikai gondjaik vannak.
+Nyílt forráskódú szoftverek megismerésében segíthetlek, megtalálni azt, amiről nem is tudtad, hogy szükséged van, amit ingyen használhatsz kedvedre.
+Rugalmas szolgáltatások, személyre szabott megoldások, megbeszélés és megegyezés szerint. Nem ígérem neked le a csillagokat az égről, azt viszont igen, hogy igyekszem majd legjobb tudásom szerint kiszolgálni téged és megfelelő segítséget, megoldást keresni a gondjaidra.&lt;/p&gt;
+&lt;p&gt;Ha felkeltettem az érdeklődésed, keress meg a honlapon publikált elérhetőségeimen. A @ jelzés alatt a főoldalon tudsz nekem e-mailt írni és ha a &amp;ldquo;Download CV&amp;rdquo; opcióval letöltöd az önéletrajzom hozzájuthatsz a telefonszámomhoz is.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

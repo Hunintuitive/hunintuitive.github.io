@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Instandhaltung | German website title...</title>
+    <link>http://localhost:1313/de/tags/instandhaltung/</link>
+      <atom:link href="http://localhost:1313/de/tags/instandhaltung/index.xml" rel="self" type="application/rss+xml" />
+    <description>Instandhaltung</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Instandhaltung</title>
+      <link>http://localhost:1313/de/tags/instandhaltung/</link>
+    </image>
+    
+    <item>
+      <title>Kleinere Haushaltsreparaturen</title>
+      <link>http://localhost:1313/de/project/haushaltsreparaturen/</link>
+      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/project/haushaltsreparaturen/</guid>
+      <description>&lt;p&gt;Kleine Reparaturen im Haushalt, die nur ungern von Fachleuten ausgeführt werden und für die es keine andere Lösung gibt&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

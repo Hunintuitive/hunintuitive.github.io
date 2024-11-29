@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hunor Becsi | Hungarian website title...</title>
+    <link>http://localhost:1313/hu/author/hunor-becsi/</link>
+      <atom:link href="http://localhost:1313/hu/author/hunor-becsi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hunor Becsi</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language>
+    <image>
+      <url>http://localhost:1313/hu/author/hunor-becsi/avatar_hu740567078508319377.jpg</url>
+      <title>Hunor Becsi</title>
+      <link>http://localhost:1313/hu/author/hunor-becsi/</link>
+    </image>
+    
+  </channel>
+</rss>
