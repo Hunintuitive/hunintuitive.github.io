@@ -89,8 +89,6 @@ Ha ezt egészséget meghatározó tényként fogadjuk el, akkor kijelenthetjük,
 - **Cukor (Szacharóz):** 50% fruktózból és 50% glükózból áll, ahol a fruktóz — amelyet kizárólag a máj tud feldolgozni — túlzott fogyasztás esetén és megfelelő rost nélkül, mint például a teljes gyümölcsök esetében, túlterhelheti a májat.
 - **Alkohol (Etanol):** Ugyanolyan mérgező, mint a fruktóz, kizárólag a májban történik a feldolgozása, ami károsodáshoz vezethet, és képtelenné teheti más létfontosságú anyagcsere-funkciók ellátására. Májkárosodás, zsírmáj lehet a következmény.
 - **Koffein:** A kávéban, teában és sok üdítőitalban található koffein mértékkel biztonságos, de túlzott mennyiségben mérgezéshez, sőt halálhoz vezethet.
-- **Egyes gombák:** Egyes vadon termő gombák mérgezőek, és fogyasztásuk súlyos betegséget vagy halált okozhat, még kis mennyiségben is.
-- **Keserű mandula:** Ezek cianogén vegyületeket tartalmaznak, amelyek anyagcseréjük során cianidot szabadítanak fel, ellentétben a biztonságos édes mandulával.
 - **Ólom és nehézfémek:** Az ipari szennyezés miatt egyes szennyezett élelmiszerekben megtalálhatóak, és súlyos egészségügyi kockázatot jelentenek. 
 
 ## Rövid áttekintés az alapvető tápanyagokról
@@ -165,9 +163,34 @@ Nem állítom, hogy ennek a tudásnak minden aspektusát elsajátítottam, de ig
 
 **A valódi élelmiszerek fogyasztása mellett meg kell értenünk, hogy az élelmiszereket hogyan módosítják az egészségünkre káros módon. A valódi élelmiszerek és az élelmiszer-szerű termékek megkülönböztetése alapvető fontosságú.**
 
-Meg kell értenünk annak fontosságát is, hogy **ne** együnk állandóan. Az anyagcsere szempontjából a ketózis állapotába való belépés lehetővé teszi a szervezet számára, hogy a zsírt üzemanyagként használja fel. A zsírégetés, különösen a hasi zsír elégetése csak ketózisban hatékony, amit időszakos böjtöléssel vagy alacsony szénhidráttartalmú ketogén étrenddel érhetünk el. Őseinknek nem állt rendelkezésükre éjjel-nappal nyitva tartó élelmiszerbolt, ami a lakmározás és az éhezés időszakait jelentette számukra. A testünket úgy tervezték, hogy hosszabb időszakokat is kibírjon energia nélkül. Ráadásul a böjt aktiválja az autofágiát, egy olyan folyamatot, amely javítja a testünket, de ez nem fog bekövetkezni, ha folyamatosan jóllakott állapotban vagyunk.
+### Kiegyensúlyozott "keto-glükogén életmód" javasolt
+
+Meg kell értenünk annak fontosságát is, hogy **ne** együnk állandóan. Az anyagcsere szempontjából a ketózis állapotába való belépés lehetővé teszi a szervezet számára, hogy a zsírt üzemanyagként használja fel. A zsírégetés, különösen a hasi zsír elégetése csak ketózisban hatékony, amit időszakos böjtöléssel vagy alacsony szénhidráttartalmú, esetleg ketogén étrenddel érhetünk el. Őseinknek nem állt rendelkezésükre éjjel-nappal nyitva tartó élelmiszerbolt, ami a lakmározás és az éhezés időszakait jelentette számukra. A testünket úgy tervezték, hogy hosszabb időszakokat is kibírjon energia nélkül. Ráadásul a böjt aktiválja az autofágiát, egy olyan folyamatot, amely javítja a testünket, de ez nem fog bekövetkezni, ha folyamatosan jóllakott állapotban vagyunk.
+
+A ketózis és a glükóz anyagcsere egyensúlya igen fontos az egészségünk megőrzésében. Ebben nem feltétlen a diéta vagy étrend megválasztása segít leginkább. Az bizonyosnak látszik, hogy a különféle étrendek vagy diéták különböző állapotokon segíthetnek hatékonyan, és ezt nagyban az azokat igénybe vevők egészségi állapota határozza meg. Hogy mennyit tudunk a saját testünk biókémiai működéséről, az meghatározó lehet abban, hogy saját magunk számára a megfelelő étrendet és ételeket válasszuk. Annak alapján, amit tanultam, mindenképpen hasznos arra törekedni, hogy alacsony szénhidrát tartalmú étrendet kövessünk, szakaszos böjttel és időnkénti hosszabb böjtöléssel kiegészítve. 
+
+**Jó, ha kerüljük:**
+
+   - a finomított gabonatermékeket
+   - a magas keményítőtartalmú zöldségeket és gyümölcsöket
+   - a vegyi úton előállított növényi olajokat
+   - a cukrot és a fruktózt
+   - a feldolgozott és különböző vegyi anyagokkal tartósított húskészítményeket, valamint azokat a hústermékeket is, amelyek helytelen - azaz az állatok nem természetes - tartásából, neveléséből származnak, és GMO-s termékek
+   - a zsírszegény és ízesített tejtermékeket
+
+**Fogyasszunk ezek helyett, amennyire csak lehet:**
+
+   - ritkábban teljes kiőrlésű gabonákat - az allergén tulajdonságaik miatt
+   - egészséges zsírokat, mint például vaj, faggyú, más állati zsíradékok, kókuszzsír, olívaolaj
+   - rendszeresen zöld leveles, színes, keresztes zöldségeket, és mértékkel szezonális gyümölcsöket
+   - természetes tartásból származó húsokat, halat, tojást, belsőségeket, amelyek igen kiváló fehérjeforrások
+   - mértékkel teljes zsírtartalmú fermentált tejtermékeket, különböző sajtokat, túrót, tejfölt, amelyek lehetőleg természetesen nevelt állatoktól származnak.
+
+**Főzzünk, süssünk, készítsük lehetőség szerint otthon, olyan alapanyagokból, amelyekről tudjuk, hogy valódi élelmiszerek.**
 
 Számos modern élelmiszer-feldolgozási eljárás, például a növényi olajok magas hőfokon történő feldolgozása és a cukor fehérjékkel való kombinálása káros vegyületeket, úgynevezett fejlett glikációs végtermékeket (AGE-k) termel. Ezek a vegyületek, bár ízletesek, felgyorsíthatják a belső öregedési folyamatot (a rozsdához hasonlóan), és különböző egészségügyi problémákhoz vezethetnek. Dr. Pradip Jamnadas világos előadása ebben a témában felnyitotta a szememet a megfelelő élelmiszer-feldolgozási technikák újratanulásának szükségességére, ami létfontosságúvá teszi az egészséges élelmiszerek védelmét, amelyek beszerzéséért keményen megdolgoztunk.
+
+## Tanulj tovább, soha ne hagyd abba!
 
 Nagyon sok elhivatott ember foglalkozik a kollektív jólétünk előmozdításával és az egészséggel kapcsolatos oktatással. Ők segítenek felismerni, hogy jól tájékozott döntésekkel változtatni tudunk a dolgokon. Az olyan platformokon, mint a YouTube, ingyenesen elérhető előadásaik felbecsülhetetlen értékű betekintést nyújtanak. Én személy szerint nagyra értékelem erőfeszítéseiket, és arra törekszem, hogy mindannyiunk javára növeljem a tudatosságot.
 

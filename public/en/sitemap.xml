@@ -43,30 +43,10 @@
     <loc>http://localhost:1313/en/tags/health/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/health/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/health/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/tags/nutrition/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/nutrition/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/nutrition/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/publication_types/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>

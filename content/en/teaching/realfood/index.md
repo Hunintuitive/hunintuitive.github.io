@@ -89,8 +89,6 @@ Here are some items we could do better without:
 - **Sugar (Sucrose):** Composed of 50% fructose and 50% glucose, where fructose — metabolized exclusively by the liver — can overwhelm it when consumed excessively and without proper fiber as in whole fruits for example.
 - **Alcohol (Ethanol):** Just as poisonous as fructose, it is metabolized solely by the liver, which can lead to damage and an inability to perform its other vital metabolic functions. Liverdamage, fatty liver can be the result.
 - **Caffeine:** Found in coffee, tea, and many sodas, caffeine is safe in moderation but can lead to toxicity and even death in excessive amounts.
-- **Certain Mushrooms:** Some wild mushrooms are toxic and can cause severe illness or death if consumed, even in small quantities.
-- **Bitter Almonds:** These contain cyanogenic compounds that release cyanide when metabolized, contrasting with safe sweet almonds.
 - **Lead and Heavy Metals:** Found in some contaminated food products due to industrial contamination, these pose severe risks to health.
 
 ## A Brief Overview of Essential Nutrients
@@ -166,9 +164,34 @@ I don't claim to have mastered all facets of this knowledge, but I strive to lea
 
 **In addition to consuming real foods, we must understand how our food is altered in ways detrimental to our health. Differentiating real food from food-like products is essential.**
 
-We also need to grasp the importance of **not** eating continuously. Metabolically, entering the state of ketosis allows the body to utilize fat as fuel. Burning fat, particularly belly fat, is effective only during ketosis, achieved through intermittent fasting or low carb ketogenic diet. Our ancestors did not have access to 24/7 grocery stores, which meant periods of feasting and famine. Our bodies are designed to endure longer periods without energy. Moreover, fasting activates autophagy, a process that repairs our bodies but will not occur if we are constantly well-fed.
+### A balanced "keto-glucogenic lifestyle" is recommended
+
+We also need to grasp the importance of **not** eating continuously. Metabolically, entering the state of ketosis allows the body to utilize fat as fuel. Burning fat, especially abdominal fat, is only effective in ketosis, which can be achieved by intermittent fasting or a low-carbohydrate, possibly ketogenic, diet. Our ancestors did not have access to 24/7 grocery stores, which meant periods of feasting and famine. Our bodies are designed to endure longer periods without energy. Moreover, fasting activates autophagy, a process that repairs our bodies but will not occur if we are constantly well-fed.
+
+The balance between ketosis and glucose metabolism is very important in maintaining our health. It is not necessarily the choice of diet or nutrition that is most helpful. What does seem certain is that different diets can be effective for different conditions, and this is largely determined by the health conditions of the people taking them. How much we know about our own body's biochemistry can be a determining factor in choosing the right diet and foods for ourselves. Based on what I have learned, it is definitely helpful to aim for a low-carbohydrate diet, with intermittent fasting and occasional extended fasting. 
+
+**Good to avoid:**
+
+   - refined grain products
+   - vegetables and fruits with high starch content
+   - chemically processed vegetable oils
+   - sugar and fructose
+   - processed meat products and meat products preserved with various chemicals, as well as meat products derived from inappropriate animal husbandry, i.e. not from the natural rearing of animals, and GMO products
+   - low-fat and flavoured dairy products
+
+**Instead of these, consume as much as possible:**
+
+   - whole grains less often - because of their allergenic properties
+   - healthy fats such as butter, tallow, other animal fats, coconut oil, olive oil
+   - regular green leafy, colourful, cruciferous vegetables and seasonal fruits in moderation
+   - naturally reared meat, fish, eggs, innards, which are excellent sources of protein
+   - in moderation, full-fat fermented dairy products, various cheeses, cottage cheese, sour cream, preferably from naturally reared animals.
+
+**Cook, bake, prepare at home if possible, using ingredients that you know are real food.**
 
 Many modern food processing procedures, such as using high heat on vegetable oils and combining sugar with proteins, produce harmful compounds known as Advanced Glycation End Products (AGEs). These compounds, while palatable, can accelerate the internal aging process (similar to rusting) and lead to various health issues. Dr. Pradip Jamnadas's clear lecture on this topic opened my eyes to the necessity of relearning proper food processing techniques, making it vital to protect the healthy foods we work hard to acquire.
+
+## Keep on learning, never stop!
 
 There are numerous dedicated individuals dedicated to promoting our collective well-being and educating us about health. They help us recognize that we can make a difference through informed choices. Their lectures on platforms like YouTube are free, providing invaluable insights. Personally, I appreciate their efforts and aspire to raise awareness to benefit many others.
 

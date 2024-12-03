@@ -89,8 +89,6 @@ Hier sind einige Artikel, auf die wir besser verzichten sollten:
 - **Zucker (Saccharose):** Besteht zu 50 % aus Fruktose und zu 50 % aus Glukose, wobei die Fruktose - die ausschließlich von der Leber verarbeitet wird - diese überfordern kann, wenn sie im Übermaß und ohne geeignete Ballaststoffe, wie sie z. B. in ganzen Früchten enthalten sind, verzehrt wird.
 - **Alkohol (Ethanol):** Er ist ebenso giftig wie Fruktose, wird aber ausschließlich von der Leber verarbeitet, die dadurch geschädigt werden kann und nicht mehr in der Lage ist, ihre anderen lebenswichtigen Stoffwechselfunktionen zu erfüllen. Leberschäden, Fettleber können die Folge sein.
 - **Koffein:** Das in Kaffee, Tee und vielen Limonaden enthaltene Koffein ist in Maßen unbedenklich, kann aber in zu großen Mengen zu Vergiftungen und sogar zum Tod führen.
-- **Bestimmte Pilze:** Einige Wildpilze sind giftig und können bei Verzehr, selbst in kleinen Mengen, zu schweren Erkrankungen oder zum Tod führen.
-- **Bittere Mandeln:** Sie enthalten cyanogene Verbindungen, die bei ihrer Verstoffwechselung Cyanid freisetzen, was im Gegensatz zu den unbedenklichen süßen Mandeln steht.
 - **Blei und Schwermetalle:** Sie kommen in einigen kontaminierten Lebensmitteln aufgrund industrieller Verunreinigungen vor und stellen ein ernstes Gesundheitsrisiko dar.
 
 ### Makronährstoffe
@@ -163,9 +161,34 @@ Ich behaupte nicht, alle Facetten dieses Wissens gemeistert zu haben, aber ich b
 
 **Neben dem Verzehr von echten Lebensmitteln müssen wir auch verstehen, wie unsere Lebensmittel in einer Weise verändert werden, die unserer Gesundheit schadet. Die Unterscheidung zwischen echten Lebensmitteln und lebensmittelähnlichen Produkten ist unerlässlich.**
 
-Wir müssen auch begreifen, wie wichtig es ist, **nicht** ununterbrochen zu essen. Wenn der Stoffwechsel in den Zustand der Ketose übergeht, kann der Körper Fett als Brennstoff nutzen. Die Fettverbrennung, insbesondere die Verbrennung von Bauchfett, ist nur in der Ketose effektiv, die durch Intervallfasten oder eine ketogene Low-Carb-Diät erreicht wird. Unsere Vorfahren hatten keinen Zugang zu Lebensmittelläden, die rund um die Uhr geöffnet waren, was Zeiten des Festmahls und des Hungers bedeutete. Unser Körper ist darauf ausgelegt, längere Zeiträume ohne Energie zu überstehen. Außerdem wird durch das Fasten die Autophagie aktiviert, ein Prozess, der unseren Körper repariert, aber nicht stattfindet, wenn wir ständig gesättigt sind.
+### Eine ausgewogene „keto-glucogene Lebensweise“ wird empfohlen
+
+Wir müssen auch begreifen, wie wichtig es ist, **nicht** ununterbrochen zu essen. Wenn der Stoffwechsel in den Zustand der Ketose übergeht, kann der Körper Fett als Brennstoff nutzen. Die Fettverbrennung, insbesondere die Verbrennung von Bauchfett, ist nur in Ketose effektiv, die durch Intervallfasten oder eine kohlenhydratarme, möglicherweise ketogene Ernährung erreicht werden kann. Unsere Vorfahren hatten keinen Zugang zu Lebensmittelläden, die rund um die Uhr geöffnet waren, was Zeiten des Festmahls und des Hungers bedeutete. Unser Körper ist darauf ausgelegt, längere Zeiträume ohne Energie zu überstehen. Außerdem wird durch das Fasten die Autophagie aktiviert, ein Prozess, der unseren Körper repariert, aber nicht stattfindet, wenn wir ständig gesättigt sind.
+
+Das Gleichgewicht zwischen Ketose und Glukosestoffwechsel ist für die Erhaltung unserer Gesundheit von großer Bedeutung. Es ist nicht unbedingt die Wahl der Diät oder der Ernährung, die am hilfreichsten ist. Sicher scheint zu sein, dass verschiedene Diäten bei verschiedenen Erkrankungen wirksam sein können, und dies hängt weitgehend von der Gesundheitszustände der Menschen ab, die sie anwenden. Das Wissen über die Biochemie des eigenen Körpers kann ein Schlüsselfaktor bei der Wahl der richtigen Diät und der richtigen Lebensmittel für uns selbst sein. Nach dem, was ich gelernt habe, ist es auf jeden Fall hilfreich, eine kohlenhydratarme Ernährung anzustreben, mit Intervallfasten und gelegentlichem längeren Fasten. 
+
+**Gut zu vermeiden:**
+
+   - verfeinerte Getreideprodukte
+   - Gemüse und Obst mit hohem Stärkegehalt
+   - chemisch verarbeitete Pflanzenöle
+   - Zucker und Fruchtzucker
+   - verarbeitete und mit verschiedenen Chemikalien konservierte Fleischerzeugnisse sowie Fleischerzeugnisse aus nicht artgerechter Tierhaltung, d. h. nicht aus natürlicher Aufzucht, und GVO-Produkte
+   - fettarme und aromatisierte Molkereiprodukte
+
+**Verzehre anstelle dieser Produkte so viel wie möglich:**
+
+   - Vollkornprodukte, jedoch seltener wegen ihrer allergenen Eigenschaften
+   - gesunde Fette wie Butter, Talg, andere tierische Fette, Kokosnussöl und Olivenöl
+   - regelmäßig grünes, buntes Blattgemüse, Kreuzblütler und saisonales Obst in Maßen
+   - Fleisch, Fisch, Eier und Innereien aus natürlicher Aufzucht, die ausgezeichnete Eiweißquellen sind
+   - in Maßen vollfette fermentierte Milchprodukte, verschiedene Käsesorten, Hüttenkäse und saure Sahne, vorzugsweise von Tieren aus natürlicher Aufzucht.
+
+**Kochen, backen, zu Hause vorbereiten, wenn möglich, mit Zutaten, die du als echte Lebensmittel kennst.**
 
 Bei vielen modernen Lebensmittelverarbeitungsprozessen, wie z. B. der Erhitzung von Pflanzenölen und der Kombination von Zucker mit Proteinen, entstehen schädliche Verbindungen, die als fortgeschrittene Glykationsendprodukte (AGEs) bekannt sind. Diese Verbindungen sind zwar schmackhaft, können aber den inneren Alterungsprozess beschleunigen (ähnlich wie Rost) und zu verschiedenen gesundheitlichen Problemen führen. Dr. Pradip Jamnadas' klarer Vortrag zu diesem Thema öffnete mir die Augen für die Notwendigkeit, die richtige Verarbeitung von Lebensmitteln neu zu erlernen, um die gesunden Lebensmittel zu schützen, für die wir hart gearbeitet haben.
+
+## Lerne weiter, hör nie auf!
 
 Es gibt zahlreiche engagierte Menschen, die sich für unser kollektives Wohlbefinden einsetzen und uns über Gesundheit aufklären. Sie helfen uns zu erkennen, dass wir durch informierte Entscheidungen etwas bewirken können. Ihre Vorträge auf Plattformen wie YouTube sind kostenlos und bieten unschätzbare Einblicke. Ich persönlich schätze ihre Bemühungen und bin bestrebt, das Gesundheitsbewusstsein zu steigern, damit viele andere davon profitieren.
 
