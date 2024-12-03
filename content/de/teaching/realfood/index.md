@@ -184,7 +184,7 @@ Das Gleichgewicht zwischen Ketose und Glukosestoffwechsel ist für die Erhaltung
    - Fleisch, Fisch, Eier und Innereien aus natürlicher Aufzucht, die ausgezeichnete Eiweißquellen sind
    - in Maßen vollfette fermentierte Milchprodukte, verschiedene Käsesorten, Hüttenkäse und saure Sahne, vorzugsweise von Tieren aus natürlicher Aufzucht.
 
-**Kochen, backen, zu Hause vorbereiten, wenn möglich, mit Zutaten, die du als echte Lebensmittel kennst.**
+**Koche, backe und bereite zu Hause vor, wenn möglich, mit Zutaten, die du als echte Lebensmittel kennst.**
 
 Bei vielen modernen Lebensmittelverarbeitungsprozessen, wie z. B. der Erhitzung von Pflanzenölen und der Kombination von Zucker mit Proteinen, entstehen schädliche Verbindungen, die als fortgeschrittene Glykationsendprodukte (AGEs) bekannt sind. Diese Verbindungen sind zwar schmackhaft, können aber den inneren Alterungsprozess beschleunigen (ähnlich wie Rost) und zu verschiedenen gesundheitlichen Problemen führen. Dr. Pradip Jamnadas' klarer Vortrag zu diesem Thema öffnete mir die Augen für die Notwendigkeit, die richtige Verarbeitung von Lebensmitteln neu zu erlernen, um die gesunden Lebensmittel zu schützen, für die wir hart gearbeitet haben.
 
