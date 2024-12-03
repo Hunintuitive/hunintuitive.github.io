@@ -186,7 +186,7 @@ A ketózis és a glükóz anyagcsere egyensúlya igen fontos az egészségünk m
    - természetes tartásból származó húsokat, halat, tojást, belsőségeket, amelyek igen kiváló fehérjeforrások
    - mértékkel teljes zsírtartalmú fermentált tejtermékeket, különböző sajtokat, túrót, tejfölt, amelyek lehetőleg természetesen nevelt állatoktól származnak.
 
-**Főzzünk, süssünk, készítsük lehetőség szerint otthon, olyan alapanyagokból, amelyekről tudjuk, hogy valódi élelmiszerek.**
+**Főzz, süss, készíts lehetőség szerint otthon, olyan alapanyagokból, amelyekről tudod, hogy valódi élelmiszerek.**
 
 Számos modern élelmiszer-feldolgozási eljárás, például a növényi olajok magas hőfokon történő feldolgozása és a cukor fehérjékkel való kombinálása káros vegyületeket, úgynevezett fejlett glikációs végtermékeket (AGE-k) termel. Ezek a vegyületek, bár ízletesek, felgyorsíthatják a belső öregedési folyamatot (a rozsdához hasonlóan), és különböző egészségügyi problémákhoz vezethetnek. Dr. Pradip Jamnadas világos előadása ebben a témában felnyitotta a szememet a megfelelő élelmiszer-feldolgozási technikák újratanulásának szükségességére, ami létfontosságúvá teszi az egészséges élelmiszerek védelmét, amelyek beszerzéséért keményen megdolgoztunk.
 
