@@ -40,7 +40,7 @@ Wie Spock aus Star Trek sagen würde, 🖖**Lebe lang und in Frieden!**😊
 😊**Viel Spaß!**😊
 
 
-![Alt text](/post/get-started/bear.gif)
+![Alt text](/de/post/get-started/bear.gif)
 {{< youtube rRrTdlqUF5M >}}
 
 ## Mein liebster Breakdance-Stil ist der „Animations-Break“ - wenn ich mal Profi werde, kann ich vielleicht irgendwann in der Zukunft ein ähnliches Spektakel bieten 😊

@@ -39,7 +39,7 @@ Ahogyan Spock a Star Trekből mondaná: 🖖élj sokáig és jólétben!😊
 
 😊**Élvezd!**😊
 
-![Alt text](/post/get-started/bear.gif)
+![Alt text](/hu/post/get-started/bear.gif)
 {{< youtube rRrTdlqUF5M >}}
 
 ## Kedvenc break tánc stílusom az "Animation break" - ha majd profi leszek, talán én is tudok ilyen látványos bemutatót nyújtani valamikor a jövőben 😊

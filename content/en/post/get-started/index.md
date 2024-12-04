@@ -40,7 +40,7 @@ As Spock of Star Trek would say: 🖖live long and prosper!😊
 😊**Enjoy!**😊
 
 
-![Alt text](/post/get-started/bear.gif)
+![Alt text](/en/post/get-started/bear.gif)
 {{< youtube rRrTdlqUF5M >}}
 
 ## My favourite break dance style is the "Animation break" - if I turn pro, maybe I can offer you a similar show sometime in the future 😊
