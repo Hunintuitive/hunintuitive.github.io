@@ -105,7 +105,7 @@ Ahogy Akiroq Brost bölcsen tanácsolta: „Ne siess annyira egy cél elérésé
 
 A beteljesülésre való törekvésünk során meg kell tanulnunk elfogadni a jelen pillanatot. Legyen szó akár egy étkezésről, egy szerettünkkel való beszélgetésről, vagy egyszerűen csak egy sétáról a természetben, a teljes jelenlét fokozza az élményeinket. Ahogyan St. Francis de Sales mondta: „Soha ne siess, mindent csendben és nyugodt szellemben tégy”.
 
-Az élet múlandó, és minden pillanata értékes. Miért pazarolnánk el azzal, hogy sietünk? Ha lassabban és szándékosabban közelítjük meg a dolgokat, tápláljuk jólétünket, és olyan életet teremtünk, mely tele van értelemmel és örömmel.
+Az élet múlandó, és minden pillanata értékes. Miért pazarolnánk el azzal, hogy sietünk? Ha lassabban és tudatosabban közelítjük meg a dolgokat, tápláljuk jólétünket, és olyan életet teremtünk, mely tele van értelemmel és örömmel.
 
 ***Összefoglalva, a lassítás és a multitasking mítosz elengedésének szükségessége elengedhetetlen modern életünkben. Ha elfogadjuk a folyamatot, akkor a kiteljesedés és az elégedettség mélyebb érzését ápolhatjuk. Ahogy megtanulunk a pillanatnak élni, rájövünk, hogy az élet nem a célba érésről szól, hanem arról, hogy élvezzük az utat az út mentén.***
 
