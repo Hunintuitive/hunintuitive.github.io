@@ -71,9 +71,13 @@ Ezen kérdések fontosságának tudatosítása az első lényeges lépés a tart
 
 ## Élelmiszerek meghatározása: Mit fogyasszunk?
 
+![Alt text](/hu/teaching/realfood/real.jpg)
+
 Ahhoz, hogy megértsük, mi is az igazi élelmiszer, tekintsünk vissza Dr. Robert Lustig egyik interjújában adott, lényegretörő definíciójára. Az ételt úgy írja le, mint **"olyan anyagot, amely hozzájárul a szervezet növekedéséhez vagy az abban végbemenő égéshez (energia égetés). "** Ez azt jelenti, hogy az ételek valamilyen célt szolgálnak - vagy energiaként, vagy a testi növekedéshez való hozzájárulásként. A fruktóz, egy gyakori édesítőszer azonban gátolja ezt a folyamatot, és az amerikai élelmiszerboltokban található termékek 73%-ában megtalálható.
 
 Dr. Lustig továbbá kifejti, hogy az ultra-feldolgozott élelmiszerek gátolják a növekedést - különösen a csontozat és a csontok növekedését, ami csontritkuláshoz vezethet. Ha tehát egy anyag nem járul hozzá a növekedéshez vagy az energiafelhasználáshoz, akkor valóban élelmiszernek tekinthető-e? Képeznünk kell önmagunkat ahhoz, hogy felismerjük, hogy az ultra-feldolgozott élelmiszerek nem egészségesek, függetlenül attól, hogy az élelmiszeripar mit állít.
+
+![Alt text](/hu/teaching/realfood/product.jpg)
 
 Ha egy gyermek hetente egyszer egy zacskó édességet kér, megkérdőjelezhetjük, hogy ez valóban ételnek minősül-e. Kevesen fogyasztanak kizárólag valódi élelmiszereket, hol található tehát az egyensúly?
 
@@ -116,7 +120,6 @@ A kiegyensúlyozott táplálkozás fenntartása - beleértve a **valódi élelmi
 ## Egy mód arra, hogy a megfelelő "valódi élelmiszereket" válasszuk
 
 ![Alt text](/en/teaching/realfood/grocery.jpg)
-[Edward fotója a Pexelsről: Férfi ül egy bevásárlókocsin](https://www.pexels.com/photo/man-sitting-on-shopping-cart-3427609/)
 
 A NOVA osztályozási rendszer az élelmiszerek osztályozási eszköze, amely az élelmiszerek feldolgozási szintjén alapul. A brazíliai São Paulo-i Egyetem kutatói által kifejlesztett NOVA négy csoportba sorolja az élelmiszereket:
 1.	**Feldolgozatlan vagy minimálisan feldolgozott élelmiszerek:** Ezek olyan természetes élelmiszerek, amelyeket csak olyan módon módosítottak, ami nem változtatja meg alapvető tulajdonságaikat. Ilyenek például a friss gyümölcsök, zöldségek, gabonafélék, húsok és a tej.
@@ -187,8 +190,11 @@ A ketózis és a glükóz anyagcsere egyensúlya igen fontos az egészségünk m
    - mértékkel teljes zsírtartalmú fermentált tejtermékeket, különböző sajtokat, túrót, tejfölt, amelyek lehetőleg természetesen nevelt állatoktól származnak.
 
 **Főzz, süss, készíts lehetőség szerint otthon, olyan alapanyagokból, amelyekről tudod, hogy valódi élelmiszerek.**
+![Alt text](/hu/teaching/realfood/home.jpg)
 
 Számos modern élelmiszer-feldolgozási eljárás, például a növényi olajok magas hőfokon történő feldolgozása és a cukor fehérjékkel való kombinálása káros vegyületeket, úgynevezett fejlett glikációs végtermékeket (AGE-k) termel. Ezek a vegyületek, bár ízletesek, felgyorsíthatják a belső öregedési folyamatot (a rozsdához hasonlóan), és különböző egészségügyi problémákhoz vezethetnek. Dr. Pradip Jamnadas világos előadása ebben a témában felnyitotta a szememet a megfelelő élelmiszer-feldolgozási technikák újratanulásának szükségességére, ami létfontosságúvá teszi az egészséges élelmiszerek védelmét, amelyek beszerzéséért keményen megdolgoztunk.
+
+![Alt text](/hu/teaching/realfood/barbecue.jpg)
 
 ## Tanulj tovább, soha ne hagyd abba!
 

@@ -141,13 +141,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/publication/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication/"
+                hreflang="de"
+                href="http://localhost:1313/de/publication/"
                 />
     <xhtml:link
                 rel="alternate"

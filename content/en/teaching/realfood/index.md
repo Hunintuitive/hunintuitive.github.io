@@ -71,9 +71,13 @@ Recognizing these questions is a crucial first step toward lasting change. Join 
 
 ## Defining Food: What Should We Consume?
 
+![Alt text](/en/teaching/realfood/real.jpg)
+
 To understand what real food is, let's refer to an insightful definition provided by Dr. Robert Lustig in one of his interviews. He describes food as **"a substrate that contributes to either the growth or burning of an organism."** This means that food serves a purpose — either as energy or as a contributor to bodily growth. However, fructose, a common sweetener, inhibits this process and is present in 73% of items in the American grocery store.
 
 Dr. Lustig further explains that ultra-processed foods inhibit growth — particularly skeletal and bone growth, which can lead to osteoporosis. Therefore, if a substance does not contribute to growth or energy utilization, can it truly be considered food? We must educate ourselves to recognize that ultra-processed foods are not healthy options, regardless of what the food industry claims.
+
+![Alt text](/en/teaching/realfood/product.jpg)
 
 When a child asks for a bag of sweets once a week, we can question whether that truly qualifies as food. Few people consume exclusively real foods, so where is the balance?
 
@@ -116,7 +120,6 @@ Maintaining a balanced diet — including a variety of **real foods from all the
 ## How to Choose the Proper "Real Foods"
 
 ![Alt text](/en/teaching/realfood/grocery.jpg)
-[Photo by Edward from Pexels: Man sitting on a shopping cart](https://www.pexels.com/photo/man-sitting-on-shopping-cart-3427609/)
 
 The NOVA classification system is a food classification tool based on the level of processing that food items undergo. Developed by researchers at the University of São Paulo in Brazil, NOVA categorizes foods into four groups:
 1.	**Unprocessed or minimally processed foods:** These are natural foods that have been modified only in ways that do not change their basic properties. Examples include fresh fruits, vegetables, grains, meats, and milk.
@@ -188,8 +191,11 @@ The balance between ketosis and glucose metabolism is very important in maintain
    - in moderation, full-fat fermented dairy products, various cheeses, cottage cheese, sour cream, preferably from naturally reared animals.
 
 **Cook, bake, prepare at home if possible, using ingredients that you know are real food.**
+![Alt text](/en/teaching/realfood/home.jpg)
 
 Many modern food processing procedures, such as using high heat on vegetable oils and combining sugar with proteins, produce harmful compounds known as Advanced Glycation End Products (AGEs). These compounds, while palatable, can accelerate the internal aging process (similar to rusting) and lead to various health issues. Dr. Pradip Jamnadas's clear lecture on this topic opened my eyes to the necessity of relearning proper food processing techniques, making it vital to protect the healthy foods we work hard to acquire.
+
+![Alt text](/en/teaching/realfood/barbecue.jpg)
 
 ## Keep on learning, never stop!
 

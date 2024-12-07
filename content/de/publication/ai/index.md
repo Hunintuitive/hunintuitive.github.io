@@ -2,11 +2,11 @@
 title: "Die Zukunft der KI: Wie relevant ist sie für die Menschheit?"
 authors:
 - admin
-date: "2024-11-18T00:00:00Z"
+date: "2024-11-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-18T00:00:00Z"
+publishDate: "2024-11-09T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -37,7 +37,7 @@ featured: true
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Bild generiert über LinkedIn Artikelschreiber'
+  caption: 'Künstliche Intelligenz'
   focal_point: ""
   preview_only: false
 
