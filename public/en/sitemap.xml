@@ -184,6 +184,10 @@
                 href="http://localhost:1313/en/teaching/health/"
                 />
   </url><url>
+    <loc>http://localhost:1313/en/teaching/youtubetranslate/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/en/post/get-started/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
