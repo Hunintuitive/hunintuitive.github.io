@@ -85,6 +85,21 @@
     <loc>http://localhost:1313/en/publication/slowingdown/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/publication/slowingdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/publication/slowingdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication/slowingdown/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/tags/wellbeing/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
@@ -93,6 +108,16 @@
     <loc>http://localhost:1313/en/tags/work-life-balance/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/work-life-balance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/work-life-balance/"
+                />
   </url><url>
     <loc>http://localhost:1313/en/teaching/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
@@ -140,45 +165,6 @@
                 href="http://localhost:1313/en/teaching/realfood/"
                 />
   </url><url>
-    <loc>http://localhost:1313/en/tags/ai-article/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/information-technology/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/jobsearch/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/tags/technology/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/en/publication/ai/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/publication/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/publication/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication/ai/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/en/tags/work/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/en/teaching/health/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -218,6 +204,10 @@
                 />
   </url><url>
     <loc>http://localhost:1313/en/project/itservice/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/ai-article/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -289,6 +279,14 @@
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/en/tags/information-technology/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/jobsearch/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/en/tags/learning/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -324,7 +322,34 @@
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/en/tags/technology/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/publication/ai/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/publication/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/publication/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication/ai/"
+                />
+  </url><url>
     <loc>http://localhost:1313/en/tags/why-listen-to-music/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/en/tags/work/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>

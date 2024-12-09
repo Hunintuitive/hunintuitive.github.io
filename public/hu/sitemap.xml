@@ -2,6 +2,113 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/hu/publication/slowingdown/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/publication/slowingdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication/slowingdown/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/publication/slowingdown/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hu/publication_types/article/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication_types/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/publication_types/article/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/publication_types/article/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/jolet/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/mentalis-egeszseg/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/munka-maganelet-egyensuly/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/publication_types/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/publication_types/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hu/publication/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/publication/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/</loc>
+    <lastmod>2024-12-07T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/tags/"
+                />
+  </url><url>
     <loc>http://localhost:1313/hu/teaching/realfood/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,25 +126,6 @@
                 rel="alternate"
                 hreflang="hu"
                 href="http://localhost:1313/hu/teaching/realfood/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hu/publication_types/article/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/publication_types/article/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/publication_types/article/"
                 />
   </url><url>
     <loc>http://localhost:1313/hu/tags/egeszseg/</loc>
@@ -63,104 +151,8 @@
                 href="http://localhost:1313/hu/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hu/publication_types/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/publication_types/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/tags/"
-                />
-  </url><url>
     <loc>http://localhost:1313/hu/tags/taplalkozas/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/publication/ai/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/publication/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/publication/ai/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/mi-cikk/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/munka/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/munkakereses/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/publication/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/publication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/publication/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/szamitastechnika/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/technologia/</loc>
-    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/hu/teaching/health/</loc>
@@ -220,6 +212,25 @@
                 href="http://localhost:1313/hu/post/get-started/"
                 />
   </url><url>
+    <loc>http://localhost:1313/hu/publication/ai/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/publication/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication/ai/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/publication/ai/"
+                />
+  </url><url>
     <loc>http://localhost:1313/hu/post/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -259,7 +270,19 @@
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/hu/tags/mi-cikk/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/hu/tags/miert-halgass-zenet/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/munka/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/munkakereses/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -290,11 +313,19 @@
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/hu/tags/szamitastechnika/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/hu/tags/szolgaltatas/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/hu/tags/takaritas/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/technologia/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
