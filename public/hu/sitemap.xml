@@ -30,13 +30,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/teaching/information/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/teaching/information/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teaching/information/"
+                hreflang="de"
+                href="http://localhost:1313/de/teaching/information/"
                 />
     <xhtml:link
                 rel="alternate"

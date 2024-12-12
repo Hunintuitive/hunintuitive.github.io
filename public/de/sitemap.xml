@@ -40,24 +40,9 @@
                 href="http://localhost:1313/de/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/teaching/information/</loc>
+    <loc>http://localhost:1313/de/tags/fehlinformation/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/teaching/information/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/teaching/information/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/teaching/information/"
-                />
   </url><url>
     <loc>http://localhost:1313/de/tags/information/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
@@ -71,20 +56,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://localhost:1313/de/tags/information/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/missinformation/</loc>
-    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/missinformation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/missinformation/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/publication_types/</loc>
@@ -123,6 +94,25 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://localhost:1313/de/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/teaching/information/</loc>
+    <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/teaching/information/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/teaching/information/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/teaching/information/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/tags/technische-anleitung/</loc>

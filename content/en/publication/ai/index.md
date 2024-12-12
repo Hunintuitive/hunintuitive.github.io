@@ -75,7 +75,7 @@ ________________________________________________________________________________
 
 ## @ The Switch (2010 Movie):
 
-**"Look at us! Running around, always rushed, always late. I guess that's why they call it the "human" "race". What we crave most in this world is connection..."**
+***"Look at us! Running around, always rushed, always late. I guess that's why they call it the "human" "race". What we crave most in this world is connection..."***
 
 So what do you think? Could there be some truth in the opening lines of that movie?
 
@@ -168,7 +168,7 @@ I wonder if we'll ever get the point, like the ending lines of the movie pointed
 
 ## @ The Switch (2010 Movie) Ending lines:
 
-**"Look at us! Running around, always rushed, always late. I guess that's why they call it the human "race". But sometimes it slows down just enough for all the pieces to fall into place. Fate works it's magic. And you are connected. Every once in a while with all the randomness something unexpected happens and that pushes us all forward. And the truth is... what I'm starting to think..., what I'm starting to feel..., is that MAYBE, the human race isn't a "race" at all..."**
+***"Look at us! Running around, always rushed, always late. I guess that's why they call it the human "race". But sometimes it slows down just enough for all the pieces to fall into place. Fate works it's magic. And you are connected. Every once in a while with all the randomness something unexpected happens and that pushes us all forward. And the truth is... what I'm starting to think..., what I'm starting to feel..., is that MAYBE, the human race isn't a "race" at all..."***
 
 ## Other thought-provoking material on the subject:
 

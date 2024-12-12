@@ -76,16 +76,6 @@
     <loc>http://localhost:1313/en/tags/missinformation/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/missinformation/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/missinformation/"
-                />
   </url><url>
     <loc>http://localhost:1313/en/publication_types/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>

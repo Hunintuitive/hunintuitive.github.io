@@ -74,7 +74,7 @@ ________________________________________________________________________________
 
 ## @ The Switch (deutscher Titel: Umständlich Verliebt - Kinofilm 2010):
 
-**"„Schau uns an! Wir rennen ständig herum, sind immer in Eile, immer zu spät. Ich schätze, deshalb nennt man es das/die „menschliche“ „Rennen/Rasse“ (Hier wird das englische Wort 'race' genutzt, das, je nach Kontext, entweder 'Rasse' oder 'Rennen' bedeutet). Was wir in dieser Welt am meisten begehren, ist Verbindung...“"**
+***"„Schau uns an! Wir rennen ständig herum, sind immer in Eile, immer zu spät. Ich schätze, deshalb nennt man es das/die „menschliche“ „Rennen/Rasse“ (Hier wird das englische Wort 'race' genutzt, das, je nach Kontext, entweder 'Rasse' oder 'Rennen' bedeutet). Was wir in dieser Welt am meisten begehren, ist Verbindung...“"***
 
 Was meinst du? Könnte an den ersten Zeilen dieses Films etwas Wahres sein?
 
@@ -167,7 +167,7 @@ Ich frage mich, ob wir jemals auf den Punkt kommen werden, wie es in den letzten
 
 ## @ The Switch - Umständlich Verliebt (2010 Kinofilm) Schlusszeilen:
 
-**„Schau uns an! Wir rennen herum, immer hastig, immer zu spät. Ich schätze, deshalb nennt man es das/die menschliche ‚Rennen/Rasse‘. Aber manchmal verlangsamt es sich gerade genug, damit alle Teile an ihren Platz fallen. Das Schicksal wirkt sein Wunder. Und du bist verbunden. Ab und zu geschieht mit all dem Zufall etwas Unerwartetes, das uns alle vorantreibt. Und die Wahrheit ist... was ich anfange zu denken..., was ich anfange zu fühlen..., ist, dass das menschliche Rennen vielleicht überhaupt kein ‚Rennen‘ ist...“**
+***„Schau uns an! Wir rennen herum, immer hastig, immer zu spät. Ich schätze, deshalb nennt man es das/die menschliche ‚Rennen/Rasse‘. Aber manchmal verlangsamt es sich gerade genug, damit alle Teile an ihren Platz fallen. Das Schicksal wirkt sein Wunder. Und du bist verbunden. Ab und zu geschieht mit all dem Zufall etwas Unerwartetes, das uns alle vorantreibt. Und die Wahrheit ist... was ich anfange zu denken..., was ich anfange zu fühlen..., ist, dass das menschliche Rennen vielleicht überhaupt kein ‚Rennen‘ ist...“***
 
 ## Andere Denkanstöße zum Thema (für Englischsprachige, aber ggf. mit deutschen Untertiteln):
 

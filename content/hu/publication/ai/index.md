@@ -73,7 +73,7 @@ ________________________________________________________________________________
 
 ## @ The Switch - magyarul: Sejtcserés támadás (2010 Mozifilm):
 
-**"Nézz ránk! Rohangálunk, mindig sietünk, mindig késünk. Gondolom, ezért hívják ezt „emberi” „versenynek” (angolul - race, ami magyarul fajt vagy versenyt jelenthet szövegkörnyezettől függően). Amire a legjobban vágyunk ebben a világban, az a kapcsolat..."**
+***"Nézz ránk! Rohangálunk, mindig sietünk, mindig késünk. Gondolom, ezért hívják ezt „emberi” „versenynek” (angolul - race, ami magyarul fajt vagy versenyt jelenthet szövegkörnyezettől függően). Amire a legjobban vágyunk ebben a világban, az a kapcsolat..."***
 
 
 Mit gondolsz? Lehet, hogy van némi igazság a film nyitó gondolatában?
@@ -168,7 +168,7 @@ Kíváncsi vagyok, hogy valaha is megértjük-e a lényeget, ahogy a mozifilm be
 
 ## @ The Switch - Sejtcserés támadás (2010-es Mozifilm) befejező sorok:
 
-**"Nézz ránk! Rohangálunk, mindig sietünk, mindig elkésünk. Gondolom, ezért hívják emberi „versenynek/fajnak”. De néha csupán annyira lassul le, hogy minden darab a helyére kerüljön. A sors megteszi a maga varázslatát. És te összekapcsolódtál. Időnként a sok véletlenszerűség mellett, történik valami váratlan, ami mindannyiunkat előbbre visz. És az igazság az... amit kezdek gondolni..., amit kezdek érezni..., hogy TALÁN az emberi "verseny/faj" egyáltalán nem is „verseny”... „**.
+***"Nézz ránk! Rohangálunk, mindig sietünk, mindig elkésünk. Gondolom, ezért hívják emberi „versenynek/fajnak”. De néha csupán annyira lassul le, hogy minden darab a helyére kerüljön. A sors megteszi a maga varázslatát. És te összekapcsolódtál. Időnként a sok véletlenszerűség mellett, történik valami váratlan, ami mindannyiunkat előbbre visz. És az igazság az... amit kezdek gondolni..., amit kezdek érezni..., hogy TALÁN az emberi "verseny/faj" egyáltalán nem is „verseny”... „***
 
 ## Elgondolkodtató egyéb anyagok a témában (angolul értőknek, de adott esetben magyar felírattal is):
 
