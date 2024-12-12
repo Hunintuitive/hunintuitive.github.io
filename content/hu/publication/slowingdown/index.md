@@ -67,7 +67,7 @@ Rohanó világunkban a rohanás életformává vált. Versenyfutást folytatunk 
 
 A rohanás a hiány gondolkodásmódját tükrözi - azt az érzést, hogy nem vagyunk elegendőek, hogy sietnünk kell, hogy utolérjük az életet. Ahogy Sura, egy meditációs tréner rámutatott, ez az ellenállási állapot gyakran a szorongásból fakad, és emiatt kimaradunk a jelen pillanatból. Az igazság az, hogy amikor sietünk, akkor csupán a tapasztalataink felszínét súroljuk, ahelyett, hogy mélyen elmerülnénk abban, ami igazán számít. Mérföldkövek elérésére kényszerítjük magunkat anélkül, hogy teljes mértékben értékelnénk az odavezető utat.
 
-Benjamin Franklin bölcsen jegyezte meg: „Szánj időt mindenre; a nagy sietség nagy pazarlást okoz”. A többre való törekvésünkben gyakran feláldozzuk a minőséget a mennyiségért. Rohanunk, hogy megírjuk a következő bestsellert anélkül, hogy teljesen elsajátítanánk a az írói mesterségünket. Úgy vágunk bele a kapcsolatokba, hogy nem értjük meg a partnerünket. Ez a szüntelen sietség nemcsak az élményeink mélységét csökkenti, hanem a növekedésünket is hátráltatja.
+Benjamin Franklin bölcsen jegyezte meg: „Szánj időt mindenre; a nagy sietség nagy pazarlást okoz”. A többre való törekvésünkben gyakran feláldozzuk a minőséget a mennyiségért. Rohanunk, hogy megírjuk a következő bestsellert anélkül, hogy teljesen elsajátítanánk az írói mesterségünket. Úgy vágunk bele a kapcsolatokba, hogy nem értjük meg a partnerünket. Ez a szüntelen sietség nemcsak az élményeink mélységét csökkenti, hanem a növekedésünket is hátráltatja.
 
 
 ## Az élet lassú folyamata
