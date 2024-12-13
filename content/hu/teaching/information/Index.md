@@ -142,11 +142,11 @@ A félretájékoztatással szembeni éberség fontosságát hangsúlyozva, gondo
 
 
 - [ÁLHÍREK LELEPLEZÉSE Tényellenőrzés a világban és Magyarországon](https://edit.elte.hu/xmlui/bitstream/handle/10831/107107/Mertek-fuzetek_33_1-77-83.pdf;jsessionid=31ED5D53B9C614A1119B4335BC019E61?sequence=1)
-- [Ténykérdés – How We Work](https://tenykerdes.afp.com/Hogyan-dolgozunk)
-- [Ténykérdés – Fact-Checking List](https://tenykerdes.afp.com/list)
-- [Lakmusz – Fact-Checking Resource](https://www.lakmusz.hu/)
-- [Lakmusz – Frequently Asked Questions](https://www.lakmusz.hu/gyakran-ismetelt-kerdesek/)
-- [Urban Legends – What is This Site?](https://www.urbanlegends.hu/mi-ez-az-oldal/)
+- [Ténykérdés - Így dolgozunk](https://tenykerdes.afp.com/Hogyan-dolgozunk)
+- [Ténykérdés - Tényellenőrzési lista](https://tenykerdes.afp.com/list)
+- [Lakmusz - Tényellenőrzési forrás](https://www.lakmusz.hu/)
+- [Lakmusz – Gyakori kérdések](https://www.lakmusz.hu/gyakran-ismetelt-kerdesek/)
+- [Urban Legends – Mi ez az oldal?](https://www.urbanlegends.hu/mi-ez-az-oldal/)
 
 ### Következtetés
 
