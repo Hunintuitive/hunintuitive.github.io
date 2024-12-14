@@ -22,7 +22,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: TA Big Five személyiségjegyek, más néven az Ötfaktoros modell (FFM) átfogó keretrendszert képviselnek az emberi személyiség megértéséhez. Ez a modell öt tág dimenziót foglal magában, amelyek a személyiség legjelentősebb eltéréseit emelik ki. Mindegyik tulajdonság betekintést nyújt az egyén jellemzőibe és viselkedésébe.
+summary: A Big Five személyiségjegyek, más néven az Ötfaktoros modell (FFM) átfogó keretrendszert képviselnek az emberi személyiség megértéséhez. Ez a modell öt tág dimenziót foglal magában, amelyek a személyiség legjelentősebb eltéréseit emelik ki. Mindegyik tulajdonság betekintést nyújt az egyén jellemzőibe és viselkedésébe.
 
 tags:
 - Pszichológia
