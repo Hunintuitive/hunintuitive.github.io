@@ -7,6 +7,10 @@
 #    url: /#talks
 #    weight: 12
 
+#  - name: Oktatás
+#    url: teaching/
+#    weight: 40
+
 main:
   - name: Ki az a Becsi Hunor?
     url: /
@@ -23,6 +27,4 @@ main:
   - name: Kínált Szolgáltatások
     url: projects/
     weight: 30
-  - name: Oktatás
-    url: teaching/
-    weight: 40
+

@@ -49,21 +49,19 @@ sections:
       title: Kiemelt kiadványok
       filters:
         folders:
-          - publication
-          - teaching
+          - post
         featured_only: true
     design:
       view: article-grid
-      columns: 2
+      columns: 1
   - block: collection
     content:
       title: Legutóbbi kiadványok
       text: ""
       filters:
         folders:
-          - publication
-          - teaching
-        exclude_featured: false
+          - post
+        exclude_featured: true
     design:
       view: citation
   - block: collection
@@ -85,7 +83,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      count: 0
       # Filter on criteria
       filters:
         author: ""
@@ -100,10 +98,7 @@ sections:
       # Page order: descending (desc) or ascending (asc) date.
       order: desc
     design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
+      view: article-grid
+      columns: 3
 
 ---

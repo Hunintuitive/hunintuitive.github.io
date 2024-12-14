@@ -5,7 +5,7 @@
     <link>http://localhost:1313/en/tags/information/</link>
       <atom:link href="http://localhost:1313/en/tags/information/index.xml" rel="self" type="application/rss+xml" />
     <description>Information</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Information</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>How to Effectively Inform Ourselves in Today’s World?</title>
-      <link>http://localhost:1313/en/teaching/information/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/teaching/information/</guid>
+      <link>http://localhost:1313/en/post/information/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/post/information/</guid>
       <description>&lt;p&gt;In an age where information flows freely at the click of a button, staying informed can feel overwhelming. With countless news sources, social media platforms, and opinions available, navigating this landscape wisely is essential. Here’s a comprehensive guide on how to inform yourself effectively while safeguarding against misinformation.&lt;/p&gt;
 &lt;h3 id=&#34;1-diversify-your-sources&#34;&gt;1. &lt;strong&gt;Diversify Your Sources&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
@@ -37,14 +37,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /en/teaching/information/teaching/information/sources_hu2885125570626894921.webp 400w,
-               /en/teaching/information/teaching/information/sources_hu4574939387148463147.webp 760w,
-               /en/teaching/information/teaching/information/sources_hu1004073634946449116.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/teaching/information/teaching/information/sources_hu2885125570626894921.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/sources.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;One of the best ways to gain a well-rounded view of any topic is to rely on multiple sources of information. Consider various types of sources, such as:&lt;/p&gt;
@@ -74,14 +67,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /en/teaching/information/teaching/information/credibility_hu11030024400587255219.webp 400w,
-               /en/teaching/information/teaching/information/credibility_hu1509639326146487821.webp 760w,
-               /en/teaching/information/teaching/information/credibility_hu17555536432391745573.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/teaching/information/teaching/information/credibility_hu11030024400587255219.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/credibility.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Not all information is created equal. Before accepting information as fact, consider the following:&lt;/p&gt;
@@ -109,14 +95,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /en/teaching/information/teaching/information/bias_hu988352355585877245.webp 400w,
-               /en/teaching/information/teaching/information/bias_hu13732291745982661425.webp 760w,
-               /en/teaching/information/teaching/information/bias_hu7006576616403561896.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/teaching/information/teaching/information/bias_hu988352355585877245.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/bias.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Every source has its own perspective and bias. Here’s how to recognize and account for bias:&lt;/p&gt;
@@ -145,14 +124,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /en/teaching/information/teaching/information/social_hu11930162465824126857.webp 400w,
-               /en/teaching/information/teaching/information/social_hu2383784768021433870.webp 760w,
-               /en/teaching/information/teaching/information/social_hu16524696365989396359.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/teaching/information/teaching/information/social_hu11930162465824126857.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/social.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Social media is a double-edged sword. While it can spread awareness quickly, it can also perpetuate misinformation. To use social media effectively:&lt;/p&gt;
@@ -181,14 +153,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /en/teaching/information/teaching/information/open_hu1020789361591823764.webp 400w,
-               /en/teaching/information/teaching/information/open_hu9314527732018134115.webp 760w,
-               /en/teaching/information/teaching/information/open_hu9530096137217501035.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/teaching/information/teaching/information/open_hu1020789361591823764.webp&#34;
-               width=&#34;504&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/open.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A curious mind is a powerful tool for learning. Approach information with an open mind:&lt;/p&gt;
@@ -216,14 +181,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /en/teaching/information/teaching/information/ai_hu15047762487584012263.webp 400w,
-               /en/teaching/information/teaching/information/ai_hu12079778686655185127.webp 760w,
-               /en/teaching/information/teaching/information/ai_hu5088898830553771726.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/teaching/information/teaching/information/ai_hu15047762487584012263.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/ai.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;While social media and AI tools can provide quick access to information, it’s crucial to recognize the potential dangers of overreliance on these platforms. They can reinforce existing biases and create echo chambers, limiting our exposure to diverse viewpoints. Just as an ant will not overstep the circle drawn around it until it accidentally crosses the line, we can become confined by our own mental barriers. Therefore, it is essential to step outside these confines and verify facts independently.&lt;/p&gt;
@@ -263,14 +221,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /en/teaching/information/teaching/information/misinformation_hu10458511445237424244.webp 400w,
-               /en/teaching/information/teaching/information/misinformation_hu13319867737015523285.webp 760w,
-               /en/teaching/information/teaching/information/misinformation_hu4735096666629943379.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/teaching/information/teaching/information/misinformation_hu10458511445237424244.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/misinformation.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;In today’s information landscape, it&amp;rsquo;s vital to be aware of misinformation, including misleading news, false reports, and conspiracy theories. The internet facilitates the rapid spread of false information, making it easy to inadvertently share inaccurate news. To combat this:&lt;/p&gt;

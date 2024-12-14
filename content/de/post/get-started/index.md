@@ -5,7 +5,7 @@ title: 🎉 Herzlich Wilkommen zu meinem neuen Blog!
 
 
 summary: Unterhaltsame Musik, ein breakdance-tanzender Bär und die Gründe, Musik so oft wie möglich zu genießen.🤩
-date: 2024-11-09
+date: 2024-11-08
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

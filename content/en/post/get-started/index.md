@@ -5,7 +5,7 @@ title: 🎉 Welcome to my new Blog!
 
 
 summary: Fun music, a breaking bear and the reasons to enjoy music as often as you can. 🤩
-date: 2024-11-09
+date: 2024-11-08
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

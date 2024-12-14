@@ -5,7 +5,7 @@ title: 🎉 Szeretettel üdvözöllek az új Blogomon!
 
 
 summary: Szórakoztató zene, egy breakelő medve és az okok, amiért érdemes minél gyakrabban élvezni a zenét.🤩
-date: 2024-11-09
+date: 2024-11-08
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.

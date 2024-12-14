@@ -5,7 +5,7 @@
     <link>http://localhost:1313/de/tags/breaktanz-bar/</link>
       <atom:link href="http://localhost:1313/de/tags/breaktanz-bar/index.xml" rel="self" type="application/rss+xml" />
     <description>Breaktanz Bär</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Breaktanz Bär</title>
@@ -15,7 +15,7 @@
     <item>
       <title>🎉 Herzlich Wilkommen zu meinem neuen Blog!</title>
       <link>http://localhost:1313/de/post/get-started/</link>
-      <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/post/get-started/</guid>
       <description>&lt;p&gt;Wilkommen 👋&lt;/p&gt;
 

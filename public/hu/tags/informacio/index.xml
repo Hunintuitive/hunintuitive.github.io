@@ -5,7 +5,7 @@
     <link>http://localhost:1313/hu/tags/informacio/</link>
       <atom:link href="http://localhost:1313/hu/tags/informacio/index.xml" rel="self" type="application/rss+xml" />
     <description>Információ</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Információ</title>
@@ -14,9 +14,9 @@
     
     <item>
       <title>Hogyan tájékozódjunk hatékonyan a mai világban?</title>
-      <link>http://localhost:1313/hu/teaching/information/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/teaching/information/</guid>
+      <link>http://localhost:1313/hu/post/information/</link>
+      <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hu/post/information/</guid>
       <description>&lt;p&gt;Egy olyan korban, melyben az információk szabadon, egy gombnyomással áramlanak, a jól tájékozottságra való törekvés túlságosan is nyomasztónak tűnhet. Számtalan hírforrás, közösségi médiaplatform és vélemény áll rendelkezésre, ezért alapvető fontosságú, hogy bölcsen navigáljunk ezen a területen. Íme egy átfogó útmutató arról, hogyan tájékozódhatsz hatékonyan, miközben védekezel a félretájékoztatás ellen.&lt;/p&gt;
 &lt;h3 id=&#34;1-diverzifikáld-a-forrásaidat&#34;&gt;1. &lt;strong&gt;Diverzifikáld a forrásaidat&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
@@ -37,14 +37,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/teaching/information/teaching/information/sources_hu2885125570626894921.webp 400w,
-               /hu/teaching/information/teaching/information/sources_hu4574939387148463147.webp 760w,
-               /hu/teaching/information/teaching/information/sources_hu1004073634946449116.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/teaching/information/teaching/information/sources_hu2885125570626894921.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/sources.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Az egyik legjobb módja annak, hogy átfogó képet kapjunk bármely témáról, az, ha több információforrásra támaszkodunk. Vegyük figyelembe a különböző típusú forrásokat, például:&lt;/p&gt;
@@ -74,14 +67,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/teaching/information/teaching/information/credibility_hu11030024400587255219.webp 400w,
-               /hu/teaching/information/teaching/information/credibility_hu1509639326146487821.webp 760w,
-               /hu/teaching/information/teaching/information/credibility_hu17555536432391745573.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/teaching/information/teaching/information/credibility_hu11030024400587255219.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/credibility.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Nem minden információ egyformán hiteles. Mielőtt tényként fogadnád el valamely információt, fontold meg a következőket:&lt;/p&gt;
@@ -109,14 +95,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/teaching/information/teaching/information/bias_hu988352355585877245.webp 400w,
-               /hu/teaching/information/teaching/information/bias_hu13732291745982661425.webp 760w,
-               /hu/teaching/information/teaching/information/bias_hu7006576616403561896.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/teaching/information/teaching/information/bias_hu988352355585877245.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/bias.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Minden forrásnak megvan a maga nézőpontja és elfogultsága. Így ismerhetjük fel és vehetjük figyelembe az elfogultságot:&lt;/p&gt;
@@ -145,14 +124,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/teaching/information/teaching/information/social_hu11930162465824126857.webp 400w,
-               /hu/teaching/information/teaching/information/social_hu2383784768021433870.webp 760w,
-               /hu/teaching/information/teaching/information/social_hu16524696365989396359.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/teaching/information/teaching/information/social_hu11930162465824126857.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/social.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A közösségi média egy kétélű kard. Miközben képes gyorsan szélesíteni a tudatosságot, ugyanakkor a félretájékoztatást is elősegítheti. A közösségi média hatékony használatához:&lt;/p&gt;
@@ -181,14 +153,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/teaching/information/teaching/information/open_hu1020789361591823764.webp 400w,
-               /hu/teaching/information/teaching/information/open_hu9314527732018134115.webp 760w,
-               /hu/teaching/information/teaching/information/open_hu9530096137217501035.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/teaching/information/teaching/information/open_hu1020789361591823764.webp&#34;
-               width=&#34;504&#34;
-               height=&#34;760&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/open.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A kíváncsi elme a tanulás hatékony eszköze. Nyitott elmével közelíts az információkhoz:&lt;/p&gt;
@@ -216,14 +181,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/teaching/information/teaching/information/ai_hu15047762487584012263.webp 400w,
-               /hu/teaching/information/teaching/information/ai_hu12079778686655185127.webp 760w,
-               /hu/teaching/information/teaching/information/ai_hu5088898830553771726.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/teaching/information/teaching/information/ai_hu15047762487584012263.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;428&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/ai.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Bár a közösségi média és az AI-eszközök gyors hozzáférést biztosíthatnak az információkhoz, elengedhetetlen, hogy felismerjük az e platformokra való túlzott hagyatkozás lehetséges veszélyeit. Ezek felerősíthetik a meglévő előítéleteket, és &amp;ldquo;visszhangkamrákat&amp;rdquo; hozhatnak létre, korlátozva a különböző nézőpontoknak való kitettségünket. Ahogyan egy hangya sem lépi túl a köré rajzolt kört, amíg véletlenül át nem lépi a határt, úgy mi is beszorulhatunk saját mentális gátjaink mögé. Emiatt hasznos lehet, kilépni ezen korlátok mögül, és függetlenül ellenőrizni a tényeket.&lt;/p&gt;
@@ -263,14 +221,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/teaching/information/teaching/information/misinformation_hu10458511445237424244.webp 400w,
-               /hu/teaching/information/teaching/information/misinformation_hu13319867737015523285.webp 760w,
-               /hu/teaching/information/teaching/information/misinformation_hu4735096666629943379.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/teaching/information/teaching/information/misinformation_hu10458511445237424244.webp&#34;
-               width=&#34;760&#34;
-               height=&#34;507&#34;
-               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/information/misinformation.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A mai információs környezetben létfontosságú, hogy tisztában legyünk a félretájékoztatással, beleértve a félrevezető híreket, hamis jelentéseket és összeesküvés-elméleteket. Az internet megkönnyíti a hamis információk gyors terjedését, így könnyen előfordulhat, hogy akaratlanul is pontatlan vagy hamis híreket osztunk meg. Ennek leküzdése érdekében:&lt;/p&gt;

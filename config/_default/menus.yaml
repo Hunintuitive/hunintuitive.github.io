@@ -7,6 +7,10 @@
 #    url: /#talks
 #    weight: 12
 
+#  - name: Education
+#    url: teaching/
+#    weight: 40
+
 main:
   - name: Who is Hunor Becsi?
     url: /
@@ -23,6 +27,4 @@ main:
   - name: Offered Services
     url: projects/
     weight: 30
-  - name: Education
-    url: teaching/
-    weight: 40
+
