@@ -91,7 +91,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/fats.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp 400w,
+               /hu/post/nutrition/post/nutrition/fats_hu14967968740712839398.webp 760w,
+               /hu/post/nutrition/post/nutrition/fats_hu14168891548557644008.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -121,7 +128,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/protein.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp 400w,
+               /hu/post/nutrition/post/nutrition/protein_hu3985988088946675115.webp 760w,
+               /hu/post/nutrition/post/nutrition/protein_hu2622240787389504942.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -149,7 +163,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/vegetables.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp 400w,
+               /hu/post/nutrition/post/nutrition/vegetables_hu9729150114698812687.webp 760w,
+               /hu/post/nutrition/post/nutrition/vegetables_hu637668811460900936.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -176,7 +197,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/fermented.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp 400w,
+               /hu/post/nutrition/post/nutrition/fermented_hu11606051204472981349.webp 760w,
+               /hu/post/nutrition/post/nutrition/fermented_hu10254971514059385216.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;505&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -204,7 +232,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/herbs.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp 400w,
+               /hu/post/nutrition/post/nutrition/herbs_hu1012424704571459638.webp 760w,
+               /hu/post/nutrition/post/nutrition/herbs_hu1608450799210159914.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -316,7 +351,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/listen.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp 400w,
+               /hu/post/nutrition/post/nutrition/listen_hu18227554464746987530.webp 760w,
+               /hu/post/nutrition/post/nutrition/listen_hu4399507923610735876.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -342,7 +384,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/electrolyte.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp 400w,
+               /hu/post/nutrition/post/nutrition/electrolyte_hu13722727442810410052.webp 760w,
+               /hu/post/nutrition/post/nutrition/electrolyte_hu8213822077752006104.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -368,7 +417,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/move.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/move_hu17565910668030462789.webp 400w,
+               /hu/post/nutrition/post/nutrition/move_hu609616498681504825.webp 760w,
+               /hu/post/nutrition/post/nutrition/move_hu15022939752702117903.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
+               width=&#34;507&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -392,7 +448,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/strength.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp 400w,
+               /hu/post/nutrition/post/nutrition/strength_hu16000315351690534739.webp 760w,
+               /hu/post/nutrition/post/nutrition/strength_hu15557592185333769305.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -453,7 +516,7 @@
 &lt;p&gt;A saját ízlésed és preferenciáid alapján választhatod ki azokat az ételeket, amelyek a saját környezetedben és körülményeid között a rendelkezésedre állnak. Ügyelj arra, hogy olyan teljes értékű, valódi élelmiszereket válassz, melyek hozzájárulnak az egészséged javításához.&lt;/p&gt;
 &lt;h1 id=&#34;következzen-néhány-saját-egészséges-étel-példaként&#34;&gt;Következzen néhány saját egészséges étel, példaként:&lt;/h1&gt;
 &lt;p&gt;Nem kell bonyolultnak lenniük, vagy sok időt igényelniük az elkészítésükhöz.&lt;/p&gt;
-&lt;h2 id=&#34;alt-textteachingnutrition9png&#34;&gt;Mandulás kenyér tejföllel tálalva, zöldségek és csirkemell mellé:
+&lt;h2 id=&#34;alt-textpostnutrition9png&#34;&gt;Mandulás kenyér tejföllel tálalva, zöldségek és csirkemell mellé:
 
 
 
@@ -472,7 +535,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/1.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/1_hu12608306184696674095.webp 400w,
+               /hu/post/nutrition/post/nutrition/1_hu13957937632408086842.webp 760w,
+               /hu/post/nutrition/post/nutrition/1_hu7339280858994939310.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;348&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Mandulakenyér szendvics tejföllel, hagymával, paradicsommal és gyulai kolbásszal:
@@ -494,7 +564,14 @@ Mandulakenyér szendvics tejföllel, hagymával, paradicsommal és gyulai kolbá
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/2.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/2_hu8531501771588726305.webp 400w,
+               /hu/post/nutrition/post/nutrition/2_hu6929092539650891298.webp 760w,
+               /hu/post/nutrition/post/nutrition/2_hu6580774699507192645.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
+               width=&#34;681&#34;
+               height=&#34;690&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Mandulakenyér zöldségekkel, párolt vajas-fokhagymás gombával és tejföllel:
@@ -516,7 +593,14 @@ Mandulakenyér zöldségekkel, párolt vajas-fokhagymás gombával és tejfölle
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/3.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/3_hu14624479402397347917.webp 400w,
+               /hu/post/nutrition/post/nutrition/3_hu9575846244799456290.webp 760w,
+               /hu/post/nutrition/post/nutrition/3_hu1049859194176989066.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
+               width=&#34;723&#34;
+               height=&#34;755&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Indiai vajas csirke zöldségekkel és mandulás kenyérrel:
@@ -538,7 +622,14 @@ Indiai vajas csirke zöldségekkel és mandulás kenyérrel:
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/4.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/4_hu11476022687597826362.webp 400w,
+               /hu/post/nutrition/post/nutrition/4_hu13297248705405095904.webp 760w,
+               /hu/post/nutrition/post/nutrition/4_hu16788571616751026126.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;644&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Ketogén pizza mandulás kenyér &amp;ldquo;tésztával&amp;rdquo;, paradicsommal, gombával, hagymával, sonkával és mozzarella sajttal:
@@ -560,7 +651,14 @@ Ketogén pizza mandulás kenyér &amp;ldquo;tésztával&amp;rdquo;, paradicsomma
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/5.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/5_hu10308305180695310753.webp 400w,
+               /hu/post/nutrition/post/nutrition/5_hu7642898172156540297.webp 760w,
+               /hu/post/nutrition/post/nutrition/5_hu9679629861536622174.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
+               width=&#34;609&#34;
+               height=&#34;515&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Omlett olívaolajjal megöntözött zöldségsalátával, benne egy erdélyi specialitással, az úgynevezett zakuszkával:
@@ -582,7 +680,14 @@ Omlett olívaolajjal megöntözött zöldségsalátával, benne egy erdélyi spe
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/6.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/6_hu11180730075905629242.webp 400w,
+               /hu/post/nutrition/post/nutrition/6_hu5435293754586230483.webp 760w,
+               /hu/post/nutrition/post/nutrition/6_hu4829253932576020461.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
+               width=&#34;759&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Gazdag degusztációs menü zakuszkával, erdélyi padlizsánkrémmel, olívaolajba forgatott zöldségekkel, párolt gombával, nagyon kevés rizzsel és egy finom vajas-fokhagymás csirkemellel:
@@ -604,7 +709,14 @@ Gazdag degusztációs menü zakuszkával, erdélyi padlizsánkrémmel, olívaola
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/7.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/7_hu13657338855798430253.webp 400w,
+               /hu/post/nutrition/post/nutrition/7_hu2599764494827034775.webp 760w,
+               /hu/post/nutrition/post/nutrition/7_hu17807350305445368486.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;597&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Egy egyszerű kelkáposztás &amp;ldquo;tortilla&amp;rdquo; vajjal, sajttal, hagymával, paradicsommal, főtt tojással és egy csipet sóval töltve:
@@ -626,7 +738,14 @@ Egy egyszerű kelkáposztás &amp;ldquo;tortilla&amp;rdquo; vajjal, sajttal, hag
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/8.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/8_hu12986442913084533514.webp 400w,
+               /hu/post/nutrition/post/nutrition/8_hu1108794753218047171.webp 760w,
+               /hu/post/nutrition/post/nutrition/8_hu8930888672803234106.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;607&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Frissen sült mandulás kenyér zöldségekkel, sonkával, gombával és sajttal töltve:
@@ -648,7 +767,14 @@ Frissen sült mandulás kenyér zöldségekkel, sonkával, gombával és sajttal
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/9.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /hu/post/nutrition/post/nutrition/9_hu3227929631295161984.webp 400w,
+               /hu/post/nutrition/post/nutrition/9_hu7450178928638385947.webp 760w,
+               /hu/post/nutrition/post/nutrition/9_hu5274547627687762576.webp 1200w&#34;
+               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;568&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/h2&gt;
 &lt;h2 id=&#34;tippek-a-fenntartható-változtatás-érdekében&#34;&gt;Tippek a fenntartható változtatás érdekében&lt;/h2&gt;
@@ -728,7 +854,7 @@ Frissen sült mandulás kenyér zöldségekkel, sonkával, gombával és sajttal
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/teaching/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Ahhoz, hogy megértsük, mi is az igazi élelmiszer, tekintsünk vissza Dr. Robert Lustig egyik interjújában adott, lényegretörő definíciójára. Az ételt úgy írja le, mint &lt;strong&gt;&amp;ldquo;olyan anyagot, amely hozzájárul a szervezet növekedéséhez vagy az abban végbemenő égéshez (energia égetés). &amp;ldquo;&lt;/strong&gt; Ez azt jelenti, hogy az ételek valamilyen célt szolgálnak - vagy energiaként, vagy a testi növekedéshez való hozzájárulásként. A fruktóz, egy gyakori édesítőszer azonban gátolja ezt a folyamatot, és az amerikai élelmiszerboltokban található termékek 73%-ában megtalálható.&lt;/p&gt;
@@ -751,7 +877,7 @@ Frissen sült mandulás kenyér zöldségekkel, sonkával, gombával és sajttal
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/teaching/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Ha egy gyermek hetente egyszer egy zacskó édességet kér, megkérdőjelezhetjük, hogy ez valóban ételnek minősül-e. Kevesen fogyasztanak kizárólag valódi élelmiszereket, hol található tehát az egyensúly?&lt;/p&gt;
@@ -804,7 +930,7 @@ Frissen sült mandulás kenyér zöldségekkel, sonkával, gombával és sajttal
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/teaching/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A NOVA osztályozási rendszer az élelmiszerek osztályozási eszköze, amely az élelmiszerek feldolgozási szintjén alapul. A brazíliai São Paulo-i Egyetem kutatói által kifejlesztett NOVA négy csoportba sorolja az élelmiszereket:&lt;/p&gt;
@@ -899,7 +1025,7 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/teaching/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Számos modern élelmiszer-feldolgozási eljárás, például a növényi olajok magas hőfokon történő feldolgozása és a cukor fehérjékkel való kombinálása káros vegyületeket, úgynevezett fejlett glikációs végtermékeket (AGE-k) termel. Ezek a vegyületek, bár ízletesek, felgyorsíthatják a belső öregedési folyamatot (a rozsdához hasonlóan), és különböző egészségügyi problémákhoz vezethetnek. Dr. Pradip Jamnadas világos előadása ebben a témában felnyitotta a szememet a megfelelő élelmiszer-feldolgozási technikák újratanulásának szükségességére, ami létfontosságúvá teszi az egészséges élelmiszerek védelmét, amelyek beszerzéséért keményen megdolgoztunk.&lt;/p&gt;
@@ -921,7 +1047,7 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/teaching/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;tanulj-tovább-soha-ne-hagyd-abba&#34;&gt;Tanulj tovább, soha ne hagyd abba!&lt;/h2&gt;

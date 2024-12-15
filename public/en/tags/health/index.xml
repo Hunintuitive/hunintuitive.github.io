@@ -91,7 +91,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/fats.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp 400w,
+               /en/post/nutrition/post/nutrition/fats_hu14967968740712839398.webp 760w,
+               /en/post/nutrition/post/nutrition/fats_hu14168891548557644008.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -121,7 +128,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/protein.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp 400w,
+               /en/post/nutrition/post/nutrition/protein_hu3985988088946675115.webp 760w,
+               /en/post/nutrition/post/nutrition/protein_hu2622240787389504942.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -149,7 +163,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/vegetables.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp 400w,
+               /en/post/nutrition/post/nutrition/vegetables_hu9729150114698812687.webp 760w,
+               /en/post/nutrition/post/nutrition/vegetables_hu637668811460900936.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;570&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -176,7 +197,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/fermented.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp 400w,
+               /en/post/nutrition/post/nutrition/fermented_hu11606051204472981349.webp 760w,
+               /en/post/nutrition/post/nutrition/fermented_hu10254971514059385216.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;505&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -204,7 +232,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/herbs.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp 400w,
+               /en/post/nutrition/post/nutrition/herbs_hu1012424704571459638.webp 760w,
+               /en/post/nutrition/post/nutrition/herbs_hu1608450799210159914.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -316,7 +351,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/listen.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp 400w,
+               /en/post/nutrition/post/nutrition/listen_hu18227554464746987530.webp 760w,
+               /en/post/nutrition/post/nutrition/listen_hu4399507923610735876.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;507&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -342,7 +384,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/electrolyte.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp 400w,
+               /en/post/nutrition/post/nutrition/electrolyte_hu13722727442810410052.webp 760w,
+               /en/post/nutrition/post/nutrition/electrolyte_hu8213822077752006104.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;410&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -368,7 +417,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/move.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/move_hu17565910668030462789.webp 400w,
+               /en/post/nutrition/post/nutrition/move_hu609616498681504825.webp 760w,
+               /en/post/nutrition/post/nutrition/move_hu15022939752702117903.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
+               width=&#34;507&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;ul&gt;
@@ -392,7 +448,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/strength.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp 400w,
+               /en/post/nutrition/post/nutrition/strength_hu16000315351690534739.webp 760w,
+               /en/post/nutrition/post/nutrition/strength_hu15557592185333769305.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;475&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -453,7 +516,7 @@
 &lt;p&gt;You can select your own foods that are available to you in your own surroundings and circumstances, based on your own taste and preferences. Be sure to choose whole, real foods that will enhance your health.&lt;/p&gt;
 &lt;h1 id=&#34;here-some-of-my-own-healthy-meals-as-some-examples&#34;&gt;Here some of my own healthy meals as some examples:&lt;/h1&gt;
 &lt;p&gt;They don&amp;rsquo;t need to be complicated or take much time to prepare.&lt;/p&gt;
-&lt;h2 id=&#34;alt-textteachingnutrition9png&#34;&gt;Almond bread served with sour cream, alongside veggies and chicken breast:
+&lt;h2 id=&#34;alt-textpostnutrition9png&#34;&gt;Almond bread served with sour cream, alongside veggies and chicken breast:
 
 
 
@@ -472,7 +535,14 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/1.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/1_hu12608306184696674095.webp 400w,
+               /en/post/nutrition/post/nutrition/1_hu13957937632408086842.webp 760w,
+               /en/post/nutrition/post/nutrition/1_hu7339280858994939310.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;348&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Almond bread sandwich with sour cream, onions, tomatoes, and Gyulai sausage:
@@ -494,7 +564,14 @@ Almond bread sandwich with sour cream, onions, tomatoes, and Gyulai sausage:
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/2.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/2_hu8531501771588726305.webp 400w,
+               /en/post/nutrition/post/nutrition/2_hu6929092539650891298.webp 760w,
+               /en/post/nutrition/post/nutrition/2_hu6580774699507192645.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
+               width=&#34;681&#34;
+               height=&#34;690&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Almond bread with veggies, sautéed butter-garlic mushrooms, and sour cream:
@@ -516,7 +593,14 @@ Almond bread with veggies, sautéed butter-garlic mushrooms, and sour cream:
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/3.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/3_hu14624479402397347917.webp 400w,
+               /en/post/nutrition/post/nutrition/3_hu9575846244799456290.webp 760w,
+               /en/post/nutrition/post/nutrition/3_hu1049859194176989066.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
+               width=&#34;723&#34;
+               height=&#34;755&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Indian butter chicken with vegetables and almond bread:
@@ -538,7 +622,14 @@ Indian butter chicken with vegetables and almond bread:
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/4.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/4_hu11476022687597826362.webp 400w,
+               /en/post/nutrition/post/nutrition/4_hu13297248705405095904.webp 760w,
+               /en/post/nutrition/post/nutrition/4_hu16788571616751026126.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;644&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Ketogenic pizza with almond bread crust, tomatoes, mushrooms, onions, ham and mozzarella cheese:
@@ -560,7 +651,14 @@ Ketogenic pizza with almond bread crust, tomatoes, mushrooms, onions, ham and mo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/5.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/5_hu10308305180695310753.webp 400w,
+               /en/post/nutrition/post/nutrition/5_hu7642898172156540297.webp 760w,
+               /en/post/nutrition/post/nutrition/5_hu9679629861536622174.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
+               width=&#34;609&#34;
+               height=&#34;515&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Omelet with a vegetable salad dressed in olive oil, and a Transylvanian specialty inside called zakuszka:
@@ -582,7 +680,14 @@ Omelet with a vegetable salad dressed in olive oil, and a Transylvanian specialt
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/6.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/6_hu11180730075905629242.webp 400w,
+               /en/post/nutrition/post/nutrition/6_hu5435293754586230483.webp 760w,
+               /en/post/nutrition/post/nutrition/6_hu4829253932576020461.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
+               width=&#34;759&#34;
+               height=&#34;760&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Rich degustation menu featuring zakuszka, Transylvanian eggplant cream, olive oil-dressed vegetables, sautéed mushrooms, very little rice and a delicious butter-garlic chicken breast:
@@ -604,7 +709,14 @@ Rich degustation menu featuring zakuszka, Transylvanian eggplant cream, olive oi
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/7.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/7_hu13657338855798430253.webp 400w,
+               /en/post/nutrition/post/nutrition/7_hu2599764494827034775.webp 760w,
+               /en/post/nutrition/post/nutrition/7_hu17807350305445368486.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;597&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 A simple kale tortilla filled with butter, cheese, onions, tomatoes, boiled eggs, and a pinch of salt:
@@ -626,7 +738,14 @@ A simple kale tortilla filled with butter, cheese, onions, tomatoes, boiled eggs
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/8.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/8_hu12986442913084533514.webp 400w,
+               /en/post/nutrition/post/nutrition/8_hu1108794753218047171.webp 760w,
+               /en/post/nutrition/post/nutrition/8_hu8930888672803234106.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;607&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
@@ -648,7 +767,14 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/teaching/nutrition/9.png&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
+               /en/post/nutrition/post/nutrition/9_hu3227929631295161984.webp 400w,
+               /en/post/nutrition/post/nutrition/9_hu7450178928638385947.webp 760w,
+               /en/post/nutrition/post/nutrition/9_hu5274547627687762576.webp 1200w&#34;
+               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;568&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/h2&gt;
 &lt;h2 id=&#34;tips-for-sustainable-change&#34;&gt;Tips for Sustainable Change&lt;/h2&gt;
@@ -727,7 +853,7 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/teaching/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;To understand what real food is, let&amp;rsquo;s refer to an insightful definition provided by Dr. Robert Lustig in one of his interviews. He describes food as &lt;strong&gt;&amp;ldquo;a substrate that contributes to either the growth or burning of an organism.&amp;rdquo;&lt;/strong&gt; This means that food serves a purpose — either as energy or as a contributor to bodily growth. However, fructose, a common sweetener, inhibits this process and is present in 73% of items in the American grocery store.&lt;/p&gt;
@@ -750,7 +876,7 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/teaching/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;When a child asks for a bag of sweets once a week, we can question whether that truly qualifies as food. Few people consume exclusively real foods, so where is the balance?&lt;/p&gt;
@@ -803,7 +929,7 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/teaching/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The NOVA classification system is a food classification tool based on the level of processing that food items undergo. Developed by researchers at the University of São Paulo in Brazil, NOVA categorizes foods into four groups:&lt;/p&gt;
@@ -899,7 +1025,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/teaching/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Many modern food processing procedures, such as using high heat on vegetable oils and combining sugar with proteins, produce harmful compounds known as Advanced Glycation End Products (AGEs). These compounds, while palatable, can accelerate the internal aging process (similar to rusting) and lead to various health issues. Dr. Pradip Jamnadas&amp;rsquo;s clear lecture on this topic opened my eyes to the necessity of relearning proper food processing techniques, making it vital to protect the healthy foods we work hard to acquire.&lt;/p&gt;
@@ -921,7 +1047,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/teaching/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;keep-on-learning-never-stop&#34;&gt;Keep on learning, never stop!&lt;/h2&gt;

@@ -1059,6 +1059,62 @@
 
 
 
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
 
 
 
@@ -1229,6 +1285,13 @@
       
       
       
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
 
       
       
@@ -1303,6 +1366,8 @@
   </nav>
 </header>
 
+
+<div id="search" class="hidden p-3"></div>
 
 
         
@@ -1702,10 +1767,10 @@
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/information/post/information/sources_hu15211023703983630110.webp 400w,
-               /en/post/information/post/information/sources_hu14259804365668597782.webp 760w,
+               /en/post/information/post/information/sources_hu2885125570626894921.webp 400w,
+               /en/post/information/post/information/sources_hu4574939387148463147.webp 760w,
                /en/post/information/post/information/sources_hu1004073634946449116.webp 1200w"
-               src="/en/post/information/post/information/sources_hu15211023703983630110.webp"
+               src="/en/post/information/post/information/sources_hu2885125570626894921.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -1739,10 +1804,10 @@
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/information/post/information/credibility_hu17896565363203966601.webp 400w,
-               /en/post/information/post/information/credibility_hu10012592325065262459.webp 760w,
+               /en/post/information/post/information/credibility_hu11030024400587255219.webp 400w,
+               /en/post/information/post/information/credibility_hu1509639326146487821.webp 760w,
                /en/post/information/post/information/credibility_hu17555536432391745573.webp 1200w"
-               src="/en/post/information/post/information/credibility_hu17896565363203966601.webp"
+               src="/en/post/information/post/information/credibility_hu11030024400587255219.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -1774,10 +1839,10 @@
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/information/post/information/bias_hu4241839518923316768.webp 400w,
-               /en/post/information/post/information/bias_hu4932445702513029172.webp 760w,
+               /en/post/information/post/information/bias_hu988352355585877245.webp 400w,
+               /en/post/information/post/information/bias_hu13732291745982661425.webp 760w,
                /en/post/information/post/information/bias_hu7006576616403561896.webp 1200w"
-               src="/en/post/information/post/information/bias_hu4241839518923316768.webp"
+               src="/en/post/information/post/information/bias_hu988352355585877245.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -1810,10 +1875,10 @@
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/information/post/information/social_hu14157980375869135179.webp 400w,
-               /en/post/information/post/information/social_hu18394347476140713644.webp 760w,
+               /en/post/information/post/information/social_hu11930162465824126857.webp 400w,
+               /en/post/information/post/information/social_hu2383784768021433870.webp 760w,
                /en/post/information/post/information/social_hu16524696365989396359.webp 1200w"
-               src="/en/post/information/post/information/social_hu14157980375869135179.webp"
+               src="/en/post/information/post/information/social_hu11930162465824126857.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -1846,10 +1911,10 @@
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/information/post/information/open_hu2778278246473678004.webp 400w,
-               /en/post/information/post/information/open_hu3982667922132316916.webp 760w,
+               /en/post/information/post/information/open_hu1020789361591823764.webp 400w,
+               /en/post/information/post/information/open_hu9314527732018134115.webp 760w,
                /en/post/information/post/information/open_hu9530096137217501035.webp 1200w"
-               src="/en/post/information/post/information/open_hu2778278246473678004.webp"
+               src="/en/post/information/post/information/open_hu1020789361591823764.webp"
                width="504"
                height="760"
                loading="lazy" data-zoomable /></div>
@@ -1881,10 +1946,10 @@
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/information/post/information/ai_hu11410230326893792799.webp 400w,
-               /en/post/information/post/information/ai_hu17400887219849410937.webp 760w,
+               /en/post/information/post/information/ai_hu15047762487584012263.webp 400w,
+               /en/post/information/post/information/ai_hu12079778686655185127.webp 760w,
                /en/post/information/post/information/ai_hu5088898830553771726.webp 1200w"
-               src="/en/post/information/post/information/ai_hu11410230326893792799.webp"
+               src="/en/post/information/post/information/ai_hu15047762487584012263.webp"
                width="760"
                height="428"
                loading="lazy" data-zoomable /></div>
@@ -1928,10 +1993,10 @@
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/information/post/information/misinformation_hu15331542001218251393.webp 400w,
-               /en/post/information/post/information/misinformation_hu1238154725767206925.webp 760w,
+               /en/post/information/post/information/misinformation_hu10458511445237424244.webp 400w,
+               /en/post/information/post/information/misinformation_hu13319867737015523285.webp 760w,
                /en/post/information/post/information/misinformation_hu4735096666629943379.webp 1200w"
-               src="/en/post/information/post/information/misinformation_hu15331542001218251393.webp"
+               src="/en/post/information/post/information/misinformation_hu10458511445237424244.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>

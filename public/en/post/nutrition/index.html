@@ -1059,6 +1059,62 @@
 
 
 
+<link type="text/css" rel="stylesheet" href="/dist/pagefind/pagefind-ui.be766eb419317a14ec769d216e9779bfe8f3737c80e780f4ba0dafb57a41a482.css" integrity="sha256-vnZutBkxehTsdp0hbpd5v&#43;jzc3yA54D0ug2vtXpBpII=" />
+
+
+<script src="/dist/pagefind/pagefind-ui.87693d7c6f2b3b347ce359d0ede762c033419f0a32b22ce508c335a81d841f1b.js" integrity="sha256-h2k9fG8rOzR841nQ7ediwDNBnwoysizlCMM1qB2EHxs="></script>
+
+
+<script>window.hbb.pagefind = {"baseUrl":"/"};</script>
+
+<style>
+  html.dark {
+    --pagefind-ui-primary: #eeeeee;
+    --pagefind-ui-text: #eeeeee;
+    --pagefind-ui-background: #152028;
+    --pagefind-ui-border: #152028;
+    --pagefind-ui-tag: #152028;
+  }
+</style>
+
+<script>
+  window.addEventListener('DOMContentLoaded', (event) => {
+    new PagefindUI({
+      element: "#search",
+      showSubResults: true,
+      baseUrl: window.hbb.pagefind.baseUrl,
+      bundlePath: window.hbb.pagefind.baseUrl + "pagefind/",
+    });
+  });
+  document.addEventListener('DOMContentLoaded', () => {
+    let element = document.getElementById('search');
+    let trigger = document.getElementById('search_toggle');
+
+    if (trigger) {
+      trigger.addEventListener('click', () => {
+        element.classList.toggle('hidden');
+        element.querySelector("input").value = ""
+        element.querySelector("input").focus()
+
+        if (!element.classList.contains('hidden')) {
+          let clear_trigger = document.querySelector('.pagefind-ui__search-clear');
+
+          if (clear_trigger && !clear_trigger.hasAttribute('listenerOnClick')) {
+            clear_trigger.setAttribute('listenerOnClick', 'true');
+
+            clear_trigger.addEventListener('click', () => {
+              element.classList.toggle('hidden');
+            });
+          }
+        }
+
+      });
+    }
+  });
+</script>
+
+
+
 
 
 
@@ -1229,6 +1285,13 @@
       
       
       
+      <button
+        aria-label="search"
+        class="text-black hover:text-primary  inline-block px-3 text-xl dark:text-white"
+        id="search_toggle">
+        <svg xmlns="http://www.w3.org/2000/svg" height="16" width="16" viewBox="0 0 512 512" fill="currentColor"><path d="M416 208c0 45.9-14.9 88.3-40 122.7L502.6 457.4c12.5 12.5 12.5 32.8 0 45.3s-32.8 12.5-45.3 0L330.7 376c-34.4 25.2-76.8 40-122.7 40C93.1 416 0 322.9 0 208S93.1 0 208 0S416 93.1 416 208zM208 352a144 144 0 1 0 0-288 144 144 0 1 0 0 288z"/></svg>
+      </button>
+      
 
       
       
@@ -1303,6 +1366,8 @@
   </nav>
 </header>
 
+
+<div id="search" class="hidden p-3"></div>
 
 
         
@@ -1911,10 +1976,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/fats_hu9589066843147877546.webp 400w,
-               /en/post/nutrition/post/nutrition/fats_hu7202162565778205278.webp 760w,
+               /en/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp 400w,
+               /en/post/nutrition/post/nutrition/fats_hu14967968740712839398.webp 760w,
                /en/post/nutrition/post/nutrition/fats_hu14168891548557644008.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/fats_hu9589066843147877546.webp"
+               src="/en/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -1948,10 +2013,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/protein_hu1089760257020043367.webp 400w,
-               /en/post/nutrition/post/nutrition/protein_hu2175584165695191701.webp 760w,
+               /en/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp 400w,
+               /en/post/nutrition/post/nutrition/protein_hu3985988088946675115.webp 760w,
                /en/post/nutrition/post/nutrition/protein_hu2622240787389504942.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/protein_hu1089760257020043367.webp"
+               src="/en/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -1983,10 +2048,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/vegetables_hu6086151786825353243.webp 400w,
-               /en/post/nutrition/post/nutrition/vegetables_hu3139535828188168110.webp 760w,
+               /en/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp 400w,
+               /en/post/nutrition/post/nutrition/vegetables_hu9729150114698812687.webp 760w,
                /en/post/nutrition/post/nutrition/vegetables_hu637668811460900936.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/vegetables_hu6086151786825353243.webp"
+               src="/en/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp"
                width="760"
                height="570"
                loading="lazy" data-zoomable /></div>
@@ -2017,10 +2082,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/fermented_hu12804840359956024772.webp 400w,
-               /en/post/nutrition/post/nutrition/fermented_hu15494172719734753996.webp 760w,
+               /en/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp 400w,
+               /en/post/nutrition/post/nutrition/fermented_hu11606051204472981349.webp 760w,
                /en/post/nutrition/post/nutrition/fermented_hu10254971514059385216.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/fermented_hu12804840359956024772.webp"
+               src="/en/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp"
                width="760"
                height="505"
                loading="lazy" data-zoomable /></div>
@@ -2052,10 +2117,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/herbs_hu1270715349985204081.webp 400w,
-               /en/post/nutrition/post/nutrition/herbs_hu14570545250913926735.webp 760w,
+               /en/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp 400w,
+               /en/post/nutrition/post/nutrition/herbs_hu1012424704571459638.webp 760w,
                /en/post/nutrition/post/nutrition/herbs_hu1608450799210159914.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/herbs_hu1270715349985204081.webp"
+               src="/en/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -2171,10 +2236,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/listen_hu6416728041195769979.webp 400w,
-               /en/post/nutrition/post/nutrition/listen_hu729754463834980938.webp 760w,
+               /en/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp 400w,
+               /en/post/nutrition/post/nutrition/listen_hu18227554464746987530.webp 760w,
                /en/post/nutrition/post/nutrition/listen_hu4399507923610735876.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/listen_hu6416728041195769979.webp"
+               src="/en/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp"
                width="760"
                height="507"
                loading="lazy" data-zoomable /></div>
@@ -2204,10 +2269,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/electrolyte_hu14316003360608638055.webp 400w,
-               /en/post/nutrition/post/nutrition/electrolyte_hu2433472045256354930.webp 760w,
+               /en/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp 400w,
+               /en/post/nutrition/post/nutrition/electrolyte_hu13722727442810410052.webp 760w,
                /en/post/nutrition/post/nutrition/electrolyte_hu8213822077752006104.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/electrolyte_hu14316003360608638055.webp"
+               src="/en/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp"
                width="760"
                height="410"
                loading="lazy" data-zoomable /></div>
@@ -2237,10 +2302,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/move_hu15571933838873732689.webp 400w,
-               /en/post/nutrition/post/nutrition/move_hu13580193587892321287.webp 760w,
+               /en/post/nutrition/post/nutrition/move_hu17565910668030462789.webp 400w,
+               /en/post/nutrition/post/nutrition/move_hu609616498681504825.webp 760w,
                /en/post/nutrition/post/nutrition/move_hu15022939752702117903.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/move_hu15571933838873732689.webp"
+               src="/en/post/nutrition/post/nutrition/move_hu17565910668030462789.webp"
                width="507"
                height="760"
                loading="lazy" data-zoomable /></div>
@@ -2268,10 +2333,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/strength_hu7387953887702687580.webp 400w,
-               /en/post/nutrition/post/nutrition/strength_hu12783822110022360629.webp 760w,
+               /en/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp 400w,
+               /en/post/nutrition/post/nutrition/strength_hu16000315351690534739.webp 760w,
                /en/post/nutrition/post/nutrition/strength_hu15557592185333769305.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/strength_hu7387953887702687580.webp"
+               src="/en/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp"
                width="760"
                height="475"
                loading="lazy" data-zoomable /></div>
@@ -2355,10 +2420,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/1_hu7295552431559222965.webp 400w,
-               /en/post/nutrition/post/nutrition/1_hu17636480614757447630.webp 760w,
+               /en/post/nutrition/post/nutrition/1_hu12608306184696674095.webp 400w,
+               /en/post/nutrition/post/nutrition/1_hu13957937632408086842.webp 760w,
                /en/post/nutrition/post/nutrition/1_hu7339280858994939310.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/1_hu7295552431559222965.webp"
+               src="/en/post/nutrition/post/nutrition/1_hu12608306184696674095.webp"
                width="760"
                height="348"
                loading="lazy" data-zoomable /></div>
@@ -2384,10 +2449,10 @@ Almond bread sandwich with sour cream, onions, tomatoes, and Gyulai sausage:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/2_hu17932122186961486236.webp 400w,
-               /en/post/nutrition/post/nutrition/2_hu8332095430823853907.webp 760w,
+               /en/post/nutrition/post/nutrition/2_hu8531501771588726305.webp 400w,
+               /en/post/nutrition/post/nutrition/2_hu6929092539650891298.webp 760w,
                /en/post/nutrition/post/nutrition/2_hu6580774699507192645.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/2_hu17932122186961486236.webp"
+               src="/en/post/nutrition/post/nutrition/2_hu8531501771588726305.webp"
                width="681"
                height="690"
                loading="lazy" data-zoomable /></div>
@@ -2413,10 +2478,10 @@ Almond bread with veggies, sautéed butter-garlic mushrooms, and sour cream:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/3_hu13213931281287685181.webp 400w,
-               /en/post/nutrition/post/nutrition/3_hu1501246515493882298.webp 760w,
+               /en/post/nutrition/post/nutrition/3_hu14624479402397347917.webp 400w,
+               /en/post/nutrition/post/nutrition/3_hu9575846244799456290.webp 760w,
                /en/post/nutrition/post/nutrition/3_hu1049859194176989066.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/3_hu13213931281287685181.webp"
+               src="/en/post/nutrition/post/nutrition/3_hu14624479402397347917.webp"
                width="723"
                height="755"
                loading="lazy" data-zoomable /></div>
@@ -2442,10 +2507,10 @@ Indian butter chicken with vegetables and almond bread:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/4_hu14411492013708591839.webp 400w,
-               /en/post/nutrition/post/nutrition/4_hu16126186096658890982.webp 760w,
+               /en/post/nutrition/post/nutrition/4_hu11476022687597826362.webp 400w,
+               /en/post/nutrition/post/nutrition/4_hu13297248705405095904.webp 760w,
                /en/post/nutrition/post/nutrition/4_hu16788571616751026126.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/4_hu14411492013708591839.webp"
+               src="/en/post/nutrition/post/nutrition/4_hu11476022687597826362.webp"
                width="760"
                height="644"
                loading="lazy" data-zoomable /></div>
@@ -2471,10 +2536,10 @@ Ketogenic pizza with almond bread crust, tomatoes, mushrooms, onions, ham and mo
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/5_hu7908677959939622019.webp 400w,
-               /en/post/nutrition/post/nutrition/5_hu16637193950743925776.webp 760w,
+               /en/post/nutrition/post/nutrition/5_hu10308305180695310753.webp 400w,
+               /en/post/nutrition/post/nutrition/5_hu7642898172156540297.webp 760w,
                /en/post/nutrition/post/nutrition/5_hu9679629861536622174.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/5_hu7908677959939622019.webp"
+               src="/en/post/nutrition/post/nutrition/5_hu10308305180695310753.webp"
                width="609"
                height="515"
                loading="lazy" data-zoomable /></div>
@@ -2500,10 +2565,10 @@ Omelet with a vegetable salad dressed in olive oil, and a Transylvanian specialt
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/6_hu3900382206910618387.webp 400w,
-               /en/post/nutrition/post/nutrition/6_hu4105360179061590534.webp 760w,
+               /en/post/nutrition/post/nutrition/6_hu11180730075905629242.webp 400w,
+               /en/post/nutrition/post/nutrition/6_hu5435293754586230483.webp 760w,
                /en/post/nutrition/post/nutrition/6_hu4829253932576020461.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/6_hu3900382206910618387.webp"
+               src="/en/post/nutrition/post/nutrition/6_hu11180730075905629242.webp"
                width="759"
                height="760"
                loading="lazy" data-zoomable /></div>
@@ -2529,10 +2594,10 @@ Rich degustation menu featuring zakuszka, Transylvanian eggplant cream, olive oi
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/7_hu11043739664910269457.webp 400w,
-               /en/post/nutrition/post/nutrition/7_hu9841240885608128812.webp 760w,
+               /en/post/nutrition/post/nutrition/7_hu13657338855798430253.webp 400w,
+               /en/post/nutrition/post/nutrition/7_hu2599764494827034775.webp 760w,
                /en/post/nutrition/post/nutrition/7_hu17807350305445368486.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/7_hu11043739664910269457.webp"
+               src="/en/post/nutrition/post/nutrition/7_hu13657338855798430253.webp"
                width="760"
                height="597"
                loading="lazy" data-zoomable /></div>
@@ -2558,10 +2623,10 @@ A simple kale tortilla filled with butter, cheese, onions, tomatoes, boiled eggs
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/8_hu9831398023562049211.webp 400w,
-               /en/post/nutrition/post/nutrition/8_hu9147966054785200687.webp 760w,
+               /en/post/nutrition/post/nutrition/8_hu12986442913084533514.webp 400w,
+               /en/post/nutrition/post/nutrition/8_hu1108794753218047171.webp 760w,
                /en/post/nutrition/post/nutrition/8_hu8930888672803234106.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/8_hu9831398023562049211.webp"
+               src="/en/post/nutrition/post/nutrition/8_hu12986442913084533514.webp"
                width="760"
                height="607"
                loading="lazy" data-zoomable /></div>
@@ -2587,10 +2652,10 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
 <figure  >
   <div class="flex justify-center	">
     <div class="w-100" ><img alt="Alt text" srcset="
-               /en/post/nutrition/post/nutrition/9_hu15502934675455540434.webp 400w,
-               /en/post/nutrition/post/nutrition/9_hu690815878437239830.webp 760w,
+               /en/post/nutrition/post/nutrition/9_hu3227929631295161984.webp 400w,
+               /en/post/nutrition/post/nutrition/9_hu7450178928638385947.webp 760w,
                /en/post/nutrition/post/nutrition/9_hu5274547627687762576.webp 1200w"
-               src="/en/post/nutrition/post/nutrition/9_hu15502934675455540434.webp"
+               src="/en/post/nutrition/post/nutrition/9_hu3227929631295161984.webp"
                width="760"
                height="568"
                loading="lazy" data-zoomable /></div>
