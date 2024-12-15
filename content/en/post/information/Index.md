@@ -59,7 +59,7 @@ In an age where information flows freely at the click of a button, staying infor
 
 ### 1. **Diversify Your Sources**
 
-![Alt text](/teaching/information/sources.jpg)
+![Alt text](/post/information/sources.jpg)
 
 One of the best ways to gain a well-rounded view of any topic is to rely on multiple sources of information. Consider various types of sources, such as:
 
@@ -71,7 +71,7 @@ One of the best ways to gain a well-rounded view of any topic is to rely on mult
 
 ### 2. **Check the Credibility of Sources**
 
-![Alt text](/teaching/information/credibility.jpg)
+![Alt text](/post/information/credibility.jpg)
 
 Not all information is created equal. Before accepting information as fact, consider the following:
 
@@ -81,7 +81,7 @@ Not all information is created equal. Before accepting information as fact, cons
 
 ### 3. **Be Aware of Bias**
 
-![Alt text](/teaching/information/bias.jpg)
+![Alt text](/post/information/bias.jpg)
 
 Every source has its own perspective and bias. Here’s how to recognize and account for bias:
 
@@ -93,7 +93,7 @@ Understanding how bias can affect interpretation is crucial—acknowledging that
 
 ### 4. **Engage with Social Media Wisely**
 
-![Alt text](/teaching/information/social.jpg)
+![Alt text](/post/information/social.jpg)
 
 Social media is a double-edged sword. While it can spread awareness quickly, it can also perpetuate misinformation. To use social media effectively:
 
@@ -104,7 +104,7 @@ Social media is a double-edged sword. While it can spread awareness quickly, it 
 
 ### 5. **Stay Curious and Open-Minded**
 
-![Alt text](/teaching/information/open.jpg)
+![Alt text](/post/information/open.jpg)
 
 A curious mind is a powerful tool for learning. Approach information with an open mind:
 
@@ -114,7 +114,7 @@ A curious mind is a powerful tool for learning. Approach information with an ope
 
 ### 6. **Be Cautious of Overreliance on Social Media and AI**
 
-![Alt text](/teaching/information/ai.jpg)
+![Alt text](/post/information/ai.jpg)
 
 While social media and AI tools can provide quick access to information, it’s crucial to recognize the potential dangers of overreliance on these platforms. They can reinforce existing biases and create echo chambers, limiting our exposure to diverse viewpoints. Just as an ant will not overstep the circle drawn around it until it accidentally crosses the line, we can become confined by our own mental barriers. Therefore, it is essential to step outside these confines and verify facts independently.
 
@@ -127,7 +127,7 @@ We must not relinquish our responsibility to verify facts for ourselves. In a wo
 
 ### 7. **Protect Yourself from Misinformation**
 
-![Alt text](/teaching/information/misinformation.jpg)
+![Alt text](/post/information/misinformation.jpg)
 
 In today’s information landscape, it's vital to be aware of misinformation, including misleading news, false reports, and conspiracy theories. The internet facilitates the rapid spread of false information, making it easy to inadvertently share inaccurate news. To combat this:
 
@@ -154,7 +154,7 @@ In our fast-paced world, staying well-informed demands both effort and discernme
 As we continue to learn, it's essential to acknowledge that our understanding is always evolving. What we once accepted as facts may change as we encounter new information. Embracing this humility allows us to grow and adapt in our pursuit of truth. Stay proactive in your quest for knowledge, and remain open to the possibilities that new insights may bring.
 
 
-___________________________________________________________
+---
 
 **Disclaimer:**
 

@@ -167,6 +167,6 @@ Es gibt unzählige Erfolgsgeschichten um uns herum, die zeigen, dass diejenigen,
 
 ![Alt text](/bye.png) 
 
-____________________________________________________________________________________
+---
 
 **Haftungsausschluss:** Die hier zur Verfügung gestellten Informationen dienen nur zu Bildungs- und Informationszwecken und sollten nicht als medizinische oder ernährungsbezogene Ratschläge angesehen werden. Ich bin kein Arzt oder zugelassener Gesundheitsexperte und kein Ernährungsberater. Daher kann ich keine Verantwortung für den veröffentlichten Inhalt übernehmen, auch wenn ich mich bemüht habe, sachliche Informationen zu liefern, die auf meinen Studien zu gesundheitsbezogenen Themen und den Erkenntnissen qualifizierter Fachleute beruhen. Wende dich immer an einen qualifizierten Gesundheitsdienstleister, wenn du medizinische Bedenken, Behandlungsmöglichkeiten oder Fragen zu deiner Gesundheit hast. Sich ausschließlich auf diese Informationen zu verlassen, kann für deine individuelle Situation ungeeignet sein.

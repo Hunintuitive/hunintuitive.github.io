@@ -71,13 +71,13 @@ slides: example
 
 5. **Neuroticizmus**: A neuroticizmus az érzelmi stabilitással és a rugalmassággal függ össze. A magas neuroticizmussal rendelkező egyéneknél előfordulhatnak hangulatingadozások, szorongás és érzelmi instabilitás, míg azok, akik alacsony pontszámot érnek el ebben a tulajdonságban, általában nyugodtabbak és stabilabbak az érzelmi reakcióikban.
 
-## Miért előnyösebb a Big Five az MBTI-jal szemben?
+## Miért előnyösebb a Big Five az MBTI-al szemben?
 
 A Big Five modellt több okból is pontosabbnak tartják, mint a Myers-Briggs Típusindikátort (MBTI):
 
 1. **Empirikus támogatás**: A Big Five modellt kiterjedt pszichológiai kutatások támasztják alá, amelyek bizonyítják érvényességét különböző kultúrákban és populációkban. Megbízhatóan előrejelzi a viselkedést, a munkahelyi teljesítményt és az interperszonális kapcsolatokat.
 
-2. **Kontinuum kontra dichotómia**: Az MBTI-jal ellentétben, amely szigorúan introvertált vagy extravertált személyeket kategorizál, a Big Five egy kontinuum mentén működik. Ez lehetővé teszi a személyiségjegyek árnyaltabb megértését, felismerve, hogy az egyének bárhová tartozhatnak a spektrumon.
+2. **Kontinuum kontra dichotómia**: Az MBTI-al ellentétben, amely szigorúan introvertált vagy extravertált személyeket kategorizál, a Big Five egy kontinuum mentén működik. Ez lehetővé teszi a személyiségjegyek árnyaltabb megértését, felismerve, hogy az egyének bárhová tartozhatnak a spektrumon.
 
 3. **Stabilitás és kiszámíthatóság**: A Big Five vonások stabilnak bizonyultak az idők során, és képesek megjósolni különböző életkilátásokat, beleértve az egészséget, a tanulmányi sikert és a munkahelyi teljesítményt. Ezzel szemben az MBTI rögzített típusai nem feltétlenül ragadják meg a személyiség dinamikus természetét.
 
@@ -161,7 +161,7 @@ Az előnyök ellenére a pszichológiai tesztek különböző tényezők miatt n
 
 A Big Five személyiségjegyek szilárd modellt nyújtanak az emberi személyiség megértéséhez. Empirikus alátámasztással és gyakorlati alkalmazásokkal ez a modell segíti az egyének és a szervezetek személyes fejlődését, a csapatdinamika javítását és a jobb személyközi kapcsolatok kialakítását. Ugyanakkor elengedhetetlen, hogy a pszichológiai teszteléshez úgy közelítsünk, hogy tisztában legyünk annak korlátaival és a pontosságot befolyásoló tényezőkkel, biztosítva az eredmények átgondolt és kontextuális értelmezését.
 
-[Töltsd ki a tesztet](https://prismocean.com/free-test/)
+[Töltsd ki a tesztet - sajnos csak angolul elérhető](https://prismocean.com/free-test/)
 
 ---
 

@@ -168,7 +168,7 @@ Számtalan sikertörténet van körülöttünk, amelyek rávilágítanak arra, h
 
 ![Alt text](/bye.png) 
 
-____________________________________________________________________________________
+---
 
 **Jogi nyilatkozat:** Az itt közölt információk kizárólag oktatási és tájékoztatási célokat szolgálnak, és nem tekinthetők orvosi vagy táplálkozási tanácsadásnak. Nem vagyok orvos vagy egészségügyi szakember, és nem vagyok táplálkozási szakember. Ezért nem tudok felelősséget vállalni a közzétett tartalomért, még akkor sem, ha minden tőlem telhetőt megtettem annak érdekében, hogy tényszerű információkat nyújtsak, melyek az egészségre vonatkozó témákkal kapcsolatos tanulmányaimon és a képzett szakemberek megállapításain alapulnak. Mindig fordulj szakképzett egészségügyi szolgáltatóhoz bármilyen egészségügyi problémával, kezelési lehetőséggel vagy egészségeddel kapcsolatos kérdéssel kapcsolatban. Csak ezekre az információkra hagyatkozva nem biztos, hogy megfelelő információt találsz az egyéni körülményeidre vonatkozóan.
 

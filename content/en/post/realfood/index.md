@@ -71,13 +71,13 @@ Recognizing these questions is a crucial first step toward lasting change. Join 
 
 ## Defining Food: What Should We Consume?
 
-![Alt text](/en/teaching/realfood/real.jpg)
+![Alt text](/en/post/realfood/real.jpg)
 
 To understand what real food is, let's refer to an insightful definition provided by Dr. Robert Lustig in one of his interviews. He describes food as **"a substrate that contributes to either the growth or burning of an organism."** This means that food serves a purpose — either as energy or as a contributor to bodily growth. However, fructose, a common sweetener, inhibits this process and is present in 73% of items in the American grocery store.
 
 Dr. Lustig further explains that ultra-processed foods inhibit growth — particularly skeletal and bone growth, which can lead to osteoporosis. Therefore, if a substance does not contribute to growth or energy utilization, can it truly be considered food? We must educate ourselves to recognize that ultra-processed foods are not healthy options, regardless of what the food industry claims.
 
-![Alt text](/en/teaching/realfood/product.jpg)
+![Alt text](/en/post/realfood/product.jpg)
 
 When a child asks for a bag of sweets once a week, we can question whether that truly qualifies as food. Few people consume exclusively real foods, so where is the balance?
 
@@ -119,7 +119,7 @@ Maintaining a balanced diet — including a variety of **real foods from all the
 
 ## How to Choose the Proper "Real Foods"
 
-![Alt text](/en/teaching/realfood/grocery.jpg)
+![Alt text](/en/post/realfood/grocery.jpg)
 
 The NOVA classification system is a food classification tool based on the level of processing that food items undergo. Developed by researchers at the University of São Paulo in Brazil, NOVA categorizes foods into four groups:
 1.	**Unprocessed or minimally processed foods:** These are natural foods that have been modified only in ways that do not change their basic properties. Examples include fresh fruits, vegetables, grains, meats, and milk.
@@ -191,11 +191,11 @@ The balance between ketosis and glucose metabolism is very important in maintain
    - in moderation, full-fat fermented dairy products, various cheeses, cottage cheese, sour cream, preferably from naturally reared animals.
 
 **Cook, bake, prepare at home if possible, using ingredients that you know are real food.**
-![Alt text](/en/teaching/realfood/home.jpg)
+![Alt text](/en/post/realfood/home.jpg)
 
 Many modern food processing procedures, such as using high heat on vegetable oils and combining sugar with proteins, produce harmful compounds known as Advanced Glycation End Products (AGEs). These compounds, while palatable, can accelerate the internal aging process (similar to rusting) and lead to various health issues. Dr. Pradip Jamnadas's clear lecture on this topic opened my eyes to the necessity of relearning proper food processing techniques, making it vital to protect the healthy foods we work hard to acquire.
 
-![Alt text](/en/teaching/realfood/barbecue.jpg)
+![Alt text](/en/post/realfood/barbecue.jpg)
 
 ## Keep on learning, never stop!
 
@@ -206,7 +206,7 @@ And while it is certainly not easy to navigate this rather difficult landscape, 
 # May this article guide you toward a healthier lifestyle and assist you in making better choices for yourself and your loved ones!
 
 
-_______________________________________________________
+---
 
 ## You Tube sources to all the above if you want to research more:
 
@@ -241,7 +241,8 @@ _______________________________________________________
 
 
 ## I encourage you to explore more videos on these topics from these amazing individuals!
-___________________________________________________________
+
+---
 
 **Disclaimer:** The information provided here is for educational and informational purposes only and should not be considered medical or nutritional advice. I am not a doctor or a licensed healthcare professional, and I am not a nutritionist. Therefore, I cannot take responsibility for the content published, even though I have made every effort to provide factual information based on my studies of health-related topics and the findings of qualified professionals. Always consult with a qualified healthcare provider for any medical concerns, treatment options, or questions regarding your health. Relying solely on this information may not be appropriate for your individual circumstances.
 

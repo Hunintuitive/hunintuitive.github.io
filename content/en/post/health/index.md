@@ -165,7 +165,7 @@ There are countless success stories around us, highlighting that those who achie
 
 ![Alt text](/bye.png) 
 
-____________________________________________________________________________________
+---
 
 **Disclaimer:** The information provided here is for educational and informational purposes only and should not be considered medical or nutritional advice. I am not a doctor or a licensed healthcare professional, and I am not a nutritionist. Therefore, I cannot take responsibility for the content published, even though I have made every effort to provide factual information based on my studies of health-related topics and the findings of qualified professionals. Always consult with a qualified healthcare provider for any medical concerns, treatment options, or questions regarding your health. Relying solely on this information may not be appropriate for your individual circumstances.
 

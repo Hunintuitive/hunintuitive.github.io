@@ -59,7 +59,7 @@ In einem Zeitalter, in dem Informationen per Mausklick frei fließen, kann es ü
 
 ### 1. **Diversifiziere deine Quellen**
 
-![Alt text](/teaching/information/sources.jpg)
+![Alt text](/post/information/sources.jpg)
 
 Eine der besten Möglichkeiten, sich einen umfassenden Überblick über ein Thema zu verschaffen, besteht darin, mehrere Informationsquellen heranzuziehen. Ziehe verschiedene Arten von Quellen in Betracht, wie z. B.:
 
@@ -71,7 +71,7 @@ Eine der besten Möglichkeiten, sich einen umfassenden Überblick über ein Them
 
 ### 2. **Prüfe die Glaubwürdigkeit deiner Quellen**
 
-![Alt text](/teaching/information/credibility.jpg)
+![Alt text](/post/information/credibility.jpg)
 
 Nicht alle Informationen sind gleich. Bevor du eine Information als Tatsache akzeptierst, solltest du Folgendes beachten:
 
@@ -81,7 +81,7 @@ Nicht alle Informationen sind gleich. Bevor du eine Information als Tatsache akz
 
 ### 3. **Sei dir der Voreingenommenheit bewusst**
 
-![Alt text](/teaching/information/bias.jpg)
+![Alt text](/post/information/bias.jpg)
 
 Jede Quelle hat ihre eigene Perspektive und Voreingenommenheit. Hier erfährst du, wie du Voreingenommenheit erkennen und berücksichtigen kannst:
 
@@ -93,7 +93,7 @@ Zu verstehen, wie Voreingenommenheit die Interpretation beeinflussen kann, ist v
 
 ### 4. **Soziale Medien umsichtig nutzen**
 
-![Alt text](/teaching/information/social.jpg)
+![Alt text](/post/information/social.jpg)
 
 Soziale Medien sind ein zweischneidiges Schwert. Sie können zwar das Bewusstsein schnell verbreiten, aber auch Fehlinformationen verbreiten. So kannst du soziale Medien effektiv nutzen:
 
@@ -104,7 +104,7 @@ Soziale Medien sind ein zweischneidiges Schwert. Sie können zwar das Bewusstsei
 
 ### 5. **Neugierig und aufgeschlossen bleiben**
 
-![Alt text](/teaching/information/open.jpg)
+![Alt text](/post/information/open.jpg)
 
 Ein neugieriger Geist ist ein mächtiges Werkzeug zum Lernen. Geh unvoreingenommen an Informationen heran:
 
@@ -115,7 +115,7 @@ Ein neugieriger Geist ist ein mächtiges Werkzeug zum Lernen. Geh unvoreingenomm
 
 ### 6. **Sei vorsichtig, dich nicht zu sehr auf soziale Medien und KI zu verlassen**
 
-![Alt text](/teaching/information/ai.jpg)
+![Alt text](/post/information/ai.jpg)
 
 Soziale Medien und KI-Tools können zwar einen schnellen Zugang zu Informationen bieten, aber es ist wichtig, die potenziellen Gefahren eines übermäßigen Vertrauens in diese Plattformen zu erkennen. Sie können bestehende Vorurteile verstärken und 'Echokammern' schaffen, die unseren Zugang zu unterschiedlichen Standpunkten einschränken. So wie eine Ameise den Kreis, der um sie herum gezeichnet wurde, erst dann überschreitet, wenn sie versehentlich die Linie übertritt, können auch wir durch unsere eigenen mentalen Barrieren eingeschränkt werden. Deshalb ist es wichtig, diese Grenzen zu überwinden und Fakten unabhängig zu überprüfen.
 
@@ -127,7 +127,7 @@ Wir dürfen uns nicht aus der Verantwortung stehlen, Fakten selbst zu überprüf
 
 ### 7. **Schütze dich vor Fehlinformationen**
 
-![Alt text](/teaching/information/misinformation.jpg)
+![Alt text](/post/information/misinformation.jpg)
 
 In der heutigen Informationslandschaft ist es unerlässlich, sich vor Fehlinformationen wie irreführenden Nachrichten, Falschmeldungen und Verschwörungstheorien zu hüten. Das Internet erleichtert die rasche Verbreitung von Falschinformationen und macht es leicht, versehentlich falsche Nachrichten zu verbreiten. Um dem entgegenzuwirken, solltest du Folgendes beachten:
 
@@ -158,7 +158,7 @@ In unserer schnelllebigen Welt muss man sich anstrengen, um gut informiert zu bl
 Während wir weiter lernen, ist es wichtig zu erkennen, dass sich unser Verständnis immer weiterentwickelt. Was wir anfangs als Fakten akzeptiert haben, kann sich ändern, sobald wir auf neue Informationen stoßen. Wenn wir diese Bescheidenheit wahren, können wir in unserem Streben nach Wahrheit wachsen und uns anpassen. Bleib proaktiv in deinem Streben nach Wissen und bleibe offen für die Möglichkeiten, die neue Erkenntnisse mit sich bringen können.
 
 
-___________________________________________________________
+---
 
 **Haftungsausschluss:**
 

@@ -71,13 +71,13 @@ Diese Fragen zu erkennen, ist ein wichtiger erster Schritt zu einer dauerhaften 
 
 ## Lebensmittel definieren: Was sollten wir als Nahrung zu uns nehmen?
 
-![Alt text](/de/teaching/realfood/real.jpg)
+![Alt text](/de/post/realfood/real.jpg)
 
 Um zu verstehen, was echte Lebensmittel sind, sollten wir uns auf eine aufschlussreiche Definition beziehen, die Dr. Robert Lustig in einem seiner Interviews gegeben hat. Er beschreibt Nahrung als **“ eine Substanz, die entweder zum Wachstum oder zur Verbrennung (von Energie) in einem Organismus beiträgt “.** Das bedeutet, dass Nahrung einem Zweck dient - entweder als Energie oder als Beitrag zum körperlichen Wachstum. Fruktose, ein gängiger Süßstoff, hemmt jedoch diesen Prozess und ist in 73 % der Produkte in amerikanischen Lebensmittelgeschäften enthalten.
 
 Dr. Lustig erklärt weiter, dass extrem verarbeitete Lebensmittel das Wachstum hemmen - insbesondere das Wachstum von Skelett und Knochen, was zu Osteoporose führen kann. Wenn also eine Substanz nicht zum Wachstum oder zur Energieverwertung beiträgt, kann man sie dann wirklich als Lebensmittel bezeichnen? Wir müssen uns bewusst machen, dass extrem verarbeitete Lebensmittel nicht gesund sind, egal was die Lebensmittelindustrie behauptet.
 
-![Alt text](/de/teaching/realfood/product.jpg)
+![Alt text](/de/post/realfood/product.jpg)
 
 Wenn ein Kind einmal in der Woche um eine Tüte Süßigkeiten bittet, können wir uns fragen, ob das wirklich als Nahrung gilt. Nur wenige Menschen verzehren ausschließlich echte Lebensmittel, wo ist hier also das Gleichgewicht?
 
@@ -117,7 +117,7 @@ Eine ausgewogene Ernährung - mit einer Vielzahl von **echten Lebensmitteln aus 
 
 ## Wie man die richtigen „echten Lebensmittel“ auswählen kann
 
-![Alt text](/en/teaching/realfood/grocery.jpg)
+![Alt text](/de/post/realfood/grocery.jpg)
 
 Das NOVA-Klassifizierungssystem ist ein Instrument zur Klassifizierung von Lebensmitteln, das auf dem Grad der Verarbeitung von Lebensmitteln basiert. NOVA wurde von Forschern der Universität von São Paulo in Brasilien entwickelt und teilt Lebensmittel in vier Gruppen ein:
 1.	**Unverarbeitete oder minimal verarbeitete Lebensmittel:** Dies sind natürliche Lebensmittel, die nur in einer Weise verändert wurden, die ihre grundlegenden Eigenschaften nicht beeinträchtigt. Beispiele sind frisches Obst, Gemüse, Getreide, Fleisch und Milch.
@@ -188,11 +188,11 @@ Das Gleichgewicht zwischen Ketose und Glukosestoffwechsel ist für die Erhaltung
    - in Maßen vollfette fermentierte Milchprodukte, verschiedene Käsesorten, Hüttenkäse und saure Sahne, vorzugsweise von Tieren aus natürlicher Aufzucht.
 
 **Koche, backe und bereite zu Hause vor, wenn möglich, mit Zutaten, die du als echte Lebensmittel kennst.**
-![Alt text](/de/teaching/realfood/home.jpg)
+![Alt text](/de/post/realfood/home.jpg)
 
 Bei vielen modernen Lebensmittelverarbeitungsprozessen, wie z. B. der Erhitzung von Pflanzenölen und der Kombination von Zucker mit Proteinen, entstehen schädliche Verbindungen, die als fortgeschrittene Glykationsendprodukte (AGEs) bekannt sind. Diese Verbindungen sind zwar schmackhaft, können aber den inneren Alterungsprozess beschleunigen (ähnlich wie Rost) und zu verschiedenen gesundheitlichen Problemen führen. Dr. Pradip Jamnadas' klarer Vortrag zu diesem Thema öffnete mir die Augen für die Notwendigkeit, die richtige Verarbeitung von Lebensmitteln neu zu erlernen, um die gesunden Lebensmittel zu schützen, für die wir hart gearbeitet haben.
 
-![Alt text](/de/teaching/realfood/barbecue.jpg)
+![Alt text](/de/post/realfood/barbecue.jpg)
 
 ## Lerne weiter, hör nie auf!
 
@@ -203,7 +203,7 @@ Und auch wenn es sicherlich nicht einfach ist, sich in dieser schwierigen Landsc
 # Möge dieser Artikel dich zu einem gesünderen Lebensstil führen und dir dabei helfen, bessere Entscheidungen für dich und deine Lieben zu treffen!
 
 
-_______________________________________________________
+---
 
 ## YouTube-Quellen zu all dem oben genannten, falls du weiter recherchieren möchtestest:
 Empfohlen für diejenigen mit guten Englischkenntnissen, obwohl auch von Google generierte automatische deutsche Übersetzungen verfügbar sind, deren Genauigkeit leider fragwürdig ist.
@@ -239,7 +239,8 @@ Empfohlen für diejenigen mit guten Englischkenntnissen, obwohl auch von Google 
 
 
 ## Ich möchte dich dazu ermutigen, weitere Videos zu diesen Themen von diesen erstaunlichen Menschen zu entdecken!
-___________________________________________________________
+
+---
 
 **Haftungsausschluss:** Die hier zur Verfügung gestellten Informationen dienen nur zu Bildungs- und Informationszwecken und sollten nicht als medizinische oder ernährungsbezogene Ratschläge angesehen werden. Ich bin kein Arzt oder zugelassener Gesundheitsexperte und kein Ernährungsberater. Daher kann ich keine Verantwortung für den veröffentlichten Inhalt übernehmen, auch wenn ich mich bemüht habe, sachliche Informationen zu liefern, die auf meinen Studien zu gesundheitsbezogenen Themen und den Erkenntnissen qualifizierter Fachleute beruhen. Wende dich immer an einen qualifizierten Gesundheitsdienstleister, wenn du medizinische Bedenken, Behandlungsmöglichkeiten oder Fragen zu deiner Gesundheit hast. Sich ausschließlich auf diese Informationen zu verlassen, kann für deine individuelle Situation ungeeignet sein.
 

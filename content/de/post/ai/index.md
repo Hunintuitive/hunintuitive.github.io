@@ -60,7 +60,7 @@ slides: example
 **Dieser Artikel wurde ursprünglich von den Schwierigkeiten inspiriert, die richtige Stelle zu finden, nur um dann festzustellen, wie schädlich der Einsatz von künstlicher Intelligenz in manchen Fällen sein kann. Der Einsatz von KI-Algorithmen in ATS-Systemen (Applicant Tracking System) ist nicht so vorteilhaft, wie manche Leute denken. Ich habe einige interessante Links von YouTube zum Thema KI und ATS-Systeme eingefügt. Sie sind mit englischen, aber automatisch sogar auf Deutsch übersetzten Untertiteln versehen. Viel Spaß beim Lesen!**
 
 
-_________________________________________________________________________________________________
+---
 
 {{< youtube 6nGM37ThEsU >}}
 
@@ -174,6 +174,6 @@ Ich frage mich, ob wir jemals auf den Punkt kommen werden, wie es in den letzten
 {{< youtube 2Zg--ouGl7c >}}
 {{< youtube MJQIQJYxey4 >}}
 
-_________________________________________________________________________________________________
+---
 
 **Haftungsausschluss:** Die in diesem Artikel geäußerten Ansichten spiegeln ausschließlich die Meinung des Autors wider und stellen nicht notwendigerweise die Meinungen oder Überzeugungen einer Organisation oder Zugehörigkeit dar.

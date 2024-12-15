@@ -60,7 +60,7 @@ slides: example
 
 **This article was initially inspired by my struggle to search for an appropriate job, just to find out how detrimental the use of AI in some cases can be. The use of AI algorithms in ATS systems is not so beneficial as some may think. I have also included some interesting links from YouTube on the subject of AI and ATS systems. Have fun reading!**
 
-_________________________________________________________________________________________________
+---
 
 {{< youtube 6nGM37ThEsU >}}
 
@@ -175,7 +175,7 @@ I wonder if we'll ever get the point, like the ending lines of the movie pointed
 {{< youtube 2Zg--ouGl7c >}}
 {{< youtube MJQIQJYxey4 >}}
 
-_________________________________________________________________________________________________
+---
 
 **Disclaimer:** The views expressed in this article solely reflect the opinion of the author and do not necessarily represent the opinions or beliefs of any organization or affiliation.
 

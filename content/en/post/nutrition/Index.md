@@ -102,7 +102,7 @@ While low-carb diets and ketosis can provide health benefits, they may not be su
 ## Foods to Eat
 
 ### 1. **Healthy Fats:**
-![Alt text](/teaching/nutrition/fats.jpg)
+![Alt text](/post/nutrition/fats.jpg)
    - **Avocados**
    - **Olive Oil**
    - **Coconut Oil**
@@ -111,27 +111,27 @@ While low-carb diets and ketosis can provide health benefits, they may not be su
    - **Fatty Fish**: Salmon, mackerel.
 
 ### 2. **Protein Sources:**
-![Alt text](/teaching/nutrition/protein.jpg)
+![Alt text](/post/nutrition/protein.jpg)
    - **Grass-fed Meats**: Beef, lamb.
    - **Pasture-raised Poultry**: Chicken, turkey.
    - **Wild-caught Seafood**
    - **Eggs**: Preferably free-range.
 
 ### 3. **Low-Carbohydrate Vegetables:**
-![Alt text](/teaching/nutrition/vegetables.jpg)
+![Alt text](/post/nutrition/vegetables.jpg)
    - **Leafy Greens**: Spinach, kale, arugula.
    - **Cruciferous Vegetables**: Broccoli, cauliflower, Brussels sprouts.
    - **Other Vegetables**: Bell peppers, zucchini, asparagus, onions.
 
 ### 4. **Fermented Foods:**
-![Alt text](/teaching/nutrition/fermented.jpg)
+![Alt text](/post/nutrition/fermented.jpg)
    - **Sauerkraut**
    - **Kimchi**
    - **Kefir**
    - **Yogurt**: Preferably unsweetened and high-fat.
 
 ### 5. **Herbs and Spices:**
-![Alt text](/teaching/nutrition/herbs.jpg)
+![Alt text](/post/nutrition/herbs.jpg)
    - **Garlic, Turmeric, Oregano, Basil**: Enhance flavors and provide health benefits.
 
 **A good base for determining the foods to eat is to orient yourself towards the foods found in nature, in their natural state, not altered by our diverse "modern" processing techniques, some of which are downright dangerous.**
@@ -220,20 +220,20 @@ Additionally, exercise caution in your choice of ingredients. While it can be te
    - Prioritize quality, real foods during your eating window.
 
 ### 5. **Listen to Your Body:**
-![Alt text](/teaching/nutrition/listen.jpg)
+![Alt text](/post/nutrition/listen.jpg)
    - **Adjust as Needed:** Pay attention to how your body responds. If you feel fatigued or overly hungry, consider shortening your fasting window or adjusting your meal composition.
    - **Mindful Eating:** During eating periods, practice mindful eating by slowing down and savoring your food, which can enhance satisfaction and prevent overeating. ***Never forget— it can't be emphasized enough: only eat when you are hungry and avoid snacking as much as possible!*** Sometimes, our habits and Pavlovian reflexes tell us to eat, not our bodies.
 
 ### 6. **Replenish needed electrolytes:**
-![Alt text](/teaching/nutrition/electrolyte.jpg)
+![Alt text](/post/nutrition/electrolyte.jpg)
    - **Why is it important?** Electrolyte replenishment is crucial on low-carb diets because these diets can lead to a loss of electrolytes due to reduced insulin levels and increased water excretion. As your body transitions to burning fat for fuel instead of carbohydrates, it sheds excess water, which can also flush out vital electrolytes like sodium, potassium, and magnesium. This may result in symptoms like fatigue, muscle cramps, and headaches, often referred to as the "keto flu." To maintain proper hydration and muscle function while on a low-carb diet, ensure adequate intake of electrolytes through foods (like avocados, nuts, leafy greens) or supplements. Staying balanced in electrolytes can enhance energy levels, reduce muscle cramps, and improve overall well-being.
    - **Essential Strategies for Replenishing Electrolytes on a Low-Carb Diet while Intermittent Fasting**: Focus on low-carb sources like salt, bone broth, leafy greens, avocados, and nuts; consider low-carb electrolyte supplements; stay hydrated with water and herbal teas; monitor your body's signals for imbalances; time your intake during feeding windows; include fermented foods; and consult a healthcare professional for personalized advice.
 
 ### 7. **Incorporate Physical Activity:**
-![Alt text](/teaching/nutrition/move.jpg)
+![Alt text](/post/nutrition/move.jpg)
    - **Exercise Timing:** Consider scheduling workouts during your eating windows for optimal energy levels. Light exercise like longer walks or a little dancing - some form of aerobic exercise - can also be beneficial during fasting periods. 
    - **Strength Training:** Incorporate strength training into your routine to support muscle maintenance and enhance metabolic health. Muscles play a crucial role in glucose metabolism and in regulating your body’s glucose and insulin sensitivity. Glucose is primarily stored in muscle tissue, and a greater muscle mass can improve your body’s ability to tolerate higher carbohydrate intake.
-![Alt text](/teaching/nutrition/strength.jpg)
+![Alt text](/post/nutrition/strength.jpg)
 
 ### 8. **Seek Support and Stay Consistent:**
    - Engage with communities or find a buddy for motivation.
@@ -289,23 +289,23 @@ You can select your own foods that are available to you in your own surroundings
 They don't need to be complicated or take much time to prepare.
 
 Almond bread served with sour cream, alongside veggies and chicken breast:
-![Alt text](/teaching/nutrition/1.png)
+![Alt text](/post/nutrition/1.png)
 Almond bread sandwich with sour cream, onions, tomatoes, and Gyulai sausage:
-![Alt text](/teaching/nutrition/2.png)
+![Alt text](/post/nutrition/2.png)
 Almond bread with veggies, sautéed butter-garlic mushrooms, and sour cream:
-![Alt text](/teaching/nutrition/3.png)
+![Alt text](/post/nutrition/3.png)
 Indian butter chicken with vegetables and almond bread:
-![Alt text](/teaching/nutrition/4.png)
+![Alt text](/post/nutrition/4.png)
 Ketogenic pizza with almond bread crust, tomatoes, mushrooms, onions, ham and mozzarella cheese:
-![Alt text](/teaching/nutrition/5.png)
+![Alt text](/post/nutrition/5.png)
 Omelet with a vegetable salad dressed in olive oil, and a Transylvanian specialty inside called zakuszka:
-![Alt text](/teaching/nutrition/6.png)
+![Alt text](/post/nutrition/6.png)
 Rich degustation menu featuring zakuszka, Transylvanian eggplant cream, olive oil-dressed vegetables, sautéed mushrooms, very little rice and a delicious butter-garlic chicken breast:
-![Alt text](/teaching/nutrition/7.png)
+![Alt text](/post/nutrition/7.png)
 A simple kale tortilla filled with butter, cheese, onions, tomatoes, boiled eggs, and a pinch of salt:
-![Alt text](/teaching/nutrition/8.png)
+![Alt text](/post/nutrition/8.png)
 Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
-![Alt text](/teaching/nutrition/9.png)
+![Alt text](/post/nutrition/9.png)
 ---
 
 ## Tips for Sustainable Change
@@ -329,7 +329,7 @@ By following this comprehensive guide, you can successfully integrate a low-carb
 # - *[Dr. Eric Berg](https://www.youtube.com/@Drberg)*
 # - *[Dr. Sten  Eckberg](https://www.youtube.com/@drekberg)*
 
-___________________________________________________________
+---
 
 **Disclaimer:** The information provided here is for educational and informational purposes only and should not be considered medical or nutritional advice. I am not a doctor or a licensed healthcare professional, and I am not a nutritionist. Therefore, I cannot take responsibility for the content published, even though I have made every effort to provide factual information based on my studies of health-related topics and the findings of qualified professionals. Always consult with a qualified healthcare provider for any medical concerns, treatment options, or questions regarding your health. Relying solely on this information may not be appropriate for your individual circumstances.
 

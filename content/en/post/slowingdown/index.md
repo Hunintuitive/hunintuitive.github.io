@@ -63,7 +63,7 @@ In our fast-paced world, the rush has become a way of life. We race against the 
 
 ## The Cost of Rushing
 
-![Alt text](/en/publication/slowingdown/rushing.jpg)
+![Alt text](/en/post/slowingdown/rushing.jpg)
 
 Rushing implies a mindset of lack — a feeling that we are not enough, that we have to hurry to catch up with life. As Sura, a meditation coach pointed out, this state of resistance often stems from anxiety, causing us to miss out on the present moment. The truth is, when we rush, we are merely skimming the surface of our experiences rather than diving deep into what truly matters. We push ourselves to achieve milestones without fully appreciating the journey that leads us there.
 
@@ -72,18 +72,18 @@ Benjamin Franklin wisely noted, “Take time for all things; great haste makes g
 
 ## The Slow Process of Life
 
-![Alt text](/en/publication/slowingdown/marathon.jpg)
+![Alt text](/en/post/slowingdown/marathon.jpg)
 
 Life is not a sprint; it is a marathon, a gradual process that requires patience and intention. Ralph Ransom highlighted that “life is a series of steps.” Yet, in a society that glorifies speed and efficiency, we often forget this fundamental truth. Slowing down allows us to savor moments, appreciate our surroundings, and cultivate meaningful connections.
 
-![Alt text](/en/publication/slowingdown/book.jpg)
+![Alt text](/en/post/slowingdown/book.jpg)
 
 Imagine reading a book in a hurry — sure, you finish it faster, but do you absorb its message? Does the story resonate with you? Similarly, consider a meal consumed in haste. Are we truly enjoying the flavors, or merely fueling our bodies? When we slow down, we allow ourselves to engage deeply with our experiences, transforming mundane moments into profound memories.
 
 
 ## The Myth of Multitasking
 
-![Alt text](/en/publication/slowingdown/multitasking.jpg)
+![Alt text](/en/post/slowingdown/multitasking.jpg)
 
 Multitasking is often hailed as a skill in the modern workplace, yet research shows it diminishes productivity and increases errors. When we scatter our focus across multiple tasks, we sacrifice the quality of our work. Instead of pouring our energy into one important project, we dilute our efforts, leading to frustration and burnout.
 
@@ -92,7 +92,7 @@ Multitasking is often hailed as a skill in the modern workplace, yet research sh
 
 ## Embracing the Journey
 
-![Alt text](/en/publication/slowingdown/journey.jpg)
+![Alt text](/en/post/slowingdown/journey.jpg)
 
 The journey of life is filled with continuous learning and improvement. As we navigate our careers, relationships, and personal growth, it’s essential to remember that there is no definitive endpoint. Just as a mango tree takes years to bear fruit, our lives are a series of nurturing processes. The slower we go, the fewer mistakes we make, and the more we grow.
 
@@ -101,7 +101,7 @@ As Akiroq Brost wisely advised, “Don’t be in such a rush to reach a goal tha
 
 ## Finding Fulfillment in Presence
 
-![Alt text](/en/publication/slowingdown/fulfillment.jpg)
+![Alt text](/en/post/slowingdown/fulfillment.jpg)
 
 In our quest for fulfillment, we must learn to embrace the present moment. Whether we are enjoying a meal, conversing with a loved one, or simply walking in nature, being fully present enhances our experience. As St. Francis de Sales said, “Never be in a hurry; do everything quietly and in a calm spirit.”
 
@@ -110,7 +110,8 @@ Life is fleeting, and every moment is precious. Why squander it by rushing throu
 ***In conclusion, the need to slow down and let go of the multitasking myth is essential in our modern lives. By embracing the process, we can cultivate a deeper sense of fulfillment and satisfaction. As we learn to live in the moment, we will discover that life is not about reaching the finish line but about enjoying the journey along the way.***
 
 [***Inspiration: Mind Cafe Abayomi Omoogun - This is what you should aim for instead of rushing through life, Medium.***](https://medium.com/mind-cafe/this-is-what-you-should-aim-for-instead-of-rushing-through-life-846c72cafeb5)
-_________________________________________________________________________________________________
+
+---
 
 **Disclaimer:** The views expressed in this article solely reflect the opinion of the author and do not necessarily represent the opinions or beliefs of any organization or affiliation.
 

@@ -118,7 +118,7 @@ Népszerűsége ellenére az MBTI-t kritika éri. Egyesek szerint az emberek fix
 
 3. **Kulturális korlátok**: Az MBTI nem biztos, hogy kulturálisan érzékeny vagy megfelelő minden populáció számára. Az egyik kulturális csoport számára kifejlesztett teszt nem biztos, hogy egy másik kulturális csoporthoz tartozó egyénekkel összhangban van, ami az eredmények félreértelmezéséhez vezethet.
 
-4. **A visszaélések lehetősége**: Az MBTI-vel vissza lehet élni, ami ahhoz vezethet, hogy az egyéneket a típusuk alapján meghatározott szerepekbe vagy felelősségekbe sorolják, ami elfojtja a növekedést és korlátozhatja a lehetőségeket.
+4. **A visszaélések lehetősége**: Az MBTI-al vissza lehet élni, ami ahhoz vezethet, hogy az egyéneket a típusuk alapján meghatározott szerepekbe vagy felelősségekbe sorolják, ami elfojtja a növekedést és korlátozhatja a lehetőségeket.
 
 ## A Big Five személyiségjegyek: Egy árnyaltabb megközelítés
 
@@ -152,7 +152,7 @@ Bár a Big Five árnyaltabb megértést kínál, nem mentes a kihívásoktól:
 
 2. **Redukcionizmus**: A kritikusok azzal érvelnek, hogy bár a Big Five a tulajdonságok szélesebb körét veszi figyelembe, mégis túlzottan leegyszerűsítheti az emberi viselkedés összetettségét, és az egyéneket puszta pontszámokra redukálhatja.
 
-3. **Kulturális megfontolások**: Az MBTI-hez hasonlóan a Big Five sem feltétlenül ragadja meg teljes mértékben a különböző kultúrák személyiségének árnyalatait, mivel a kulturális értékek befolyásolhatják a vonások kifejezését.
+3. **Kulturális megfontolások**: Az MBTI-hoz hasonlóan a Big Five sem feltétlenül ragadja meg teljes mértékben a különböző kultúrák személyiségének árnyalatait, mivel a kulturális értékek befolyásolhatják a vonások kifejezését.
 
 ## Pszichológiai tesztek pontatlanságai és szempontjai
 

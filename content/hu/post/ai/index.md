@@ -59,7 +59,7 @@ slides: example
 
 **Ezt a cikket eredetileg a megfelelő állás megtalálásának nehézségei ihlették, csak hogy rájöjjek, milyen káros lehet bizonyos esetekben a mesterséges intelligencia használata. Az MI-algoritmusok használata az ATS-rendszerekben (Applicant Tracking System - magyarul - Jelölt követő rendszer) nem olyan előnyös, mint azt egyesek gondolják. Néhány érdekes linket is mellékeltem a YouTube-ról a mesterséges intelligencia és az ATS-rendszerek témájában. Magyar, automatikusan fordított felirat elérhető hozzájuk. Jó szórakozást az olvasáshoz!**
 
-_________________________________________________________________________________________________
+---
 
 {{< youtube 6nGM37ThEsU >}}
 
@@ -175,7 +175,7 @@ Kíváncsi vagyok, hogy valaha is megértjük-e a lényeget, ahogy a mozifilm be
 {{< youtube 2Zg--ouGl7c >}}
 {{< youtube MJQIQJYxey4 >}}
 
-_________________________________________________________________________________________________
+---
 
 **Jogi nyilatkozat:** A cikkben kifejtett nézetek kizárólag a szerző véleményét tükrözik, és nem feltétlenül képviselik bármely szervezet vagy szervezethez tartozó egyének véleményét vagy meggyőződését.
 

@@ -103,7 +103,7 @@ Eine kohlenhydratarme Ernährung und Ketose können zwar gesundheitliche Vorteil
 ## Lebensmittel zum Verzehr
 
 ### 1. **Gesunde Fette:**
-![Alttext](/teaching/nutrition/fats.jpg)
+![Alttext](/post/nutrition/fats.jpg)
    - **Avocados**
    - **Olivenöl**
    - **Kokosnussöl**
@@ -112,27 +112,27 @@ Eine kohlenhydratarme Ernährung und Ketose können zwar gesundheitliche Vorteil
    - **Fettreicher Fisch**: Lachs, Makrele.
 
 ### 2. **Eiweißquellen:**
-![Alttext](/teaching/nutrition/protein.jpg)
+![Alttext](/post/nutrition/protein.jpg)
    - **Grasgefüttertes Fleisch**: Rindfleisch, Lammfleisch.
    - **Geflügel aus Weidehaltung**: Huhn, Truthahn.
    - **Wild gefangene Meeresfrüchte**
    - **Eier**: Vorzugsweise aus Freilandhaltung.
 
 ### 3. **Kohlenhydratarmes Gemüse:**
-![Alt text](/teaching/nutrition/vegetables.jpg)
+![Alt text](/post/nutrition/vegetables.jpg)
    - **Blättriges Grün**: Spinat, Grünkohl, Rucola.
    - **Kreuzblütige Gemüsesorten**: Brokkoli, Blumenkohl, Rosenkohl.
    - **Andere Gemüsesorten**: Paprika, Zucchini, Spargel, Zwiebeln.
 
 ### 4. **Fermentierte Lebensmittel:**
-![Alt text](/teaching/nutrition/fermented.jpg)
+![Alt text](/post/nutrition/fermented.jpg)
    - **Sauerkraut**
    - **Kimchi**
    - **Kefir**
    - **Joghurt**: Vorzugsweise ungesüßt und fettreich.
 
 ### 5. **Kräuter und Gewürze:**
-![Alt text](/teaching/nutrition/herbs.jpg)
+![Alt text](/post/nutrition/herbs.jpg)
    - **Knoblauch, Kurkuma, Oregano, Basilikum**: Verbessern den Geschmack und bieten gesundheitliche Vorteile.
 
 
@@ -222,20 +222,20 @@ Sei außerdem vorsichtig bei der Auswahl der Zutaten. Es kann zwar verlockend se
    - Bevorzuge hochwertige, echte Lebensmittel in deinem Essensfenster.
 
 ### 5. **Höre auf deinen Körper:**
-![Alt text](/teaching/nutrition/listen.jpg)
+![Alt text](/post/nutrition/listen.jpg)
    - **Anpassen nach Bedarf:** Achte darauf, wie dein Körper reagiert. Wenn du dich müde oder übermäßig hungrig fühlst, solltest du dein Fastenfenster verkürzen oder die Zusammensetzung deiner Mahlzeiten anpassen.
    - **Achtsam essen:** Übe dich während der Essenszeiten in Achtsamkeit, indem du dein Essen langsamer zu dir nimmst und es genießt, was die Zufriedenheit steigern und übermäßiges Essen verhindern kann. ***Niemals vergessen - man kann es nicht oft genug betonen: Iss nur, wenn du hungrig bist, und vermeide Snacks so weit wie möglich!*** Manchmal sagen uns unsere Gewohnheiten und pawlowschen Reflexe, dass wir essen sollen, nicht unser Körper.
 
 ### 6. **Benötigte Elektrolyte wieder auffüllen:**
-![Alt text](/teaching/nutrition/electrolyte.jpg)
+![Alt text](/post/nutrition/electrolyte.jpg)
    - **Warum ist das wichtig?** Bei kohlenhydratarmen Diäten ist die Auffüllung des Elektrolythaushalts von entscheidender Bedeutung, da diese Diäten zu einem Verlust von Elektrolyten führen können, da der Insulinspiegel sinkt und die Wasserausscheidung steigt. Wenn dein Körper dazu übergeht, Fett anstelle von Kohlenhydraten als Brennstoff zu verbrennen, scheidet er überschüssiges Wasser aus, wodurch auch lebenswichtige Elektrolyte wie Natrium, Kalium und Magnesium ausgeschwemmt werden können. Dies kann zu Symptomen wie Müdigkeit, Muskelkrämpfen und Kopfschmerzen führen, die oft als „Keto-Grippe“ bezeichnet werden. Um während einer kohlenhydratarmen Diät die richtige Flüssigkeitszufuhr und Muskelfunktion aufrechtzuerhalten, solltest du eine ausreichende Zufuhr von Elektrolyten durch Lebensmittel (wie Avocados, Nüsse, Blattgemüse) oder Nahrungsergänzungsmittel sicherstellen. Ein ausgeglichener Elektrolythaushalt kann das Energieniveau erhöhen, Muskelkrämpfe verringern und das allgemeine Wohlbefinden verbessern.
    - **Wesentliche Strategien zur Wiederauffüllung der Elektrolyte bei einer kohlenhydratarmen Ernährung während des Intervallfastens**: Konzentriere dich auf kohlenhydratarme Quellen wie Salz, Knochenbrühe, Blattgemüse, Avocados und Nüsse; ziehe kohlenhydratarme Elektrolytergänzungen in Betracht; bleibe mit Wasser und Kräutertees hydratisiert; beobachte die Signale deines Körpers auf Ungleichgewichte; plane deine Aufnahme während der Fütterungszeitfenster; nimm fermentierte Lebensmittel auf; und konsultiere einen Arzt für eine individuelle Beratung.
 
 ### 7. **Körperliche Aktivität einbeziehen:**
-![Alt text](/teaching/nutrition/move.jpg)
+![Alt text](/post/nutrition/move.jpg)
    - **Zeitplan für Bewegung:** Plane dein Training während deiner Essenszeiten, um ein optimales Energieniveau zu erreichen. Leichte Übungen wie längere Spaziergänge oder ein wenig Tanzen - eine Form der aeroben Bewegung - können auch während der Fastenzeiten von Vorteil sein. 
    - **Krafttraining:** Integriere Krafttraining in dein Trainingsprogramm, um die Muskeln zu erhalten und die Stoffwechselgesundheit zu verbessern. Die Muskeln spielen eine entscheidende Rolle im Glukosestoffwechsel und bei der Regulierung der Glukose- und Insulinempfindlichkeit deines Körpers. Glukose wird hauptsächlich im Muskelgewebe gespeichert, und eine größere Muskelmasse kann die Fähigkeit des Körpers verbessern, eine höhere Kohlenhydratzufuhr zu tolerieren.
-![Alt text](/teaching/nutrition/strength.jpg)
+![Alt text](/post/nutrition/strength.jpg)
 
 ### 8. **Such dir Unterstützung und bleib konsequent:**
    - Engagiere dich in Gemeinschaften oder suche dir einen Kumpel zur Motivation.
@@ -291,23 +291,23 @@ Du kannst deine eigenen Lebensmittel auswählen, die dir in deiner Umgebung und 
 Sie müssen nicht kompliziert sein oder viel Zeit für die Zubereitung benötigen.
 
 Mandelbrot mit saurer Sahne, Gemüse und Hähnchenbrust:
-![Alt text](/teaching/nutrition/1.png)
+![Alt text](/post/nutrition/1.png)
 Mandelbrot-Sandwich mit saurer Sahne, Zwiebeln, Tomaten und Gyulai-Wurst:
-![Alt text](/teaching/nutrition/2.png)
+![Alt text](/post/nutrition/2.png)
 Mandelbrot mit Gemüse, sautierten Butter-Knoblauch-Pilzen und saurer Sahne:
-![Alt text](/teaching/nutrition/3.png)
+![Alt text](/post/nutrition/3.png)
 Indisches Butterhähnchen mit Gemüse und Mandelbrot:
-![Alt text](/teaching/nutrition/4.png)
+![Alt text](/post/nutrition/4.png)
 Ketogene Pizza mit Mandelbrotkruste, Tomaten, Pilzen, Zwiebeln, Schinken und Mozzarellakäse:
-![Alt text](/teaching/nutrition/5.png)
+![Alt text](/post/nutrition/5.png)
 Omelett mit einem Gemüsesalat in Olivenöl und einer siebenbürgischen Spezialität namens „zakuszka“:
-![Alt text](/teaching/nutrition/6.png)
+![Alt text](/post/nutrition/6.png)
 Reichhaltiges Degustationsmenü mit zakuszka, siebenbürgischer Auberginencreme, in Olivenöl eingelegtem Gemüse, sautierten Pilzen, sehr wenig Reis und einer köstlichen Hühnerbrust mit Butter und Knoblauch:
-![Alt text](/teaching/nutrition/7.png)
+![Alt text](/post/nutrition/7.png)
 Eine einfache Grünkohltortilla, gefüllt mit Butter, Käse, Zwiebeln, Tomaten, gekochten Eiern und einer Prise Salz:
-![Alt text](/teaching/nutrition/8.png)
+![Alt text](/post/nutrition/8.png)
 Frisch gebackenes Mandelbrot, gefüllt mit Gemüse, Schinken, Champignons und Käse:
-![Alt text](/teaching/nutrition/9.png)
+![Alt text](/post/nutrition/9.png)
 ---
 
 ## Tipps für einen nachhaltigen Wechsel
@@ -331,7 +331,7 @@ Wenn du diesen umfassenden Leitfaden befolgst, kannst du eine kohlenhydratarme, 
 # - *[Dr. Eric Berg](https://www.youtube.com/@Drberg)*
 # - *[Dr. Sten  Eckberg](https://www.youtube.com/@drekberg)*
 
-___________________________________________________________
+---
 
 **Haftungsausschluss:** Die hier zur Verfügung gestellten Informationen dienen nur zu Bildungs- und Informationszwecken und sollten nicht als medizinische oder ernährungswissenschaftliche Beratung angesehen werden. Ich bin kein Arzt oder eine zugelassene medizinische Fachkraft, und ich bin kein Ernährungsberater. Daher kann ich keine Verantwortung für den veröffentlichten Inhalt übernehmen, auch wenn ich mich bemüht habe, sachliche Informationen zu liefern, die auf meinen Studien zu gesundheitsbezogenen Themen und den Erkenntnissen qualifizierter Fachleute beruhen. Wende dich immer an einen qualifizierten Gesundheitsdienstleister, wenn du medizinische Bedenken, Behandlungsmöglichkeiten oder Fragen zu deiner Gesundheit hast. Sich ausschließlich auf diese Informationen zu verlassen, kann für deine individuelle Situation ungeeignet sein.
 
