@@ -110,7 +110,7 @@ Az MBTI keretrendszerében minden személyiségtípus a kognitív funkciók egye
 
 Az elsődleges vagy domináns funkció a legfejlettebb, és gyakran az első, amelyre az ember támaszkodik. Jelentősen befolyásolja, hogyan érzékeli a világot és hogyan hoz döntéseket.
 
-- **Példa**: *** A saját típusomat fogom itt használni, mivel ezt ismerem a legjobban.*** Egy **INFJ (Introvertált Intuitív Érző Ítélő)** a Ni-t használja domináns funkciójaként, ami lehetővé teszi számára, hogy összetett gondolatokat dolgozzon fel és előre lássa a jövőbeli lehetőségeket. Ez a fókusz alakítja empatikus természetüket és azt a vágyukat, hogy segítsenek másoknak elérni a lehetőségeiket.
+- **Példa**: ***A saját típusomat fogom itt használni, mivel ezt ismerem a legjobban.*** Egy **INFJ (Introvertált Intuitív Érző Ítélő)** a Ni-t használja domináns funkciójaként, ami lehetővé teszi számára, hogy összetett gondolatokat dolgozzon fel és előre lássa a jövőbeli lehetőségeket. Ez a fókusz alakítja empatikus természetüket és azt a vágyukat, hogy segítsenek másoknak elérni a lehetőségeiket.
 
 ### Másodlagos (segéd)funkció
 
