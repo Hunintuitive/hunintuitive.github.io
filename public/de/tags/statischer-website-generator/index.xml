@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Statischer Website-Generator | Hunor&#39;s Webseite</title>
-    <link>http://localhost:1313/de/tags/statischer-website-generator/</link>
-      <atom:link href="http://localhost:1313/de/tags/statischer-website-generator/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/de/tags/statischer-website-generator/</link>
+      <atom:link href="https://example.com/de/tags/statischer-website-generator/index.xml" rel="self" type="application/rss+xml" />
     <description>Statischer Website-Generator</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Statischer Website-Generator</title>
-      <link>http://localhost:1313/de/tags/statischer-website-generator/</link>
+      <link>https://example.com/de/tags/statischer-website-generator/</link>
     </image>
     
     <item>
       <title>Erstelle schöne, schnelle und kostenlose Websites mit Hugo: Ein umfassender Leitfaden für Linux-, Mac- und Windows-Nutzer</title>
-      <link>http://localhost:1313/de/post/hugo/</link>
+      <link>https://example.com/de/post/hugo/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/post/hugo/</guid>
+      <guid>https://example.com/de/post/hugo/</guid>
       <description>&lt;h1 id=&#34;erstelle-schöne-schnelle-und-kostenlose-websites-mit-hugo-ein-umfassender-leitfaden-für-linux--mac--und-windows-nutzer&#34;&gt;Erstelle schöne, schnelle und kostenlose Websites mit Hugo: Ein umfassender Leitfaden für Linux-, Mac- und Windows-Nutzer&lt;/h1&gt;
 &lt;p&gt;Hugo ist ein leistungsstarker Open-Source-Generator für statische Websites, der es dir ermöglicht, beeindruckende Websites schnell und effizient zu erstellen. Mit seiner bemerkenswerten Geschwindigkeit und Flexibilität ist Hugo eine hervorragende Wahl für Entwickler, Blogger und Unternehmen, die eine kostenlose und unkomplizierte Möglichkeit suchen, deine Inhalte zu hosten. In diesem Leitfaden zeige ich dir, wie du Hugo auf Linux, Mac und Windows installierst, kostenlose Hosting-Optionen erkundest und zusätzliche Abhängigkeiten sowie Ressourcen für Vorlagen hervorhebst.&lt;/p&gt;
 &lt;h2 id=&#34;inhaltsverzeichnis&#34;&gt;Inhaltsverzeichnis&lt;/h2&gt;

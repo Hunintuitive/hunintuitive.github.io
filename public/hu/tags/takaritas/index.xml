@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Takarítás | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/takaritas/</link>
-      <atom:link href="http://localhost:1313/hu/tags/takaritas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/hu/tags/takaritas/</link>
+      <atom:link href="https://example.com/hu/tags/takaritas/index.xml" rel="self" type="application/rss+xml" />
     <description>Takarítás</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Takarítás</title>
-      <link>http://localhost:1313/hu/tags/takaritas/</link>
+      <link>https://example.com/hu/tags/takaritas/</link>
     </image>
     
     <item>
       <title>Háztartások takarítása</title>
-      <link>http://localhost:1313/hu/project/takaritas/</link>
+      <link>https://example.com/hu/project/takaritas/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/project/takaritas/</guid>
+      <guid>https://example.com/hu/project/takaritas/</guid>
       <description>&lt;h2 id=&#34;takarítást-vállalok-budapesten-és-dunakeszin&#34;&gt;Takarítást vállalok Budapesten és Dunakeszin!&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Kedves Érdeklődő!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Takarítószolgáltatásokat kínálok családi házak és lakások számára a 14. kerületben, valamint a közeli területeken, Budapest és Dunakeszi környékén.&lt;/strong&gt; Ha egy megbízható és alapos takarítót keresel, aki a rendszeretetet és a precizitást tartja szem előtt, akkor jó helyen jársz! Én nem csupán a fejem tetején hordom a porszívót, hanem aktívan és hatékonyan is használom! Sokaktól kapom a dícsérő szavakat, hogy jól áll a kezemben is! 😅&lt;/p&gt;

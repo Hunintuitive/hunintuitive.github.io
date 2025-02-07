@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zene | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/zene/</link>
-      <atom:link href="http://localhost:1313/hu/tags/zene/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/hu/tags/zene/</link>
+      <atom:link href="https://example.com/hu/tags/zene/index.xml" rel="self" type="application/rss+xml" />
     <description>Zene</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Zene</title>
-      <link>http://localhost:1313/hu/tags/zene/</link>
+      <link>https://example.com/hu/tags/zene/</link>
     </image>
     
     <item>
       <title>🎉 Szeretettel üdvözöllek az új Blogomon!</title>
-      <link>http://localhost:1313/hu/post/get-started/</link>
+      <link>https://example.com/hu/post/get-started/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/get-started/</guid>
+      <guid>https://example.com/hu/post/get-started/</guid>
       <description>&lt;p&gt;Isten hozott! 👋&lt;/p&gt;
 
 
@@ -60,7 +60,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/get-started/bear.gif&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/get-started/bear.gif&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 

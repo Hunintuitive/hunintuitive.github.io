@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Five | Hunor&#39;s Website</title>
-    <link>http://localhost:1313/en/tags/big-five/</link>
-      <atom:link href="http://localhost:1313/en/tags/big-five/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/en/tags/big-five/</link>
+      <atom:link href="https://example.com/en/tags/big-five/index.xml" rel="self" type="application/rss+xml" />
     <description>Big Five</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Big Five</title>
-      <link>http://localhost:1313/en/tags/big-five/</link>
+      <link>https://example.com/en/tags/big-five/</link>
     </image>
     
     <item>
       <title>Understanding Personality Through Psychological Frameworks: The Benefits, Challenges, and Inaccuracies</title>
-      <link>http://localhost:1313/en/post/psychgen/</link>
+      <link>https://example.com/en/post/psychgen/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/psychgen/</guid>
+      <guid>https://example.com/en/post/psychgen/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;In the realm of psychology, understanding human behavior, personality, and interpersonal dynamics is a complex and nuanced endeavor. Among the various frameworks and tools, the Myers-Briggs Type Indicator (MBTI) and the Big Five Personality Traits stand out as widely recognized methods for exploring personality. This article delves into the benefits and challenges of these psychological models while addressing potential inaccuracies and limitations inherent in their use.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-myers-briggs-type-indicator-mbti-insights-and-applications&#34;&gt;The Myers-Briggs Type Indicator (MBTI): Insights and Applications&lt;/h2&gt;
 &lt;h3 id=&#34;overview-of-mbti&#34;&gt;Overview of MBTI&lt;/h3&gt;
@@ -158,9 +158,9 @@
     
     <item>
       <title>Understanding the Big Five Personality Traits</title>
-      <link>http://localhost:1313/en/post/bigfive/</link>
+      <link>https://example.com/en/post/bigfive/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/bigfive/</guid>
+      <guid>https://example.com/en/post/bigfive/</guid>
       <description>
 
     

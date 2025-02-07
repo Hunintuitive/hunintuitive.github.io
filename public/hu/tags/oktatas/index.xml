@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Oktatás | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/oktatas/</link>
-      <atom:link href="http://localhost:1313/hu/tags/oktatas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/hu/tags/oktatas/</link>
+      <atom:link href="https://example.com/hu/tags/oktatas/index.xml" rel="self" type="application/rss+xml" />
     <description>Oktatás</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Oktatás</title>
-      <link>http://localhost:1313/hu/tags/oktatas/</link>
+      <link>https://example.com/hu/tags/oktatas/</link>
     </image>
     
     <item>
       <title>Megfizethető IT-szolgáltatások magánszemélyek számára</title>
-      <link>http://localhost:1313/hu/project/szamtech/</link>
+      <link>https://example.com/hu/project/szamtech/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/project/szamtech/</guid>
+      <guid>https://example.com/hu/project/szamtech/</guid>
       <description>&lt;h2 id=&#34;-fedezd-fel-a-digitális-világ-előnyeit-kerüld-el-a-hátrányait&#34;&gt;🌐 Fedezd fel a Digitális Világ előnyeit, kerüld el a hátrányait!&lt;/h2&gt;
 &lt;p&gt;Szükséged van segítségre a digitális világban? Szívesen leszek a segítőd, ha számítástechnikai problémáidat kell megoldani! Olyan megfizethető IT szolgáltatásokat kínálok, amelyek célja, hogy megkönnyítsék az életed. Segítek mindenkinek, aki a drága professzionális megoldások helyett megfizethető megoldásokat keres.&lt;/p&gt;
 &lt;h2 id=&#34;miért-válassz-engem&#34;&gt;Miért válassz engem?&lt;/h2&gt;

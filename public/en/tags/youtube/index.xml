@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YouTube | Hunor&#39;s Website</title>
-    <link>http://localhost:1313/en/tags/youtube/</link>
-      <atom:link href="http://localhost:1313/en/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/en/tags/youtube/</link>
+      <atom:link href="https://example.com/en/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     <description>YouTube</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>YouTube</title>
-      <link>http://localhost:1313/en/tags/youtube/</link>
+      <link>https://example.com/en/tags/youtube/</link>
     </image>
     
     <item>
       <title>Comprehensive Guide - Accessing Information Across Languages Using YouTube Transcripts and AI Translation</title>
-      <link>http://localhost:1313/en/post/youtubetranslate/</link>
+      <link>https://example.com/en/post/youtubetranslate/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/youtubetranslate/</guid>
+      <guid>https://example.com/en/post/youtubetranslate/</guid>
       <description>&lt;h1 id=&#34;comprehensive-guide-accessing-information-across-languages-using-youtube-transcripts-and-ai-translation&#34;&gt;Comprehensive Guide: Accessing Information Across Languages Using YouTube Transcripts and AI Translation&lt;/h1&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;YouTube is a treasure trove of information, featuring millions of videos on a wide range of topics. However, if a video is not in your native language, accessing that information can be challenging. Thankfully, YouTube provides transcripts for many videos, and with the help of AI translation tools, you can translate these transcripts into your preferred language. This guide will walk you through the steps to efficiently use YouTube transcripts and AI translation for this purpose.&lt;/p&gt;

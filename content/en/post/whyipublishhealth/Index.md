@@ -2,11 +2,11 @@
 title: "Why I Write About Health Topics as an Everyday Person?"
 authors:
 - admin
-date: "2025-02-04T00:00:00Z"
+date: "2025-02-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-04T00:00:00Z"
+publishDate: "2025-02-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -227,10 +227,41 @@ In sharing my journey and insights, I aim to empower you to take control of your
 
 {{< youtube 8AqlZK2TxZA >}}
 
+These videos address the relationship between skin tags and insulin resistance.
+
+{{< youtube NyFSkGMWP5Q >}}
+
+The [podcast](https://stevenbartlett.com/wp-content/uploads/2025/02/DOAC-Benjamin-Bikman-independent-research.pdf) featuring Dr. Benjamin Bikman delves into various aspects of insulin resistance and its implications for health. Here’s a summary of the key topics discussed:
+
+1. **Insulin Resistance and Health Problems**: Insulin resistance is identified as a common underlying factor in several serious health conditions, including Alzheimer's disease, type 2 diabetes, and cardiovascular diseases. The relationship between insulin function and brain activity suggests that targeting insulin resistance may offer potential treatments for Alzheimer's.
+
+2. **Adipose Tissue and Type 2 Diabetes**: The growth of fat tissue, particularly visceral fat, is linked to an increased risk of type 2 diabetes through mechanisms involving inflammation and insulin resistance.
+
+3. **Inflammation and Insulin Resistance**: Inflammation resulting from enlarged fat cells contributes significantly to insulin resistance. The size and function of fat cells are critical determinants of metabolic health.
+
+4. **Insulin Resistance and Other Conditions**: The podcast discusses the connections between insulin resistance and hypertension, erectile dysfunction, and polycystic ovary syndrome (PCOS), highlighting how insulin impacts reproductive health and blood pressure regulation.
+
+5. **Ethnic Differences**: There are notable ethnic variations in fat storage and predisposition to metabolic disorders, influencing how different populations experience insulin resistance and related health issues.
+
+6. **Dietary Factors**: The impact of carbohydrate consumption and meal frequency on insulin levels is examined, with discussions on how meal composition influences insulin response.
+
+7. **Ketones and Metabolism**: Ketone bodies are presented as an alternative energy source for the brain, especially when glucose metabolism is impaired. The discussion includes the potential cognitive benefits of ketogenic diets, particularly for individuals with metabolic disorders or cognitive decline.
+
+8. **Longevity and Lifestyle Factors**: The podcast touches on various lifestyle factors that influence longevity, including diet, exercise, and social connections. Loneliness is noted as a significant risk factor for mortality, potentially surpassing even smoking.
+
+9. **Cholesterol and Hormones**: The relationship between cholesterol levels, sex hormones, and insulin resistance is highlighted, emphasizing the complexities of metabolic health.
+
+10. **Environmental Influences**: Factors such as smoking, air pollution, and exposure to toxins like diesel exhaust are discussed regarding their role in exacerbating insulin resistance and related health issues.
+
+11. **Health Interventions**: The podcast concludes with insights into potential health interventions, including dietary changes, exercise, and medical treatments, for managing insulin resistance and improving overall metabolic health.
+
+Throughout the discussion, Dr. Bikman emphasizes the interconnectedness of metabolic health, the importance of understanding individual risk factors, and the need for a multidisciplinary approach to treatment and prevention. The information shared is for educational purposes and should not replace professional medical advice.
+
+[Ben Bikman's YouTube Channel](https://www.youtube.com/@benbikman)
+
 {{< youtube lZZCLlX05PQ >}}
 
 {{< youtube VaVC3PAWqLk >}}
-
 
 Dr. Thomas Seyfried mentions at the beginning of the podcast a troubling trend: cancer is experiencing exponential growth in the American population. This trend is also evident in many other nations around the world.
 

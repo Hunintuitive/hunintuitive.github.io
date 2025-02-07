@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hilfe Leisten | Hunor&#39;s Webseite</title>
-    <link>http://localhost:1313/de/tags/hilfe-leisten/</link>
-      <atom:link href="http://localhost:1313/de/tags/hilfe-leisten/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/de/tags/hilfe-leisten/</link>
+      <atom:link href="https://example.com/de/tags/hilfe-leisten/index.xml" rel="self" type="application/rss+xml" />
     <description>Hilfe Leisten</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Hilfe Leisten</title>
-      <link>http://localhost:1313/de/tags/hilfe-leisten/</link>
+      <link>https://example.com/de/tags/hilfe-leisten/</link>
     </image>
     
     <item>
       <title>Erschwingliche IT-Dienstleistungen für Privatpersonen</title>
-      <link>http://localhost:1313/de/project/itdienstleistung/</link>
+      <link>https://example.com/de/project/itdienstleistung/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/project/itdienstleistung/</guid>
+      <guid>https://example.com/de/project/itdienstleistung/</guid>
       <description>&lt;h2 id=&#34;-entdecke-die-vorteile-der-digitalen-welt-vermeide-die-nachteile&#34;&gt;🌐 Entdecke die Vorteile der digitalen Welt, vermeide die Nachteile!&lt;/h2&gt;
 &lt;p&gt;Brauchst du Hilfe in der digitalen Welt? Ich helfe dir gerne, deine IT-Probleme zu lösen! Ich biete erschwingliche IT-Dienstleistungen an, die dir das Leben leichter machen sollen. Ich kann jedem helfen, der nach erschwinglichen Lösungen anstelle von teuren professionellen Lösungen sucht.&lt;/p&gt;
 &lt;h2 id=&#34;warum-mich-wählen&#34;&gt;Warum mich wählen?&lt;/h2&gt;

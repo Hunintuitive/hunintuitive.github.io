@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ratgeber Ernährung | Hunor&#39;s Webseite</title>
-    <link>http://localhost:1313/de/tags/ratgeber-ernahrung/</link>
-      <atom:link href="http://localhost:1313/de/tags/ratgeber-ernahrung/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/de/tags/ratgeber-ernahrung/</link>
+      <atom:link href="https://example.com/de/tags/ratgeber-ernahrung/index.xml" rel="self" type="application/rss+xml" />
     <description>Ratgeber Ernährung</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Ratgeber Ernährung</title>
-      <link>http://localhost:1313/de/tags/ratgeber-ernahrung/</link>
+      <link>https://example.com/de/tags/ratgeber-ernahrung/</link>
     </image>
     
     <item>
       <title>Ein detaillierter und umfassender Leitfaden für kohlenhydratarme Ernährung und Intervallfasten</title>
-      <link>http://localhost:1313/de/post/nutrition/</link>
+      <link>https://example.com/de/post/nutrition/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/post/nutrition/</guid>
+      <guid>https://example.com/de/post/nutrition/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Dieser Ratgeber verbindet die Prinzipien der Ernährungsempfehlungen von Eric Berg und Sten Eckberg mit der effektiven Praxis des Intervallfastens und bietet einen detaillierten Ansatz für eine gesündere Ernährung. Es kombiniert die Stärken der Arbeit beider Personen und hebt gleichzeitig ihre einzigartigen Aspekte hervor, um ein holistisches Verständnis einer kohlenhydratarmen, nährstoffreichen Ernährung zusammen mit Fastenstrategien zu gewährleisten.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;über-low-carb-diäten-im-allgemeinen&#34;&gt;Über Low-Carb-Diäten im Allgemeinen:&lt;/h1&gt;
 &lt;p&gt;Bei einer kohlenhydratarmen Diät liegt der Schwerpunkt auf der Reduzierung der Kohlenhydratzufuhr, wobei der Verzehr von Proteinen und Fetten häufig im Vordergrund steht. Dieser Ansatz kann den Körper in einen Stoffwechselzustand führen, der als Ketose bekannt ist.&lt;/p&gt;
@@ -95,7 +95,7 @@
                /de/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp 400w,
                /de/post/nutrition/post/nutrition/fats_hu14967968740712839398.webp 760w,
                /de/post/nutrition/post/nutrition/fats_hu14168891548557644008.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -132,7 +132,7 @@
                /de/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp 400w,
                /de/post/nutrition/post/nutrition/protein_hu3985988088946675115.webp 760w,
                /de/post/nutrition/post/nutrition/protein_hu2622240787389504942.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -167,7 +167,7 @@
                /de/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp 400w,
                /de/post/nutrition/post/nutrition/vegetables_hu9729150114698812687.webp 760w,
                /de/post/nutrition/post/nutrition/vegetables_hu637668811460900936.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -201,7 +201,7 @@
                /de/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp 400w,
                /de/post/nutrition/post/nutrition/fermented_hu11606051204472981349.webp 760w,
                /de/post/nutrition/post/nutrition/fermented_hu10254971514059385216.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -236,7 +236,7 @@
                /de/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp 400w,
                /de/post/nutrition/post/nutrition/herbs_hu1012424704571459638.webp 760w,
                /de/post/nutrition/post/nutrition/herbs_hu1608450799210159914.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -355,7 +355,7 @@
                /de/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp 400w,
                /de/post/nutrition/post/nutrition/listen_hu18227554464746987530.webp 760w,
                /de/post/nutrition/post/nutrition/listen_hu4399507923610735876.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -388,7 +388,7 @@
                /de/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp 400w,
                /de/post/nutrition/post/nutrition/electrolyte_hu13722727442810410052.webp 760w,
                /de/post/nutrition/post/nutrition/electrolyte_hu8213822077752006104.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
                width=&#34;760&#34;
                height=&#34;410&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -421,7 +421,7 @@
                /de/post/nutrition/post/nutrition/move_hu17565910668030462789.webp 400w,
                /de/post/nutrition/post/nutrition/move_hu609616498681504825.webp 760w,
                /de/post/nutrition/post/nutrition/move_hu15022939752702117903.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -452,7 +452,7 @@
                /de/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp 400w,
                /de/post/nutrition/post/nutrition/strength_hu16000315351690534739.webp 760w,
                /de/post/nutrition/post/nutrition/strength_hu15557592185333769305.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -541,7 +541,7 @@ Dazu gehören Reis, Gyula-Wurst und Schinken als verarbeitete Fleischprodukte, u
                /de/post/nutrition/post/nutrition/1_hu12608306184696674095.webp 400w,
                /de/post/nutrition/post/nutrition/1_hu13957937632408086842.webp 760w,
                /de/post/nutrition/post/nutrition/1_hu7339280858994939310.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
                width=&#34;760&#34;
                height=&#34;348&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -570,7 +570,7 @@ Mandelbrot-Sandwich mit saurer Sahne, Zwiebeln, Tomaten und Gyulai-Wurst:
                /de/post/nutrition/post/nutrition/2_hu8531501771588726305.webp 400w,
                /de/post/nutrition/post/nutrition/2_hu6929092539650891298.webp 760w,
                /de/post/nutrition/post/nutrition/2_hu6580774699507192645.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
                width=&#34;681&#34;
                height=&#34;690&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -599,7 +599,7 @@ Mandelbrot mit Gemüse, sautierten Butter-Knoblauch-Pilzen und saurer Sahne:
                /de/post/nutrition/post/nutrition/3_hu14624479402397347917.webp 400w,
                /de/post/nutrition/post/nutrition/3_hu9575846244799456290.webp 760w,
                /de/post/nutrition/post/nutrition/3_hu1049859194176989066.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
                width=&#34;723&#34;
                height=&#34;755&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -628,7 +628,7 @@ Indisches Butterhähnchen mit Gemüse und Mandelbrot:
                /de/post/nutrition/post/nutrition/4_hu11476022687597826362.webp 400w,
                /de/post/nutrition/post/nutrition/4_hu13297248705405095904.webp 760w,
                /de/post/nutrition/post/nutrition/4_hu16788571616751026126.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
                width=&#34;760&#34;
                height=&#34;644&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -657,7 +657,7 @@ Ketogene Pizza mit Mandelbrotkruste, Tomaten, Pilzen, Zwiebeln, Schinken und Moz
                /de/post/nutrition/post/nutrition/5_hu10308305180695310753.webp 400w,
                /de/post/nutrition/post/nutrition/5_hu7642898172156540297.webp 760w,
                /de/post/nutrition/post/nutrition/5_hu9679629861536622174.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
                width=&#34;609&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -686,7 +686,7 @@ Omelett mit einem Gemüsesalat in Olivenöl und einer siebenbürgischen Speziali
                /de/post/nutrition/post/nutrition/6_hu11180730075905629242.webp 400w,
                /de/post/nutrition/post/nutrition/6_hu5435293754586230483.webp 760w,
                /de/post/nutrition/post/nutrition/6_hu4829253932576020461.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
                width=&#34;759&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -715,7 +715,7 @@ Reichhaltiges Degustationsmenü mit zakuszka, siebenbürgischer Auberginencreme,
                /de/post/nutrition/post/nutrition/7_hu13657338855798430253.webp 400w,
                /de/post/nutrition/post/nutrition/7_hu2599764494827034775.webp 760w,
                /de/post/nutrition/post/nutrition/7_hu17807350305445368486.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
                width=&#34;760&#34;
                height=&#34;597&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -744,7 +744,7 @@ Eine einfache Grünkohltortilla, gefüllt mit Butter, Käse, Zwiebeln, Tomaten, 
                /de/post/nutrition/post/nutrition/8_hu12986442913084533514.webp 400w,
                /de/post/nutrition/post/nutrition/8_hu1108794753218047171.webp 760w,
                /de/post/nutrition/post/nutrition/8_hu8930888672803234106.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
                width=&#34;760&#34;
                height=&#34;607&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -773,7 +773,7 @@ Frisch gebackenes Mandelbrot, gefüllt mit Gemüse, Schinken, Champignons und K�
                /de/post/nutrition/post/nutrition/9_hu3227929631295161984.webp 400w,
                /de/post/nutrition/post/nutrition/9_hu7450178928638385947.webp 760w,
                /de/post/nutrition/post/nutrition/9_hu5274547627687762576.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
                width=&#34;760&#34;
                height=&#34;568&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -802,7 +802,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/nutrition/post/nutrition/10_hu6177596377643891001.webp 400w,
                /de/post/nutrition/post/nutrition/10_hu1259333786772562334.webp 760w,
                /de/post/nutrition/post/nutrition/10_hu3249743412475386331.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/10_hu6177596377643891001.webp&#34;
+               src=&#34;https://example.com/de/post/nutrition/post/nutrition/10_hu6177596377643891001.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

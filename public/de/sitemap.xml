@@ -2,736 +2,736 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/de/publication_types/article/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/de/publication_types/article/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/article/"
+                href="https://example.com/en/publication_types/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/publication_types/article/"
+                href="https://example.com/hu/publication_types/article/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/publication_types/article/"
+                href="https://example.com/de/publication_types/article/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/post/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/de/post/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/"
+                href="https://example.com/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/"
+                href="https://example.com/hu/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/"
+                href="https://example.com/de/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/ganzheitliche-gesundheit/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/de/tags/ganzheitliche-gesundheit/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/gesundheitskompetenz/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/de/tags/gesundheitskompetenz/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/personliche-gesundheitsreise/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/de/tags/personliche-gesundheitsreise/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/publication_types/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/de/publication_types/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/"
+                href="https://example.com/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/publication_types/"
+                href="https://example.com/hu/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/publication_types/"
+                href="https://example.com/de/publication_types/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/de/tags/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
+                href="https://example.com/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/tags/"
+                href="https://example.com/hu/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/"
+                href="https://example.com/de/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/post/whyipublish/</loc>
-    <lastmod>2025-02-04T00:00:00+00:00</lastmod>
+    <loc>https://example.com/de/post/whyipublishhealth/</loc>
+    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/whyipublish/"
+                href="https://example.com/hu/post/whyipublishhealth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/whyipublish/"
+                href="https://example.com/en/post/whyipublishhealth/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/whyipublish/"
+                href="https://example.com/de/post/whyipublishhealth/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/anleitung/</loc>
+    <loc>https://example.com/de/tags/anleitung/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/post/hugo/</loc>
-    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/hugo/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/hugo/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/hugo/</loc>
+    <loc>https://example.com/de/post/hugo/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/hugo/"
+                href="https://example.com/en/post/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/tags/hugo/"
+                href="https://example.com/hu/post/hugo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/hugo/"
+                href="https://example.com/de/post/hugo/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/statischer-website-generator/</loc>
+    <loc>https://example.com/de/tags/hugo/</loc>
+    <lastmod>2025-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/en/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://example.com/hu/tags/hugo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/tags/hugo/"
+                />
+  </url><url>
+    <loc>https://example.com/de/tags/statischer-website-generator/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/website-erstellen/</loc>
+    <loc>https://example.com/de/tags/website-erstellen/</loc>
     <lastmod>2025-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/autophagie/</loc>
+    <loc>https://example.com/de/tags/autophagie/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/ernahrung/</loc>
+    <loc>https://example.com/de/tags/ernahrung/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/fasten/</loc>
+    <loc>https://example.com/de/tags/fasten/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/fettabbau/</loc>
+    <loc>https://example.com/de/tags/fettabbau/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/post/autophagy/</loc>
+    <loc>https://example.com/de/post/autophagy/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/autophagy/"
+                href="https://example.com/hu/post/autophagy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/autophagy/"
+                href="https://example.com/en/post/autophagy/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/autophagy/"
+                href="https://example.com/de/post/autophagy/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/gesundheit/</loc>
+    <loc>https://example.com/de/tags/gesundheit/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/big-five/</loc>
+    <loc>https://example.com/de/tags/big-five/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/big-five/"
+                href="https://example.com/en/tags/big-five/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/tags/big-five/"
+                href="https://example.com/hu/tags/big-five/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/big-five/"
+                href="https://example.com/de/tags/big-five/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/post/psychgen/</loc>
+    <loc>https://example.com/de/post/psychgen/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/psychgen/"
+                href="https://example.com/hu/post/psychgen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/psychgen/"
+                href="https://example.com/en/post/psychgen/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/psychgen/"
+                href="https://example.com/de/post/psychgen/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/mbti/</loc>
+    <loc>https://example.com/de/tags/mbti/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/mbti/"
+                href="https://example.com/en/tags/mbti/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/tags/mbti/"
+                href="https://example.com/hu/tags/mbti/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/mbti/"
+                href="https://example.com/de/tags/mbti/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/psychologie/</loc>
+    <loc>https://example.com/de/tags/psychologie/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/post/bigfive/</loc>
+    <loc>https://example.com/de/post/bigfive/</loc>
     <lastmod>2024-12-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/bigfive/"
+                href="https://example.com/hu/post/bigfive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/bigfive/"
+                href="https://example.com/en/post/bigfive/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/bigfive/"
+                href="https://example.com/de/post/bigfive/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/post/mbti/</loc>
+    <loc>https://example.com/de/post/mbti/</loc>
     <lastmod>2024-12-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/mbti/"
+                href="https://example.com/hu/post/mbti/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/mbti/"
+                href="https://example.com/en/post/mbti/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/mbti/"
+                href="https://example.com/de/post/mbti/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/post/nutrition/</loc>
+    <loc>https://example.com/de/post/nutrition/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/nutrition/"
+                href="https://example.com/en/post/nutrition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/nutrition/"
+                href="https://example.com/hu/post/nutrition/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/nutrition/"
+                href="https://example.com/de/post/nutrition/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/fasten-strategien/</loc>
+    <loc>https://example.com/de/tags/fasten-strategien/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/gesundes-essen/</loc>
+    <loc>https://example.com/de/tags/gesundes-essen/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/low-carb-diat/</loc>
+    <loc>https://example.com/de/tags/low-carb-diat/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/ratgeber-ernahrung/</loc>
+    <loc>https://example.com/de/tags/ratgeber-ernahrung/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/stoffwechsel-gesundheit/</loc>
+    <loc>https://example.com/de/tags/stoffwechsel-gesundheit/</loc>
     <lastmod>2024-12-11T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/fehlinformation/</loc>
+    <loc>https://example.com/de/tags/fehlinformation/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/information/</loc>
+    <loc>https://example.com/de/tags/information/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/information/"
+                href="https://example.com/en/tags/information/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/information/"
+                href="https://example.com/de/tags/information/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/post/information/</loc>
+    <loc>https://example.com/de/post/information/</loc>
     <lastmod>2024-12-10T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/information/"
+                href="https://example.com/hu/post/information/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/information/"
+                href="https://example.com/en/post/information/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/information/"
+                href="https://example.com/de/post/information/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/technische-anleitung/</loc>
+    <loc>https://example.com/de/tags/technische-anleitung/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/post/youtubetranslate/</loc>
-    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/youtubetranslate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/youtubetranslate/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/youtubetranslate/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/youtube/</loc>
+    <loc>https://example.com/de/post/youtubetranslate/</loc>
     <lastmod>2024-12-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/youtube/"
+                href="https://example.com/en/post/youtubetranslate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/tags/youtube/"
+                href="https://example.com/hu/post/youtubetranslate/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/youtube/"
+                href="https://example.com/de/post/youtubetranslate/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/post/slowingdown/</loc>
+    <loc>https://example.com/de/tags/youtube/</loc>
+    <lastmod>2024-12-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/en/tags/youtube/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://example.com/hu/tags/youtube/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/tags/youtube/"
+                />
+  </url><url>
+    <loc>https://example.com/de/post/slowingdown/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/slowingdown/"
+                href="https://example.com/hu/post/slowingdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/slowingdown/"
+                href="https://example.com/en/post/slowingdown/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/slowingdown/"
+                href="https://example.com/de/post/slowingdown/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/psychische-gesundheit/</loc>
+    <loc>https://example.com/de/tags/psychische-gesundheit/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/wohlbefinden/</loc>
+    <loc>https://example.com/de/tags/wohlbefinden/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/work-life-balance/</loc>
+    <loc>https://example.com/de/tags/work-life-balance/</loc>
     <lastmod>2024-12-07T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/work-life-balance/"
+                href="https://example.com/en/tags/work-life-balance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/work-life-balance/"
+                href="https://example.com/de/tags/work-life-balance/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/diatetische-wahlmoglichkeiten/</loc>
+    <loc>https://example.com/de/tags/diatetische-wahlmoglichkeiten/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/post/realfood/</loc>
+    <loc>https://example.com/de/post/realfood/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/realfood/"
+                href="https://example.com/hu/post/realfood/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/realfood/"
+                href="https://example.com/en/post/realfood/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/realfood/"
+                href="https://example.com/de/post/realfood/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/echte-lebensmittel/</loc>
+    <loc>https://example.com/de/tags/echte-lebensmittel/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/ernahrungserziehung/</loc>
+    <loc>https://example.com/de/tags/ernahrungserziehung/</loc>
     <lastmod>2024-11-26T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/lebenserfahrung/</loc>
+    <loc>https://example.com/de/tags/lebenserfahrung/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/post/health/</loc>
+    <loc>https://example.com/de/post/health/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/health/"
+                href="https://example.com/en/post/health/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/health/"
+                href="https://example.com/hu/post/health/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/health/"
+                href="https://example.com/de/post/health/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/arbeit/</loc>
+    <loc>https://example.com/de/tags/arbeit/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/arbeitssuche/</loc>
+    <loc>https://example.com/de/tags/arbeitssuche/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/post/ai/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/ai/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/ai/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/dienste/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/experience/</loc>
+    <loc>https://example.com/de/post/ai/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/experience/"
+                href="https://example.com/hu/post/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/experience/"
+                href="https://example.com/en/post/ai/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/experience/"
+                href="https://example.com/de/post/ai/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/project/itdienstleistung/</loc>
+    <loc>https://example.com/de/tags/dienste/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/haushalt/</loc>
+    <loc>https://example.com/de/experience/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/project/reinigungsdienste/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/hilfe-leisten/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/informationstechnologie/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/kunstliche-intelligenz/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/lernen/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/project/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/project/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/reinigung/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/technologie/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/post/get-started/</loc>
-    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/post/get-started/"
+                href="https://example.com/hu/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/post/get-started/"
+                href="https://example.com/en/experience/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/post/get-started/"
+                href="https://example.com/de/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/breakdance/</loc>
+    <loc>https://example.com/de/project/itdienstleistung/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/tags/haushalt/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/project/reinigungsdienste/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/tags/hilfe-leisten/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/tags/informationstechnologie/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/tags/kunstliche-intelligenz/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/tags/lernen/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/project/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/en/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://example.com/hu/project/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/project/"
+                />
+  </url><url>
+    <loc>https://example.com/de/tags/reinigung/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/tags/technologie/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/de/post/get-started/</loc>
+    <lastmod>2024-11-08T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="https://example.com/hu/post/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="https://example.com/en/post/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://example.com/de/post/get-started/"
+                />
+  </url><url>
+    <loc>https://example.com/de/tags/breakdance/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/breakdance/"
+                href="https://example.com/en/tags/breakdance/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/breakdance/"
+                href="https://example.com/de/tags/breakdance/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/breaktanz-bar/</loc>
+    <loc>https://example.com/de/tags/breaktanz-bar/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/musik/</loc>
+    <loc>https://example.com/de/tags/musik/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/warum-musik-horen/</loc>
+    <loc>https://example.com/de/tags/warum-musik-horen/</loc>
     <lastmod>2024-11-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/projects/</loc>
+    <loc>https://example.com/de/projects/</loc>
     <lastmod>2024-05-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/projects/"
+                href="https://example.com/en/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/projects/"
+                href="https://example.com/hu/projects/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/projects/"
+                href="https://example.com/de/projects/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/</loc>
+    <loc>https://example.com/de/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/"
+                href="https://example.com/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/"
+                href="https://example.com/hu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/"
+                href="https://example.com/de/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/teaching/</loc>
+    <loc>https://example.com/de/teaching/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/teaching/"
+                href="https://example.com/en/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/teaching/"
+                href="https://example.com/hu/teaching/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/teaching/"
+                href="https://example.com/de/teaching/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/publication/</loc>
+    <loc>https://example.com/de/publication/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/publication/"
+                href="https://example.com/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="hu"
-                href="http://localhost:1313/hu/publication/"
+                href="https://example.com/hu/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/publication/"
+                href="https://example.com/de/publication/"
                 />
   </url>
 </urlset>

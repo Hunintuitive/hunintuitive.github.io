@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Személyes Egészségügyi Utazás | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/szemelyes-egeszsegugyi-utazas/</link>
-      <atom:link href="http://localhost:1313/hu/tags/szemelyes-egeszsegugyi-utazas/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/hu/tags/szemelyes-egeszsegugyi-utazas/</link>
+      <atom:link href="https://example.com/hu/tags/szemelyes-egeszsegugyi-utazas/index.xml" rel="self" type="application/rss+xml" />
     <description>Személyes Egészségügyi Utazás</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Tue, 04 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Személyes Egészségügyi Utazás</title>
-      <link>http://localhost:1313/hu/tags/szemelyes-egeszsegugyi-utazas/</link>
+      <link>https://example.com/hu/tags/szemelyes-egeszsegugyi-utazas/</link>
     </image>
     
     <item>
       <title>Miért blogolok egészségügyi témákról magánemberként?</title>
-      <link>http://localhost:1313/hu/post/whyipublish/</link>
-      <pubDate>Tue, 04 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/whyipublish/</guid>
+      <link>https://example.com/hu/post/whyipublishhealth/</link>
+      <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://example.com/hu/post/whyipublishhealth/</guid>
       <description>&lt;h2 id=&#34;miért-blogolok-egészségügyi-témákról----a-felfedezés-útja&#34;&gt;Miért blogolok egészségügyi témákról? &amp;ndash; A felfedezés útja&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bevezetés&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A mai összetett egészségügyi környezetben a zűrzavar és a téves információk sokasága gyakran arra készteti az egyéneket, hogy gyors megoldásokat keressenek, melyek veszélyeztethetik a jólétüket. Alapvető fontosságú felismerni, hogy az egészségügyi információkat vezérlő ösztönzők az önzetlen közegészségügyi kezdeményezésektől az öncélú nyereségvágyig terjedhetnek. Ezek az ösztönzők széles spektrumon mozognak, és különböző motivációkat tükröznek, amelyek hatással lehetnek az egészségügyi döntésekre. A közegészségügyi szakemberek és intézmények gyakran az emberek javát szolgálják, és elkötelezettek a közösség egészségének előmozdítása mellett. Ezzel szemben a piaci szereplők, akik profitra törekednek, sokszor manipulálják az információkat, hogy saját érdekeiket szolgálják, miközben figyelmen kívül hagyják a páciensek valódi szükségleteit.&lt;/p&gt;
@@ -129,6 +129,53 @@ A &lt;em&gt;&lt;strong&gt;Sohasem ártok - First Do No Harm (1997)&lt;/strong&gt
       &gt;&lt;/iframe&gt;
     &lt;/div&gt;
 
+&lt;p&gt;Ezek a videók a bőrkinövések és az inzulinrezisztencia közötti kapcsolatot tárgyalják.&lt;/p&gt;
+
+
+    
+    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NyFSkGMWP5Q?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
+      &gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;p&gt;A &lt;a href=&#34;https://stevenbartlett.com/wp-content/uploads/2025/02/DOAC-Benjamin-Bikman-independent-research.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcast&lt;/a&gt; Dr. Benjamin Bikman az inzulinrezisztencia különböző aspektusait és annak az egészségre gyakorolt hatásait vizsgálja. Íme, a tárgyalt legfontosabb témák összefoglalása:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Inzulinrezisztencia és egészségügyi problémák&lt;/strong&gt;: Az inzulinrezisztenciát számos súlyos egészségügyi állapot, köztük az Alzheimer-kór, a 2-es típusú cukorbetegség és a szív- és érrendszeri betegségek közös kiváltó tényezőjeként azonosították. Az inzulinműködés és az agyi aktivitás közötti kapcsolat azt sugallja, hogy az inzulinrezisztencia célzott kezelése potenciális kezelési lehetőségeket kínálhat az Alzheimer-kór kezelésére.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Adipózus szövetek és a 2-es típusú cukorbetegség&lt;/strong&gt;: A zsírszövet, különösen a zsigeri zsír növekedése a gyulladást és az inzulinrezisztenciát magában foglaló mechanizmusokon keresztül összefügg a 2-es típusú cukorbetegség fokozott kockázatával.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Gyulladás és inzulinrezisztencia&lt;/strong&gt;: A megnagyobbodott zsírsejtekből eredő gyulladás jelentősen hozzájárul az inzulinrezisztenciához. A zsírsejtek mérete és működése az anyagcsere egészségének kritikus meghatározói.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Inzulinrezisztencia és egyéb állapotok&lt;/strong&gt;: A podcast az inzulinrezisztencia és a magas vérnyomás, a merevedési zavarok és a policisztás ovárium szindróma (PCOS) közötti összefüggéseket tárgyalja, kiemelve, hogy az inzulin hogyan befolyásolja a reproduktív egészséget és a vérnyomás szabályozását.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Etnikai különbségek&lt;/strong&gt;: Jelentős etnikai különbségek vannak a zsírraktározás és az anyagcserezavarokra való hajlam terén, ami befolyásolja, hogy a különböző népességcsoportok miként tapasztalják az inzulinrezisztenciát és a hozzá kapcsolódó egészségügyi problémákat.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Táplálkozási tényezők&lt;/strong&gt;: A szénhidrátfogyasztás és az étkezések gyakoriságának az inzulinszintre gyakorolt hatását vizsgáljuk, és megvitatjuk, hogy az étkezések összetétele hogyan befolyásolja az inzulinválaszt.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ketonok és anyagcsere&lt;/strong&gt;: A ketontestek mint az agy alternatív energiaforrása kerülnek bemutatásra, különösen abban az esetben, ha a glükóz-anyagcsere károsodott. A megbeszélés kitér a ketogén diéta lehetséges kognitív előnyeire, különösen az anyagcserezavarokban vagy kognitív hanyatlásban szenvedő egyének esetében.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Élettartam és életmódbeli tényezők&lt;/strong&gt;: A podcast kitér a különböző életmódbeli tényezőkre, amelyek befolyásolják a hosszú életet, beleértve az étrendet, a testmozgást és a társadalmi kapcsolatokat. A magányosságot a halálozás jelentős kockázati tényezőjeként jegyzik meg, amely potenciálisan még a dohányzást is felülmúlja.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Koleszterin és hormonok&lt;/strong&gt;: A koleszterinszint, a nemi hormonok és az inzulinrezisztencia közötti kapcsolatra világítanak rá, hangsúlyozva az anyagcsere-egészség összetettségét.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Környezeti hatások&lt;/strong&gt;: Az olyan tényezőket, mint a dohányzás, a légszennyezés és az olyan toxinoknak való kitettség, mint a dízel kipufogógáz, az inzulinrezisztencia és a kapcsolódó egészségügyi problémák súlyosbításában játszott szerepük tekintetében tárgyalják.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Egészségügyi beavatkozások&lt;/strong&gt;: A podcast az inzulinrezisztencia kezelésére és az általános anyagcsere-egészség javítására irányuló lehetséges egészségügyi beavatkozásokkal - beleértve az étrendi változtatásokat, a testmozgást és az orvosi kezeléseket - kapcsolatos betekintéssel zárul.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;A beszélgetés során Dr. Bikman hangsúlyozza a anyagcsere egészség összefüggéseit, az egyéni kockázati tényezők megértésének fontosságát, valamint a kezelés és megelőzés multidiszciplináris megközelítésének szükségességét. A megosztott információk oktatási célokat szolgálnak, és nem helyettesítik a szakszerű orvosi tanácsadást.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@benbikman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Bikman YouTube-csatornája&lt;/a&gt;&lt;/p&gt;
 
 
     

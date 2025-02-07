@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Work-Life-Balance | Hunor&#39;s Webseite</title>
-    <link>http://localhost:1313/de/tags/work-life-balance/</link>
-      <atom:link href="http://localhost:1313/de/tags/work-life-balance/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/de/tags/work-life-balance/</link>
+      <atom:link href="https://example.com/de/tags/work-life-balance/index.xml" rel="self" type="application/rss+xml" />
     <description>Work-Life-Balance</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Work-Life-Balance</title>
-      <link>http://localhost:1313/de/tags/work-life-balance/</link>
+      <link>https://example.com/de/tags/work-life-balance/</link>
     </image>
     
     <item>
       <title>Die Kunst des Verlangsamens - Der Mythos des Multitaskings wird durch Präsenz ersetzt</title>
-      <link>http://localhost:1313/de/post/slowingdown/</link>
+      <link>https://example.com/de/post/slowingdown/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/post/slowingdown/</guid>
+      <guid>https://example.com/de/post/slowingdown/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Das Gestern ist Geschichte. Das Morgen ist ein Geheimnis. Das Heute ist ein Geschenk. Deshalb nennt man es Gegenwart/Geschenk (das hier gebrauchte englische Wort &amp;lsquo;present&amp;rsquo; bedeutet sowohl &amp;lsquo;Geschenk&amp;rsquo; – als auch &amp;lsquo;Gegenwart&amp;rsquo;). - Alice Morse Earle&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In unserer schnelllebigen Welt ist die Eile zu einer Lebensweise geworden. Wir rennen gegen die Uhr an, jonglieren mit Aufgaben und betreiben Multitasking, bis wir uns ausgelaugt und unerfüllt fühlen. Wie Ralph Waldo Emerson treffend feststellte: „Wir bereiten uns immer auf das Leben vor, aber wir leben nie“. Diese Eile, immer mehr zu erreichen, führt oft zu einem Zustand der Angst und des Stresses, der uns daran hindert, den Reichtum des Lebens wirklich zu erleben bzw. zu genießen.&lt;/p&gt;
 &lt;h2 id=&#34;die-kosten-der-hektik&#34;&gt;Die Kosten der Hektik&lt;/h2&gt;
@@ -38,7 +38,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Eile verkörpert eine Mentalität des Mangels - das Gefühl, dass wir nicht genug sind, dass wir uns beeilen müssen, um das Leben einzuholen. Wie Sura, ein Meditationscoach, feststellte, entspringt dieser Zustand des Widerstands oft der Angst, wodurch wir den gegenwärtigen Moment verpassen. Die Wahrheit ist, dass wir, wenn wir uns beeilen, nur die Oberfläche unserer Erfahrungen überfliegen, anstatt tief in das einzutauchen, was wirklich wichtig ist. Wir drängen uns selbst, um Meilensteine zu erreichen, ohne den Weg dorthin zu würdigen.&lt;/p&gt;
@@ -62,7 +62,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Das Leben ist kein Sprint, es ist ein Marathon, ein allmählicher Prozess, der Geduld und Absicht erfordert. Ralph Ransom betonte, dass „das Leben eine Reihe von Schritten ist“. Doch in einer Gesellschaft, die Geschwindigkeit und Effizienz verherrlicht, vergessen wir diese grundlegende Wahrheit oft. Entschleunigung ermöglicht es uns, Momente zu genießen, unsere Umgebung zu schätzen und bedeutungsvolle Beziehungen zu pflegen.&lt;/p&gt;
@@ -84,7 +84,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Stell dir vor, du liest ein Buch in Eile - sicher, du bist schneller fertig, aber nimmst du die Botschaft auch auf? Fühlst du dich von der Geschichte angesprochen? Ähnlich verhält es sich mit einer in Eile verzehrten Mahlzeit. Genießen wir die Aromen wirklich oder wollen wir nur unseren Körper auffüllen? Wenn wir langsamer werden, erlauben wir uns, uns tief auf unsere Erfahrungen einzulassen und alltägliche Momente in tiefgründige Erinnerungen zu verwandeln.&lt;/p&gt;
@@ -107,7 +107,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Multitasking wird am modernen Arbeitsplatz oft als Fähigkeit gepriesen, doch Forschungen zeigen, dass es die Produktivität mindert und die Fehlerquote erhöht. Wenn wir unseren Fokus auf mehrere Aufgaben verteilen, opfern wir die Qualität unserer Arbeit. Anstatt unsere Energie in ein einziges wichtiges Projekt zu stecken, verwässern wir unsere Bemühungen, was zu Frustration und Burnout führt.&lt;/p&gt;
@@ -131,7 +131,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Die Reise des Lebens ist von ständigem Lernen und Verbessern geprägt. Während wir unsere Karrieren, Beziehungen und unser persönliches Wachstum navigieren, ist es unerlässlich, dass wir uns daran erinnern, dass es keinen endgültigen Endpunkt gibt. So wie ein Mangobaum Jahre braucht, um Früchte zu tragen, ist unser Leben eine Reihe von Pflegeprozessen. Je langsamer wir vorgehen, desto weniger Fehler machen wir, und desto mehr wachsen wir.&lt;/p&gt;
@@ -155,7 +155,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;In unserem Streben nach Erfüllung müssen wir lernen, den gegenwärtigen Moment zu genießen. Ganz gleich, ob wir eine Mahlzeit genießen, uns mit einem geliebten Menschen unterhalten oder einfach in der Natur spazieren gehen - wenn wir ganz präsent sind, können wir unsere Erfahrungen verbessern. Wie St. Francis de Sales sagte: „Sei niemals in Eile; tue alles in Ruhe und mit einem ruhigen Geist.&lt;/p&gt;

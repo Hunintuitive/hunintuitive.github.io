@@ -2,11 +2,11 @@
 title: "Warum ich als Laie über Gesundheitsthemen blogge?"
 authors:
 - admin
-date: "2025-02-04T00:00:00Z"
+date: "2025-02-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-04T00:00:00Z"
+publishDate: "2025-02-07T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -225,6 +225,38 @@ Indem ich meinen Weg und meine Erkenntnisse mit dir teile, möchte ich dich dazu
 {{< youtube 7STAPF4Gdr0 >}}
 
 {{< youtube 8AqlZK2TxZA >}}
+
+Diese Videos befassen sich mit dem Zusammenhang zwischen Hautanhängseln und Insulinresistenz.
+
+{{< youtube NyFSkGMWP5Q >}}
+
+Der [Podcast](https://stevenbartlett.com/wp-content/uploads/2025/02/DOAC-Benjamin-Bikman-independent-research.pdf) mit Dr. Benjamin Bikman befasst sich mit verschiedenen Aspekten der Insulinresistenz und ihren Auswirkungen auf die Gesundheit. Hier eine Zusammenfassung der wichtigsten behandelten Themen:
+
+1. **Insulinresistenz und Gesundheitsprobleme**: Die Insulinresistenz wird als ein gemeinsamer zugrunde liegender Faktor bei mehreren ernsten Gesundheitsproblemen identifiziert, darunter die Alzheimer-Krankheit, Typ-2-Diabetes und Herz-Kreislauf-Erkrankungen. Die Beziehung zwischen Insulinfunktion und Gehirnaktivität legt nahe, dass eine gezielte Beeinflussung der Insulinresistenz potenzielle Behandlungsmöglichkeiten für die Alzheimer-Krankheit bieten könnte.
+
+2. **Fettgewebe und Typ-2-Diabetes**: Die Zunahme des Fettgewebes, insbesondere des viszeralen Fettgewebes, wird durch Mechanismen wie Entzündung und Insulinresistenz mit einem erhöhten Risiko für Typ-2-Diabetes in Verbindung gebracht.
+
+3. **Entzündung und Insulinresistenz**: Entzündungen, die durch vergrößerte Fettzellen entstehen, tragen erheblich zur Insulinresistenz bei. Die Größe und Funktion der Fettzellen sind entscheidende Faktoren für die Gesundheit des Stoffwechsels.
+
+4. **Insulinresistenz und andere Erkrankungen**: In diesem Podcast werden die Zusammenhänge zwischen Insulinresistenz und Bluthochdruck, erektiler Dysfunktion und polyzystischem Ovarialsyndrom (PCOS) erörtert, wobei hervorgehoben wird, wie Insulin die reproduktive Gesundheit und die Blutdruckregulierung beeinflusst.
+
+5. **Ethnische Unterschiede**: Es gibt bemerkenswerte ethnische Unterschiede bei der Fettspeicherung und der Veranlagung zu Stoffwechselstörungen, die sich darauf auswirken, wie verschiedene Bevölkerungsgruppen die Insulinresistenz und damit verbundene Gesundheitsprobleme erleben.
+
+6. **Ernährungsspezifische Faktoren**: Die Auswirkungen des Kohlenhydratkonsums und der Häufigkeit der Mahlzeiten auf den Insulinspiegel werden untersucht, und es wird erörtert, wie die Zusammensetzung der Mahlzeiten die Insulinreaktion beeinflusst.
+
+7. **Ketonkörper und Stoffwechsel**: Ketonkörper werden als alternative Energiequelle für das Gehirn vorgestellt, insbesondere wenn der Glukosestoffwechsel gestört ist. Diskutiert werden auch die potenziellen kognitiven Vorteile einer ketogenen Ernährung, insbesondere für Personen mit Stoffwechselstörungen oder kognitivem Verfall.
+
+8. **Langlebigkeit und Lebensstilfaktoren**: Der Podcast geht auf verschiedene Lebensstilfaktoren ein, die die Langlebigkeit beeinflussen, darunter Ernährung, Bewegung und soziale Kontakte. Einsamkeit wird als ein signifikanter Risikofaktor für die Sterblichkeit genannt, der möglicherweise sogar das Rauchen übertrifft.
+
+9. **Cholesterin und Hormone**: Die Beziehung zwischen Cholesterinspiegel, Sexualhormonen und Insulinresistenz wird hervorgehoben und die Komplexität der metabolischen Gesundheit betont.
+
+10. **Umwelteinflüsse**: Faktoren wie Rauchen, Luftverschmutzung und die Belastung durch Giftstoffe wie Dieselabgase werden hinsichtlich ihrer Rolle bei der Verschlimmerung der Insulinresistenz und damit verbundener Gesundheitsprobleme erörtert.
+
+11. **Gesundheitsinterventionen**: Der Podcast schließt mit Einblicken in mögliche gesundheitliche Maßnahmen, einschließlich Ernährungsumstellung, Bewegung und medizinische Behandlungen, um die Insulinresistenz in den Griff zu bekommen und die allgemeine metabolische Gesundheit zu verbessern.
+
+Während der gesamten Diskussion betont Dr. Bikman die Zusammenhänge der Stoffwechselgesundheit, die Bedeutung des Verständnisses individueller Risikofaktoren und die Notwendigkeit eines multidisziplinären Ansatzes für Behandlung und Prävention. Die geteilten Informationen dienen der Aufklärung und sollen eine professionelle medizinische Beratung nicht ersetzen.
+
+[Ben Bikman's YouTube Kanal](https://www.youtube.com/@benbikman)
 
 {{< youtube lZZCLlX05PQ >}}
 

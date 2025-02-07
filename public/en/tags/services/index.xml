@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services | Hunor&#39;s Website</title>
-    <link>http://localhost:1313/en/tags/services/</link>
-      <atom:link href="http://localhost:1313/en/tags/services/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://example.com/en/tags/services/</link>
+      <atom:link href="https://example.com/en/tags/services/index.xml" rel="self" type="application/rss+xml" />
     <description>Services</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Services</title>
-      <link>http://localhost:1313/en/tags/services/</link>
+      <link>https://example.com/en/tags/services/</link>
     </image>
     
     <item>
       <title>Affordable IT Services for Individuals</title>
-      <link>http://localhost:1313/en/project/itservice/</link>
+      <link>https://example.com/en/project/itservice/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/itservice/</guid>
+      <guid>https://example.com/en/project/itservice/</guid>
       <description>&lt;h2 id=&#34;-discover-the-advantages-of-the-digital-world-avoid-the-disadvantages&#34;&gt;🌐 Discover the advantages of the Digital World, avoid the disadvantages!&lt;/h2&gt;
 &lt;p&gt;Need help in the digital world? I&amp;rsquo;ll be happy to help you solve your IT problems! I offer affordable IT services designed to make your life easier. I can help anyone looking for affordable solutions instead of expensive professional solutions.&lt;/p&gt;
 &lt;h2 id=&#34;why-choose-me&#34;&gt;Why choose me?&lt;/h2&gt;
@@ -65,9 +65,9 @@
     
     <item>
       <title>Household cleaning</title>
-      <link>http://localhost:1313/en/project/cleaningservice/</link>
+      <link>https://example.com/en/project/cleaningservice/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/project/cleaningservice/</guid>
+      <guid>https://example.com/en/project/cleaningservice/</guid>
       <description>&lt;h2 id=&#34;i-offer-cleaning-services-in-budapest-and-dunakeszi&#34;&gt;I offer cleaning services in Budapest and Dunakeszi!&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Dear Interested Parties!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;I provide cleaning services for family homes and apartments in the 14th district and nearby areas of Budapest and Dunakeszi.&lt;/strong&gt; If you are looking for a reliable and thorough cleaner who is focused on regularity and precision, then you are in the right place! I don&amp;rsquo;t just carry a vacuum cleaner on top of my head; I use it actively and efficiently! Many people compliment me, saying it fits well in my hand too! 😅&lt;/p&gt;
