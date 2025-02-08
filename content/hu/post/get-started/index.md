@@ -51,6 +51,10 @@ Ahogyan Spock a Star Trekből mondaná: 🖖élj sokáig és jólétben!😊
 
 {{< youtube x417V16UQBE >}}
 
+## Készülj fel egy magával ragadó utazásra, amint a keleti zene gazdag, érzelmi szálait a trance lüktető ritmusaival ötvözzük. Ez a gyönyörű fúzió arra invitál, hogy merülj el egy olyan hangzásvilágban, ahol az ősi dallamok találkoznak a modern vibrálással, olyan élményt teremtve, amely mélyen rezonál a lelked mélyén...
+
+{{< youtube KBPbEpsjU4k >}}
+
 ## Miért érdemes minél gyakrabban zenét hallgatni?
 
 A zene több okból is mély jelentőséggel bír az emberi életben, érzelmi, társadalmi, kognitív és kulturális dimenziókat felölelve.
