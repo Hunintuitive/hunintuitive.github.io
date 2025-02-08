@@ -11,6 +11,10 @@
 #    url: teaching/
 #    weight: 40
 
+#  - name: Kínált Szolgáltatások
+#    url: projects/
+#    weight: 30
+
 main:
   - name: Ki az a Becsi Hunor?
     url: /
@@ -24,7 +28,5 @@ main:
   - name: Szakmai Tapasztalat
     url: experience/
     weight: 20
-  - name: Kínált Szolgáltatások
-    url: projects/
-    weight: 30
+
 

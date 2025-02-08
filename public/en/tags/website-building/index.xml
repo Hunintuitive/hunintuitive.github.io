@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Website Building | Hunor&#39;s Website</title>
-    <link>https://example.com/en/tags/website-building/</link>
-      <atom:link href="https://example.com/en/tags/website-building/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/website-building/</link>
+      <atom:link href="http://localhost:1313/en/tags/website-building/index.xml" rel="self" type="application/rss+xml" />
     <description>Website Building</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Website Building</title>
-      <link>https://example.com/en/tags/website-building/</link>
+      <link>http://localhost:1313/en/tags/website-building/</link>
     </image>
     
     <item>
       <title>Creating Beautiful, Fast, and Free Websites with Hugo: A Guide for Linux, Mac, and Windows Users</title>
-      <link>https://example.com/en/post/hugo/</link>
+      <link>http://localhost:1313/en/post/hugo/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/hugo/</guid>
+      <guid>http://localhost:1313/en/post/hugo/</guid>
       <description>&lt;h1 id=&#34;creating-beautiful-fast-and-free-websites-with-hugo-a-comprehensive-guide-for-linux-mac-and-windows-users&#34;&gt;Creating Beautiful, Fast, and Free Websites with Hugo: A Comprehensive Guide for Linux, Mac, and Windows Users&lt;/h1&gt;
 &lt;p&gt;Hugo is a powerful open-source static site generator that enables you to create stunning websites quickly and efficiently. With its remarkable speed and flexibility, Hugo is an excellent choice for developers, bloggers, and businesses seeking a free and straightforward way to host their content. In this guide, we will walk you through installing Hugo on Linux, Mac, and Windows, explore free hosting options, and highlight additional dependencies and template resources.&lt;/p&gt;
 &lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;

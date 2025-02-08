@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Learning | Hunor&#39;s Website</title>
-    <link>https://example.com/en/tags/learning/</link>
-      <atom:link href="https://example.com/en/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/learning/</link>
+      <atom:link href="http://localhost:1313/en/tags/learning/index.xml" rel="self" type="application/rss+xml" />
     <description>Learning</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Learning</title>
-      <link>https://example.com/en/tags/learning/</link>
+      <link>http://localhost:1313/en/tags/learning/</link>
     </image>
     
     <item>
       <title>Affordable IT Services for Individuals</title>
-      <link>https://example.com/en/project/itservice/</link>
+      <link>http://localhost:1313/en/project/itservice/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/project/itservice/</guid>
+      <guid>http://localhost:1313/en/project/itservice/</guid>
       <description>&lt;h2 id=&#34;-discover-the-advantages-of-the-digital-world-avoid-the-disadvantages&#34;&gt;🌐 Discover the advantages of the Digital World, avoid the disadvantages!&lt;/h2&gt;
 &lt;p&gt;Need help in the digital world? I&amp;rsquo;ll be happy to help you solve your IT problems! I offer affordable IT services designed to make your life easier. I can help anyone looking for affordable solutions instead of expensive professional solutions.&lt;/p&gt;
 &lt;h2 id=&#34;why-choose-me&#34;&gt;Why choose me?&lt;/h2&gt;

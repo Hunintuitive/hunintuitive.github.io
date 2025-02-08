@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Personal Health Journey | Hunor&#39;s Website</title>
-    <link>https://example.com/en/tags/personal-health-journey/</link>
-      <atom:link href="https://example.com/en/tags/personal-health-journey/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/personal-health-journey/</link>
+      <atom:link href="http://localhost:1313/en/tags/personal-health-journey/index.xml" rel="self" type="application/rss+xml" />
     <description>Personal Health Journey</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 07 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Personal Health Journey</title>
-      <link>https://example.com/en/tags/personal-health-journey/</link>
+      <link>http://localhost:1313/en/tags/personal-health-journey/</link>
     </image>
     
     <item>
       <title>Why I Write About Health Topics as an Everyday Person?</title>
-      <link>https://example.com/en/post/whyipublishhealth/</link>
+      <link>http://localhost:1313/en/post/whyipublishhealth/</link>
       <pubDate>Fri, 07 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/whyipublishhealth/</guid>
+      <guid>http://localhost:1313/en/post/whyipublishhealth/</guid>
       <description>&lt;h2 id=&#34;why-i-blog-about-health-topics-a-journey-of-discovery&#34;&gt;Why I Blog About Health Topics: A Journey of Discovery&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In today&amp;rsquo;s complex health care environment, confusion and misinformation often lead individuals to seek quick fixes that may compromise their well-being. It is essential to recognise that the incentives driving health information can range from altruistic public health initiatives to self-serving profit motives. These incentives run a wide spectrum and reflect different motivations that can influence health decisions. Public health professionals and institutions often work for the benefit of the people and are committed to promoting the health of the community. In contrast, market actors seeking profit often manipulate information to serve their own interests while ignoring the real needs of patients.&lt;/p&gt;

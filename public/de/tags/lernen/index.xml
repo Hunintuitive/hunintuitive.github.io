@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lernen | Hunor&#39;s Webseite</title>
-    <link>https://example.com/de/tags/lernen/</link>
-      <atom:link href="https://example.com/de/tags/lernen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/de/tags/lernen/</link>
+      <atom:link href="http://localhost:1313/de/tags/lernen/index.xml" rel="self" type="application/rss+xml" />
     <description>Lernen</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Lernen</title>
-      <link>https://example.com/de/tags/lernen/</link>
+      <link>http://localhost:1313/de/tags/lernen/</link>
     </image>
     
     <item>
       <title>Erschwingliche IT-Dienstleistungen für Privatpersonen</title>
-      <link>https://example.com/de/project/itdienstleistung/</link>
+      <link>http://localhost:1313/de/project/itdienstleistung/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/project/itdienstleistung/</guid>
+      <guid>http://localhost:1313/de/project/itdienstleistung/</guid>
       <description>&lt;h2 id=&#34;-entdecke-die-vorteile-der-digitalen-welt-vermeide-die-nachteile&#34;&gt;🌐 Entdecke die Vorteile der digitalen Welt, vermeide die Nachteile!&lt;/h2&gt;
 &lt;p&gt;Brauchst du Hilfe in der digitalen Welt? Ich helfe dir gerne, deine IT-Probleme zu lösen! Ich biete erschwingliche IT-Dienstleistungen an, die dir das Leben leichter machen sollen. Ich kann jedem helfen, der nach erschwinglichen Lösungen anstelle von teuren professionellen Lösungen sucht.&lt;/p&gt;
 &lt;h2 id=&#34;warum-mich-wählen&#34;&gt;Warum mich wählen?&lt;/h2&gt;

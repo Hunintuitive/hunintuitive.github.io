@@ -11,6 +11,10 @@
 #    url: teaching/
 #    weight: 40
 
+#  - name: Offered Services
+#    url: projects/
+#    weight: 30
+
 main:
   - name: Who is Hunor Becsi?
     url: /
@@ -24,7 +28,5 @@ main:
   - name: Professional Experience
     url: experience/
     weight: 20
-  - name: Offered Services
-    url: projects/
-    weight: 30
+
 

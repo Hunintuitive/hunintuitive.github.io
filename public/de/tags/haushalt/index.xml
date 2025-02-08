@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Haushalt | Hunor&#39;s Webseite</title>
-    <link>https://example.com/de/tags/haushalt/</link>
-      <atom:link href="https://example.com/de/tags/haushalt/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/de/tags/haushalt/</link>
+      <atom:link href="http://localhost:1313/de/tags/haushalt/index.xml" rel="self" type="application/rss+xml" />
     <description>Haushalt</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Haushalt</title>
-      <link>https://example.com/de/tags/haushalt/</link>
+      <link>http://localhost:1313/de/tags/haushalt/</link>
     </image>
     
     <item>
       <title>Haushalt Reinigung</title>
-      <link>https://example.com/de/project/reinigungsdienste/</link>
+      <link>http://localhost:1313/de/project/reinigungsdienste/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/project/reinigungsdienste/</guid>
+      <guid>http://localhost:1313/de/project/reinigungsdienste/</guid>
       <description>&lt;h2 id=&#34;ich-biete-reinigungsdienste-in-budapest-und-dunakeszi-an&#34;&gt;Ich biete Reinigungsdienste in Budapest und Dunakeszi an!&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Liebe Interessenten!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Ich biete Reinigungsdienstleistungen für Familienhäuser und Wohnungen im 14. Bezirk sowie in den nahegelegenen Gebieten von Budapest und Dunakeszi an.&lt;/strong&gt; Wenn du eine zuverlässige und gründliche Reinigungskraft suchst, die Wert auf Regelmäßigkeit und Präzision legt, bist du bei mir genau richtig! Ich trage einen Staubsauger nicht nur auf dem Kopf, sondern setze ihn aktiv und effizient ein! Viele sagen mir, dass er gut in meiner Hand liegt! 😅&lt;/p&gt;

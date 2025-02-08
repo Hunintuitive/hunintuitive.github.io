@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Warum Musik Hören | Hunor&#39;s Webseite</title>
-    <link>https://example.com/de/tags/warum-musik-horen/</link>
-      <atom:link href="https://example.com/de/tags/warum-musik-horen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/de/tags/warum-musik-horen/</link>
+      <atom:link href="http://localhost:1313/de/tags/warum-musik-horen/index.xml" rel="self" type="application/rss+xml" />
     <description>Warum Musik Hören</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Warum Musik Hören</title>
-      <link>https://example.com/de/tags/warum-musik-horen/</link>
+      <link>http://localhost:1313/de/tags/warum-musik-horen/</link>
     </image>
     
     <item>
       <title>🎉 Herzlich Wilkommen zu meinem neuen Blog!</title>
-      <link>https://example.com/de/post/get-started/</link>
+      <link>http://localhost:1313/de/post/get-started/</link>
       <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/get-started/</guid>
+      <guid>http://localhost:1313/de/post/get-started/</guid>
       <description>&lt;p&gt;Wilkommen 👋&lt;/p&gt;
 
 
@@ -60,7 +60,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/get-started/bear.gif&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/get-started/bear.gif&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 

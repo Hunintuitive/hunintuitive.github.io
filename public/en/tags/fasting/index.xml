@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fasting | Hunor&#39;s Website</title>
-    <link>https://example.com/en/tags/fasting/</link>
-      <atom:link href="https://example.com/en/tags/fasting/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/fasting/</link>
+      <atom:link href="http://localhost:1313/en/tags/fasting/index.xml" rel="self" type="application/rss+xml" />
     <description>Fasting</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Fasting</title>
-      <link>https://example.com/en/tags/fasting/</link>
+      <link>http://localhost:1313/en/tags/fasting/</link>
     </image>
     
     <item>
       <title>Unlocking Fat Loss and Healing: Dr. Mindy Pelz&#39;s Guide to Autophagy and 6 Superfoods to support it</title>
-      <link>https://example.com/en/post/autophagy/</link>
+      <link>http://localhost:1313/en/post/autophagy/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/autophagy/</guid>
+      <guid>http://localhost:1313/en/post/autophagy/</guid>
       <description>&lt;h2 id=&#34;these-6-foods-will-burn-fat-and-heal-body--dr-mindy-pelz-top-fasting-expert&#34;&gt;These 6 Foods will Burn Fat and Heal Body | Dr. Mindy Pelz, Top Fasting Expert&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I recently came across this video from Dr. Mindy Pelz, who is an incredible source of insight, regarding our wellbeing and health.
@@ -113,7 +113,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Autophagy is a natural cellular process in which cells degrade and recycle their own components. The term comes from Greek words: “Auto” (self) and “Phagy” (eating). Essentially, autophagy is the body’s method of cleaning out damaged cells to regenerate newer, healthier ones.&lt;/p&gt;

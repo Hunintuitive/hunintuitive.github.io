@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Household | Hunor&#39;s Website</title>
-    <link>https://example.com/en/tags/household/</link>
-      <atom:link href="https://example.com/en/tags/household/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/household/</link>
+      <atom:link href="http://localhost:1313/en/tags/household/index.xml" rel="self" type="application/rss+xml" />
     <description>Household</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Household</title>
-      <link>https://example.com/en/tags/household/</link>
+      <link>http://localhost:1313/en/tags/household/</link>
     </image>
     
     <item>
       <title>Household cleaning</title>
-      <link>https://example.com/en/project/cleaningservice/</link>
+      <link>http://localhost:1313/en/project/cleaningservice/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/project/cleaningservice/</guid>
+      <guid>http://localhost:1313/en/project/cleaningservice/</guid>
       <description>&lt;h2 id=&#34;i-offer-cleaning-services-in-budapest-and-dunakeszi&#34;&gt;I offer cleaning services in Budapest and Dunakeszi!&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Dear Interested Parties!&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;I provide cleaning services for family homes and apartments in the 14th district and nearby areas of Budapest and Dunakeszi.&lt;/strong&gt; If you are looking for a reliable and thorough cleaner who is focused on regularity and precision, then you are in the right place! I don&amp;rsquo;t just carry a vacuum cleaner on top of my head; I use it actively and efficiently! Many people compliment me, saying it fits well in my hand too! 😅&lt;/p&gt;

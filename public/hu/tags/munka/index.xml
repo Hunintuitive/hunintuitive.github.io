@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Munka | Hunor Weboldala</title>
-    <link>https://example.com/hu/tags/munka/</link>
-      <atom:link href="https://example.com/hu/tags/munka/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/hu/tags/munka/</link>
+      <atom:link href="http://localhost:1313/hu/tags/munka/index.xml" rel="self" type="application/rss+xml" />
     <description>Munka</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Munka</title>
-      <link>https://example.com/hu/tags/munka/</link>
+      <link>http://localhost:1313/hu/tags/munka/</link>
     </image>
     
     <item>
       <title>A mesterséges intelligencia jövője: Mennyire fontos az emberi faj számára?</title>
-      <link>https://example.com/hu/post/ai/</link>
+      <link>http://localhost:1313/hu/post/ai/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/hu/post/ai/</guid>
+      <guid>http://localhost:1313/hu/post/ai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ezt a cikket eredetileg a megfelelő állás megtalálásának nehézségei ihlették, csak hogy rájöjjek, milyen káros lehet bizonyos esetekben a mesterséges intelligencia használata. Az MI-algoritmusok használata az ATS-rendszerekben (Applicant Tracking System - magyarul - Jelölt követő rendszer) nem olyan előnyös, mint azt egyesek gondolják. Néhány érdekes linket is mellékeltem a YouTube-ról a mesterséges intelligencia és az ATS-rendszerek témájában. Magyar, automatikusan fordított felirat elérhető hozzájuk. Jó szórakozást az olvasáshoz!&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 
