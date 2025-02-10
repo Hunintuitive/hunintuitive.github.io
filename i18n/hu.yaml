@@ -79,7 +79,7 @@
   translation: Kód
 
 - id: btn_dataset
-  translation: Adatcsomag
+  translation: Adatállomány
 
 - id: btn_project
   translation: Projekt
@@ -91,10 +91,10 @@
   translation: Forrás dokumentum
 
 - id: btn_copy
-  translation: Másolat
+  translation: Másolás
 
 - id: btn_copied
-  translation: Copied
+  translation: Másolva
 
 - id: btn_download
   translation: Letöltés
