@@ -5,7 +5,7 @@ title: 🎉 Welcome to my new Blog!
 
 
 summary: Fun music, a breaking bear and the reasons to enjoy music as often as you can. 🤩
-date: 2024-11-08
+date: 2025-02-13
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -29,9 +29,11 @@ Welcome 👋
 
 ## My first post
 
-Welcome to my blog, friend!
+Welcome to my blog, Friend!
 
-As my webpage is freshly made I do not have very much content yet, but I am looking forward to fill these sections with fun and informative content, you will hopefully enjoy. 😊
+***"In a very real sense, we are aliens on a strange planet. We spend most of our lives reaching our ans trying to communicate. If during our whole lifetime, we could reach out and really communicate with just two people, we are indeed very fortunate." -Gene Roddenberry***
+
+***In the symphony of my life, music is the heartbeat that resonates with my soul, a profound love that draws me into its embrace, whether I'm lost in its enchanting melodies, crafting my own notes in joyous creation, or dancing freely to its rhythms, celebrating the beauty of every moment.***
 
 If you like music, breakdance and cool beats, like I do, here is something I enjoy very often and I'd love to share it with you. 
 
@@ -54,6 +56,23 @@ As Spock of Star Trek would say: 🖖live long and prosper!😊
 ## Prepare to embark on a captivating journey as we blend the rich, emotional tapestry of Eastern music with the pulsating rhythms of trance. This beautiful fusion invites you to immerse yourself in a soundscape where ancient melodies meet modern vibes, creating an experience that resonates deeply within the soul...
 
 {{< youtube KBPbEpsjU4k >}}
+
+## Back in 2003, I experimented a little with creating electronic music. I found the process both challenging and rewarding, as it allowed me to explore my creativity in new ways
+
+Last but not least, here are some tracks I created with Dance eJay that I immensely enjoyed experimenting with!
+
+Cosmic Train:
+
+{{< audio src="Cosmic Train.mp3" >}}
+
+Cosmic Train Extended Version:
+
+{{< audio src="Cosmic Train Extended.mp3" >}}
+
+Ocean of Strange Times:
+
+{{< audio src="Ocean of Strange Times.mp3" >}}
+
 
 ## Why enjoy music as often as you can?
 

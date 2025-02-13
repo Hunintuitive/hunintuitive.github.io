@@ -5,7 +5,7 @@ title: 🎉 Szeretettel üdvözöllek az új Blogomon!
 
 
 summary: Szórakoztató zene, egy breakelő medve és az okok, amiért érdemes minél gyakrabban élvezni a zenét.🤩
-date: 2024-11-08
+date: 2025-02-13
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -31,7 +31,9 @@ Isten hozott! 👋
 
 Üdvözöllek a blogomon Barátom!
 
-Mivel a weboldalam frissen készült, még nincs túl sok tartalom, de alig várom, hogy megtöltsem ezeket a részeket szórakoztató és informatív tartalommal, remélhetőleg élvezni fogod 😊.
+***”Egy nagyon is valóságos értelemben mindannyian idegenek vagyunk egy idegen bolygón. Életünk nagy részét azzal töltjük, hogy megpróbálunk kommunikálni. Ha egész életünk során csak két emberhez tudnánk odakapcsolódni és valóban kommunikálni, akkor valóban nagyon szerencsések vagyunk.” -Gene Roddenberry***
+
+***Életem szimfóniájában a zene az a szívverés, mely lényem legmélyéig hatol, egy végtelen szeretet, amely ölelésébe vonz, akár a varázslatos dallamok tengerében merülök el, akár örömteli alkotás közepette formálom saját hangjegyeimet, akár szabadon táncolok a ritmusra, ünnepelve a pillanatok szépségét és varázsát.***
 
 Ha szereted a zenét, a breakdance-t és a menő ütemeket, annyira, amennyire én, akkor van itt valami, amit nagyon gyakran hallgatok és szívesen megosztom veled. 
 
@@ -54,6 +56,23 @@ Ahogyan Spock a Star Trekből mondaná: 🖖élj sokáig és jólétben!😊
 ## Készülj fel egy magával ragadó utazásra, amint a keleti zene gazdag, érzelmi szálait a trance lüktető ritmusaival ötvözzük. Ez a gyönyörű fúzió arra invitál, hogy merülj el egy olyan hangzásvilágban, ahol az ősi dallamok találkoznak a modern vibrálással, olyan élményt teremtve, amely mélyen rezonál a lelked mélyén...
 
 {{< youtube KBPbEpsjU4k >}}
+
+## 2003-ban kísérletezgettem kicsit elektronikus zene készítésével. A folyamatot egyszerre találtam kihívásnak és gyümölcsözőnek, mivel lehetővé tette számomra, hogy új utakon fedezzem fel a kreativitásomat.
+
+Végül, de nem utolsósorban, itt van néhány szám, amit a Dance eJay segítségével készítettem, és amelyekkel nagyon élveztem a kísérletezést!
+
+Cosmic Train:
+
+{{< audio src="Cosmic Train.mp3" >}}
+
+Cosmic Train Extended Version:
+
+{{< audio src="Cosmic Train Extended.mp3" >}}
+
+Ocean of Strange Times:
+
+{{< audio src="Ocean of Strange Times.mp3" >}}
+
 
 ## Miért érdemes minél gyakrabban zenét hallgatni?
 

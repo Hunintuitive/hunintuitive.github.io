@@ -5,7 +5,7 @@ title: 🎉 Herzlich Wilkommen zu meinem neuen Blog!
 
 
 summary: Unterhaltsame Musik, ein breakdance-tanzender Bär und die Gründe, Musik so oft wie möglich zu genießen.🤩
-date: 2024-11-08
+date: 2025-02-13
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -31,7 +31,9 @@ Wilkommen 👋
 
 Willkommen auf meinem Blog, mein Freund!
 
-Da meine Website frisch erstellt ist, gibt es noch nicht viele Inhalte, aber ich freue mich darauf, diese Abschnitte mit lustigen und informativen Inhalten zu füllen, die dir hoffentlich gefallen werden 😊.
+***"Im wahrsten Sinne des Wortes sind wir Außerirdische auf einem fremden Planeten. Wir verbringen die meiste Zeit unseres Lebens damit, zu versuchen, mit anderen zu kommunizieren. Wenn wir während unseres ganzen Lebens nur zwei Menschen erreichen und mit ihnen kommunizieren können, haben wir wirklich großes Glück.“ -Gene Roddenberry***
+
+***In der Symphonie meines Lebens ist Musik der Herzschlag, der in meiner Seele mitschwingt, eine tiefe Liebe, die mich in ihre Umarmung zieht, egal ob ich mich in ihren bezaubernden Melodien verliere, meine eigenen Noten in freudiger Schöpfung erarbeite oder frei zu ihren Rhythmen tanze und die Schönheit jedes Augenblicks feiere.***
 
 Wenn du Musik, Breakdance und coole Beats genauso sehr wie ich liebst, hier ist etwas, was ich sehr oft höre und gerne mit dir teilen möchte. 
 
@@ -54,6 +56,23 @@ Wie Spock aus Star Trek sagen würde, 🖖**Lebe lang und in Frieden!**😊
 ## Bereite dich auf eine fesselnde Reise vor, auf der wir den reichen, emotionellen Zauber der östlichen Musik mit den pulsierenden Rhythmen von Trance verbinden. Diese wunderbare Fusion lädt dich ein, in eine Klangwelt einzutauchen, in der uralte Melodien auf moderne Vibes treffen und eine Erfahrung schaffen, die tief in der Seele mitschwingt...
 
 {{< youtube KBPbEpsjU4k >}}
+
+## Im Jahr 2003 experimentierte ich ein wenig mit elektronischer Musik. Ich fand diesen Prozess sowohl herausfordernd als auch lohnend, da er mir erlaubte, meine Kreativität auf neue Weise zu erkunden.
+
+Zu guter Letzt sind hier einige Tracks, die ich mit Dance eJay erstellt habe und mit denen ich sehr gerne experimentiert habe!
+
+Cosmic Train:
+
+{{< audio src="Cosmic Train.mp3" >}}
+
+Cosmic Train Extended Version:
+
+{{< audio src="Cosmic Train Extended.mp3" >}}
+
+Ocean of Strange Times:
+
+{{< audio src="Ocean of Strange Times.mp3" >}}
+
 
 ## Warum sollte man Musik so oft wie möglich genießen?
 

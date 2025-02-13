@@ -26,13 +26,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/"
+                hreflang="de"
+                href="http://localhost:1313/de/post/"
                 />
     <xhtml:link
                 rel="alternate"
@@ -536,18 +536,6 @@
                 href="http://localhost:1313/hu/post/ai/"
                 />
   </url><url>
-    <loc>http://localhost:1313/hu/tags/haztartas/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/project/takaritas/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/project/szamtech/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/hu/tags/mesterseges-intelligencia/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -560,42 +548,7 @@
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/hu/tags/oktatas/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/project/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/project/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/segitsegnyujtas/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/hu/tags/szamitastechnika/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/szolgaltatas/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/takaritas/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -608,13 +561,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/get-started/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/get-started/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/get-started/"
+                hreflang="de"
+                href="http://localhost:1313/de/post/get-started/"
                 />
     <xhtml:link
                 rel="alternate"

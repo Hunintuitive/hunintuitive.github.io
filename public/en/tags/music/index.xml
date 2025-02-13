@@ -5,7 +5,7 @@
     <link>http://localhost:1313/en/tags/music/</link>
       <atom:link href="http://localhost:1313/en/tags/music/index.xml" rel="self" type="application/rss+xml" />
     <description>Music</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 08 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Music</title>
@@ -15,7 +15,7 @@
     <item>
       <title>🎉 Welcome to my new Blog!</title>
       <link>http://localhost:1313/en/post/get-started/</link>
-      <pubDate>Fri, 08 Nov 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/en/post/get-started/</guid>
       <description>&lt;p&gt;Welcome 👋&lt;/p&gt;
 
@@ -30,6 +30,7 @@
     &lt;li&gt;&lt;a href=&#34;#my-favourite-break-dance-style-is-the-animation-break---if-i-turn-pro-maybe-i-can-offer-you-a-similar-show-sometime-in-the-future-&#34;&gt;My favourite break dance style is the &amp;ldquo;Animation break&amp;rdquo; - if I turn pro, maybe I can offer you a similar show sometime in the future 😊&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#discover-a-captivating-video-about-breakdancing-accompanied-by-energetic-beats-that-immediately-make-you-want-to-move-and-dance&#34;&gt;Discover a captivating video about breakdancing, accompanied by energetic beats that immediately make you want to move and dance!&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#prepare-to-embark-on-a-captivating-journey-as-we-blend-the-rich-emotional-tapestry-of-eastern-music-with-the-pulsating-rhythms-of-trance-this-beautiful-fusion-invites-you-to-immerse-yourself-in-a-soundscape-where-ancient-melodies-meet-modern-vibes-creating-an-experience-that-resonates-deeply-within-the-soul&#34;&gt;Prepare to embark on a captivating journey as we blend the rich, emotional tapestry of Eastern music with the pulsating rhythms of trance. This beautiful fusion invites you to immerse yourself in a soundscape where ancient melodies meet modern vibes, creating an experience that resonates deeply within the soul&amp;hellip;&lt;/a&gt;&lt;/li&gt;
+    &lt;li&gt;&lt;a href=&#34;#back-in-2003-i-experimented-a-little-with-creating-electronic-music&#34;&gt;Back in 2003 I experimented a little with creating electronic music:&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#why-enjoy-music-as-often-as-you-can&#34;&gt;Why enjoy music as often as you can?&lt;/a&gt;&lt;/li&gt;
     &lt;li&gt;&lt;a href=&#34;#in-summary-music-is-a-universal-language-that-transcends-barriers-enriching-the-human-experience-through-emotional-social-cognitive-and-cultural-avenues-its-importance-lies-not-just-in-the-enjoyment-it-offers-but-also-in-its-ability-to-connect-us-to-ourselves-and-to-one-another&#34;&gt;In summary, music is a universal language that transcends barriers, enriching the human experience through emotional, social, cognitive, and cultural avenues. Its importance lies not just in the enjoyment it offers, but also in its ability to connect us to ourselves and to one another.&lt;/a&gt;&lt;/li&gt;
   &lt;/ul&gt;
@@ -39,7 +40,7 @@
 
 &lt;h2 id=&#34;my-first-post&#34;&gt;My first post&lt;/h2&gt;
 &lt;p&gt;Welcome to my blog, friend!&lt;/p&gt;
-&lt;p&gt;As my webpage is freshly made I do not have very much content yet, but I am looking forward to fill these sections with fun and informative content, you will hopefully enjoy. 😊&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;In the symphony of my life, music is the heartbeat that resonates with my soul, a profound love that draws me into its embrace, whether I&amp;rsquo;m lost in its enchanting melodies, crafting my own notes in joyous creation, or dancing freely to its rhythms, celebrating the beauty of every moment.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;If you like music, breakdance and cool beats, like I do, here is something I enjoy very often and I&amp;rsquo;d love to share it with you.&lt;/p&gt;
 &lt;p&gt;As Spock of Star Trek would say: 🖖live long and prosper!😊&lt;/p&gt;
 &lt;p&gt;😊&lt;strong&gt;Enjoy!&lt;/strong&gt;😊&lt;/p&gt;
@@ -98,6 +99,74 @@
       &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/KBPbEpsjU4k?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
       &gt;&lt;/iframe&gt;
     &lt;/div&gt;
+
+&lt;h2 id=&#34;back-in-2003-i-experimented-a-little-with-creating-electronic-music&#34;&gt;Back in 2003 I experimented a little with creating electronic music:&lt;/h2&gt;
+&lt;p&gt;Here some tracks I put together with Dance eJay:&lt;/p&gt;
+&lt;p&gt;Cosmic Train:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Cosmic Train Extended:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
+
+&lt;p&gt;Ocean of Strange Times:&lt;/p&gt;
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+&lt;audio controls &gt;
+  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+&lt;/audio&gt;
 
 &lt;h2 id=&#34;why-enjoy-music-as-often-as-you-can&#34;&gt;Why enjoy music as often as you can?&lt;/h2&gt;
 &lt;p&gt;Music holds a profound significance in human life for several reasons, encompassing emotional, social, cognitive, and cultural dimensions.&lt;/p&gt;

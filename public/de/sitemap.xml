@@ -537,10 +537,6 @@
                 href="http://localhost:1313/de/post/ai/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/dienste/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/de/experience/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -560,54 +556,11 @@
                 href="http://localhost:1313/de/experience/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/project/itdienstleistung/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/haushalt/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/project/reinigungsdienste/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/hilfe-leisten/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/de/tags/informationstechnologie/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/de/tags/kunstliche-intelligenz/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/lernen/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/project/</loc>
-    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/project/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/project/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/reinigung/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -620,13 +573,13 @@
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/get-started/"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/get-started/"
                 />
     <xhtml:link
                 rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/get-started/"
+                hreflang="hu"
+                href="http://localhost:1313/hu/post/get-started/"
                 />
     <xhtml:link
                 rel="alternate"
