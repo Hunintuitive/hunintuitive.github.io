@@ -2,11 +2,11 @@
 title: "Warum ich als Laie über Gesundheitsthemen blogge?"
 authors:
 - admin
-date: "2025-02-07T00:00:00Z"
+date: "2025-02-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-07T00:00:00Z"
+publishDate: "2025-02-12T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -228,6 +228,39 @@ Indem ich meinen Weg und meine Erkenntnisse mit dir teile, möchte ich dich dazu
 
 Diese Videos befassen sich mit dem Zusammenhang zwischen Hautanhängseln und Insulinresistenz.
 
+{{< youtube Oh5wT4r2EYA >}}
+
+In einer von Jordan Peterson und Dr. Benjamin Bikman, Professor für Zellbiologie, geführten Diskussion geht es um die Auswirkungen der Kohlenhydratzufuhr auf die Gesundheit, insbesondere im Hinblick auf Insulinresistenz und chronische Krankheiten. 
+
+**Schlüsselpunkte:**
+
+1. **Heißhunger und Ernährung**: Die Diskussion beginnt mit der Feststellung, dass das Verlangen nach süßen, kohlenhydratreichen Lebensmitteln weit verbreitet ist und dass moderne Ernährungsweisen den Insulinspiegel in die Höhe treiben können.
+
+2. **Insulinresistenz**: Dr. Bikman erklärt, dass eine Insulinresistenz, die in erster Linie durch übermäßigen Kohlenhydratkonsum verursacht wird, zu zahlreichen Gesundheitsproblemen führt, darunter Typ-2-Diabetes, Herzerkrankungen und Depressionen. Er betont, dass viele chronische Erkrankungen auf einen hohen Kohlenhydratkonsum zurückgeführt werden können.
+
+3. **Metabolische Gesundheitskrise**: Im Gespräch wird die „kardiometabolische Krise“ in den USA hervorgehoben, wo ein erheblicher Teil der erwachsenen Bevölkerung Anzeichen des metabolischen Syndroms aufweist.
+
+4. **Fettleibigkeit und Insulinresistenz**: Der Zusammenhang zwischen Fettleibigkeit und Insulinresistenz wird untersucht, wobei darauf hingewiesen wird, dass größere Fettzellen resistent gegen Insulin werden, was Stoffwechselprobleme verschlimmert.
+
+5. **Ernährungsempfehlungen**: Dr. Bikman plädiert für eine Reduzierung der Kohlenhydratzufuhr und eine kohlenhydratarme oder ketogene Ernährung zur Verbesserung der Stoffwechselgesundheit.
+
+6. **Kritik an den Ernährungsrichtlinien**: In der Diskussion wird kritisiert, dass die staatlichen Ernährungsrichtlinien, insbesondere die Ernährungspyramide, einen übermäßigen Kohlenhydratkonsum fördern, während Fette und Proteine vernachlässigt werden.
+
+7. **Die Rolle von Insulin bei Krankheiten**: Sie erörtern, wie ein chronisch hoher Insulinspiegel zu verschiedenen Krankheiten, darunter Alzheimer und Krebs, führt, und plädieren für eine Verlagerung des Behandlungsschwerpunkts von der Glukose- zur Insulinbehandlung.
+
+8. **Bedeutung von Nahrungsfetten**: Entgegen der allgemeinen Meinung werden Fette als entscheidend für die Gesundheit des Stoffwechsels und das hormonelle Gleichgewicht hervorgehoben, wobei ein Zusammenhang zwischen dem Fleischkonsum und einer besseren reproduktiven Gesundheit nachgewiesen wird.
+
+9. **Auswirkungen der Regierungspolitik**: Das Gespräch berührt, wie staatliche Subventionen ungesunde Essgewohnheiten durch billige, kohlenhydratreiche Lebensmittel fördern, und fordert einen Ansatz für die öffentliche Gesundheit, der die persönliche Verantwortung betont.
+
+10. **Gesamte Gesundheitsverbesserung**: Die Gastgeber kommen zu dem Schluss, dass der Einzelne seine Gesundheit erheblich verbessern kann, wenn er seine Ernährungsgewohnheiten ändert und vor allem die Kohlenhydratzufuhr reduziert.
+
+**Bemerkenswerte Einsichten:**
+- Dr. Bikman behauptet, dass es kein essentielles Kohlenhydrat gibt und dass das Gehirn auf die Verwendung von Ketonen zur Energiegewinnung umschalten kann, sobald diese verfügbar sind, selbst wenn Glukose vorhanden ist. Er argumentiert, dass dies dem allgemeinen medizinischen Konsens widerspricht, der Glukose als primäre Brennstoffquelle für die Gehirnfunktion bevorzugt.
+- In der Diskussion wurde ein wichtiger Punkt bezüglich der menschlichen Stoffwechselwege und ihrer Auswirkungen auf Gesundheit und Langlebigkeit deutlich. Dr. Bikman erläuterte, dass der Mensch über zwei primäre Stoffwechselwege verfügt, wobei der Kohlenhydrat-Stoffwechselweg eine relativ junge Anpassung ist, die vor allem in Notfällen genutzt wird. Dieser Stoffwechselweg stellt eine schnelle Energiequelle dar, ist aber in seinem Angebot begrenzt. Wenn die Kohlenhydrate erschöpft sind - z. B. während einer 24-stündigen Fastenkur - geht der Körper in einen Zustand der Ketogenese über, bei dem er Fett zur Energiegewinnung nutzt. Diese Umstellung ist von entscheidender Bedeutung, insbesondere wenn man bedenkt, welchen Herausforderungen unsere Vorfahren in Zeiten der Nahrungsmittelknappheit ausgesetzt waren. Dieser Mechanismus ermöglicht die Regeneration und Reparatur, was das Überleben in schwierigen Zeiten ermöglicht. Dr. Bikman betonte, dass eine ständige Abhängigkeit von Kohlenhydraten den Körper daran hindert, in einen autophagischen Zustand einzutreten, was seine Fähigkeit, sich zu reparieren und zu verjüngen, beeinträchtigen könnte. Er schlug vor, dass eine fleischfressende Ernährung die Auswirkungen der Autophagie nicht nur nachahmen, sondern aktiv fördern könnte, was ihre Wirksamkeit bei einigen Menschen erklären könnte. In der Diskussion wurde auch das komplizierte Gleichgewicht zwischen Wachstum und Verfall in zellulären Prozessen angesprochen, wobei die Rolle der Hormone bei der Entscheidung, ob sich die Zellen in einer Aufbauphase oder einer Abbauphase befinden, hervorgehoben wurde. Dr. Bikman wies darauf hin, dass die Optimierung des Zelltods durch Autophagie für die langfristige Gesundheit von entscheidender Bedeutung ist, und schlug vor, dass eine fleischfressende Ernährung dieses Gleichgewicht erleichtern könnte, indem sie die Abhängigkeit von einer Notversorgung mit Nahrungsmitteln verringert, die häufig zu Fettansammlungen führt. Das Gespräch wies auch auf die weiterreichenden Auswirkungen der Insulinresistenz hin, die durch eine chronisch hohe Kohlenhydratzufuhr noch verschlimmert wird. Dr. Bikman regte an, die Mechanismen hinter der Insulinresistenz und ihre Verbindungen zu einer Reihe von Gesundheitsproblemen wie Diabetes, Fettleibigkeit und verschiedenen altersbedingten Krankheiten genauer zu erforschen, und betonte, wie wichtig das Verständnis dieser Stoffwechselwege für die Verbesserung der allgemeinen Gesundheit und Langlebigkeit ist.
+
+Die Diskussion dient als Aufruf zum Handeln für Einzelpersonen, ihre Ernährungsgewohnheiten zu überdenken, insbesondere in Bezug auf den Kohlenhydratkonsum, um die wachsenden Gesundheitskrisen in der modernen Gesellschaft zu bekämpfen.
+
+
 {{< youtube NyFSkGMWP5Q >}}
 
 Der [Podcast](https://stevenbartlett.com/wp-content/uploads/2025/02/DOAC-Benjamin-Bikman-independent-research.pdf) mit Dr. Benjamin Bikman befasst sich mit verschiedenen Aspekten der Insulinresistenz und ihren Auswirkungen auf die Gesundheit. Hier eine Zusammenfassung der wichtigsten behandelten Themen:
@@ -307,7 +340,7 @@ Was sagen Sie also zu diesen Leuten?
 **Dr Thomas Seyfried:**
 Wissen Sie, ich sage... Es tut mir leid, dass das medizinische Umfeld noch nicht erkannt hat, was ich sage. Und dann sage ich ihnen... ja, richtig, die Veränderung muss von den Menschen kommen, sie wird nicht von den medizinischen Spitzenuniversitäten kommen. Sie tun, was sie tun. Der Status quo ist sehr profitabel, der Status quo ist sehr effektiv für diese Leute, aber er hilft den Krebspatienten nicht so gut, wie er könnte. Und vergessen Sie nicht, dass wir nicht alles über Bord werfen, wir wollen nur, dass die Menschen wissen, wie sie die Mittel, die wir haben, besser nutzen können! Wir müssen weder Immuntherapien noch Bestrahlungen noch toxische Gifte wegwerfen. Wir müssen nur besser wissen, wie wir sie einsetzen können, wenn sich der Patient in diesem neuen Zustand befindet. Und die Daten werden es beweisen. Aber wer wird das tun??? Wer soll das tun? Der Arzt sagt, ich würde das gerne machen, aber ich verliere meine Zulassung, wenn ich es mache. Was ist denn da los?!? Sie schrieben den Pflegestandard so, als ob er ins Granit gemeißelt wäre und nicht geändert werden könnte. Nein! Er sollte flexibel sein. Wenn neue Beweise auftauchen... Ich glaube Ihren Beweisen nicht! Welchen Zahlen glauben Sie nicht, welchen wissenschaftlichen Erkenntnissen glauben Sie nicht??? „Nun, ich habe es nicht gelesen.“ Sie können nicht Recht haben, wenn 99% der Welt sagen, dass es so ist, und Sie sagen, dass es etwas anderes ist, das ist Bestätigungsbias. Sie sehen sich die Zahlen nicht an! Und wenn sie dann Krebs bekommen, kommen sie... Hey! Was kannst du für mich tun? Weißt du, es ist so... es ist so... Aber ja, es muss sich ändern, es wird sich ändern, denn wir sind dabei, es zu bewegen. Die Menschen lernen es gerade kennen, und wenn die Veränderung erst einmal da ist, wird es eine große Veränderung sein, und die Menschen werden sich einfach umstellen müssen.
 
-***Ich liebe die Einstellung und die zum Ausdruck gebrachten Motive von Dr. Seyfried! Ob alles genau so ist, wie er denkt, wird die Zeit, die Geschichte und die Wissenschaft zeigen. Er muss an etwas dran sein, denn nach dem, was ich über die ketogene Lebensweise erfahren habe, hat sie für mich auf jeden Fall funktioniert - natürlich, ohne dass ich mit Krebs zu kämpfen hatte. Ich weiß, dass es nicht für jeden das Gleiche sein wird, aber zu erforschen und herauszufinden, wie unser Körper funktioniert, ist nicht nur nützlich, sondern macht auch Spaß. Ich weiß, dass es mir Spaß macht! Ich hoffe nur, dass diese Informationen auch dir möglicherweise helfen können!***
+***Ich bewundere die Haltung und die Absichten aller in den obigen Videos gezeigten Personen, insbesondere von Dr. Seyfried! Seine Perspektive ist faszinierend, und obwohl die Zeit, die Geschichte und die Wissenschaft letztendlich die Wahrheit ans Licht bringen werden, scheint er etwas Bedeutendem auf der Spur zu sein. Aus meinen eigenen Erfahrungen mit der ketogenen Lebensweise kann ich sagen, dass sie für mich gut funktioniert hat - obwohl ich glücklicherweise noch nie mit Krebs zu kämpfen hatte. Ich weiß, dass jeder Mensch andere Erfahrungen macht, aber die Reise, auf der wir lernen, wie unser Körper funktioniert, ist nicht nur hilfreich, sondern auch eine sehr angenehme Erfahrung. Ich weiß das wirklich zu schätzen! Ich hoffe, dass diese Informationen auch dir nützlich sein könnten!***
 
 ---
 

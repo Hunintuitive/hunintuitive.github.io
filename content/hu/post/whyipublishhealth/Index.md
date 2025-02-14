@@ -2,11 +2,11 @@
 title: "Miért blogolok egészségügyi témákról magánemberként?"
 authors:
 - admin
-date: "2025-02-07T00:00:00Z"
+date: "2025-02-12T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-02-07T00:00:00Z"
+publishDate: "2025-02-12T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -229,6 +229,38 @@ Utazásom és meglátásaim megosztásával arra törekszem, hogy képessé tegy
 
 Ezek a videók a bőrkinövések és az inzulinrezisztencia közötti kapcsolatot tárgyalják.
 
+{{< youtube Oh5wT4r2EYA >}}
+
+A Jordan Peterson és Dr. Benjamin Bikman, a sejtbiológia professzora által folytatott beszélgetés középpontjában a szénhidrátbevitel egészségre gyakorolt hatása áll, különös tekintettel az inzulinrezisztenciára és a krónikus betegségekre. 
+
+**Kulcspontok:**
+
+1. **Ételsóvárgások és étrend**: A beszélgetés az édes, szénhidrátban gazdag ételek iránti általános sóvárgás elismerésével kezdődik, és azzal, hogy a modern étrend hogyan növelheti az inzulinszintet.
+
+2. **Inzulinrezisztencia**: Dr. Bikman elmagyarázza, hogy az inzulinrezisztencia, amelyet elsősorban a túlzott szénhidrátfogyasztás okoz, számos egészségügyi problémához vezet, többek között 2-es típusú cukorbetegséghez, szívbetegségekhez és depresszióhoz. Hangsúlyozza, hogy számos krónikus betegség a magas szénhidrátbevitelre vezethető vissza.
+
+3. **Metabolikus egészségügyi válság**: A beszélgetés rávilágít az Egyesült Államokban tapasztalható „kardiometabolikus válságra”, ahol a felnőtt lakosság jelentős részénél a metabolikus szindróma jelei mutatkoznak.
+
+4. **Elhízás és inzulinrezisztencia**: Az elhízás és az inzulinrezisztencia közötti kapcsolatot vizsgálják, megjegyezve, hogy a nagyobb zsírsejtek ellenállóvá válnak az inzulinnal szemben, ami súlyosbítja az anyagcsereproblémákat.
+
+5. **Táplálkozási ajánlások**: Dr. Bikman a szénhidrátbevitel csökkentése és az alacsony szénhidráttartalmú vagy ketogén étrend elfogadása mellett érvel az anyagcsere-egészség javítása érdekében.
+
+6. **A táplálkozási irányelvek kritikája**: Az értekezés kritizálja a kormányzati étrendi irányelveket, különösen az élelmiszer-piramist, amiért az a túlzott szénhidrátfogyasztást támogatja, miközben elhanyagolja a zsírokat és a fehérjéket.
+
+7. **Az inzulin szerepe a betegségekben**: Megvitatják, hogy a krónikusan magas inzulinszint hogyan vezet különböző betegségekhez, többek között az Alzheimer-kórhoz és a rákhoz, és amellett érvelnek, hogy a kezelés középpontjában a glükózról az inzulin kezelésére kell áttérni.
+
+8. **Az élelmi zsírok jelentősége**: A mainstream hiedelmekkel ellentétben a zsírokat kiemelik, mint az anyagcsere-egészség és a hormonális egyensúly szempontjából kulcsfontosságúakat, és bizonyítékokkal alátámasztva a húsfogyasztást a jobb reproduktív egészséggel kapcsolják össze.
+
+9. **Kormányzati szabályozás hatása**: A beszélgetés kitér arra, hogy a kormányzati támogatások hogyan segítik elő az egészségtelen táplálkozási szokásokat az olcsó, szénhidrátban gazdag élelmiszerek révén, és olyan közegészségügyi megközelítést sürget, amely a személyes felelősséget hangsúlyozza.
+
+10. **Általános egészségjavulás**: A házigazdák arra a következtetésre jutnak, hogy az egyének jelentősen javíthatják egészségüket étrendjük módosításával, elsősorban a szénhidrátbevitel csökkentésével.
+
+**Figyelemre méltó felismerések:**
+- Dr. Bikman azt állítja, hogy nincs esszenciális szénhidrát, kijelentve, hogy az agy képes átállni a ketonok energiafelhasználására, amint azok rendelkezésre állnak, még akkor is, ha jelentős mértékű glükóz van jelen. Érvelése szerint ez ellentmond az általános orvosi konszenzusnak, amely a glükózt tekinti elsődleges üzemanyagforrásnak az agyműködéshez.
+- A beszélgetés során egy fontos kérdés merült fel az emberi anyagcsere-útvonalakkal és azok egészségre és hosszú életre gyakorolt hatásával kapcsolatban. Dr. Bikman kifejtette, hogy az ember két elsődleges anyagcsere-útvonallal rendelkezik, a szénhidrát-útvonal egy viszonylag új keletű adaptáció, amelyet elsősorban vészhelyzetekben használunk. Ez az útvonal gyors energiaforrást biztosít, de a készlet korlátozott. Amikor a szénhidrátok kimerülnek - például egy 24 órás böjt során -, a szervezet átvált a ketogenezis állapotába, és a zsírokat használja fel energiaként. Ez a váltás kulcsfontosságú, különösen, ha figyelembe vesszük, milyen kihívásokkal kellett szembenézniük őseinknek az élelmiszerhiányos időkben, ami valószínűleg kiváltotta az autofágia aktiválódását, egy olyan folyamatot, amelyben a szervezet saját sérült szöveteit emészti meg. Ez a mechanizmus lehetővé teszi a regenerációt és a javítást, ami a nehéz időszakokban is lehetővé teszi a túlélést. Dr. Bikman hangsúlyozta, hogy a szénhidrátoktól való állandó függés megakadályozza, hogy a szervezet autofágiás állapotba kerüljön, ami potenciálisan akadályozza a szervezet javítási és megfiatalítási képességét. Azt javasolta, hogy a húsevő étrend nemcsak utánozhatja az autofágia hatásait, hanem aktívan elősegítheti azt, ami megmagyarázhatja annak hatékonyságát egyes egyének esetében. A beszélgetés kitért továbbá a sejtfolyamatok növekedése és bomlása közötti bonyolult egyensúlyra, kiemelve a hormonok szerepét annak meghatározásában, hogy a sejtek építő vagy bomlasztó fázisban vannak. Dr. Bikman megjegyezte, hogy a sejtek autofágián keresztül történő elhalási folyamatának optimalizálása alapvető fontosságú a hosszú távú egészség szempontjából, és azt sugallta, hogy a húsevő étrend elősegítheti ezt az egyensúlyt azáltal, hogy csökkenti a sürgősségi tápláléktól való függőséget, ami gyakran zsírfelhalmozódáshoz vezet. A beszélgetés utalt az inzulinrezisztencia tágabb értelemben vett következményeire is, amely állapotot a krónikusan magas szénhidrátbevitel súlyosbítja. Dr. Bikman az inzulinrezisztencia mögött meghúzódó mechanizmusok mélyebb feltárására ösztönzött, valamint az inzulinrezisztencia és számos egészségügyi problémával - többek között a cukorbetegséggel, az elhízással és a különböző, korral összefüggő betegségekkel - való kapcsolatának feltárására, kiemelve ezen anyagcsere-utak megértésének fontosságát az általános egészség és a hosszú élettartam javítása szempontjából.
+
+A beszélgetés felhívásként szolgál az egyének számára, hogy vizsgálják felül táplálkozási szokásaikat, különösen a szénhidrátfogyasztás tekintetében, a modern társadalomban egyre súlyosbodó egészségügyi válságok leküzdése érdekében.
+
 {{< youtube NyFSkGMWP5Q >}}
 
 A [podcast](https://stevenbartlett.com/wp-content/uploads/2025/02/DOAC-Benjamin-Bikman-independent-research.pdf) Dr. Benjamin Bikman az inzulinrezisztencia különböző aspektusait és annak az egészségre gyakorolt hatásait vizsgálja. Íme, a tárgyalt legfontosabb témák összefoglalása:
@@ -308,7 +340,7 @@ Szóval mit mond ezeknek az embereknek?
 **Dr. Thomas Seyfried:**
 Tudod, én azt mondom... Sajnálom, hogy az orvostudomány nem ismerte fel, amit mondok. És akkor azt mondom nekik... igen, igen, a változásnak az emberektől kell jönnie, nem a legjobb orvosi egyetemekről fog jönni. Ők azt teszik, amit tesznek. A status quo nagyon jövedelmező, a status quo nagyon hatékony ezeknek az embereknek, de a rákos betegeken nem segít úgy, ahogy tudna. És ne felejtsük el, hogy nem dobjuk ki ezeket a dolgokat, csak arra kérjük az embereket, hogy tudják, hogyan használhatják jobban a rendelkezésünkre álló eszközöket! Nem kell kidobnunk az immunterápiákat, a sugárkezelést, nem kell kidobnunk a mérgező toxinokat. Csak jobban kell tudnunk, hogyan használjuk őket, amikor a beteg ebben az új állapotban van. És az adatok ezt bizonyítani fogják. De ki fogja ezt megtenni??? Ki fogja ezt megtenni? Az orvos azt mondja, hogy szívesen megtenném, ha... de elveszítem az engedélyemet, ha megteszem. Mi folyik itt?!? Úgy írták meg az ellátási normát, mintha az gránitban lenne, nem lehet megváltoztatni. Nem! Rugalmasnak kell lennie. Ha új bizonyítékok jönnek:... Nem hiszek a bizonyítékoknak! Melyik számnak nem hiszel, melyik tudományos eredménynek nem hiszel ebben a kérdésben? „Hát én nem olvastam.” Nem lehet igazad, ha a világ 99%-a azt mondja, hogy ez így van, te pedig azt mondod, hogy másképp van, ez a megerősítési torzítás.  Nem nézed a számokat! És amikor rákot kapnak, akkor jönnek:... Hé! Mit tudsz tenni értem? Tudod, ez olyan, mint... mintha... De igen, ennek meg kell változnia, meg fog változni, mert lendületben vagyunk, hogy ezt megmozdítsuk. Az emberek kezdik megismerni ezt, és ha egyszer a változás megtörténik, az olyan lesz, mint egy nagy változás, és az embereknek újra kell majd alkalmazkodniuk.
 
-***Egyszerűen odavagyok Dr. Seyfried hozzáállásáért és kifejezett indítékaiért! Hogy minden pontosan úgy van-e, ahogy ő gondolja, azt majd az idő, a történelem és a tudomány megmondja. Valamit biztosan találhatott, ráhibázhatott, mert abból, amit én a ketogén életmóddal kapcsolatban tapasztaltam, nekem biztosan bevált - persze anélkül, hogy rákbetegséggel kellene megküzdenem. Tudom, hogy ez nem lesz mindenki számára egyforma, de a testünk működésének felfedezése és megismerése nem csak hasznos, hanem szórakoztató utazás is. Én tudom, nagyon élvezem! Remélem, hogy ezek az információk esetlegesen neked is segíthetnek!***
+***Őszintén csodálom a fenti videókban szereplő személyek hozzáállását és szándékait, különösen Dr. Seyfriedét! Az ő nézőpontja lenyűgöző, és bár az idő, a történelem és a tudomány végső soron ki fogja deríteni az igazságot, úgy tűnik, hogy valami jelentőségteljes dologra bukkant. A ketogén életmóddal kapcsolatos saját tapasztalataim alapján azt mondhatom, hogy nekem jól bevált - bár szerencsére nem kellett megküzdenem a rák kialakulásával. Megértem, hogy mindenkinek mások lehetnek a tapasztalatai, de a testünk működésének megismeréséhez vezető út nemcsak hasznos, hanem élvezetes is. Nagyon nagyra értékelem! Remélem, hogy ezek az információk neked is hasznosak lehetnek!***
 
 --- 
 
