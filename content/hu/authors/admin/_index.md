@@ -24,8 +24,8 @@ role: Sokoldalú tehetség, több szakmában és szerepkörben tapasztalt szakem
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 'Hamarosan termékdokumentációs munkatársként kezd a 3B Scientific Europe-nál'
-    url: ''
+  - name: 'Termékdokumentációs munkatárs a 3B Scientific Europe-nál'
+    url: 'https://www.3bscientific.com/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

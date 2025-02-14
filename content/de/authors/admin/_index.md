@@ -24,8 +24,8 @@ role: Multitalentiertes Individuum mit Erfahrung als Fachkraft in mehreren Beruf
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 'Demnächst Einstieg als Produkt-Dokumentationssachbearbeiter bei 3B Scientific Europe'
-    url: ''
+  - name: 'Produkt-Dokumentationssachbearbeiter bei 3B Scientific Europe'
+    url: 'https://www.3bscientific.com/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

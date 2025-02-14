@@ -24,8 +24,8 @@ role: Multitalented individual, experienced professional in multiple professions
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 'Starting soon as Product Documentation Associate at 3B Scientific Europe'
-    url: ''
+  - name: 'Product Documentation Associate at 3B Scientific Europe'
+    url: 'https://www.3bscientific.com/'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
