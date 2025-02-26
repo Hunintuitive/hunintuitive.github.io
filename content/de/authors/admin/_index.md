@@ -55,6 +55,18 @@ education:
     
   
 work:
+  - position: Produkt-Dokumentationssachbearbeiter
+    company_name: 3B Scientific Europe KFT. 
+    company_url: 'https://www.3bscientific.com/'
+    company_logo: 'https://mma.prnewswire.com/media/951012/3B_Scientific_Logo.jpg?p=publish'
+    date_start: 2025-02-17
+    date_end: 
+    summary: |
+      Responsibilities include:
+      - Erstellung, Änderung und Aktualisierung der lokalen und internationalen Fertigungsablaufbeschreibungen (FABs) des Unternehmens in deutscher Sprache, deren Übersetzung ins Ungarische für die Produktion in Ungarn und die Zusammenarbeit mit den entsprechenden Partnerabteilungen, um die effektive Umsetzung dieser Prozesse zu gewährleisten.
+      - Ich habe Kenntnisse in der Dokumentation von  Fertigungsablaufbeschreibungen (FABs) für hergestellte Produkte  erworben, einschließlich der umfassenden Nutzung des SAP HANA-Systems,  SharePoint, Word und Photoshop. Zu meinen Aufgaben gehören das  Fotografieren von Produkten, Werkzeugen und Fertigungsprozessen sowie  die Arbeit mit Stücklisten.
+      - Bei meiner Arbeit muss ich verschiedene  Fertigungstechnologien und Werkzeuge berücksichtigen, damit die  Dokumentation die Fertigungsprozesse genau widerspiegelt.
+
   - position: Deutschsprachiger Kundendienstmitarbeiter
     company_name: Nu Skin Eastern Europe KFT. 
     company_url: 'https://www.nuskin.com/content/nuskin/de_DE/home.html'

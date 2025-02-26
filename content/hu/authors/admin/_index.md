@@ -55,6 +55,18 @@ education:
     
   
 work:
+  - position: Termékdokumentációs munkatárs
+    company_name: 3B Scientific Europe KFT. 
+    company_url: 'https://www.3bscientific.com/'
+    company_logo: 'https://mma.prnewswire.com/media/951012/3B_Scientific_Logo.jpg?p=publish'
+    date_start: 2025-02-17
+    date_end: 
+    summary: |
+      A feladatok közé tartozik:
+      - A vállalat helyi és nemzetközi gyártási utasításainak német nyelvű létrehozása, módosítása és frissítése, magyar nyelvű fordítása a magyarországi gyártáshoz, valamint együttműködés az érintett partnerosztályokkal a folyamatok hatékony implementálása érdekében.
+      - Ismereteket szereztem a gyártott termékek gyártási utasításainak  dokumentálásában, beleértve az SAP HANA rendszer, a SharePoint, a Word  és a Photoshop kiterjedtebb használatát. Feladataim közé tartozik a  termékek, szerszámok, eszközök és gyártási folyamatok fotózása, valamint  az anyagok darablistájával (BOM) való munka.
+      - Munkám során figyelembe  kell vennem a különböző gyártási technológiákat és szerszámokat, hogy a  dokumentáció pontosan tükrözze a gyártási folyamatokat.
+
   - position: German Speaking Customer Service Representative
     company_name: Nu Skin Eastern Europe KFT. 
     company_url: 'https://www.nuskin.com/content/nuskin/de_DE/home.html'

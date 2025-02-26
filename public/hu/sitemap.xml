@@ -76,7 +76,7 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/hu/publication_types/article/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -95,15 +95,15 @@
                 />
   </url><url>
     <loc>http://localhost:1313/hu/tags/egeszsegugyi-muveltseg/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/hu/tags/holisztikus-egeszseg/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/hu/post/whyipublishhealth/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -122,7 +122,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/hu/publication_types/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -141,7 +141,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/hu/tags/szemelyes-egeszsegugyi-utazas/</loc>
-    <lastmod>2025-02-07T00:00:00+00:00</lastmod>
+    <lastmod>2025-02-12T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/hu/post/hugo/</loc>

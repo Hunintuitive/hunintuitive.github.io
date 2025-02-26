@@ -55,6 +55,18 @@ education:
     
   
 work:
+  - position: Product Documentation Associate
+    company_name: 3B Scientific Europe KFT. 
+    company_url: 'https://www.3bscientific.com/'
+    company_logo: 'https://mma.prnewswire.com/media/951012/3B_Scientific_Logo.jpg?p=publish'
+    date_start: 2025-02-17
+    date_end: 
+    summary: |
+      Responsibilities include:
+      - Creating, modifying, and updating the company's local and international production instructions in German, translating them into Hungarian for production in Hungary, and collaborating with the relevant partner departments to ensure these processes are effectively implemented.
+      - I've gained knowledge in documenting production instructions for manufactured products, including extensive use of SAP HANA system, SharePoint, Word and Photoshop. My responsibilities include taking photos of products, tooling, tools, and manufacturing processes, as well as working with Bill of Materials (BOM). 
+      - My work must take into account different manufacturing technologies and tooling so that documentation accurately reflects the manufacturing processes.
+
   - position: German Speaking Customer Service Representative
     company_name: Nu Skin Eastern Europe KFT. 
     company_url: 'https://www.nuskin.com/content/nuskin/de_DE/home.html'
