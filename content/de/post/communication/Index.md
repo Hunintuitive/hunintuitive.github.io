@@ -120,7 +120,7 @@ Indem wir andere mit Freundlichkeit behandeln - selbst diejenigen, die wir als s
 #### Umgang mit Respektlosigkeit oder Unhöflichkeit
 
 1. **Stille als Kraft nutzen:** Wenn jemand herabsetzend oder unhöflich ist, solltest du 5 bis 7 Sekunden lang schweigen, bevor du antwortest. Das zeigt Gelassenheit und Stärke.
-2. **Bitte um Wiederholung:** Ermuntere die Person, ihre respektlose Bemerkung zu wiederholen. Zum Beispiel: „Sollte ich mich jetzt verärgert oder verletzt fühlen?“ Dies kann dazu führen, dass die Person ihre Aussage zurücknimmt. 
+2. **Bitte um Wiederholung:** Ermuntere die Person, ihre respektlose Bemerkung zu wiederholen. Zum Beispiel: "Könnten Sie wiederholen, was Sie gerade gesagt haben? Sollte ich mich dadurch wütend oder verletzt fühlen?" Dies kann dazu führen, dass die Person ihre Aussage zurücknimmt. 
 3. **Ruhe bewahren:** Betone, dass deine Stärke in deiner ruhigen Reaktion liegt, und zeige, dass du die Kontrolle behältst.
 
 #### Sich auf Argumente einlassen

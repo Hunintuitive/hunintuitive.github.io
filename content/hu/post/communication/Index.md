@@ -118,14 +118,14 @@ Ha kedvesen bánunk másokkal - még azokkal is, akik kihívást jelentenek szá
 ## A különböző helyzetekre vonatkozó javaslatok összefoglalása:
 
 #### Tiszteletlenség vagy durvaság kezelése
-1. **Szünet a csend érdekében**: Amikor valaki lekicsinylően vagy durván viselkedik, tarts 5 - 7 másodpercnyi csendet, mielőtt válaszolnál.
-2. **Kérd meg, hogy ismételje meg**: Bátorítsd őket, hogy mondják el újra a tiszteletlen megjegyzésüket. „Ennek most az volt a célja, hogy haragot gerjesszen vagy megbántódjak?” Ez arra késztetheti őket, hogy visszavonják a kijelentésüket.
+1. **Szünetelj a csend érdekében**: Amikor valaki lekicsinylően vagy durván viselkedik, tarts 5 - 7 másodpercnyi csendet, mielőtt válaszolnál.
+2. **Kérd meg, hogy ismételje meg**: Bátorítsd őket, hogy mondják el újra a tiszteletlen megjegyzésüket. „Megismételné amit az előbb mondott? Ennek kapcsán, most haragosnak vagy megbántottnak kellene éreznem magam?” Ez arra késztetheti őket, hogy visszavonják a kijelentésüket.
 3. **Megtartani az irányítást**: Nyomatékosítsd, hogy a te erőd a nyugodt válaszodban rejlik, ezzel mutatva, hogy ura vagy a helyzetnek.
 
 #### Vitába bocsátkozás
 4. **Változtasd meg a perspektívát**: Ahelyett, hogy arra törekednél, hogy megnyerd a vitát, inkább tekints úgy rá, mint egy lehetőségre, hogy kibontakoztasd a beszélgetést.
 5. **Kérdezd meg magadtól: „Mit hagytam figyelmen kívül? ”**: Ez a kérdés segíthet megérteni a másik fél nézőpontját, és javíthatja a kommunikációt.
-6. **Kerüld el a győzelmet**: Ismerd fel, hogy a vita megnyerése károsíthatja a kapcsolatokat. Ehelyett törekedj a megoldásra.
+6. **Ne keresd a győzelmet**: Ismerd fel, hogy a vita megnyerése károsíthatja a kapcsolatokat. Ehelyett törekedj a megoldásra.
 
 #### Kommunikáció azokkal, akiket nem kedvelsz
 7. **Bánj velük úgy, mintha kedvelnéd őket**: Még ha nem is kedvelsz valakit, bánj vele kedvesen és tisztelettel.

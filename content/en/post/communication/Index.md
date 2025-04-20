@@ -119,7 +119,7 @@ By treating others with kindness — even those we find challenging — we can r
 
 #### Handling Disrespect or Rudeness
 1. **Pause for Silence**: When someone is belittling or rude, take 5 to 7 seconds of silence before responding.
-2. **Ask Them to Repeat**: Encourage them to say their disrespectful comment again. "Was this meant to upset or hurt me?" This may lead them to retract their statement.
+2. **Ask Them to Repeat**: Encourage them to say their disrespectful comment again. "Could you repeat what you just said? Is that supposed to make me feel angry or hurt?" This may lead them to retract their statement.
 3. **Maintain Control**: Emphasize that your power lies in your calm response, showing you are in control of the situation.
 
 #### Engaging in Arguments
