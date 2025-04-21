@@ -40,75 +40,40 @@
                 href="http://localhost:1313/de/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/conflict-resolution/</loc>
+    <loc>http://localhost:1313/de/post/communication/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/post/communication/"
+                />
+    <xhtml:link
+                rel="alternate"
                 hreflang="en-us"
-                href="http://localhost:1313/en/tags/conflict-resolution/"
+                href="http://localhost:1313/en/post/communication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="http://localhost:1313/de/tags/conflict-resolution/"
+                href="http://localhost:1313/de/post/communication/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/tags/effective-communication/</loc>
+    <loc>http://localhost:1313/de/tags/effektive-kommunikation/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/effective-communication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/effective-communication/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/tags/emotional-intelligence/</loc>
+    <loc>http://localhost:1313/de/tags/emotionale-intelligenz/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/emotional-intelligence/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/emotional-intelligence/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/tags/interpersonal-relationships/</loc>
+    <loc>http://localhost:1313/de/tags/konfliktlosung/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/interpersonal-relationships/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/interpersonal-relationships/"
-                />
   </url><url>
-    <loc>http://localhost:1313/de/tags/personal-development/</loc>
+    <loc>http://localhost:1313/de/tags/personliche-entwicklung/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/personal-development/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/personal-development/"
-                />
   </url><url>
     <loc>http://localhost:1313/de/publication_types/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
@@ -148,24 +113,9 @@
                 href="http://localhost:1313/de/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/de/post/communication/</loc>
+    <loc>http://localhost:1313/de/tags/zwischenmenschliche-beziehungen/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/communication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/communication/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/communication/"
-                />
   </url><url>
     <loc>http://localhost:1313/de/post/get-started/</loc>
     <lastmod>2025-02-13T00:00:00+00:00</lastmod>

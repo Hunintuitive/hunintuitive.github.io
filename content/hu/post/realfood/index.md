@@ -2,11 +2,11 @@
 title: "A valódi ételek újrafelfedezése - alakítsd át az étrendedet a tartós egészség és vitalitás érdekében"
 authors:
 - admin
-date: "2024-11-26T00:00:00Z"
+date: "2025-04-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-26T00:00:00Z"
+publishDate: "2025-04-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -102,7 +102,7 @@ Ha ezt egészséget meghatározó tényként fogadjuk el, akkor kijelenthetjük,
 
 ### Makrotápanyagok
 Ezek a tápanyagok energiát szolgáltatnak, és nagyobb mennyiségben szükségesek:
-- **Szénhidrátok:** Gyakran a szervezet elsődleges energiaforrásaként emlegetik, de mióta elindultam az egészségügyi felfedező utamon, megkérdőjelezem ennek az állításnak a helyességét. Bár a szénhidrátok fontos helyet foglalnak el táplálkozásunkban, jelentőségüket vélhetően túlértékelik. Megtalálhatók a gabonafélékben, gyümölcsökben, zöldségekben és hüvelyesekben. Nélkülük valószínűleg kiéheztetnénk a bélflóránk baktériumtörzseit, melyek nélkülözhetetlenek az egészségünkhöz. Azonban nem minden szénhidrát egyforma; a jobb egészségi állapot érdekében célszerű az alacsony inzulinindexűeket választani.
+- **Szénhidrátok:** Gyakran a szervezet elsődleges energiaforrásaként emlegetik, de mióta elindultam az egészségügyi felfedező utamon, megkérdőjelezem ennek az állításnak a helyességét. Bár a szénhidrátok fontos helyet foglalnak el táplálkozásunkban, jelentőségüket vélhetően túlértékelik. Néhány egészségügyi szakember és tudós nemrégiben új bizonyítékok alapján kijelentette, hogy nincs esszenciális szénhidrát, ami azt jelenti, hogy nem kell nagymértékben támaszkodnunk rájuk ahhoz, hogy egészségesek legyünk. Az esszenciális aminosavakkal és esszenciális zsírsavakkal ellentétben a szénhidrátok nem tartoznak az esszenciális tápanyagok közé, mivel a szervezet a glükoneogenezisnek nevezett folyamat révén, elsősorban aminosavakból és glicerinből képes glükózt előállítani. Számos egészségügyi hatóság és tudományos tanulmány támogatja azt az elképzelést, hogy egy jól összeállított, alacsony szénhidráttartalmú vagy ketogén étrend egyesek számára egészséges és fenntartható lehet, megkérdőjelezve a magas szénhidrátbevitel hagyományos hangsúlyozását. Ez azonban nem jelenti azt, hogy a szénhidrátok eleve károsak vagy szükségtelenek mindenki számára; szerepük az egyéni egészségi állapottól, az aktivitási szinttől és az étrendi preferenciáktól függően változhat. Megtalálhatók a gabonafélékben, gyümölcsökben, zöldségekben és hüvelyesekben. Nélkülük valószínűleg kiéheztetnénk a bélflóránk baktériumtörzseit, melyek nélkülözhetetlenek az egészségünkhöz. Azonban nem minden szénhidrát egyforma; a jobb egészségi állapot érdekében célszerű az alacsony inzulinindexűeket választani.
 - **Fehérjék:** Létfontosságúak a szövetek építéséhez és javításához, az enzimek és hormonok előállításához, valamint az immunrendszer működésének támogatásához. Minőségi forrásai közé tartozik a hús, a hal, a tejtermékek, a hüvelyesek és bizonyos diófélék. Egyes gabonafélék azonban allergiát okozhatnak, és a rosszul nevelt vagy erősen feldolgozott állati termékek hozzájárulhatnak az egészségügyi problémákhoz.
 - **Zsírok:** Fontos szerepet játszanak az energiatárolásban, a hormontermelésben és a zsírban oldódó vitaminok (A, D, E, K) felszívódásában. Forrásai közé tartoznak az olajok, a vaj, az avokádó, a diófélék és a zsíros halak, de ismételten megjegyzendő, hogy nem mindegyik előnyös; például a kémiailag feldolgozott növényi olajok, mint például a PUFA-k, gyulladáskeltőek és károsak.
 
@@ -186,7 +186,6 @@ A ketózis és a glükóz anyagcsere egyensúlya igen fontos az egészségünk m
 
 **Fogyasszunk ezek helyett, amennyire csak lehet:**
 
-   - ritkábban teljes kiőrlésű gabonákat - az allergén tulajdonságaik miatt
    - egészséges zsírokat, mint például vaj, faggyú, más állati zsíradékok, kókuszzsír, olívaolaj
    - rendszeresen zöld leveles, színes, keresztes zöldségeket, és mértékkel szezonális gyümölcsöket
    - természetes tartásból származó húsokat, halat, tojást, belsőségeket, amelyek igen kiváló fehérjeforrások

@@ -2,11 +2,11 @@
 title: "Rediscovering Real Food - Transform Your Diet for Lasting Health and Vitality"
 authors:
 - admin
-date: "2024-11-26T00:00:00Z"
+date: "2025-04-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-26T00:00:00Z"
+publishDate: "2025-04-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -102,7 +102,7 @@ Here are some items we could do better without:
 
 ### Macronutrients
 These nutrients provide energy and are required in larger amounts:
-- **Carbohydrates:** Often referred to as the body's primary energy source, I have come to question the accuracy of this claim since embarking on my health journey. While carbohydrates hold an important place in our nutrition, their significance may be overstated. They are found in grains, fruits, vegetables, and legumes. Without them, we would likely starve our microbiome, which is essential for our health. However, not all carbohydrates are created equal; it is advisable to choose those with a low insulin index for better health outcomes.
+- **Carbohydrates:** Often referred to as the body's primary energy source, I have come to question the accuracy of this claim since embarking on my health journey. While carbohydrates hold an important place in our nutrition, their significance may be overstated. Some medical professionals and scientists recently stated, based on new evidence, that there is no essential carbohydrate, meaning we do not have to rely heavily on them to be healthy. Unlike essential amino acids and essential fatty acids, carbohydrates are not classified as essential nutrients because the body can produce glucose through a process called gluconeogenesis, primarily from amino acids and glycerol. Many health authorities and scientific studies support the idea that a well-formulated low-carbohydrate or ketogenic diet can be healthful and sustainable for some individuals, challenging the traditional emphasis on high carbohydrate intake. However, this does not mean carbohydrates are inherently harmful or unnecessary for everyone; their role can vary depending on individual health status, activity level, and dietary preferences. They are found in grains, fruits, vegetables, and legumes. Without them, we would likely starve our microbiome, which is essential for our health. However, not all carbohydrates are created equal; it is advisable to choose those with a low insulin index for better health outcomes.
 - **Proteins:** Essential for building and repairing tissues, producing enzymes and hormones, and supporting immune function. Quality sources include meat, fish, dairy, legumes, and certain nuts. However, some grains can cause allergies, and poorly raised or highly processed animal products can contribute to health issues.
 - **Fats:** Important for energy storage, hormone production, and the absorption of fat-soluble vitamins (A, D, E, K). Sources include oils, butter, avocados, nuts, and fatty fish, but again, not all are beneficial; for instance, chemically processed vegetable oils, such as PUFAs, can be inflammatory and harmful.
 
@@ -187,7 +187,6 @@ The balance between ketosis and glucose metabolism is very important in maintain
 
 **Instead of these, consume as much as possible:**
 
-   - whole grains less often - because of their allergenic properties
    - healthy fats such as butter, tallow, other animal fats, coconut oil, olive oil
    - regular green leafy, colourful, cruciferous vegetables and seasonal fruits in moderation
    - naturally reared meat, fish, eggs, innards, which are excellent sources of protein

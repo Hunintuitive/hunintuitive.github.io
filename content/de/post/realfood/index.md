@@ -2,11 +2,11 @@
 title: "Die Wiederentdeckung echter Lebensmittel - Umstellung deiner Ernährung für dauerhafte Gesundheit und Vitalität"
 authors:
 - admin
-date: "2024-11-26T00:00:00Z"
+date: "2025-04-21T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-26T00:00:00Z"
+publishDate: "2025-04-21T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -100,7 +100,7 @@ Hier sind einige Artikel, auf die wir besser verzichten sollten:
 
 ### Makronährstoffe
 Diese Nährstoffe liefern Energie und werden in größeren Mengen benötigt:
-- **Kohlenhydrate:** Sie werden oft als die Hauptenergiequelle des Körpers bezeichnet, doch seit ich mich auf die Reise zu einer besseren Gesundheit begeben habe, zweifle ich an der Richtigkeit dieser Behauptung. Obwohl Kohlenhydrate einen wichtigen Platz in unserer Ernährung einnehmen, wird ihre Bedeutung vermutlich überbewertet. Sie sind in Getreide, Obst, Gemüse und Hülsenfrüchten enthalten. Ohne sie würden wir wahrscheinlich unser Mikrobiom der Darmflora aushungern, das für unsere Gesundheit unerlässlich ist. Kohlenhydrate sind jedoch nicht gleich Kohlenhydrate; es ist ratsam, diejenigen zu wählen, die einen niedrigen Insulinindex haben, um bessere gesundheitliche Ergebnisse zu erzielen.
+- **Kohlenhydrate:** Sie werden oft als die Hauptenergiequelle des Körpers bezeichnet, doch seit ich mich auf die Reise zu einer besseren Gesundheit begeben habe, zweifle ich an der Richtigkeit dieser Behauptung. Obwohl Kohlenhydrate einen wichtigen Platz in unserer Ernährung einnehmen, wird ihre Bedeutung vermutlich überbewertet. Einige Mediziner und Wissenschaftler haben kürzlich auf der Grundlage neuer Erkenntnisse festgestellt, dass es keine essenziellen Kohlenhydrate gibt, d. h. dass wir nicht unbedingt auf sie angewiesen sind, um gesund zu sein. Im Gegensatz zu essenziellen Aminosäuren und essenziellen Fettsäuren werden Kohlenhydrate nicht als essenzielle Nährstoffe eingestuft, da der Körper Glukose durch einen als Glukoneogenese bezeichneten Prozess vor allem aus Aminosäuren und Glycerin herstellen kann. Viele Gesundheitsbehörden und wissenschaftliche Studien unterstützen die Idee, dass eine gut formulierte kohlenhydratarme oder ketogene Diät für einige Personen gesund und nachhaltig sein kann, was die traditionelle Betonung einer hohen Kohlenhydratzufuhr in Frage stellt. Dies bedeutet jedoch nicht, dass Kohlenhydrate von Natur aus schädlich oder unnötig für jeden sind; ihre Rolle kann je nach individuellem Gesundheitszustand, Aktivitätsniveau und Ernährungspräferenzen variieren. Sie sind in Getreide, Obst, Gemüse und Hülsenfrüchten enthalten. Ohne sie würden wir wahrscheinlich unser Mikrobiom der Darmflora aushungern, das für unsere Gesundheit unerlässlich ist. Kohlenhydrate sind jedoch nicht gleich Kohlenhydrate; es ist ratsam, diejenigen zu wählen, die einen niedrigen Insulinindex haben, um bessere gesundheitliche Ergebnisse zu erzielen.
 - **Proteine:** Sie sind wichtig für den Aufbau und die Reparatur von Gewebe, die Produktion von Enzymen und Hormonen und die Unterstützung der Immunfunktion. Hochwertige Quellen sind Fleisch, Fisch, Milchprodukte, Hülsenfrüchte und bestimmte Nüsse. Einige Getreidesorten können jedoch Allergien auslösen, und schlecht aufgezogene oder stark verarbeitete tierische Produkte können zu Gesundheitsproblemen beitragen.
 - **Fette:** Wichtig für die Energiespeicherung, die Hormonproduktion und die Aufnahme von fettlöslichen Vitaminen (A, D, E, K). Zu den Quellen gehören Öle, Butter, Avocados, Nüsse und fetter Fisch. Aber auch hier gilt, dass nicht alle Fette vorteilhaft sind; zum Beispiel können chemisch verarbeitete Pflanzenöle, wie PUFAs, entzündungsfördernd und schädlich sein.
 
@@ -184,7 +184,6 @@ Das Gleichgewicht zwischen Ketose und Glukosestoffwechsel ist für die Erhaltung
 
 **Verzehre anstelle dieser Produkte so viel wie möglich:**
 
-   - Vollkornprodukte, jedoch seltener wegen ihrer allergenen Eigenschaften
    - gesunde Fette wie Butter, Talg, andere tierische Fette, Kokosnussöl und Olivenöl
    - regelmäßig grünes, buntes Blattgemüse, Kreuzblütler und saisonales Obst in Maßen
    - Fleisch, Fisch, Eier und Innereien aus natürlicher Aufzucht, die ausgezeichnete Eiweißquellen sind
