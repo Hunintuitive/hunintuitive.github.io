@@ -22,7 +22,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: In an enlightening episode of *The Diary of a CEO*, communication expert Jefferson Fischer discussed the profound impact of language on our relationships, careers, and self-esteem. His insights, combined with relatable examples, highlight how even a single word can significantly influence our authority and effectiveness in communication.
+summary: In an enlightening episode of "The Diary of a CEO", communication expert Jefferson Fischer discussed the profound impact of language on our relationships, careers, and self-esteem. His insights, combined with relatable examples, highlight how even a single word can significantly influence our authority and effectiveness in communication.
 
 tags:
 - Effective Communication

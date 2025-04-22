@@ -22,7 +22,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: Az *Egy vezérigazgató naplója* című podcast egyik tanulságos epizódjában Jefferson Fischer kommunikációs szakértő a beszédnek a kapcsolatainkra, karrierünkre és önbecsülésünkre gyakorolt mélyreható hatásáról beszélt. Meglátásai és életszerű példái rávilágítanak arra, hogy akár egyetlen szó is jelentősen befolyásolhatja tekintélyünket és hatékonyságunkat a kommunikációban.
+summary: Az "Egy vezérigazgató naplója" című podcast egyik tanulságos epizódjában Jefferson Fischer kommunikációs szakértő a beszédnek a kapcsolatainkra, karrierünkre és önbecsülésünkre gyakorolt mélyreható hatásáról beszélt. Meglátásai és életszerű példái rávilágítanak arra, hogy akár egyetlen szó is jelentősen befolyásolhatja tekintélyünket és hatékonyságunkat a kommunikációban.
 
 tags:
 - Hatékony Kommunikáció

@@ -22,7 +22,7 @@ abstract:
 
 
 # Summary. An optional shortened abstract.
-summary: In einer aufschlussreichen Folge von *The Diary of a CEO* erörtert der Kommunikationsexperte Jefferson Fischer die tiefgreifenden Auswirkungen der Sprache auf unsere Beziehungen, unsere Karriere und unser Selbstwertgefühl. Seine Erkenntnisse, kombiniert mit nachvollziehbaren Beispielen, zeigen, wie selbst ein einziges Wort unsere Autorität und Effektivität in der Kommunikation maßgeblich beeinflussen kann.
+summary: In einer aufschlussreichen Folge von "The Diary of a CEO" erörtert der Kommunikationsexperte Jefferson Fischer die tiefgreifenden Auswirkungen der Sprache auf unsere Beziehungen, unsere Karriere und unser Selbstwertgefühl. Seine Erkenntnisse, kombiniert mit nachvollziehbaren Beispielen, zeigen, wie selbst ein einziges Wort unsere Autorität und Effektivität in der Kommunikation maßgeblich beeinflussen kann.
 
 tags:
 - Effektive Kommunikation

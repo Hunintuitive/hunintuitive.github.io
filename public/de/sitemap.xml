@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:1313/de/publication_types/article/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -22,7 +22,7 @@
                 />
   </url><url>
     <loc>http://localhost:1313/de/post/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
@@ -38,6 +38,83 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://localhost:1313/de/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/tags/diatetische-wahlmoglichkeiten/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/de/post/realfood/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/post/realfood/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/realfood/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/realfood/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/tags/echte-lebensmittel/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/ernahrung/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/ernahrungserziehung/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/gesundheit/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/de/publication_types/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/publication_types/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/publication_types/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/tags/</loc>
+    <lastmod>2025-04-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/post/communication/</loc>
@@ -74,44 +151,6 @@
     <loc>http://localhost:1313/de/tags/personliche-entwicklung/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/publication_types/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/publication_types/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/publication_types/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/</loc>
-    <lastmod>2025-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/de/tags/zwischenmenschliche-beziehungen/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
@@ -247,10 +286,6 @@
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/de/tags/ernahrung/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/de/tags/fasten/</loc>
     <lastmod>2025-01-08T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -277,10 +312,6 @@
                 hreflang="de"
                 href="http://localhost:1313/de/post/autophagy/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/gesundheit/</loc>
-    <lastmod>2025-01-08T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/de/tags/big-five/</loc>
     <lastmod>2024-12-14T00:00:00+00:00</lastmod>
@@ -539,37 +570,6 @@
                 hreflang="de"
                 href="http://localhost:1313/de/tags/work-life-balance/"
                 />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/diatetische-wahlmoglichkeiten/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/post/realfood/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/realfood/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/realfood/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/realfood/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/echte-lebensmittel/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/ernahrungserziehung/</loc>
-    <lastmod>2024-11-26T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/de/tags/lebenserfahrung/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
