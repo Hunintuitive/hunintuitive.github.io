@@ -35,7 +35,7 @@ sections:
       title: '📚 Meine Mission'
       subtitle: ''
       text: |-
-        Im Mittelpunkt meines Weges steht der aufrichtige Wunsch, im Leben anderer Menschen Gutes zu bewirken.  Ich glaube, dass jeder Mensch einzigartige Stärken hat-Talente und Eigenschaften, die, wenn sie geteilt werden, die Menschen um uns herum erheben und unterstützen können. Diese Stärken zu erkennen und zu nutzen hilft, eine verständnisvollere und eng verbundene Gemeinschaft aufzubauen.
+        Im Mittelpunkt meiner Reise steht der aufrichtige Wunsch, im Leben anderer Menschen Gutes zu bewirken. Ich glaube, dass jeder Mensch einzigartige Stärken, Talente und Eigenschaften hat, die-wenn sie geteilt werden-die Menschen um uns herum erheben und unterstützen können. Diese Stärken zu erkennen und zu nutzen, hilft, eine verständnisvollere und enger verbundene Gemeinschaft aufzubauen.
 
         Inspiriert von Rory Vadens Worten - **"Du bist am stärksten in der Lage, der Person zu dienen, die du einmal warst "** - sehe ich unsere Schwachstellen und Erfahrungen nicht als Hindernisse, sondern als Quellen der Widerstandsfähigkeit und des Wachstums. Wenn wir unser authentisches Selbst akzeptieren, können wir andere auf ihrem eigenen Weg besser verstehen und unterstützen.
 
