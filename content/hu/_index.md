@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-04-27
 type: landing
 
 design:
@@ -35,11 +35,15 @@ sections:
       title: '📚 Küldetésem'
       subtitle: ''
       text: |-
-        Közös utunk középpontjában az a rendíthetetlen vágy áll, hogy jobbá tegyük a körülöttünk lévő világot. Küldetésem abban a hitben gyökerezik, hogy a bölcsesség alázatban virágzik, és hogy az élet legmélyebb felismerései akkor válnak igazán átalakító erejűvé, ha kedvességgel és nyitottsággal osztjuk meg őket.
+        Az utazásom középpontjában az az őszinte vágy áll, hogy jelentőségteljes hatást gyakoroljak mások életére.  Hiszek abban, hogy minden embernek vannak egyedi erősségei - tehetségek és olyan tulajdonságok, melyeket megosztva felemelhetjük és támogathatjuk a körülöttünk élőket. Ezeknek az erősségeknek a felismerése és kihasználása segít egy megértőbb és összetartóbb közösség felépítésében.
 
-        Arra törekszem, hogy olyan teret teremtsek, ahol együtt fedezhetjük fel a létezés összetettségét, a sebezhetőséget és az erőt egyaránt felvállalva. Azzal, hogy megosztom tapasztalataimat, nézőpontjaimat és összegyűjtött tudásomat, remélem, hogy másokat is inspirálni tudok arra, hogy elgondolkodjanak, fejlődjenek és értelmes módon kapcsolódjanak egymáshoz. Építsünk együtt egy olyan közösséget, amelynek alapja az empátia és a megértés, ahol minden hang számít, és minden történetnek megvan az ereje, hogy változást idézzen elő. Az őszinte párbeszéd és a közös tanulás révén kikövezhetjük az utat egy fényesebb, együttérzőbb jövő felé.
+        Rory Vaden szavai által inspirálva - **„ Te vagy a legjobb helyzetben ahhoz, hogy azt a személyt szolgáld, aki valaha voltál ”** - a sebezhetőségünket és tapasztalatainkat nem korlátoknak, hanem az ellenálló képesség és a növekedés forrásainak tekintem. Ha elfogadjuk valódi önmagunkat, akkor jobban megérthetünk és támogathatunk másokat a saját útjukon.
 
-        Csatlakozz hozzám ezen a felfedező és megvilágosító utazáson, miközben arra törekszünk, hogy megvilágítsuk az utat egy jobb világ felé, egy-egy felismeréssel lépésenként.
+        Célom, hogy olyan teret biztosítsak, ahol mindenki bátorítva érzi magát, hogy felismerje és megossza saját adottságait, ajándékait. A nyitottság, a kedvesség és a kölcsönös támogatás révén fel tudjuk szabadítani a bennünk és az azokban rejlő lehetőségeket is, akiket igyekszünk szolgálni. Együtt elősegíthetjük az értelmes elmélkedést, a kapcsolódást és az értelmes fejlődést, megmutatva, hogy a növekedés és a pozitív ráhatás lehetősége mindannyiunk számára elérhető.
+
+        Mindannyian együtt járjuk ezt az utat. Erősségeink felismerésével és fejlesztésével hozzájárulunk egy olyan közösséghez, ahol minden hang számít, és ahol a közös fejlődés megvalósítható. Őszinte beszélgetésekkel és közös célokkal egy együttérzőbb és megértőbb jövőért dolgozhatunk.
+
+        Tarts velem, amint felfedezzük és fejlesztjük erősségeinket, támogatva egymást abban, hogy önmagunk legjobb változataivá váljunk. Növekedjünk együtt, és legyünk a pozitív változás előidézői - egyik lépésről a másikra.
 
     design:
       columns: '1'

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-04-27
 type: landing
 
 design:
@@ -35,11 +35,15 @@ sections:
       title: '📚 My Mission'
       subtitle: ''
       text: |-
-        At the heart of our shared journey lies an unyielding desire to better the world around us. My mission is rooted in the belief that wisdom flourishes in humility, and that the most profound insights about life become truly transformative when shared with kindness and openness.
+        At the core of my journey is a sincere desire to make a meaningful difference in the lives of others.  I believe that each person has unique strengths—talents and qualities that, when shared, can uplift and support those around us. Recognizing and leveraging these strengths helps build a more understanding and connected community.
 
-        I aspire to create a space where we can explore the complexities of existence together, embracing vulnerability and strength alike. By sharing my experiences, perspectives, and gleaned knowledge, I hope to inspire others to reflect, grow, and connect in meaningful ways. Together, let us cultivate a community grounded in empathy and understanding, where every voice matters, and every story has the power to spark change. Through honest dialogue and shared learning, we can pave the way for a brighter, more compassionate future.
+        Inspired by Rory Vaden’s words — **"You are most powerfully positioned to serve the person you once were"** — I see our vulnerabilities and experiences not as obstacles, but as sources of resilience and growth. Embracing our authentic selves allows us to better understand and support others in their own journeys.
 
-        Join me on this journey of discovery and enlightenment, as we endeavor to illuminate the path to a better world, one insight at a time.
+        My aim is to create a space where everyone feels encouraged to identify and share their gifts. Through openness, kindness, and mutual support, we can unlock potential—both within ourselves and in those we serve. Together, we can foster reflection, connection, and meaningful progress, demonstrating that growth and impact are within everyone's reach.
+
+        We’re all in this together. By recognizing and cultivating our strengths, we contribute to a community where every voice matters and collective progress is possible. Through honest conversations and shared purpose, we can work toward a more compassionate and understanding future.
+
+        Join me as we explore and develop our strengths, supporting each other in becoming the best versions of ourselves. Let’s grow together and make a positive difference—one step at a time.
 
     design:
       columns: '1'

@@ -1,7 +1,7 @@
 ---
 # Leave the homepage title empty to use the site title
 title: ""
-date: 2022-10-24
+date: 2025-04-27
 type: landing
 
 design:
@@ -35,11 +35,15 @@ sections:
       title: '📚 Meine Mission'
       subtitle: ''
       text: |-
-        Im Mittelpunkt unserer gemeinsamen Reise steht der unnachgiebige Wunsch, die Welt um uns herum zu verbessern. Meine Mission wurzelt in der Überzeugung, dass Weisheit in Demut gedeiht und dass die tiefgreifendsten Erkenntnisse über das Leben wirklich transformativ werden, wenn sie mit Freundlichkeit und Offenheit geteilt werden.
+        Im Mittelpunkt meines Weges steht der aufrichtige Wunsch, im Leben anderer Menschen Gutes zu bewirken.  Ich glaube, dass jeder Mensch einzigartige Stärken hat - Talente und Eigenschaften, die, wenn sie geteilt werden, die Menschen um uns herum erheben und unterstützen können. Diese Stärken zu erkennen und zu nutzen hilft, eine verständnisvollere und eng verbundene Gemeinschaft aufzubauen.
 
-        Ich möchte einen Raum schaffen, in dem wir gemeinsam die Komplexität der Existenz erforschen können, indem wir Verletzlichkeit und Stärke gleichermaßen zulassen. Indem ich meine Erfahrungen, meine Perspektiven und mein gesammeltes Wissen mit anderen teile, hoffe ich, dich zum Nachdenken, zum Wachsen und zu sinnvollen Verbindungen anzuregen: Lass uns gemeinsam eine Gemeinschaft kultivieren, die auf Empathie und Verständnis beruht, in der jede Stimme zählt und jede Geschichte die Kraft hat, Veränderungen zu bewirken. Durch ehrlichen Dialog und gemeinsames Lernen können wir den Weg für eine hellere, mitfühlendere Zukunft ebnen.
+        Inspiriert von Rory Vadens Worten - **"Du bist am stärksten in der Lage, der Person zu dienen, die du einmal warst "** - sehe ich unsere Schwachstellen und Erfahrungen nicht als Hindernisse, sondern als Quellen der Widerstandsfähigkeit und des Wachstums. Wenn wir unser authentisches Selbst akzeptieren, können wir andere auf ihrem eigenen Weg besser verstehen und unterstützen.
 
-        Begleite mich auf dieser Entdeckungs- und Erleuchtungsreise, auf der wir uns bemühen, den Weg zu einer besseren Welt zu erhellen, einem Erkenntnis nach dem anderen.
+        Mein Ziel ist es, einen Raum zu schaffen, in dem sich jeder ermutigt fühlt, seine eigenen Gaben zu erkennen und mit anderen zu teilen. Durch Offenheit, Freundlichkeit und gegenseitige Unterstützung können wir das Potenzial freisetzen - sowohl in uns selbst als auch in denen, denen wir dienen. Gemeinsam können wir Reflexion, Verbindung und sinnvollen Fortschritt fördern und zeigen, dass Wachstum und positiver Einfluss in der Reichweite eines jeden liegen.
+ 
+        Wir sitzen alle im selben Boot. Indem wir unsere Stärken erkennen und kultivieren, tragen wir zu einer Gemeinschaft bei, in der jede Stimme zählt und gemeinsamer Fortschritt möglich ist. Durch ehrliche Gespräche und gemeinsame Ziele können wir auf eine mitfühlendere und verständnisvollere Zukunft hinarbeiten.
+
+        Schließe dich mir an, während wir unsere Stärken erforschen und entwickeln und uns gegenseitig dabei unterstützen, die besten Versionen von uns selbst zu werden. Lass uns gemeinsam wachsen und einen positiven Unterschied machen – einen Schritt nach dem anderen.
 
     design:
       columns: '1'
