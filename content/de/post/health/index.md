@@ -105,7 +105,7 @@ Zum Glück sind viele Allgemeinmediziner, Ärzte und Wissenschaftler bereit, ver
 - **Dr. Rena Malik - Fachärztin für Urologie mit Spezialausbildung in weiblicher Beckenmedizin, rekonstruktiver Chirurgie und Sexualmedizin sowie zertifizierte Menopause Society Practitioner**
 - **Dr. Tara Swart - Neurowissenschaftlerin, Ärztin**
 
-Ich habe nicht alle aufgelistet, denn es gibt noch viele andere, darunter einige, die von **Steven Bartlett** interviewt wurden, der den aufschlussreichen Podcast **"The Diary of a CEO" moderiert. Ein großes Dankeschön an Steven dafür!** Ich empfehle diesen Podcast von Herzen an alle; ich kann dir versichern, dass es keine Zeitverschwendung sein wird – zumindest für diejenigen, die Englisch verstehen. 
+Ich habe nicht alle aufgelistet, denn es gibt noch viele andere, darunter einige, die von **Steven Bartlett** interviewt wurden, der den aufschlussreichen Podcast **"The Diary of a CEO" moderiert. Ein großes Dankeschön an Steven dafür!** Ich empfehle diesen Podcast von Herzen an alle; ich kann dir versichern, dass es keine Zeitverschwendung sein wird - zumindest für diejenigen, die Englisch verstehen. 
 
 **Ich verdanke den oben genannten Ärzten viel, denn ihre Anleitung und ihr Rat haben mir geholfen, mein Leben zum Besseren zu verändern.**
 

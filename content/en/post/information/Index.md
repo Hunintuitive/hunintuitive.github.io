@@ -136,16 +136,16 @@ In today’s information landscape, it's vital to be aware of misinformation, in
 - **Be Guided by Facts, Not Personal Preferences**: Recognize that personal biases can cloud judgment. Seek information that challenges your beliefs rather than reinforces them.
 - **Stop the Spread of Misinformation**: Before sharing information, ask yourself if you can verify its accuracy. Taking time to evaluate what you share can significantly reduce the likelihood of spreading misinformation.
 
-To emphasize the importance of vigilance against misinformation, consider how viral hoaxes like the ['I-SNOOP: Look out for this orange dot on your iPhone – someone is listening in'](https://www.the-sun.com/lifestyle/tech-old/1487788/iphone-listening-ios-14-update-microphone-active/) and urban legends such as the ['Supervolcano is threatening Europe'](https://www.urbanlegends.hu/2024/11/campi-flegrei-szupervulkan-fenyegetes/) not only spread rapidly online but also demonstrate the real-world consequences of believing and sharing unfounded claims.
+To emphasize the importance of vigilance against misinformation, consider how viral hoaxes like the ['I-SNOOP: Look out for this orange dot on your iPhone - someone is listening in'](https://www.the-sun.com/lifestyle/tech-old/1487788/iphone-listening-ios-14-update-microphone-active/) and urban legends such as the ['Supervolcano is threatening Europe'](https://www.urbanlegends.hu/2024/11/campi-flegrei-szupervulkan-fenyegetes/) not only spread rapidly online but also demonstrate the real-world consequences of believing and sharing unfounded claims.
 
 ### Further Resources for Fact-Checking (for Hungary):
 
 - [DEBUNKING FAKE NEWS Fact-checking in the world and Hungary](https://edit.elte.hu/xmlui/bitstream/handle/10831/107107/Mertek-fuzetek_33_1-77-83.pdf;jsessionid=31ED5D53B9C614A1119B4335BC019E61?sequence=1)
-- [Ténykérdés – How We Work](https://tenykerdes.afp.com/Hogyan-dolgozunk)
-- [Ténykérdés – Fact-Checking List](https://tenykerdes.afp.com/list)
-- [Lakmusz – Fact-Checking Resource](https://www.lakmusz.hu/)
-- [Lakmusz – Frequently Asked Questions](https://www.lakmusz.hu/gyakran-ismetelt-kerdesek/)
-- [Urban Legends – What is This Site?](https://www.urbanlegends.hu/mi-ez-az-oldal/)
+- [Ténykérdés - How We Work](https://tenykerdes.afp.com/Hogyan-dolgozunk)
+- [Ténykérdés - Fact-Checking List](https://tenykerdes.afp.com/list)
+- [Lakmusz - Fact-Checking Resource](https://www.lakmusz.hu/)
+- [Lakmusz - Frequently Asked Questions](https://www.lakmusz.hu/gyakran-ismetelt-kerdesek/)
+- [Urban Legends - What is This Site?](https://www.urbanlegends.hu/mi-ez-az-oldal/)
 
 ### Conclusion
 

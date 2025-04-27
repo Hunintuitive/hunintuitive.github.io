@@ -70,7 +70,7 @@ E blogon keresztül igyekszem megosztani meglátásaimat és megállapításaima
 
 **Az egészség megértésének fontossága**
 
-Aggasztó megfigyelni, hogy a legkülönbözőbb hátterű emberek – legyenek akár gazdag hírességek, akár kevésbé jelentősnek tartott egyének – egyformán megelőzhető egészségügyi problémáktól szenvednek. Ez arra utal, hogy alapvető hiányosságaink vannak az egészség és a valódi jólét megértésében. Sokan egészségesebb életet élhetnének, ha jobban megismernék a testünk működésének és a helyes táplálkozás alapjait.
+Aggasztó megfigyelni, hogy a legkülönbözőbb hátterű emberek - legyenek akár gazdag hírességek, akár kevésbé jelentősnek tartott egyének - egyformán megelőzhető egészségügyi problémáktól szenvednek. Ez arra utal, hogy alapvető hiányosságaink vannak az egészség és a valódi jólét megértésében. Sokan egészségesebb életet élhetnének, ha jobban megismernék a testünk működésének és a helyes táplálkozás alapjait.
 
 A neves történész, Yuval Noah Harari egyszer megjegyezte: „Az emberek általában jóval azelőtt megtanulnak manipulálni valamit, hogy megértenék manipulációjuk következményeit”. Ez nemcsak a környezetünkre, hanem a saját testünkre is vonatkozik. Létfontosságú, hogy megértsük táplálkozási döntéseink és életmódbeli szokásaink következményeit.
 
@@ -125,7 +125,7 @@ A gyógyszerektől való függés elhomályosíthatja az egészségi problémák
 
 Hogy jobban szemléltessük ezt a koncepciót, hasonlítsuk a testünk egészségi állapotát egy gyönyörű, de nagyon összetett zeneműhöz, ahol a gyógyszerek, a táplálkozás és más környezeti hatások egy többcsatornás hangkeverőt képviselnek. Minden csatorna egy különböző funkciót vagy rendszert képvisel a testünkben, különböző kapcsolókkal és csúszkákkal, amelyeket a harmónia eléréséhez finoman kell beállítani.
 
-Amikor gyógyszereket alkalmazunk, lényegében az egyik csúszkát állítjuk be – ez fokozhat vagy korlátozhat egy adott testfunkciót, de nem kezeli a mögöttes problémákat, amelyek a működészavart okozzák. A keverő képes módosítani a zene hangzását, de a zenei kompozíció hibáit a zeneművön magán kell kiigazítani, nem csupán a keverő segítségével. Az igazán tartós és harmonikus eredmény eléréséhez a forrást kell javítanunk, a kompozíciót kell finomítani, hogy a zene önmagában is megállja a helyét.
+Amikor gyógyszereket alkalmazunk, lényegében az egyik csúszkát állítjuk be - ez fokozhat vagy korlátozhat egy adott testfunkciót, de nem kezeli a mögöttes problémákat, amelyek a működészavart okozzák. A keverő képes módosítani a zene hangzását, de a zenei kompozíció hibáit a zeneművön magán kell kiigazítani, nem csupán a keverő segítségével. Az igazán tartós és harmonikus eredmény eléréséhez a forrást kell javítanunk, a kompozíciót kell finomítani, hogy a zene önmagában is megállja a helyét.
 
 Most képzeljünk el egy forgatókönyvet, amikor több gyógyszert adunk egymás után. Mindegyik gyógyszernek megvan a maga mellékhatása és kölcsönhatása. Ha ezeket a beavatkozásokat úgy hajtják végre, hogy nem foglalkoznak a zavar eredeti okával, akkor azt kockáztatjuk, hogy az egészség szimfóniája helyett a tünetek kakofóniáját hozzuk létre. Ahogyan egy hangkeverő is káoszt eredményezhet, ha a csatornák nincsenek megfelelően kiegyensúlyozva, úgy a te egészséged is romolhat, ha csupán gyógyszerekre támaszkodsz, és nem hajtasz végre életmódbeli változtatásokat.
 

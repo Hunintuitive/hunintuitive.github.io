@@ -62,7 +62,7 @@ slides: example
 
 Ebben a cikkben feltárom a valódi ételek lényegét, bemutatom, mik azok, mely élelmiszereket érdemes elkerülni, és miért elengedhetetlen ez a tudás a jólétünkhöz. Nagyrabecsült egészségügyi szakemberek és a személyes egészségügyi utazásom felismeréseire támaszkodva célom, hogy egy megbízható útitervet nyújtsak az étrendünk helyes átformálásához.
 
-Az egészségesebb élethez vezető utam a ketogén diétával és az időszakos böjtöléssel kezdődött – ez a kombináció döntő fontosságú volt az elhízás elleni harcomban és az inzulinrezisztenciám megfordítására tett erőfeszítéseimben. E tapasztalatok révén ráébredtem, hogy étrendi döntéseink milyen mélyreható hatással vannak a testünkre. Ha láttad Dr. Sten Eckberg felvilágosító videóját „Az orvosod téved az inzulinrezisztenciával kapcsolatban” címmel, talán máris helyesen értékeled ennek az állapotnak a jelentőségét és széleskörű következményeit.
+Az egészségesebb élethez vezető utam a ketogén diétával és az időszakos böjtöléssel kezdődött - ez a kombináció döntő fontosságú volt az elhízás elleni harcomban és az inzulinrezisztenciám megfordítására tett erőfeszítéseimben. E tapasztalatok révén ráébredtem, hogy étrendi döntéseink milyen mélyreható hatással vannak a testünkre. Ha láttad Dr. Sten Eckberg felvilágosító videóját „Az orvosod téved az inzulinrezisztenciával kapcsolatban” címmel, talán máris helyesen értékeled ennek az állapotnak a jelentőségét és széleskörű következményeit.
 
 Az inzulinrezisztencia - egy olyan állapot, amelyben sejtjeink kevésbé reagálnak az inzulinra - kiemeli ennek a kérdéskörnek a sürgősségét. Bár az én tapasztalataim egyediek, az egészségromlás elleni küzdelem egyetemes. Ma olyan társadalomban élünk, ahol táplálkozásunk egyre inkább veszélybe kerül. Létfontosságú, hogy feltegyük magunknak a lényeges kérdéseket az ételeinkkel kapcsolatban:
 
@@ -131,7 +131,7 @@ A NOVA osztályozási rendszer az élelmiszerek osztályozási eszköze, amely a
 4.	**Ultrafeldolgozott élelmiszerek és italok:** Ebbe a kategóriába tartoznak az olyan ipari készítmények, amelyek nagyrészt vagy teljesen olyan anyagokból készültek, mint a cukrok, olajok, zsírok, keményítő és fehérjék, valamint adalékanyagok, tartósítószerek és mesterséges aromák vagy színezékek. Ilyenek például a cukros italok, a csomagolt snackek, az instant tészták és az előre elkészített ételek.
 A NOVA rendszert gyakran használják a táplálkozáskutatásban és a közegészségügyben a táplálkozási szokások és azok egészségre gyakorolt hatásának megértésére, valamint arra, hogy az élelmiszer-feldolgozás mértékének kiemelésével segítsék a fogyasztókat az egészségesebb élelmiszer-választásban. A NOVA osztályozási rendszer az élelmiszereket a feldolgozásuk mértéke és célja alapján kategorizálja. Hasznos eszköz lehet az egészségesebb élelmiszer-választás során. 
 
-## Így használhatod a NOVA-rendszert az élelmiszer-választás során:
+## Így használhatod a NOVA-rendszert az élelmiszer választás során:
 
 **A NOVA kategóriák megértése**
 1.	**Feldolgozatlan vagy minimálisan feldolgozott élelmiszerek:**

@@ -145,8 +145,8 @@ A félretájékoztatással szembeni éberség fontosságát hangsúlyozva, gondo
 - [Ténykérdés - Így dolgozunk](https://tenykerdes.afp.com/Hogyan-dolgozunk)
 - [Ténykérdés - Tényellenőrzési lista](https://tenykerdes.afp.com/list)
 - [Lakmusz - Tényellenőrzési forrás](https://www.lakmusz.hu/)
-- [Lakmusz – Gyakori kérdések](https://www.lakmusz.hu/gyakran-ismetelt-kerdesek/)
-- [Urban Legends – Mi ez az oldal?](https://www.urbanlegends.hu/mi-ez-az-oldal/)
+- [Lakmusz - Gyakori kérdések](https://www.lakmusz.hu/gyakran-ismetelt-kerdesek/)
+- [Urban Legends - Mi ez az oldal?](https://www.urbanlegends.hu/mi-ez-az-oldal/)
 
 ### Következtetés
 

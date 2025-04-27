@@ -86,7 +86,7 @@ Dr. Balsai Tamás legfrissebb podcastjában egy új élettankönyv felfedezésé
 **Vicces idézet a podcastból:**
 ***Mondom, veszek egy élettankönyvet és nézzük meg, igen, megkeresni, hogy hol csúszik el ez az egész? És sehol! Ott van, benne van, csak más a fókusz. A lányaim hülyének néznek, ül az apjuk az élettan könyv fölött, ahelyett hogy nem tudom, mit csinálna és néha felüvölt. Döbbenet!***
 
-Balsai doktor hangsúlyozta, hogy a koleszterin felszívódása és metabolizmusa sokkal bonyolultabb, mint ahogy azt korábban hittük. Rámutatott, hogy a koleszterin a hosszú láncú zsírsavakkal együtt szívódik fel, és a testünk két gén által vezérelt mechanizmus segítségével szabályozza a mennyiségét. Eddig a hit, miszerint a koleszterint kerülni kell, 70 éven át tévútra vezetett minket. Az általa végzett kísérletek során – például egy öt napos böjt után – a koleszterinszintje nem változott, ahhoz az időszakhoz képest, amikor helyesen táplálkozott, ami arra utal, hogy a testének a koleszterin szintje már korábban is optimális volt. 
+Balsai doktor hangsúlyozta, hogy a koleszterin felszívódása és metabolizmusa sokkal bonyolultabb, mint ahogy azt korábban hittük. Rámutatott, hogy a koleszterin a hosszú láncú zsírsavakkal együtt szívódik fel, és a testünk két gén által vezérelt mechanizmus segítségével szabályozza a mennyiségét. Eddig a hit, miszerint a koleszterint kerülni kell, 70 éven át tévútra vezetett minket. Az általa végzett kísérletek során - például egy öt napos böjt után - a koleszterinszintje nem változott, ahhoz az időszakhoz képest, amikor helyesen táplálkozott, ami arra utal, hogy a testének a koleszterin szintje már korábban is optimális volt. 
 
 Ebből azt a következtetést lehet, levonni, hogy a koleszterin tartalmú élelmiszerek fogyasztása (mint például tojás), nem okoz betegséget, mivel a testünk természetszerűleg szabályozza a koleszterin termelést, függetlenül attól, hogy mit eszünk, vagy éppen nem eszünk, mint a fenti példában.
 
@@ -101,7 +101,7 @@ Ezt nem Tamás mondja, hanem én, hogy a vajas kávé valóban finom, ha utánan
 
 ### Egészségmegőrzés szemlélete
 
-A podcast sorozatban Tamás hangsúlyozta, hogy képesek vagyunk meggyógyítani saját magunkat, ami igazán inspiráló üzenet. Az egészséges táplálkozás nemcsak a fizikai jólétünkre, hanem a mentális állapotunkra is jótékony hatással van. A podcastban szóba került az is, hogy a cukor és a mesterséges édesítők mennyire ártalmasak – egy figyelmeztetés, amit érdemes megfontolni a napi étrendünk kialakításakor.
+A podcast sorozatban Tamás hangsúlyozta, hogy képesek vagyunk meggyógyítani saját magunkat, ami igazán inspiráló üzenet. Az egészséges táplálkozás nemcsak a fizikai jólétünkre, hanem a mentális állapotunkra is jótékony hatással van. A podcastban szóba került az is, hogy a cukor és a mesterséges édesítők mennyire ártalmasak - egy figyelmeztetés, amit érdemes megfontolni a napi étrendünk kialakításakor.
 
 Tamás tanácsai között szerepelt a napi étkezések számának felülvizsgálata, ami felveti a kérdést: vajon tényleg annyira szükséges naponta ötször enni? Hasonlóan érdekes volt a megközelítése a szénhidrátokkal kapcsolatban, ahol kiemelte, hogy a gabonafélék elhagyása jótékony hatással lehet az egészségünkre. Amit a "Tvrtko a Föld körül" fent említett epizódjában mondott a mai gabonákról az kijózanító. Napjaink gabonája, az ebből készült péksütemények 60-70%-al több glutént tartalmaznak mint az ősi gabonák, melyeket előző generációk használtak, amikor még nem volt lehetőség génmódosításra úgy, mint modern korunkban.
 

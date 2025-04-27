@@ -35,15 +35,15 @@ sections:
       title: '📚 Meine Mission'
       subtitle: ''
       text: |-
-        Im Mittelpunkt meines Weges steht der aufrichtige Wunsch, im Leben anderer Menschen Gutes zu bewirken.  Ich glaube, dass jeder Mensch einzigartige Stärken hat—Talente und Eigenschaften, die, wenn sie geteilt werden, die Menschen um uns herum erheben und unterstützen können. Diese Stärken zu erkennen und zu nutzen hilft, eine verständnisvollere und eng verbundene Gemeinschaft aufzubauen.
+        Im Mittelpunkt meines Weges steht der aufrichtige Wunsch, im Leben anderer Menschen Gutes zu bewirken.  Ich glaube, dass jeder Mensch einzigartige Stärken hat-Talente und Eigenschaften, die, wenn sie geteilt werden, die Menschen um uns herum erheben und unterstützen können. Diese Stärken zu erkennen und zu nutzen hilft, eine verständnisvollere und eng verbundene Gemeinschaft aufzubauen.
 
-        Inspiriert von Rory Vadens Worten — **"Du bist am stärksten in der Lage, der Person zu dienen, die du einmal warst "** — sehe ich unsere Schwachstellen und Erfahrungen nicht als Hindernisse, sondern als Quellen der Widerstandsfähigkeit und des Wachstums. Wenn wir unser authentisches Selbst akzeptieren, können wir andere auf ihrem eigenen Weg besser verstehen und unterstützen.
+        Inspiriert von Rory Vadens Worten - **"Du bist am stärksten in der Lage, der Person zu dienen, die du einmal warst "** - sehe ich unsere Schwachstellen und Erfahrungen nicht als Hindernisse, sondern als Quellen der Widerstandsfähigkeit und des Wachstums. Wenn wir unser authentisches Selbst akzeptieren, können wir andere auf ihrem eigenen Weg besser verstehen und unterstützen.
 
-        Mein Ziel ist es, einen Raum zu schaffen, in dem sich jeder ermutigt fühlt, seine eigenen Gaben zu erkennen und mit anderen zu teilen. Durch Offenheit, Freundlichkeit und gegenseitige Unterstützung können wir das Potenzial freisetzen — sowohl in uns selbst als auch in denen, denen wir dienen. Gemeinsam können wir Reflexion, Verbindung und sinnvollen Fortschritt fördern und zeigen, dass Wachstum und positiver Einfluss in der Reichweite eines jeden liegen.
+        Mein Ziel ist es, einen Raum zu schaffen, in dem sich jeder ermutigt fühlt, seine eigenen Gaben zu erkennen und mit anderen zu teilen. Durch Offenheit, Freundlichkeit und gegenseitige Unterstützung können wir das Potenzial freisetzen - sowohl in uns selbst als auch in denen, denen wir dienen. Gemeinsam können wir Reflexion, Verbindung und sinnvollen Fortschritt fördern und zeigen, dass Wachstum und positiver Einfluss in der Reichweite eines jeden liegen.
  
         Wir sitzen alle im selben Boot. Indem wir unsere Stärken erkennen und kultivieren, tragen wir zu einer Gemeinschaft bei, in der jede Stimme zählt und gemeinsamer Fortschritt möglich ist. Durch ehrliche Gespräche und gemeinsame Ziele können wir auf eine mitfühlendere und verständnisvollere Zukunft hinarbeiten.
 
-        Schließe dich mir an, während wir unsere Stärken erforschen und entwickeln und uns gegenseitig dabei unterstützen, die besten Versionen von uns selbst zu werden. Lass uns gemeinsam wachsen und einen positiven Unterschied machen—einen Schritt nach dem anderen.
+        Schließe dich mir an, während wir unsere Stärken erforschen und entwickeln und uns gegenseitig dabei unterstützen, die besten Versionen von uns selbst zu werden. Lass uns gemeinsam wachsen und einen positiven Unterschied machen-einen Schritt nach dem anderen.
 
     design:
       columns: '1'

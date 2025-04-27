@@ -35,15 +35,15 @@ sections:
       title: '📚 Küldetésem'
       subtitle: ''
       text: |-
-        Az utazásom középpontjában az az őszinte vágy áll, hogy jelentőségteljes hatást gyakoroljak mások életére.  Hiszek abban, hogy minden embernek vannak egyedi erősségei—tehetségek és olyan tulajdonságok, melyeket megosztva felemelhetjük és támogathatjuk a körülöttünk élőket. Ezeknek az erősségeknek a felismerése és kihasználása segít egy megértőbb és összetartóbb közösség felépítésében.
+        Az utazásom középpontjában az az őszinte vágy áll, hogy jelentőségteljes hatást gyakoroljak mások életére.  Hiszek abban, hogy minden embernek vannak egyedi erősségei-tehetségek és olyan tulajdonságok, melyeket megosztva felemelhetjük és támogathatjuk a körülöttünk élőket. Ezeknek az erősségeknek a felismerése és kihasználása segít egy megértőbb és összetartóbb közösség felépítésében.
 
-        Rory Vaden szavai által inspirálva — **„ Te vagy a legjobb helyzetben ahhoz, hogy azt a személyt szolgáld, aki valaha voltál ”** — a sebezhetőségünket és tapasztalatainkat nem korlátoknak, hanem az ellenálló képesség és a növekedés forrásainak tekintem. Ha elfogadjuk valódi önmagunkat, akkor jobban megérthetünk és támogathatunk másokat a saját útjukon.
+        Rory Vaden szavai által inspirálva - **„ Te vagy a legjobb helyzetben ahhoz, hogy azt a személyt szolgáld, aki valaha voltál ”** - a sebezhetőségünket és tapasztalatainkat nem korlátoknak, hanem az ellenálló képesség és a növekedés forrásainak tekintem. Ha elfogadjuk valódi önmagunkat, akkor jobban megérthetünk és támogathatunk másokat a saját útjukon.
 
         Célom, hogy olyan teret biztosítsak, ahol mindenki bátorítva érzi magát, hogy felismerje és megossza saját adottságait, ajándékait. A nyitottság, a kedvesség és a kölcsönös támogatás révén fel tudjuk szabadítani a bennünk és az azokban rejlő lehetőségeket is, akiket igyekszünk szolgálni. Együtt elősegíthetjük az értelmes elmélkedést, a kapcsolódást és az értelmes fejlődést, megmutatva, hogy a növekedés és a pozitív ráhatás lehetősége mindannyiunk számára elérhető.
 
         Mindannyian együtt járjuk ezt az utat. Erősségeink felismerésével és fejlesztésével hozzájárulunk egy olyan közösséghez, ahol minden hang számít, és ahol a közös fejlődés megvalósítható. Őszinte beszélgetésekkel és közös célokkal egy együttérzőbb és megértőbb jövőért dolgozhatunk.
 
-        Tarts velem, amint felfedezzük és fejlesztjük erősségeinket, támogatva egymást abban, hogy önmagunk legjobb változataivá váljunk. Növekedjünk együtt, és legyünk a pozitív változás előidézői—egyik lépésről a másikra.
+        Tarts velem, amint felfedezzük és fejlesztjük erősségeinket, támogatva egymást abban, hogy önmagunk legjobb változataivá váljunk. Növekedjünk együtt, és legyünk a pozitív változás előidézői-egyik lépésről a másikra.
 
     design:
       columns: '1'
