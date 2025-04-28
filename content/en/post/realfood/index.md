@@ -60,11 +60,11 @@ slides: example
 
 **In an age where convenience often overshadows quality, understanding what constitutes "real food" is more vital than ever. As we navigate a marketplace flooded with processed and ultra-processed "food-like" products, distinguishing between nourishing options and those that may be detrimental to our health becomes crucial. This journey transcends mere sustenance; it is about reclaiming our health and vitality amidst a rapidly deteriorating environment.**
 
-In this article, I will unpack the essence of real food — what it is, which food products to avoid, and why this knowledge is essential for our well-being. Drawing insights from esteemed medical professionals and my personal health journey, I aim to provide a roadmap for transforming your diet.
+In this article, I will unpack the essence of real food - what it is, which food products to avoid, and why this knowledge is essential for our well-being. Drawing insights from esteemed medical professionals and my personal health journey, I aim to provide a roadmap for transforming your diet.
 
-My path to wellness began with the ketogenic diet and intermittent fasting — a crucial combination in my battle against obesity and sought to reverse my insulin resistance. Through this experience, I recognized the profound impact that our dietary choices have on our bodies. If you’ve seen Dr. Sten Eckberg's enlightening video titled 'Your Doctor Is Wrong About Insulin Resistance,' you may already appreciate the significance of this condition and its broader implications.
+My path to wellness began with the ketogenic diet and intermittent fasting - a crucial combination in my battle against obesity and sought to reverse my insulin resistance. Through this experience, I recognized the profound impact that our dietary choices have on our bodies. If you’ve seen Dr. Sten Eckberg's enlightening video titled 'Your Doctor Is Wrong About Insulin Resistance,' you may already appreciate the significance of this condition and its broader implications.
 
-Insulin resistance — a state in which our cells become less responsive to insulin — highlights the urgency of this discussion. While my experience is unique, the struggle against health deterioration is universal. Today, we live in a society where our diets are increasingly compromised. It is essential to ask ourselves critical questions about our food:
+Insulin resistance - a state in which our cells become less responsive to insulin - highlights the urgency of this discussion. While my experience is unique, the struggle against health deterioration is universal. Today, we live in a society where our diets are increasingly compromised. It is essential to ask ourselves critical questions about our food:
 
    - Is what I eat nutrient-dense?
    - How does it affect my biochemistry?
@@ -76,9 +76,9 @@ Recognizing these questions is a crucial first step toward lasting change. Join 
 
 ![Alt text](/en/post/realfood/real.jpg)
 
-To understand what real food is, let's refer to an insightful definition provided by Dr. Robert Lustig in one of his interviews. He describes food as **"a substrate that contributes to either the growth or burning of an organism."** This means that food serves a purpose — either as energy or as a contributor to bodily growth. However, fructose, a common sweetener, inhibits this process and is present in 73% of items in the American grocery store.
+To understand what real food is, let's refer to an insightful definition provided by Dr. Robert Lustig in one of his interviews. He describes food as **"a substrate that contributes to either the growth or burning of an organism."** This means that food serves a purpose - either as energy or as a contributor to bodily growth. However, fructose, a common sweetener, inhibits this process and is present in 73% of items in the American grocery store.
 
-Dr. Lustig further explains that ultra-processed foods inhibit growth — particularly skeletal and bone growth, which can lead to osteoporosis. Therefore, if a substance does not contribute to growth or energy utilization, can it truly be considered food? We must educate ourselves to recognize that ultra-processed foods are not healthy options, regardless of what the food industry claims.
+Dr. Lustig further explains that ultra-processed foods inhibit growth - particularly skeletal and bone growth, which can lead to osteoporosis. Therefore, if a substance does not contribute to growth or energy utilization, can it truly be considered food? We must educate ourselves to recognize that ultra-processed foods are not healthy options, regardless of what the food industry claims.
 
 ![Alt text](/en/post/realfood/product.jpg)
 
@@ -90,10 +90,10 @@ The issue lies not only with the sugar in candy but also with the hidden sugars 
 
 To quote Dr. Lustig: "Real Food is low in sugar and high in fiber, which lowers insulin levels; it protects the liver and nourishes the gut.”
 
-If we accept this as a health-determining fact, we can assert that many substances on this Earth, in a pure metabolic sense, are not food for us — even if we do not die immediately after ingesting them.
+If we accept this as a health-determining fact, we can assert that many substances on this Earth, in a pure metabolic sense, are not food for us - even if we do not die immediately after ingesting them.
 
 Here are some items we could do better without:
-- **Sugar (Sucrose):** Composed of 50% fructose and 50% glucose, where fructose — metabolized exclusively by the liver — can overwhelm it when consumed excessively and without proper fiber as in whole fruits for example.
+- **Sugar (Sucrose):** Composed of 50% fructose and 50% glucose, where fructose - metabolized exclusively by the liver - can overwhelm it when consumed excessively and without proper fiber as in whole fruits for example.
 - **Alcohol (Ethanol):** Just as poisonous as fructose, it is metabolized solely by the liver, which can lead to damage and an inability to perform its other vital metabolic functions. Liverdamage, fatty liver can be the result.
 - **Caffeine:** Found in coffee, tea, and many sodas, caffeine is safe in moderation but can lead to toxicity and even death in excessive amounts.
 - **Lead and Heavy Metals:** Found in some contaminated food products due to industrial contamination, these pose severe risks to health.
@@ -115,9 +115,9 @@ While needed in smaller amounts, these nutrients are essential for various bodil
 Essential for hydration, digestion, nutrient transport, temperature regulation, and metabolic processes.
 
 ### Fiber
-Though not classified as a nutrient since it isn't digested, dietary fiber is crucial for digestive health and can help reduce the risk of various chronic diseases. It supports our gut microbiome — a symbiotic relationship that is fundamental to overall health. Scientists are beginning to recognize the microbiome as a new "gold" for restoring health if properly regenerated.
+Though not classified as a nutrient since it isn't digested, dietary fiber is crucial for digestive health and can help reduce the risk of various chronic diseases. It supports our gut microbiome - a symbiotic relationship that is fundamental to overall health. Scientists are beginning to recognize the microbiome as a new "gold" for restoring health if properly regenerated.
 
-Maintaining a balanced diet — including a variety of **real foods from all these categories** — is vital for good health and well-being.
+Maintaining a balanced diet - including a variety of **real foods from all these categories** - is vital for good health and well-being.
 
 
 ## How to Choose the Proper "Real Foods"

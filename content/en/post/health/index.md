@@ -56,7 +56,7 @@ slides: example
 
 ---
 
-## I understand that while it’s easy to say, “Just do it,” taking action can often feel overwhelming. I vividly recall my former self questioning, “Are you serious? How can I possibly tackle this? There’s so much information out there — how do I know what’s truly helpful for me? Isn’t it enough just to consult my doctors? I simply don’t have the time for this!”
+## I understand that while it’s easy to say, “Just do it,” taking action can often feel overwhelming. I vividly recall my former self questioning, “Are you serious? How can I possibly tackle this? There’s so much information out there - how do I know what’s truly helpful for me? Isn’t it enough just to consult my doctors? I simply don’t have the time for this!”
 
 The reality is that, yes, **you** can take charge of your health. **However, relying on the wrong information could lead you into serious trouble.** Ultimately, your health is **your** responsibility; no one else will take ownership of it.
 
@@ -71,7 +71,7 @@ The reality is that, yes, **you** can take charge of your health. **However, rel
 
 ## After getting accustomed to my former self from 2020, would you have recognized me in 2022 as I walked by wearing those sunglasses?
 
-To put this into perspective, I found myself in a difficult situation at the onset of the COVID-19 pandemic. Weighing 107 kg, I faced numerous health challenges. I felt miserable, struggled with brain fog, dealt with hypertension, and suffered from a complicated “aura” type of migraine that mimicked stroke symptoms. Additionally, I battled depression and was likely insulin resistant — which indicated I was on the verge of becoming prediabetic. Despite adhering to mainstream dietary advice and relying on the food pyramid, I believed I was making healthier choices. I even purchased a rowing machine to exercise, yet, instead of improvements, my condition only worsened — I became more obese despite trying to eat less.
+To put this into perspective, I found myself in a difficult situation at the onset of the COVID-19 pandemic. Weighing 107 kg, I faced numerous health challenges. I felt miserable, struggled with brain fog, dealt with hypertension, and suffered from a complicated “aura” type of migraine that mimicked stroke symptoms. Additionally, I battled depression and was likely insulin resistant - which indicated I was on the verge of becoming prediabetic. Despite adhering to mainstream dietary advice and relying on the food pyramid, I believed I was making healthier choices. I even purchased a rowing machine to exercise, yet, instead of improvements, my condition only worsened - I became more obese despite trying to eat less.
 
 # The Power of Knowledge
 
@@ -88,10 +88,10 @@ What??? Really? Doctors can be wrong about many aspects of our health? As I disc
 # The Reality of Health Education
 
 
-I’m not suggesting that all doctors are unreliable or that we should solely depend on our “gut feelings” regarding health. Instead, it is unfortunate that many people are uninformed about health and nutrition, and it often takes a severe health scare for us to take our conditions seriously — conditions that are ultimately a result of our own lifestyle choices. Ignorance on this topic is not really an option.
+I’m not suggesting that all doctors are unreliable or that we should solely depend on our “gut feelings” regarding health. Instead, it is unfortunate that many people are uninformed about health and nutrition, and it often takes a severe health scare for us to take our conditions seriously - conditions that are ultimately a result of our own lifestyle choices. Ignorance on this topic is not really an option.
 
 
-Fortunately, many general practitioners, medical doctors, and scientists are willing to challenge outdated paradigms once they recognize what I also noticed: ultimately, only the results — driven by data— will indicate whether we are effectively managing the conditions that develop over time.
+Fortunately, many general practitioners, medical doctors, and scientists are willing to challenge outdated paradigms once they recognize what I also noticed: ultimately, only the results - driven by data- will indicate whether we are effectively managing the conditions that develop over time.
 
 **Here are some individuals whose work I’ve studied through their books and videos:**
   - **Dr. Sten Eckberg - Olympic Decathlete and Holistic Doctor**
@@ -148,17 +148,17 @@ I needed to educate myself extensively about the biochemistry of the body, nutri
 
 I had to distinguish between real food and items merely labeled “food.” As Dr. Lustig states in his book, ***“People think supplements are the antidote for bad food. They’re not. Rather, Real Food is the treatment, while bad food is the poison. Real Food is low in sugar and high in fiber, which lowers insulin levels; it protects the liver and nourishes the gut.”*** Real food typically has a short shelf life and rarely comes in a package with a label or nutrition facts.
 
-Moreover, I needed to understand the significant impact of diets on our health. From my research — initially centered around Keto and Intermittent Fasting — I learned that different diets can serve as tools for specific outcomes. However, any diet can be harmful if it includes unhealthy, ultra-processed products that aren’t considered Real Food. Almost any type of diet can be healthy if it consists of Real Food. Conversely, it holds true that if you consume ultra-processed “food,” regardless of the diet it fits into, it will negatively affect your health.
+Moreover, I needed to understand the significant impact of diets on our health. From my research - initially centered around Keto and Intermittent Fasting - I learned that different diets can serve as tools for specific outcomes. However, any diet can be harmful if it includes unhealthy, ultra-processed products that aren’t considered Real Food. Almost any type of diet can be healthy if it consists of Real Food. Conversely, it holds true that if you consume ultra-processed “food,” regardless of the diet it fits into, it will negatively affect your health.
 
 ## Just a little tip to make things easier:
 
-If you focus solely on Real Food while practicing intermittent fasting (also known as time-restricted feeding) and occasionally engaging in longer fasts (to promote autophagy — a self-repair state of the body), you will likely experience improved health. This has been my most significant realization so far.
+If you focus solely on Real Food while practicing intermittent fasting (also known as time-restricted feeding) and occasionally engaging in longer fasts (to promote autophagy - a self-repair state of the body), you will likely experience improved health. This has been my most significant realization so far.
 
 Of course, there are many more nuances to know about what counts as Real Food and what doesn’t, but I’ll write about that in a future article.
 
 ## The purpose of writing this article:
 
-I chose to share my personal story and a glimpse of what I’ve recently discovered about health — specifically my health — to encourage **YOU**, the reader, to take this important matter into your own hands. I didn’t spend all my time learning about these topics over the last five years in one go; rather, I learned bit by bit, step by step. This is the approach you should adopt as well.
+I chose to share my personal story and a glimpse of what I’ve recently discovered about health - specifically my health - to encourage **YOU**, the reader, to take this important matter into your own hands. I didn’t spend all my time learning about these topics over the last five years in one go; rather, I learned bit by bit, step by step. This is the approach you should adopt as well.
 
 There are countless success stories around us, highlighting that those who achieved them did not succumb to the limiting beliefs that certain entities in this world attempt to impose upon them.
 

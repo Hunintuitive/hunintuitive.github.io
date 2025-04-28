@@ -225,7 +225,7 @@ Additionally, exercise caution in your choice of ingredients. While it can be te
 ### 5. **Listen to Your Body:**
 ![Alt text](/post/nutrition/listen.jpg)
    - **Adjust as Needed:** Pay attention to how your body responds. If you feel fatigued or overly hungry, consider shortening your fasting window or adjusting your meal composition.
-   - **Mindful Eating:** During eating periods, practice mindful eating by slowing down and savoring your food, which can enhance satisfaction and prevent overeating. ***Never forget— it can't be emphasized enough: only eat when you are hungry and avoid snacking as much as possible!*** Sometimes, our habits and Pavlovian reflexes tell us to eat, not our bodies.
+   - **Mindful Eating:** During eating periods, practice mindful eating by slowing down and savoring your food, which can enhance satisfaction and prevent overeating. ***Never forget- it can't be emphasized enough: only eat when you are hungry and avoid snacking as much as possible!*** Sometimes, our habits and Pavlovian reflexes tell us to eat, not our bodies.
 
 ### 6. **Replenish needed electrolytes:**
 ![Alt text](/post/nutrition/electrolyte.jpg)

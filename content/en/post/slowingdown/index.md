@@ -56,7 +56,7 @@ slides: example
 
 ---
 
-***Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why it’s called the present. — Alice Morse Earle***
+***Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why it’s called the present. - Alice Morse Earle***
 
 In our fast-paced world, the rush has become a way of life. We race against the clock, juggling tasks, and multitasking until we are left feeling frazzled and unfulfilled. As Ralph Waldo Emerson poignantly stated, “We are always getting ready to live but never living.” This rush to accomplish more often leads to a state of anxiety and stress, preventing us from truly experiencing the richness of life.
 
@@ -65,7 +65,7 @@ In our fast-paced world, the rush has become a way of life. We race against the 
 
 ![Alt text](/en/post/slowingdown/rushing.jpg)
 
-Rushing implies a mindset of lack — a feeling that we are not enough, that we have to hurry to catch up with life. As Sura, a meditation coach pointed out, this state of resistance often stems from anxiety, causing us to miss out on the present moment. The truth is, when we rush, we are merely skimming the surface of our experiences rather than diving deep into what truly matters. We push ourselves to achieve milestones without fully appreciating the journey that leads us there.
+Rushing implies a mindset of lack - a feeling that we are not enough, that we have to hurry to catch up with life. As Sura, a meditation coach pointed out, this state of resistance often stems from anxiety, causing us to miss out on the present moment. The truth is, when we rush, we are merely skimming the surface of our experiences rather than diving deep into what truly matters. We push ourselves to achieve milestones without fully appreciating the journey that leads us there.
 
 Benjamin Franklin wisely noted, “Take time for all things; great haste makes great waste.” In our quest to accomplish more, we often sacrifice quality for quantity. We rush to write the next bestseller without fully learning our craft. We leap into relationships without understanding our partners. This incessant hurry not only diminishes our experiences but hinders our growth.
 
@@ -78,7 +78,7 @@ Life is not a sprint; it is a marathon, a gradual process that requires patience
 
 ![Alt text](/en/post/slowingdown/book.jpg)
 
-Imagine reading a book in a hurry — sure, you finish it faster, but do you absorb its message? Does the story resonate with you? Similarly, consider a meal consumed in haste. Are we truly enjoying the flavors, or merely fueling our bodies? When we slow down, we allow ourselves to engage deeply with our experiences, transforming mundane moments into profound memories.
+Imagine reading a book in a hurry - sure, you finish it faster, but do you absorb its message? Does the story resonate with you? Similarly, consider a meal consumed in haste. Are we truly enjoying the flavors, or merely fueling our bodies? When we slow down, we allow ourselves to engage deeply with our experiences, transforming mundane moments into profound memories.
 
 
 ## The Myth of Multitasking

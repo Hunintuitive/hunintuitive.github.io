@@ -77,7 +77,7 @@ Reflecting on my own communication habits, I now recognize how often I have dimi
 
 The implications of using weak language extend far beyond individual interactions. Fischer highlights that poor communication skills can trigger a cascade of negative outcomes, including diminished self-worth, strained relationships, and professional stagnation. When individuals, myself included, feel pressured to soften their words to please others, they risk losing their identity and authority.
 
-People-pleasing tendencies, often driven by the desire to avoid conflict, can lead to emotional fatigue. The inability to say "no" or set boundaries can leave individuals feeling overwhelmed and resentful. Fischer advocates for clear, assertive communication as a means to reclaim personal power and foster healthier relationships. The act of stating one’s needs without apology can be both liberating and empowering — something I am committed to practicing more in my life.
+People-pleasing tendencies, often driven by the desire to avoid conflict, can lead to emotional fatigue. The inability to say "no" or set boundaries can leave individuals feeling overwhelmed and resentful. Fischer advocates for clear, assertive communication as a means to reclaim personal power and foster healthier relationships. The act of stating one’s needs without apology can be both liberating and empowering - something I am committed to practicing more in my life.
 
 It is important to realize that over-apologizing or using filler phrases can dilute our intentions. Instead of saying, "I'm just sorry for the delay," we can express gratitude with, "Thank you for your patience." This subtle shift conveys respect for the other person while reinforcing our own authority and confidence.
 
@@ -113,7 +113,7 @@ Engaging in conversations with curiosity rather than defensiveness fosters deepe
 
 Fischer’s insights extend beyond communication mechanics; they delve into the emotional landscape of human interaction. He reminds us that everyone carries unseen struggles. A seemingly rude waitress may be facing personal crises, and a dismissive colleague could be overwhelmed by external pressures. Recognizing that everyone has their battles nurtures compassion and patience, transforming how we approach difficult conversations.
 
-By treating others with kindness — even those we find challenging — we can reduce conflict and create more productive dialogue. Fischer encourages us to engage with others as if we genuinely like them, which can shift the tone of interactions and foster a more positive atmosphere. Understanding that each person has their struggles enables us to respond with empathy rather than judgment.
+By treating others with kindness - even those we find challenging - we can reduce conflict and create more productive dialogue. Fischer encourages us to engage with others as if we genuinely like them, which can shift the tone of interactions and foster a more positive atmosphere. Understanding that each person has their struggles enables us to respond with empathy rather than judgment.
 
 ## A Summary of the Suggestions for Diverse Situations:
 

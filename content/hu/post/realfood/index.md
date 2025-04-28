@@ -93,7 +93,7 @@ Dr. Lustigot idézve: „A valódi ételek alacsony cukortartalmúak és magas r
 Ha ezt egészséget meghatározó tényként fogadjuk el, akkor kijelenthetjük, hogy a Földön található számos anyag, tisztán anyagcsere szempontjából, nem táplálék számunkra - még akkor sem, ha nem halunk meg azonnal a fogyasztásuk után.
 
 Íme néhány olyan elem, melyek nélkül jobban meglennénk:
-- **Cukor (Szacharóz):** 50% fruktózból és 50% glükózból áll, ahol a fruktóz — amelyet kizárólag a máj tud feldolgozni — túlzott fogyasztás esetén és megfelelő rost nélkül, mint például a teljes gyümölcsök esetében, túlterhelheti a májat.
+- **Cukor (Szacharóz):** 50% fruktózból és 50% glükózból áll, ahol a fruktóz - amelyet kizárólag a máj tud feldolgozni - túlzott fogyasztás esetén és megfelelő rost nélkül, mint például a teljes gyümölcsök esetében, túlterhelheti a májat.
 - **Alkohol (Etanol):** Ugyanolyan mérgező, mint a fruktóz, kizárólag a májban történik a feldolgozása, ami károsodáshoz vezethet, és képtelenné teheti más létfontosságú anyagcsere-funkciók ellátására. Májkárosodás, zsírmáj lehet a következmény.
 - **Koffein:** A kávéban, teában és sok üdítőitalban található koffein mértékkel biztonságos, de túlzott mennyiségben mérgezéshez, sőt halálhoz vezethet.
 - **Ólom és nehézfémek:** Az ipari szennyezés miatt egyes szennyezett élelmiszerekben megtalálhatóak, és súlyos egészségügyi kockázatot jelentenek. 

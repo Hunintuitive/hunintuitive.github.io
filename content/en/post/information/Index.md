@@ -89,7 +89,7 @@ Every source has its own perspective and bias. Here’s how to recognize and acc
 - **Seek Different Viewpoints**: Challenge your beliefs by exploring sources that present opposing viewpoints.
 - **Fact-Checking Websites**: Use resources like Snopes, FactCheck.org, and PolitiFact to verify claims and check for misinformation.
 
-Understanding how bias can affect interpretation is crucial—acknowledging that different perspectives shape the way information is presented helps us become more discerning consumers of news.
+Understanding how bias can affect interpretation is crucial-acknowledging that different perspectives shape the way information is presented helps us become more discerning consumers of news.
 
 ### 4. **Engage with Social Media Wisely**
 

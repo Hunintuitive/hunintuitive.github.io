@@ -56,7 +56,7 @@ slides: example
 
 ---
 
-## Ich verstehe, dass es leicht ist, zu sagen: „Mach einfach!“ Aber in der Realität fühlt sich der Schritt zum Handeln oft überwältigend an. Ich erinnere mich noch gut an mein früheres Selbst, das sich fragte: „Bist du verrückt? Wie soll ich das überhaupt angehen? Da gibt es so viele Informationen — wie weiß ich, was wirklich hilfreich für mich ist? Reicht es nicht, einfach meinen Ärzten zu vertrauen? Ich habe einfach keine Zeit dafür!“
+## Ich verstehe, dass es leicht ist, zu sagen: „Mach einfach!“ Aber in der Realität fühlt sich der Schritt zum Handeln oft überwältigend an. Ich erinnere mich noch gut an mein früheres Selbst, das sich fragte: „Bist du verrückt? Wie soll ich das überhaupt angehen? Da gibt es so viele Informationen - wie weiß ich, was wirklich hilfreich für mich ist? Reicht es nicht, einfach meinen Ärzten zu vertrauen? Ich habe einfach keine Zeit dafür!“
 
 Die Realität ist, ja, **du** kannst die Verantwortung für deine Gesundheit übernehmen. **Aber sich auf falsche Informationen zu verlassen, kann dich in ernsthafte Probleme führen.** Letztendlich ist deine Gesundheit **deine** Verantwortung; niemand anders wird sie übernehmen.
 
@@ -71,7 +71,7 @@ Die Realität ist, ja, **du** kannst die Verantwortung für deine Gesundheit üb
 
 ## Hättest du mich, nachdem du dich an mein früheres Ich aus dem Jahr 2020 gewöhnt hast, im Jahr 2022 erkannt, als ich mit dieser Sonnenbrille an dir vorbeiging?
 
-Um das in Perspektive zu setzen: Zu Beginn der COVID-19-Pandemie befand ich mich in einer schwierigen Lage. Mit 107 kg kämpfte ich mit zahlreichen gesundheitlichen Problemen. Ich fühlte mich miserabel, hatte mit Gehirnnebel zu kämpfen, litt unter Bluthochdruck und hatte eine komplizierte Migräne-Aura, die Symptome eines Schlaganfalls imitierte. Zusätzlich kämpfte ich mit Depressionen und war wahrscheinlich insulinresistent — was darauf hindeutete, dass ich kurz davor war, prädiabetisch zu werden. Trotz der Befolgung der allgemeinen Ernährungsempfehlungen und dem Vertrauen auf die Ernährungspyramide glaubte ich, gesündere Entscheidungen zu treffen. Ich kaufte sogar ein Rudergerät, um mich zu bewegen, doch statt Verbesserungen verschlechterte sich mein Zustand nur — ich wurde trotz Versuchen, weniger zu essen, immer fettleibiger.
+Um das in Perspektive zu setzen: Zu Beginn der COVID-19-Pandemie befand ich mich in einer schwierigen Lage. Mit 107 kg kämpfte ich mit zahlreichen gesundheitlichen Problemen. Ich fühlte mich miserabel, hatte mit Gehirnnebel zu kämpfen, litt unter Bluthochdruck und hatte eine komplizierte Migräne-Aura, die Symptome eines Schlaganfalls imitierte. Zusätzlich kämpfte ich mit Depressionen und war wahrscheinlich insulinresistent - was darauf hindeutete, dass ich kurz davor war, prädiabetisch zu werden. Trotz der Befolgung der allgemeinen Ernährungsempfehlungen und dem Vertrauen auf die Ernährungspyramide glaubte ich, gesündere Entscheidungen zu treffen. Ich kaufte sogar ein Rudergerät, um mich zu bewegen, doch statt Verbesserungen verschlechterte sich mein Zustand nur - ich wurde trotz Versuchen, weniger zu essen, immer fettleibiger.
 
 # Die Macht des Wissens
 
@@ -88,9 +88,9 @@ Was??? Wirklich? Ärzte können in vielen Bereichen unserer Gesundheit falsch li
 # Die Realität der Gesundheitsbildung
 
 
-Ich möchte nicht sagen, dass alle Ärzte unzuverlässig sind oder dass wir nur auf unser „Bauchgefühl“ in Bezug auf Gesundheit vertrauen sollten. Vielmehr ist es leider so, dass viele Menschen über Gesundheit und Ernährung nicht ausreichend informiert sind, und oft erst ein schwerwiegender gesundheitlicher Schreck dazu führt, dass wir unsere eigenen Gesundheitszustände ernst nehmen — Zustände, die letztlich durch unsere eigenen Lebensstilentscheidungen entstanden sind. Unwissenheit in diesem Bereich ist keine Option.
+Ich möchte nicht sagen, dass alle Ärzte unzuverlässig sind oder dass wir nur auf unser „Bauchgefühl“ in Bezug auf Gesundheit vertrauen sollten. Vielmehr ist es leider so, dass viele Menschen über Gesundheit und Ernährung nicht ausreichend informiert sind, und oft erst ein schwerwiegender gesundheitlicher Schreck dazu führt, dass wir unsere eigenen Gesundheitszustände ernst nehmen - Zustände, die letztlich durch unsere eigenen Lebensstilentscheidungen entstanden sind. Unwissenheit in diesem Bereich ist keine Option.
 
-Zum Glück sind viele Allgemeinmediziner, Ärzte und Wissenschaftler bereit, veraltete Paradigmen in Frage zu stellen, wenn sie erkennen, was auch mir aufgefallen ist: Letztlich werden nur die Ergebnisse —die durch Daten gestützt werden— zeigen, ob wir die über die Zeit entwickelten Gesundheitszustände effektiv managen.
+Zum Glück sind viele Allgemeinmediziner, Ärzte und Wissenschaftler bereit, veraltete Paradigmen in Frage zu stellen, wenn sie erkennen, was auch mir aufgefallen ist: Letztlich werden nur die Ergebnisse -die durch Daten gestützt werden- zeigen, ob wir die über die Zeit entwickelten Gesundheitszustände effektiv managen.
 
 **Hier sind einige Personen, deren Arbeit ich durch ihre Bücher und Videos studiert habe:**
 - **Dr. Sten Eckberg - Olympischer Zehnkämpfer und ganzheitlicher Arzt**
@@ -154,13 +154,13 @@ Außerdem musste ich den enormen Einfluss von Diäten auf unsere Gesundheit begr
 
 ## Nur ein kleiner Tipp, um es einfacher zu machen:
 
-Wenn du dich ausschließlich auf Echtes Essen konzentrierst, während du Intervallfasten betreibst (auch bekannt als zeitlich begrenztes Essen) und gelegentlich längere Fastenperioden einlegst (um die Autophagie — einen Selbstreparaturzustand des Körpers zu fördern), wirst du wahrscheinlich eine Verbesserung deiner Gesundheit erleben. Das war meine größte Erkenntnis bisher.
+Wenn du dich ausschließlich auf Echtes Essen konzentrierst, während du Intervallfasten betreibst (auch bekannt als zeitlich begrenztes Essen) und gelegentlich längere Fastenperioden einlegst (um die Autophagie - einen Selbstreparaturzustand des Körpers zu fördern), wirst du wahrscheinlich eine Verbesserung deiner Gesundheit erleben. Das war meine größte Erkenntnis bisher.
 
 Natürlich gibt es viele weitere Nuancen, die es zu beachten gilt, was als Echtes Essen zählt und was nicht, aber darüber werde ich in einem zukünftigen Artikel schreiben.
 
 ## Ziel des Verfassens des Artikels:
 
-Ich habe mich entschlossen, meine persönliche Geschichte und einen Einblick in das, was ich kürzlich über Gesundheit entdeckt habe —insbesondere meine eigene Gesundheit— zu teilen, um **DICH**, den Leser, zu ermutigen, diese wichtige Angelegenheit selbst in die Hand zu nehmen. Ich habe nicht meine gesamte Zeit in den letzten fünf Jahren auf einmal damit verbracht, mich mit diesen Themen zu beschäftigen; vielmehr habe ich es Schritt für Schritt gelernt. Das solltest du auch tun.
+Ich habe mich entschlossen, meine persönliche Geschichte und einen Einblick in das, was ich kürzlich über Gesundheit entdeckt habe -insbesondere meine eigene Gesundheit- zu teilen, um **DICH**, den Leser, zu ermutigen, diese wichtige Angelegenheit selbst in die Hand zu nehmen. Ich habe nicht meine gesamte Zeit in den letzten fünf Jahren auf einmal damit verbracht, mich mit diesen Themen zu beschäftigen; vielmehr habe ich es Schritt für Schritt gelernt. Das solltest du auch tun.
 
 Es gibt unzählige Erfolgsgeschichten um uns herum, die zeigen, dass diejenigen, die sie erreicht haben, nicht den einschränkenden Glaubenssätzen erlegen sind, die bestimmte Einrichtungen in dieser Welt ihnen aufzwingen wollten.
 
