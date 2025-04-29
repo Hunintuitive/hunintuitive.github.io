@@ -36,7 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       image: ""
-      text: "Hunor's Website"    # Text displayed as the logo
+      text: "Hunor Becsi's Website"    # Text displayed as the logo
       url: ""   # Optional URL to an image for the logo
       alt_text: ""    # Alternative text for the logo
       alt: ""
