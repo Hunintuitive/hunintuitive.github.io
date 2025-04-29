@@ -1,3 +1,11 @@
 User-agent: *
+Allow: /
 
-Sitemap: https://example.com/sitemap.xml
+Sitemap: https://hunintuitive.github.io/sitemap.xml
+Sitemap: https://hunintuitive.github.io/en/sitemap.xml
+Sitemap: https://hunintuitive.github.io/hu/sitemap.xml
+Sitemap: https://hunintuitive.github.io/de/sitemap.xml
+Sitemap: https://hunorbecsi.netlify.app/sitemap.xml
+Sitemap: https://hunorbecsi.netlify.app/en/sitemap.xml
+Sitemap: https://hunorbecsi.netlify.app/hu/sitemap.xml
+Sitemap: https://hunorbecsi.netlify.app/de/sitemap.xml
