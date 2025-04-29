@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Echte Lebensmittel | Hunor&#39;s Webseite</title>
-    <link>http://localhost:1313/de/tags/echte-lebensmittel/</link>
-      <atom:link href="http://localhost:1313/de/tags/echte-lebensmittel/index.xml" rel="self" type="application/rss+xml" />
+    <title>Echte Lebensmittel | Hunor Becsis Webseite</title>
+    <link>https://example.com/de/tags/echte-lebensmittel/</link>
+      <atom:link href="https://example.com/de/tags/echte-lebensmittel/index.xml" rel="self" type="application/rss+xml" />
     <description>Echte Lebensmittel</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Echte Lebensmittel</title>
-      <link>http://localhost:1313/de/tags/echte-lebensmittel/</link>
+      <link>https://example.com/de/tags/echte-lebensmittel/</link>
     </image>
     
     <item>
       <title>Die Wiederentdeckung echter Lebensmittel - Umstellung deiner Ernährung für dauerhafte Gesundheit und Vitalität</title>
-      <link>http://localhost:1313/de/post/realfood/</link>
+      <link>https://example.com/de/post/realfood/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/post/realfood/</guid>
+      <guid>https://example.com/de/post/realfood/</guid>
       <description>&lt;p&gt;&lt;strong&gt;In einer Zeit, in der Bequemlichkeit oft die Qualität überschattet, ist es wichtiger denn je zu wissen, was „echte Lebensmittel“ sind. Auf einem Markt, der mit verarbeiteten und ultra-verarbeiteten „lebensmittelähnlichen“ Produkten überschwemmt ist, wird die Unterscheidung zwischen nahrhaften Optionen und solchen, die unserer Gesundheit schaden, immer wichtiger. Auf dieser Reise geht es nicht nur um die bloße Ernährung, sondern auch darum, unsere Gesundheit und Vitalität inmitten einer sich rapide verschlechternden Umwelt zurückzugewinnen.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In diesem Artikel werde ich die Essenz echter Lebensmittel enthüllen - was sie sind, welche Lebensmittel man meiden sollte und warum dieses Wissen für unser Wohlbefinden so wichtig ist. Auf der Grundlage von Erkenntnissen angesehener Mediziner und meiner persönlichen Gesundheitsreise möchte ich einen Wegweiser für die Umstellung deiner Ernährung anbieten.&lt;/p&gt;
 &lt;p&gt;Mein Weg zum Wohlbefinden begann mit der ketogenen Diät und dem Intervallfasten - eine entscheidende Kombination in meinem Kampf gegen Fettleibigkeit und bei dem Bestreben, meine Insulinresistenz zu überwinden. Durch diese Erfahrung erkannte ich, welch tiefgreifenden Einfluss unsere Ernährungsgewohnheiten auf unseren Körper haben. Wenn du das aufschlussreiche Video von Dr. Sten Eckberg mit dem Titel Your Doctor Is Wrong About Insulin Resistance“ (Ihr Arzt irrt sich bei der Insulinresistenz) gesehen hast, kennst du vielleicht schon die Bedeutung dieses Zustands und seine weitreichenden Auswirkungen.&lt;/p&gt;
@@ -46,7 +46,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Um zu verstehen, was echte Lebensmittel sind, sollten wir uns auf eine aufschlussreiche Definition beziehen, die Dr. Robert Lustig in einem seiner Interviews gegeben hat. Er beschreibt Nahrung als &lt;strong&gt;“ eine Substanz, die entweder zum Wachstum oder zur Verbrennung (von Energie) in einem Organismus beiträgt “.&lt;/strong&gt; Das bedeutet, dass Nahrung einem Zweck dient - entweder als Energie oder als Beitrag zum körperlichen Wachstum. Fruktose, ein gängiger Süßstoff, hemmt jedoch diesen Prozess und ist in 73 % der Produkte in amerikanischen Lebensmittelgeschäften enthalten.&lt;/p&gt;
@@ -69,7 +69,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Wenn ein Kind einmal in der Woche um eine Tüte Süßigkeiten bittet, können wir uns fragen, ob das wirklich als Nahrung gilt. Nur wenige Menschen verzehren ausschließlich echte Lebensmittel, wo ist hier also das Gleichgewicht?&lt;/p&gt;
@@ -121,7 +121,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Das NOVA-Klassifizierungssystem ist ein Instrument zur Klassifizierung von Lebensmitteln, das auf dem Grad der Verarbeitung von Lebensmitteln basiert. NOVA wurde von Forschern der Universität von São Paulo in Brasilien entwickelt und teilt Lebensmittel in vier Gruppen ein:&lt;/p&gt;
@@ -215,7 +215,7 @@ Durch die Verwendung des NOVA-Klassifizierungssystems kannst du deine Lebensmitt
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Bei vielen modernen Lebensmittelverarbeitungsprozessen, wie z. B. der Erhitzung von Pflanzenölen und der Kombination von Zucker mit Proteinen, entstehen schädliche Verbindungen, die als fortgeschrittene Glykationsendprodukte (AGEs) bekannt sind. Diese Verbindungen sind zwar schmackhaft, können aber den inneren Alterungsprozess beschleunigen (ähnlich wie Rost) und zu verschiedenen gesundheitlichen Problemen führen. Dr. Pradip Jamnadas&amp;rsquo; klarer Vortrag zu diesem Thema öffnete mir die Augen für die Notwendigkeit, die richtige Verarbeitung von Lebensmitteln neu zu erlernen, um die gesunden Lebensmittel zu schützen, für die wir hart gearbeitet haben.&lt;/p&gt;
@@ -237,7 +237,7 @@ Durch die Verwendung des NOVA-Klassifizierungssystems kannst du deine Lebensmitt
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;lerne-weiter-hör-nie-auf&#34;&gt;Lerne weiter, hör nie auf!&lt;/h2&gt;

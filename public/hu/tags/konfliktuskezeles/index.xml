@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Konfliktuskezelés | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/konfliktuskezeles/</link>
-      <atom:link href="http://localhost:1313/hu/tags/konfliktuskezeles/index.xml" rel="self" type="application/rss+xml" />
+    <title>Konfliktuskezelés | Becsi Hunor Weboldala</title>
+    <link>https://example.com/hu/tags/konfliktuskezeles/</link>
+      <atom:link href="https://example.com/hu/tags/konfliktuskezeles/index.xml" rel="self" type="application/rss+xml" />
     <description>Konfliktuskezelés</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Sat, 19 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Konfliktuskezelés</title>
-      <link>http://localhost:1313/hu/tags/konfliktuskezeles/</link>
+      <link>https://example.com/hu/tags/konfliktuskezeles/</link>
     </image>
     
     <item>
       <title>A szavak ereje: Ahogyan akár egyetlen szó is alááshatja a tekintélyedet</title>
-      <link>http://localhost:1313/hu/post/communication/</link>
+      <link>https://example.com/hu/post/communication/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/communication/</guid>
+      <guid>https://example.com/hu/post/communication/</guid>
       <description>&lt;h3 id=&#34;bevezetés&#34;&gt;Bevezetés&lt;/h3&gt;
 &lt;p&gt;A hatékony kommunikáció lelkes tanulójaként magával ragadott Jefferson Fischer, a tapasztalt peres ügyvéd és kommunikációs szakértő által az &lt;em&gt;Egy vezérigazgató naplója&lt;/em&gt; egyik legutóbbi epizódjában megosztott meglátás. Fischer bölcsessége rávilágított arra, hogy a beszéd milyen döntő szerepet játszik kapcsolataink, karrierünk és önbecsülésünk alakításában. Egy bizonyos szó a hatékony kommunikáció jelentős akadályaként jelent meg: &amp;ldquo;csak&amp;rdquo;.&lt;/p&gt;
 
@@ -54,7 +54,7 @@
                /hu/post/communication/post/communication/weak_hu1258467573571146432.webp 400w,
                /hu/post/communication/post/communication/weak_hu4605424231346279981.webp 760w,
                /hu/post/communication/post/communication/weak_hu3704105715186560498.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/weak_hu1258467573571146432.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/weak_hu1258467573571146432.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -86,7 +86,7 @@
                /hu/post/communication/post/communication/no_hu5411680983028109495.webp 400w,
                /hu/post/communication/post/communication/no_hu2214479427449396254.webp 760w,
                /hu/post/communication/post/communication/no_hu14363307389295533143.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/no_hu5411680983028109495.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/no_hu5411680983028109495.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -131,7 +131,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/cost_hu2148326397174409805.webp 400w,
                /hu/post/communication/post/communication/cost_hu10775519145786177886.webp 760w,
                /hu/post/communication/post/communication/cost_hu14634541831334980934.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/cost_hu2148326397174409805.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/cost_hu2148326397174409805.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -162,7 +162,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/rude_hu4047271063263923152.webp 400w,
                /hu/post/communication/post/communication/rude_hu1416668807168419533.webp 760w,
                /hu/post/communication/post/communication/rude_hu8945490063863785228.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/rude_hu4047271063263923152.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/rude_hu4047271063263923152.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -245,7 +245,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/reality_hu4452610556796158844.webp 400w,
                /hu/post/communication/post/communication/reality_hu5946760626071578554.webp 760w,
                /hu/post/communication/post/communication/reality_hu9921069936456881839.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/reality_hu4452610556796158844.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/reality_hu4452610556796158844.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -288,7 +288,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/tempathy_hu3087838361283004391.webp 400w,
                /hu/post/communication/post/communication/tempathy_hu3203902018681238789.webp 760w,
                /hu/post/communication/post/communication/tempathy_hu1519778464288119137.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/tempathy_hu3087838361283004391.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/tempathy_hu3087838361283004391.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -325,7 +325,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/mirroring_hu13087882218625507968.webp 400w,
                /hu/post/communication/post/communication/mirroring_hu4515405210977292909.webp 760w,
                /hu/post/communication/post/communication/mirroring_hu11705052292616885782.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/mirroring_hu13087882218625507968.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/mirroring_hu13087882218625507968.webp&#34;
                width=&#34;640&#34;
                height=&#34;640&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -361,7 +361,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/labeling_hu3717442859472427088.webp 400w,
                /hu/post/communication/post/communication/labeling_hu2314166428713905030.webp 760w,
                /hu/post/communication/post/communication/labeling_hu14588059210548168603.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/labeling_hu3717442859472427088.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/labeling_hu3717442859472427088.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -397,7 +397,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/accusation_hu17909493209014512377.webp 400w,
                /hu/post/communication/post/communication/accusation_hu3052882509524101329.webp 760w,
                /hu/post/communication/post/communication/accusation_hu17669643502797532648.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/accusation_hu17909493209014512377.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/accusation_hu17909493209014512377.webp&#34;
                width=&#34;760&#34;
                height=&#34;520&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -433,7 +433,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/nostp_hu8361114887008617536.webp 400w,
                /hu/post/communication/post/communication/nostp_hu1119872065478522209.webp 760w,
                /hu/post/communication/post/communication/nostp_hu6483627104174049469.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/nostp_hu8361114887008617536.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/nostp_hu8361114887008617536.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

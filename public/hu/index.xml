@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/</link>
-      <atom:link href="http://localhost:1313/hu/index.xml" rel="self" type="application/rss+xml" />
-    <description>Hunor Weboldala</description>
+    <title>Becsi Hunor Weboldala</title>
+    <link>https://example.com/hu/</link>
+      <atom:link href="https://example.com/hu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Becsi Hunor Weboldala</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
-      <title>Hunor Weboldala</title>
-      <link>http://localhost:1313/hu/</link>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <title>Becsi Hunor Weboldala</title>
+      <link>https://example.com/hu/</link>
     </image>
     
     <item>
       <title>Miért blogolok egészségügyi témákról magánemberként?</title>
-      <link>http://localhost:1313/hu/post/whyipublishhealth/</link>
+      <link>https://example.com/hu/post/whyipublishhealth/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/whyipublishhealth/</guid>
+      <guid>https://example.com/hu/post/whyipublishhealth/</guid>
       <description>&lt;h2 id=&#34;miért-blogolok-egészségügyi-témákról----a-felfedezés-útja&#34;&gt;Miért blogolok egészségügyi témákról? &amp;ndash; A felfedezés útja&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bevezetés&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A mai összetett egészségügyi környezetben a zűrzavar és a téves információk sokasága gyakran arra készteti az egyéneket, hogy gyors megoldásokat keressenek, melyek veszélyeztethetik a jólétüket. Alapvető fontosságú felismerni, hogy az egészségügyi információkat vezérlő ösztönzők az önzetlen közegészségügyi kezdeményezésektől az öncélú nyereségvágyig terjedhetnek. Ezek az ösztönzők széles spektrumon mozognak, és különböző motivációkat tükröznek, amelyek hatással lehetnek az egészségügyi döntésekre. A közegészségügyi szakemberek és intézmények gyakran az emberek javát szolgálják, és elkötelezettek a közösség egészségének előmozdítása mellett. Ezzel szemben a piaci szereplők, akik profitra törekednek, sokszor manipulálják az információkat, hogy saját érdekeiket szolgálják, miközben figyelmen kívül hagyják a páciensek valódi szükségleteit.&lt;/p&gt;
@@ -281,9 +281,9 @@ Tudod, én azt mondom&amp;hellip; Sajnálom, hogy az orvostudomány nem ismerte 
     
     <item>
       <title>A valódi ételek újrafelfedezése - alakítsd át az étrendedet a tartós egészség és vitalitás érdekében</title>
-      <link>http://localhost:1313/hu/post/realfood/</link>
+      <link>https://example.com/hu/post/realfood/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/realfood/</guid>
+      <guid>https://example.com/hu/post/realfood/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Egy olyan korban, amikor a kényelem gyakran háttérbe szorítja a minőséget, a „valódi élelmiszer” fogalmának megértése fontosabb, mint valaha. Ahogy a feldolgozott és ultrafeldolgozott „élelmiszer-szerű” termékekkel elárasztott piacon navigálunk, létfontosságúvá válik a tápláló és az egészségünkre káros ételek megkülönböztetése. Ez az utazás túlmutat a puszta táplálkozáson; az egészségünk és életerőnk visszaszerzéséről szól egy gyorsan romló környezetben.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ebben a cikkben feltárom a valódi ételek lényegét, bemutatom, mik azok, mely élelmiszereket érdemes elkerülni, és miért elengedhetetlen ez a tudás a jólétünkhöz. Nagyrabecsült egészségügyi szakemberek és a személyes egészségügyi utazásom felismeréseire támaszkodva célom, hogy egy megbízható útitervet nyújtsak az étrendünk helyes átformálásához.&lt;/p&gt;
 &lt;p&gt;Az egészségesebb élethez vezető utam a ketogén diétával és az időszakos böjtöléssel kezdődött - ez a kombináció döntő fontosságú volt az elhízás elleni harcomban és az inzulinrezisztenciám megfordítására tett erőfeszítéseimben. E tapasztalatok révén ráébredtem, hogy étrendi döntéseink milyen mélyreható hatással vannak a testünkre. Ha láttad Dr. Sten Eckberg felvilágosító videóját „Az orvosod téved az inzulinrezisztenciával kapcsolatban” címmel, talán máris helyesen értékeled ennek az állapotnak a jelentőségét és széleskörű következményeit.&lt;/p&gt;
@@ -313,7 +313,7 @@ Tudod, én azt mondom&amp;hellip; Sajnálom, hogy az orvostudomány nem ismerte 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Ahhoz, hogy megértsük, mi is az igazi élelmiszer, tekintsünk vissza Dr. Robert Lustig egyik interjújában adott, lényegretörő definíciójára. Az ételt úgy írja le, mint &lt;strong&gt;&amp;ldquo;olyan anyagot, amely hozzájárul a szervezet növekedéséhez vagy az abban végbemenő égéshez (energia égetés). &amp;ldquo;&lt;/strong&gt; Ez azt jelenti, hogy az ételek valamilyen célt szolgálnak - vagy energiaként, vagy a testi növekedéshez való hozzájárulásként. A fruktóz, egy gyakori édesítőszer azonban gátolja ezt a folyamatot, és az amerikai élelmiszerboltokban található termékek 73%-ában megtalálható.&lt;/p&gt;
@@ -336,7 +336,7 @@ Tudod, én azt mondom&amp;hellip; Sajnálom, hogy az orvostudomány nem ismerte 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Ha egy gyermek hetente egyszer egy zacskó édességet kér, megkérdőjelezhetjük, hogy ez valóban ételnek minősül-e. Kevesen fogyasztanak kizárólag valódi élelmiszereket, hol található tehát az egyensúly?&lt;/p&gt;
@@ -389,7 +389,7 @@ Tudod, én azt mondom&amp;hellip; Sajnálom, hogy az orvostudomány nem ismerte 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A NOVA osztályozási rendszer az élelmiszerek osztályozási eszköze, amely az élelmiszerek feldolgozási szintjén alapul. A brazíliai São Paulo-i Egyetem kutatói által kifejlesztett NOVA négy csoportba sorolja az élelmiszereket:&lt;/p&gt;
@@ -483,7 +483,7 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Számos modern élelmiszer-feldolgozási eljárás, például a növényi olajok magas hőfokon történő feldolgozása és a cukor fehérjékkel való kombinálása káros vegyületeket, úgynevezett fejlett glikációs végtermékeket (AGE-k) termel. Ezek a vegyületek, bár ízletesek, felgyorsíthatják a belső öregedési folyamatot (a rozsdához hasonlóan), és különböző egészségügyi problémákhoz vezethetnek. Dr. Pradip Jamnadas világos előadása ebben a témában felnyitotta a szememet a megfelelő élelmiszer-feldolgozási technikák újratanulásának szükségességére, ami létfontosságúvá teszi az egészséges élelmiszerek védelmét, amelyek beszerzéséért keményen megdolgoztunk.&lt;/p&gt;
@@ -505,7 +505,7 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;tanulj-tovább-soha-ne-hagyd-abba&#34;&gt;Tanulj tovább, soha ne hagyd abba!&lt;/h2&gt;
@@ -657,9 +657,9 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
     
     <item>
       <title>A szavak ereje: Ahogyan akár egyetlen szó is alááshatja a tekintélyedet</title>
-      <link>http://localhost:1313/hu/post/communication/</link>
+      <link>https://example.com/hu/post/communication/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/communication/</guid>
+      <guid>https://example.com/hu/post/communication/</guid>
       <description>&lt;h3 id=&#34;bevezetés&#34;&gt;Bevezetés&lt;/h3&gt;
 &lt;p&gt;A hatékony kommunikáció lelkes tanulójaként magával ragadott Jefferson Fischer, a tapasztalt peres ügyvéd és kommunikációs szakértő által az &lt;em&gt;Egy vezérigazgató naplója&lt;/em&gt; egyik legutóbbi epizódjában megosztott meglátás. Fischer bölcsessége rávilágított arra, hogy a beszéd milyen döntő szerepet játszik kapcsolataink, karrierünk és önbecsülésünk alakításában. Egy bizonyos szó a hatékony kommunikáció jelentős akadályaként jelent meg: &amp;ldquo;csak&amp;rdquo;.&lt;/p&gt;
 
@@ -697,7 +697,7 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
                /hu/post/communication/post/communication/weak_hu1258467573571146432.webp 400w,
                /hu/post/communication/post/communication/weak_hu4605424231346279981.webp 760w,
                /hu/post/communication/post/communication/weak_hu3704105715186560498.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/weak_hu1258467573571146432.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/weak_hu1258467573571146432.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -729,7 +729,7 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
                /hu/post/communication/post/communication/no_hu5411680983028109495.webp 400w,
                /hu/post/communication/post/communication/no_hu2214479427449396254.webp 760w,
                /hu/post/communication/post/communication/no_hu14363307389295533143.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/no_hu5411680983028109495.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/no_hu5411680983028109495.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -774,7 +774,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/cost_hu2148326397174409805.webp 400w,
                /hu/post/communication/post/communication/cost_hu10775519145786177886.webp 760w,
                /hu/post/communication/post/communication/cost_hu14634541831334980934.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/cost_hu2148326397174409805.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/cost_hu2148326397174409805.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -805,7 +805,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/rude_hu4047271063263923152.webp 400w,
                /hu/post/communication/post/communication/rude_hu1416668807168419533.webp 760w,
                /hu/post/communication/post/communication/rude_hu8945490063863785228.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/rude_hu4047271063263923152.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/rude_hu4047271063263923152.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -888,7 +888,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/reality_hu4452610556796158844.webp 400w,
                /hu/post/communication/post/communication/reality_hu5946760626071578554.webp 760w,
                /hu/post/communication/post/communication/reality_hu9921069936456881839.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/reality_hu4452610556796158844.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/reality_hu4452610556796158844.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -931,7 +931,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/tempathy_hu3087838361283004391.webp 400w,
                /hu/post/communication/post/communication/tempathy_hu3203902018681238789.webp 760w,
                /hu/post/communication/post/communication/tempathy_hu1519778464288119137.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/tempathy_hu3087838361283004391.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/tempathy_hu3087838361283004391.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -968,7 +968,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/mirroring_hu13087882218625507968.webp 400w,
                /hu/post/communication/post/communication/mirroring_hu4515405210977292909.webp 760w,
                /hu/post/communication/post/communication/mirroring_hu11705052292616885782.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/mirroring_hu13087882218625507968.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/mirroring_hu13087882218625507968.webp&#34;
                width=&#34;640&#34;
                height=&#34;640&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1004,7 +1004,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/labeling_hu3717442859472427088.webp 400w,
                /hu/post/communication/post/communication/labeling_hu2314166428713905030.webp 760w,
                /hu/post/communication/post/communication/labeling_hu14588059210548168603.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/labeling_hu3717442859472427088.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/labeling_hu3717442859472427088.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1040,7 +1040,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/accusation_hu17909493209014512377.webp 400w,
                /hu/post/communication/post/communication/accusation_hu3052882509524101329.webp 760w,
                /hu/post/communication/post/communication/accusation_hu17669643502797532648.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/accusation_hu17909493209014512377.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/accusation_hu17909493209014512377.webp&#34;
                width=&#34;760&#34;
                height=&#34;520&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1076,7 +1076,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
                /hu/post/communication/post/communication/nostp_hu8361114887008617536.webp 400w,
                /hu/post/communication/post/communication/nostp_hu1119872065478522209.webp 760w,
                /hu/post/communication/post/communication/nostp_hu6483627104174049469.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/communication/post/communication/nostp_hu8361114887008617536.webp&#34;
+               src=&#34;https://example.com/hu/post/communication/post/communication/nostp_hu8361114887008617536.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1104,9 +1104,9 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
     
     <item>
       <title>🎉 Szeretettel üdvözöllek az új Blogomon!</title>
-      <link>http://localhost:1313/hu/post/get-started/</link>
+      <link>https://example.com/hu/post/get-started/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/get-started/</guid>
+      <guid>https://example.com/hu/post/get-started/</guid>
       <description>&lt;p&gt;Isten hozott! 👋&lt;/p&gt;
 
 
@@ -1153,7 +1153,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/get-started/bear.gif&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/get-started/bear.gif&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 
@@ -1212,7 +1212,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/hu/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/hu/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;p&gt;Cosmic Train Extended Version:&lt;/p&gt;
@@ -1234,7 +1234,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/hu/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/hu/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;p&gt;Ocean of Strange Times:&lt;/p&gt;
@@ -1256,7 +1256,7 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/hu/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://example.com/hu/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;miért-érdemes-minél-gyakrabban-zenét-hallgatni&#34;&gt;Miért érdemes minél gyakrabban zenét hallgatni?&lt;/h2&gt;
@@ -1288,9 +1288,9 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
     
     <item>
       <title>Gyönyörű, gyors és ingyenes weboldalak készítése Hugóval: Linux, Mac és Windows felhasználók számára</title>
-      <link>http://localhost:1313/hu/post/hugo/</link>
+      <link>https://example.com/hu/post/hugo/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/hugo/</guid>
+      <guid>https://example.com/hu/post/hugo/</guid>
       <description>&lt;h1 id=&#34;gyönyörű-gyors-és-ingyenes-weboldalak-készítése-hugóval-átfogó-útmutató-linux-mac-és-windows-felhasználók-számára&#34;&gt;Gyönyörű, Gyors és Ingyenes Weboldalak Készítése Hugóval: Átfogó Útmutató Linux, Mac és Windows Felhasználók Számára&lt;/h1&gt;
 &lt;p&gt;A Hugo egy erőteljes, nyílt forráskódú statikus weboldal-generátor, amely lehetővé teszi számodra, hogy lenyűgöző weboldalakat készíts gyorsan és hatékonyan. Kiemelkedő sebessége és rugalmassága miatt a Hugo kiváló választás fejlesztőknek, bloggereknek és vállalkozásoknak, akik ingyenes és egyszerű módot keresnek tartalmuk hosztolására. Ebben az útmutatóban végigvezetlek a Hugo telepítésén Linux, Mac és Windows rendszeren, felfedezzük az ingyenes hosztolási lehetőségeket, valamint kiemeljük a további függőségeket és sablonforrásokat.&lt;/p&gt;
 &lt;h2 id=&#34;tartalomjegyzék&#34;&gt;Tartalomjegyzék&lt;/h2&gt;
@@ -1488,9 +1488,9 @@ Nyisd meg a Parancssort, és futtasd:&lt;/p&gt;
     
     <item>
       <title>Egészségmegőrzés a Perfect Smile Podcast Nyomán - Hasznos magyar nyelvű egészséginformáció</title>
-      <link>http://localhost:1313/hu/post/balsaitamas/</link>
+      <link>https://example.com/hu/post/balsaitamas/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/balsaitamas/</guid>
+      <guid>https://example.com/hu/post/balsaitamas/</guid>
       <description>&lt;h3 id=&#34;az-ajánlás-háttere&#34;&gt;Az ajánlás háttere&lt;/h3&gt;
 &lt;p&gt;Sokan, akik ismernek engem, tudják, hogy az utóbbi pár évben milyen fordulatot vettem a táplálkozás és egészségmegőrzés terén. Gyakran kérik, hogy osszak meg velük általam megbízhatónak vélt magyar nyelvű információforrásokat, amelyek segíthetnek az egészségük javításában. Sajnálatos módon, ahogyan látható is, a weboldalon publikált cikkeim jelentős része külföldi, többnyire csak angolul elérhető információkat tartalmaz és külföldi szakemberekre, azoknak angol nyelvű oktató videóira hivatkozik. Így némileg korlátozottan tudom megosztani azt, amit tanultam. Persze némelyek magyar nyelvre fordított könyvei elérhetőek Magyarországon is (vagy talán elérhetőek lesznek a jövőben), érdemes ilyen irányba is kutatni annak, aki kíváncsi ezekre.&lt;/p&gt;
 &lt;p&gt;Magyar nyelven a YouTube-on sajnos kevés olyan csatornát és tartalomgyártót ismertem meg, akik pontos információt osztanak meg előítéletek, féligazságok és félelemkeltés nélkül, valamint nem valamilyen népszerű irányzatot támogatnak anyagi haszon reményében.&lt;/p&gt;
@@ -1641,9 +1641,9 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
     
     <item>
       <title>A zsírégetés és a gyógyulás feloldása: Dr. Mindy Pelz útmutatója az autofágiáról és 6 szuperélelmiszer, mely támogatja azt</title>
-      <link>http://localhost:1313/hu/post/autophagy/</link>
+      <link>https://example.com/hu/post/autophagy/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/autophagy/</guid>
+      <guid>https://example.com/hu/post/autophagy/</guid>
       <description>&lt;h2 id=&#34;ez-a-6-étel-zsírt-éget-és-meggyógyítja-a-testet--dr-mindy-pelz-vezető-böjtölési-szakértő&#34;&gt;Ez a 6 étel zsírt éget és meggyógyítja a testet | Dr. Mindy Pelz, vezető böjtölési szakértő&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bevezetés&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Nemrégiben bukkantam erre a videóra Dr. Mindy Pelz-től, aki hihetetlenül nagy forrása az olyan értékes meglátásoknak, melyek a jólétünkkel és egészségünkkel kapcsolatosak.
@@ -1741,7 +1741,7 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Az autofágia egy természetes sejtfolyamat, amelynek során a sejtek lebontják és újrahasznosítják saját alkotóelemeiket. A kifejezés görög szavakból származik: „Auto” (ön) és »Fágia« (evés) szavakból ered. Lényegében az autofágia a szervezet módszere a sérült sejtek kitakarítására, hogy újabb, egészségesebb sejtek keletkezzenek.&lt;/p&gt;
@@ -1838,9 +1838,9 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
     
     <item>
       <title>A személyiség megértése pszichológiai keretrendszereken keresztül: Az előnyök, a kihívások és a pontatlanságok</title>
-      <link>http://localhost:1313/hu/post/psychgen/</link>
+      <link>https://example.com/hu/post/psychgen/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/psychgen/</guid>
+      <guid>https://example.com/hu/post/psychgen/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;A pszichológia birodalmában az emberi viselkedés, a személyiség és az interperszonális dinamika megértése összetett és árnyalt törekvés. A különböző keretrendszerek és eszközök közül a Myers-Briggs Típusindikátor (MBTI) és a Big Five személyiségjegyek a személyiség feltárásának széles körben elismert módszerei. Ez a cikk e pszichológiai modellek előnyeivel és kihívásaival foglalkozik, miközben kitér a használatukban rejlő lehetséges pontatlanságokra és korlátokra.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;a-myers-briggs-típusmutató-mbti-betekintés-és-alkalmazások&#34;&gt;A Myers-Briggs Típusmutató (MBTI): Betekintés és alkalmazások&lt;/h2&gt;
 &lt;h3 id=&#34;az-mbti-áttekintése&#34;&gt;Az MBTI áttekintése&lt;/h3&gt;
@@ -1982,9 +1982,9 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
     
     <item>
       <title>A Big Five személyiségjegyek megértése</title>
-      <link>http://localhost:1313/hu/post/bigfive/</link>
+      <link>https://example.com/hu/post/bigfive/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/bigfive/</guid>
+      <guid>https://example.com/hu/post/bigfive/</guid>
       <description>
 
     
@@ -2138,9 +2138,9 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
     
     <item>
       <title>Az MBTI megértése: A személyes növekedés és az interperszonális kapcsolatok eszköze</title>
-      <link>http://localhost:1313/hu/post/mbti/</link>
+      <link>https://example.com/hu/post/mbti/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/mbti/</guid>
+      <guid>https://example.com/hu/post/mbti/</guid>
       <description>
 
     
@@ -2276,7 +2276,7 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
                /hu/post/mbti/post/mbti/hero_hu7160699245747680607.webp 400w,
                /hu/post/mbti/post/mbti/hero_hu3353746863505768983.webp 760w,
                /hu/post/mbti/post/mbti/hero_hu17984508630399659421.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/hero_hu7160699245747680607.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/hero_hu7160699245747680607.webp&#34;
                width=&#34;608&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2308,7 +2308,7 @@ Ez az egyén elsődleges erőssége és legfejlettebb funkciója. Ez képviseli 
                /hu/post/mbti/post/mbti/parent_hu8178854820300883282.webp 400w,
                /hu/post/mbti/post/mbti/parent_hu12285300945298062986.webp 760w,
                /hu/post/mbti/post/mbti/parent_hu15312564605537607401.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/parent_hu8178854820300883282.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/parent_hu8178854820300883282.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2340,7 +2340,7 @@ A Szülő funkció támogatja a Hős funkciót, és azt tükrözi, hogy az egyé
                /hu/post/mbti/post/mbti/child_hu5950597113597588233.webp 400w,
                /hu/post/mbti/post/mbti/child_hu11926149102112967104.webp 760w,
                /hu/post/mbti/post/mbti/child_hu10476796316563381828.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/child_hu5950597113597588233.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/child_hu5950597113597588233.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2372,7 +2372,7 @@ Ez a funkció a játékosság, a kreativitás és a spontaneitás érzését tes
                /hu/post/mbti/post/mbti/inferior_hu3077785251821687261.webp 400w,
                /hu/post/mbti/post/mbti/inferior_hu8732168587405654447.webp 760w,
                /hu/post/mbti/post/mbti/inferior_hu6043997103005298662.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/inferior_hu3077785251821687261.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/inferior_hu3077785251821687261.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2406,7 +2406,7 @@ Az alsóbbrendű funkció, mint már említettük, az egyén személyiségének 
                /hu/post/mbti/post/mbti/self_hu982056853556176506.webp 400w,
                /hu/post/mbti/post/mbti/self_hu2389981426178816322.webp 760w,
                /hu/post/mbti/post/mbti/self_hu2839036695552012006.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/self_hu982056853556176506.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/self_hu982056853556176506.webp&#34;
                width=&#34;760&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2436,7 +2436,7 @@ Az MBTI egyik legjelentősebb előnye, hogy az egyéneket saját személyiségü
                /hu/post/mbti/post/mbti/communication_hu6945019862927457763.webp 400w,
                /hu/post/mbti/post/mbti/communication_hu15382381509027051817.webp 760w,
                /hu/post/mbti/post/mbti/communication_hu11216665269684805102.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/communication_hu6945019862927457763.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/communication_hu6945019862927457763.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2466,7 +2466,7 @@ A különböző személyiségtípusok eltérő kommunikációs stílusokkal rend
                /hu/post/mbti/post/mbti/team_hu5726691083357200237.webp 400w,
                /hu/post/mbti/post/mbti/team_hu11066106974571765899.webp 760w,
                /hu/post/mbti/post/mbti/team_hu8075843563724443301.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/team_hu5726691083357200237.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/team_hu5726691083357200237.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2496,7 +2496,7 @@ Szakmai környezetben a csapattagok MBTI típusainak ismerete elősegítheti az 
                /hu/post/mbti/post/mbti/relationships_hu12977844522263434418.webp 400w,
                /hu/post/mbti/post/mbti/relationships_hu8603476727348517019.webp 760w,
                /hu/post/mbti/post/mbti/relationships_hu14834094677348719111.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/relationships_hu12977844522263434418.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/relationships_hu12977844522263434418.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2526,7 +2526,7 @@ Az MBTI a személyes kapcsolatokban is értékes eszköz lehet. A családtagok, 
                /hu/post/mbti/post/mbti/developement_hu2249016094621261583.webp 400w,
                /hu/post/mbti/post/mbti/developement_hu13457653216219235495.webp 760w,
                /hu/post/mbti/post/mbti/developement_hu12932591224058057400.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/mbti/post/mbti/developement_hu2249016094621261583.webp&#34;
+               src=&#34;https://example.com/hu/post/mbti/post/mbti/developement_hu2249016094621261583.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2673,9 +2673,9 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
     
     <item>
       <title>Egy részletes és átfogó útmutató az alacsony szénhidráttartalmú diétához és az időszakos böjtöléshez</title>
-      <link>http://localhost:1313/hu/post/nutrition/</link>
+      <link>https://example.com/hu/post/nutrition/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/nutrition/</guid>
+      <guid>https://example.com/hu/post/nutrition/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Ez az útmutató egyesíti Eric Berg és Sten Eckberg étrendi ajánlásainak elveit az időszakos böjt hatékony gyakorlatával, részletes megközelítést nyújtva az egészségesebb táplálkozáshoz. Egyesíti mindkét személy munkásságának erősségeit, miközben kiemeli egyedi szempontjaikat, biztosítva az alacsony szénhidráttartalmú, tápanyagdús étrend holisztikus megértését a böjtölési stratégiák mellett.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;az-alacsony-szénhidráttartalmú-diétákról-általában&#34;&gt;Az alacsony szénhidráttartalmú diétákról általában:&lt;/h1&gt;
 &lt;p&gt;Az alacsony szénhidráttartalmú diéta a szénhidrátbevitel csökkentésére összpontosít, és gyakran hangsúlyozza a fehérjék és zsírok fogyasztását. Ez a megközelítés a szervezetet egy ketózisnak nevezett anyagcsere-állapotba vezetheti.&lt;/p&gt;
@@ -2754,7 +2754,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp 400w,
                /hu/post/nutrition/post/nutrition/fats_hu14967968740712839398.webp 760w,
                /hu/post/nutrition/post/nutrition/fats_hu14168891548557644008.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2791,7 +2791,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp 400w,
                /hu/post/nutrition/post/nutrition/protein_hu3985988088946675115.webp 760w,
                /hu/post/nutrition/post/nutrition/protein_hu2622240787389504942.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2826,7 +2826,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp 400w,
                /hu/post/nutrition/post/nutrition/vegetables_hu9729150114698812687.webp 760w,
                /hu/post/nutrition/post/nutrition/vegetables_hu637668811460900936.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2860,7 +2860,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp 400w,
                /hu/post/nutrition/post/nutrition/fermented_hu11606051204472981349.webp 760w,
                /hu/post/nutrition/post/nutrition/fermented_hu10254971514059385216.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2895,7 +2895,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp 400w,
                /hu/post/nutrition/post/nutrition/herbs_hu1012424704571459638.webp 760w,
                /hu/post/nutrition/post/nutrition/herbs_hu1608450799210159914.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3014,7 +3014,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp 400w,
                /hu/post/nutrition/post/nutrition/listen_hu18227554464746987530.webp 760w,
                /hu/post/nutrition/post/nutrition/listen_hu4399507923610735876.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3047,7 +3047,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp 400w,
                /hu/post/nutrition/post/nutrition/electrolyte_hu13722727442810410052.webp 760w,
                /hu/post/nutrition/post/nutrition/electrolyte_hu8213822077752006104.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
                width=&#34;760&#34;
                height=&#34;410&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3080,7 +3080,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/move_hu17565910668030462789.webp 400w,
                /hu/post/nutrition/post/nutrition/move_hu609616498681504825.webp 760w,
                /hu/post/nutrition/post/nutrition/move_hu15022939752702117903.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3111,7 +3111,7 @@ Az MBTI az élethosszig tartó tanulásra és alkalmazkodásra ösztönöz. Amin
                /hu/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp 400w,
                /hu/post/nutrition/post/nutrition/strength_hu16000315351690534739.webp 760w,
                /hu/post/nutrition/post/nutrition/strength_hu15557592185333769305.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3200,7 +3200,7 @@ Ilyenek a rizs, gyulai kolbász és sonka mint feldolgozott húskészítmények,
                /hu/post/nutrition/post/nutrition/1_hu12608306184696674095.webp 400w,
                /hu/post/nutrition/post/nutrition/1_hu13957937632408086842.webp 760w,
                /hu/post/nutrition/post/nutrition/1_hu7339280858994939310.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
                width=&#34;760&#34;
                height=&#34;348&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3229,7 +3229,7 @@ Mandulakenyér szendvics tejföllel, hagymával, paradicsommal és gyulai kolbá
                /hu/post/nutrition/post/nutrition/2_hu8531501771588726305.webp 400w,
                /hu/post/nutrition/post/nutrition/2_hu6929092539650891298.webp 760w,
                /hu/post/nutrition/post/nutrition/2_hu6580774699507192645.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
                width=&#34;681&#34;
                height=&#34;690&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3258,7 +3258,7 @@ Mandulakenyér zöldségekkel, párolt vajas-fokhagymás gombával és tejfölle
                /hu/post/nutrition/post/nutrition/3_hu14624479402397347917.webp 400w,
                /hu/post/nutrition/post/nutrition/3_hu9575846244799456290.webp 760w,
                /hu/post/nutrition/post/nutrition/3_hu1049859194176989066.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
                width=&#34;723&#34;
                height=&#34;755&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3287,7 +3287,7 @@ Indiai vajas csirke zöldségekkel és mandulás kenyérrel:
                /hu/post/nutrition/post/nutrition/4_hu11476022687597826362.webp 400w,
                /hu/post/nutrition/post/nutrition/4_hu13297248705405095904.webp 760w,
                /hu/post/nutrition/post/nutrition/4_hu16788571616751026126.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
                width=&#34;760&#34;
                height=&#34;644&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3316,7 +3316,7 @@ Ketogén pizza mandulás kenyér &amp;ldquo;tésztával&amp;rdquo;, paradicsomma
                /hu/post/nutrition/post/nutrition/5_hu10308305180695310753.webp 400w,
                /hu/post/nutrition/post/nutrition/5_hu7642898172156540297.webp 760w,
                /hu/post/nutrition/post/nutrition/5_hu9679629861536622174.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
                width=&#34;609&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3345,7 +3345,7 @@ Omlett olívaolajjal megöntözött zöldségsalátával, benne egy erdélyi spe
                /hu/post/nutrition/post/nutrition/6_hu11180730075905629242.webp 400w,
                /hu/post/nutrition/post/nutrition/6_hu5435293754586230483.webp 760w,
                /hu/post/nutrition/post/nutrition/6_hu4829253932576020461.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
                width=&#34;759&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3374,7 +3374,7 @@ Gazdag degusztációs menü zakuszkával, erdélyi padlizsánkrémmel, olívaola
                /hu/post/nutrition/post/nutrition/7_hu13657338855798430253.webp 400w,
                /hu/post/nutrition/post/nutrition/7_hu2599764494827034775.webp 760w,
                /hu/post/nutrition/post/nutrition/7_hu17807350305445368486.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
                width=&#34;760&#34;
                height=&#34;597&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3403,7 +3403,7 @@ Egy egyszerű kelkáposztás &amp;ldquo;tortilla&amp;rdquo; vajjal, sajttal, hag
                /hu/post/nutrition/post/nutrition/8_hu12986442913084533514.webp 400w,
                /hu/post/nutrition/post/nutrition/8_hu1108794753218047171.webp 760w,
                /hu/post/nutrition/post/nutrition/8_hu8930888672803234106.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
                width=&#34;760&#34;
                height=&#34;607&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3432,7 +3432,7 @@ Frissen sült mandulás kenyér zöldségekkel, sonkával, gombával és sajttal
                /hu/post/nutrition/post/nutrition/9_hu3227929631295161984.webp 400w,
                /hu/post/nutrition/post/nutrition/9_hu7450178928638385947.webp 760w,
                /hu/post/nutrition/post/nutrition/9_hu5274547627687762576.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
                width=&#34;760&#34;
                height=&#34;568&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3461,7 +3461,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/nutrition/post/nutrition/10_hu6177596377643891001.webp 400w,
                /hu/post/nutrition/post/nutrition/10_hu1259333786772562334.webp 760w,
                /hu/post/nutrition/post/nutrition/10_hu3249743412475386331.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/nutrition/post/nutrition/10_hu6177596377643891001.webp&#34;
+               src=&#34;https://example.com/hu/post/nutrition/post/nutrition/10_hu6177596377643891001.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3512,9 +3512,9 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
     
     <item>
       <title>Hogyan tájékozódjunk hatékonyan a mai világban?</title>
-      <link>http://localhost:1313/hu/post/information/</link>
+      <link>https://example.com/hu/post/information/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/information/</guid>
+      <guid>https://example.com/hu/post/information/</guid>
       <description>&lt;p&gt;Egy olyan korban, melyben az információk szabadon, egy gombnyomással áramlanak, a jól tájékozottságra való törekvés túlságosan is nyomasztónak tűnhet. Számtalan hírforrás, közösségi médiaplatform és vélemény áll rendelkezésre, ezért alapvető fontosságú, hogy bölcsen navigáljunk ezen a területen. Íme egy átfogó útmutató arról, hogyan tájékozódhatsz hatékonyan, miközben védekezel a félretájékoztatás ellen.&lt;/p&gt;
 &lt;h3 id=&#34;1-diverzifikáld-a-forrásaidat&#34;&gt;1. &lt;strong&gt;Diverzifikáld a forrásaidat&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
@@ -3539,7 +3539,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/information/post/information/sources_hu2885125570626894921.webp 400w,
                /hu/post/information/post/information/sources_hu4574939387148463147.webp 760w,
                /hu/post/information/post/information/sources_hu1004073634946449116.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/information/post/information/sources_hu2885125570626894921.webp&#34;
+               src=&#34;https://example.com/hu/post/information/post/information/sources_hu2885125570626894921.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3576,7 +3576,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/information/post/information/credibility_hu11030024400587255219.webp 400w,
                /hu/post/information/post/information/credibility_hu1509639326146487821.webp 760w,
                /hu/post/information/post/information/credibility_hu17555536432391745573.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/information/post/information/credibility_hu11030024400587255219.webp&#34;
+               src=&#34;https://example.com/hu/post/information/post/information/credibility_hu11030024400587255219.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3611,7 +3611,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/information/post/information/bias_hu988352355585877245.webp 400w,
                /hu/post/information/post/information/bias_hu13732291745982661425.webp 760w,
                /hu/post/information/post/information/bias_hu7006576616403561896.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/information/post/information/bias_hu988352355585877245.webp&#34;
+               src=&#34;https://example.com/hu/post/information/post/information/bias_hu988352355585877245.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3647,7 +3647,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/information/post/information/social_hu11930162465824126857.webp 400w,
                /hu/post/information/post/information/social_hu2383784768021433870.webp 760w,
                /hu/post/information/post/information/social_hu16524696365989396359.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/information/post/information/social_hu11930162465824126857.webp&#34;
+               src=&#34;https://example.com/hu/post/information/post/information/social_hu11930162465824126857.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3683,7 +3683,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/information/post/information/open_hu1020789361591823764.webp 400w,
                /hu/post/information/post/information/open_hu9314527732018134115.webp 760w,
                /hu/post/information/post/information/open_hu9530096137217501035.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/information/post/information/open_hu1020789361591823764.webp&#34;
+               src=&#34;https://example.com/hu/post/information/post/information/open_hu1020789361591823764.webp&#34;
                width=&#34;504&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3718,7 +3718,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/information/post/information/ai_hu15047762487584012263.webp 400w,
                /hu/post/information/post/information/ai_hu12079778686655185127.webp 760w,
                /hu/post/information/post/information/ai_hu5088898830553771726.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/information/post/information/ai_hu15047762487584012263.webp&#34;
+               src=&#34;https://example.com/hu/post/information/post/information/ai_hu15047762487584012263.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3765,7 +3765,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/information/post/information/misinformation_hu10458511445237424244.webp 400w,
                /hu/post/information/post/information/misinformation_hu13319867737015523285.webp 760w,
                /hu/post/information/post/information/misinformation_hu4735096666629943379.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/information/post/information/misinformation_hu10458511445237424244.webp&#34;
+               src=&#34;https://example.com/hu/post/information/post/information/misinformation_hu10458511445237424244.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3799,9 +3799,9 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
     
     <item>
       <title>Átfogó útmutató - Nyelveken átívelő információhoz való hozzáférés a YouTube átiratok és a mesterséges intelligencia fordítás segítségével</title>
-      <link>http://localhost:1313/hu/post/youtubetranslate/</link>
+      <link>https://example.com/hu/post/youtubetranslate/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/youtubetranslate/</guid>
+      <guid>https://example.com/hu/post/youtubetranslate/</guid>
       <description>&lt;h2 id=&#34;bevezetés&#34;&gt;Bevezetés&lt;/h2&gt;
 &lt;p&gt;A YouTube az információk kincsesbányája, ahol videók milliói találhatók a legkülönbözőbb témákban. Ha azonban egy videó nem a te anyanyelveden van, az információhoz való hozzáférés kihívást jelenthet. Szerencsére a YouTube számos videóhoz átiratot biztosít, és a mesterséges intelligencia fordítóeszközök segítségével ezeket az átiratokat lefordíthatja az általad preferált nyelvre. Ez az útmutató végigvezet a YouTube átiratok és a mesterséges intelligencia általi fordítás hatékony használatának lépésein.&lt;/p&gt;
 &lt;h2 id=&#34;1-lépés-youtube-átiratok-elérése&#34;&gt;1. lépés: YouTube átiratok elérése&lt;/h2&gt;
@@ -3898,9 +3898,9 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
     
     <item>
       <title>A lassítás művészete - A jelenlét elfogadása a multitasking mítosz helyett</title>
-      <link>http://localhost:1313/hu/post/slowingdown/</link>
+      <link>https://example.com/hu/post/slowingdown/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/slowingdown/</guid>
+      <guid>https://example.com/hu/post/slowingdown/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;A tegnap már történelem. A holnap egy rejtély. A ma egy ajándék. Ezért hívják jelennek/ajándéknak (az itt használt angol &amp;ldquo;present&amp;rdquo; szó az előbb jelzett kettős jelentéssel bír). - Alice Morse Earle&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Rohanó világunkban a rohanás életformává vált. Versenyfutást folytatunk az idővel, zsonglőrködünk a feladatokkal, és addig-addig „multitaskingolunk”, amíg végképp kimerültnek és beteljesületlennek nem érezzük magunkat. Ahogy Ralph Waldo Emerson meghatóan megfogalmazta: „Mindig készülünk az életre, de soha nem élünk.” Ez a sietség, hogy minél többet teljesítsünk, gyakran a szorongás és a stressz állapotához vezet, ami megakadályozza, hogy valóban átélhessük az élet gazdagságát.&lt;/p&gt;
 &lt;h2 id=&#34;a-sietség-ára&#34;&gt;A sietség ára&lt;/h2&gt;
@@ -3922,7 +3922,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A rohanás a hiány gondolkodásmódját tükrözi - azt az érzést, hogy nem vagyunk elegendőek, hogy sietnünk kell, hogy utolérjük az életet. Ahogy Sura, egy meditációs tréner rámutatott, ez az ellenállási állapot gyakran a szorongásból fakad, és emiatt kimaradunk a jelen pillanatból. Az igazság az, hogy amikor sietünk, akkor csupán a tapasztalataink felszínét súroljuk, ahelyett, hogy mélyen elmerülnénk abban, ami igazán számít. Mérföldkövek elérésére kényszerítjük magunkat anélkül, hogy teljes mértékben értékelnénk az odavezető utat.&lt;/p&gt;
@@ -3946,7 +3946,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Az élet nem sprint, hanem maraton, egy fokozatos folyamat, amely türelmet és szándékot igényel. Ralph Ransom kiemelte, hogy „az élet lépések sorozata”. Mégis, egy olyan társadalomban, amely a gyorsaságot és a hatékonyságot dicsőíti, gyakran megfeledkezünk erről az alapvető igazságról. A lassítás lehetővé teszi számunkra, hogy kiélvezzük a pillanatokat, értékeljük a környezetünket, és értelmes kapcsolatokat ápoljunk.&lt;/p&gt;
@@ -3968,7 +3968,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Képzeld el, hogy sietve olvasol egy könyvet - természetesen gyorsabban végzel vele, de vajon elsajátítod-e az üzenetét? Magával ragad, megérint-e a történet? Hasonlóképpen gondolj arra is, hogy egy sietve elfogyasztott étel esetében valóban élvezzük az ízeket, vagy csupán a testünket tápláljuk? Amikor lelassulunk, lehetővé tesszük magunknak, hogy mélyen belefeledkezzünk az élményeinkbe, és a hétköznapi pillanatokat jelentős emlékekké alakítsuk át.&lt;/p&gt;
@@ -3991,7 +3991,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A multitaskingot a modern munkahelyeken gyakran készségnek tartják, pedig kutatások szerint csökkenti a termelékenységet és növeli a hibák számát. Amikor a figyelmünket több feladatra szórjuk szét, feláldozzuk a munkánk minőségét. Ahelyett, hogy egyetlen fontos projektbe fektetnénk energiánkat, felhígítjuk erőfeszítéseinket, ami frusztrációhoz és kiégéshez vezet.&lt;/p&gt;
@@ -4015,7 +4015,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Az élet útja tele van folyamatos tanulással és fejlődéssel. Miközben a karrierünk, a kapcsolataink és a személyes fejlődésünk során navigálunk, nem szabad elfelejtenünk, hogy nincs végleges végpont. Ahogyan egy mangófának évekre van szüksége ahhoz, hogy gyümölcsöt teremjen, úgy az életünk is egy hosszú, táplálást és gondoskodást igénylő folyamatok sorozata. Minél lassabban haladunk, annál kevesebb hibát követünk el, és annál többet fejlődünk.&lt;/p&gt;
@@ -4039,7 +4039,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A beteljesülésre való törekvésünk során meg kell tanulnunk elfogadni a jelen pillanatot. Legyen szó akár egy étkezésről, egy szerettünkkel való beszélgetésről, vagy egyszerűen csak egy sétáról a természetben, a teljes jelenlét fokozza az élményeinket. Ahogyan St. Francis de Sales mondta: „Soha ne siess, mindent csendben és nyugodt szellemben tégy”.&lt;/p&gt;
@@ -4053,9 +4053,9 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
     
     <item>
       <title>Vedd kézbe az egészséged! - Utazásom a küzdelmektől a győzelemig</title>
-      <link>http://localhost:1313/hu/post/health/</link>
+      <link>https://example.com/hu/post/health/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/health/</guid>
+      <guid>https://example.com/hu/post/health/</guid>
       <description>&lt;h2 id=&#34;megértem-hogy-bár-könnyű-azt-mondani-csak-csináld-a-cselekvés-gyakran-túlterhelőnek-tűnhet-élesen-emlékszem-a-régi-énemre-ezt-kérdezné-komolyan-mondod-hogyan-kezdjek-neki-ennek-olyan-sok-információ-van-hogyan-tudom-mi-az-ami-valóban-segít-nekem-nem-elég-ha-csak-az-orvosaimmal-konzultálok-egyszerűen-nincs-időm-erre&#34;&gt;Megértem, hogy bár könnyű azt mondani: „Csak csináld!”, a cselekvés gyakran túlterhelőnek tűnhet. Élesen emlékszem a régi énemre, ezt kérdezné: „Komolyan mondod? Hogyan kezdjek neki ennek? Olyan sok információ van, hogyan tudom, mi az, ami valóban segít nekem? Nem elég, ha csak az orvosaimmal konzultálok? Egyszerűen nincs időm erre!”&lt;/h2&gt;
 &lt;p&gt;A valóság az, hogy &lt;strong&gt;igenis&lt;/strong&gt;, képes vagy átvenni az irányítást az egészséged felett. &lt;strong&gt;Ha azonban, a rossz információkra támaszkodsz, súlyos problémákba ütközhetsz.&lt;/strong&gt; Végső soron az egészséged a &lt;strong&gt;te&lt;/strong&gt; felelősséged, senki más nem fogja átvenni ezt tőled.&lt;/p&gt;
 &lt;h2 id=&#34;talán-meglep-de-ez-voltam-én-2020-tavaszán-szerény-kezdet-csakugyan&#34;&gt;Talán meglep, de ez voltam én 2020 tavaszán: szerény kezdet, csakugyan&amp;hellip;&lt;/h2&gt;
@@ -4081,7 +4081,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/health/meunhealthy_hu13588576499155503934.webp 400w,
                /hu/post/health/meunhealthy_hu8347299589404435177.webp 760w,
                /hu/post/health/meunhealthy_hu3603714243754390691.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/meunhealthy_hu13588576499155503934.webp&#34;
+               src=&#34;https://example.com/hu/post/health/meunhealthy_hu13588576499155503934.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4110,7 +4110,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/health/mehealthy_hu12956826729830531394.webp 400w,
                /hu/post/health/mehealthy_hu11704054829860929877.webp 760w,
                /hu/post/health/mehealthy_hu10549967406138670410.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/mehealthy_hu12956826729830531394.webp&#34;
+               src=&#34;https://example.com/hu/post/health/mehealthy_hu12956826729830531394.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4144,7 +4144,7 @@ Vajas-fokhagymás csirkemell rántottával, savanyú káposztával, rukkolával 
                /hu/post/health/doctor_hu2894407362411578465.webp 400w,
                /hu/post/health/doctor_hu6252066673234941761.webp 760w,
                /hu/post/health/doctor_hu3059248370869431956.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/doctor_hu2894407362411578465.webp&#34;
+               src=&#34;https://example.com/hu/post/health/doctor_hu2894407362411578465.webp&#34;
                width=&#34;760&#34;
                height=&#34;181&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4236,7 +4236,7 @@ Link a videóhoz:
                /hu/post/health/bye_hu16740464285310595195.webp 400w,
                /hu/post/health/bye_hu18207890042636693065.webp 760w,
                /hu/post/health/bye_hu7363268470650961121.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/bye_hu16740464285310595195.webp&#34;
+               src=&#34;https://example.com/hu/post/health/bye_hu16740464285310595195.webp&#34;
                width=&#34;446&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4249,17 +4249,17 @@ Link a videóhoz:
     
     <item>
       <title>Tapasztalat</title>
-      <link>http://localhost:1313/hu/experience/</link>
+      <link>https://example.com/hu/experience/</link>
       <pubDate>Sun, 10 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/experience/</guid>
+      <guid>https://example.com/hu/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A mesterséges intelligencia jövője: Mennyire fontos az emberi faj számára?</title>
-      <link>http://localhost:1313/hu/post/ai/</link>
+      <link>https://example.com/hu/post/ai/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/ai/</guid>
+      <guid>https://example.com/hu/post/ai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Ezt a cikket eredetileg a megfelelő állás megtalálásának nehézségei ihlették, csak hogy rájöjjek, milyen káros lehet bizonyos esetekben a mesterséges intelligencia használata. Az MI-algoritmusok használata az ATS-rendszerekben (Applicant Tracking System - magyarul - Jelölt követő rendszer) nem olyan előnyös, mint azt egyesek gondolják. Néhány érdekes linket is mellékeltem a YouTube-ról a mesterséges intelligencia és az ATS-rendszerek témájában. Magyar, automatikusan fordított felirat elérhető hozzájuk. Jó szórakozást az olvasáshoz!&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 
@@ -4365,9 +4365,9 @@ Személyre szabás: A mesterséges intelligencia képes elemezni a felhasználó
     
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/hu/projects/</link>
+      <link>https://example.com/hu/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/projects/</guid>
+      <guid>https://example.com/hu/projects/</guid>
       <description></description>
     </item>
     

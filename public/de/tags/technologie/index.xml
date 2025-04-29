@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Technologie | Hunor&#39;s Webseite</title>
-    <link>http://localhost:1313/de/tags/technologie/</link>
-      <atom:link href="http://localhost:1313/de/tags/technologie/index.xml" rel="self" type="application/rss+xml" />
+    <title>Technologie | Hunor Becsis Webseite</title>
+    <link>https://example.com/de/tags/technologie/</link>
+      <atom:link href="https://example.com/de/tags/technologie/index.xml" rel="self" type="application/rss+xml" />
     <description>Technologie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Technologie</title>
-      <link>http://localhost:1313/de/tags/technologie/</link>
+      <link>https://example.com/de/tags/technologie/</link>
     </image>
     
     <item>
       <title>Die Zukunft der KI: Wie relevant ist sie für die Menschheit?</title>
-      <link>http://localhost:1313/de/post/ai/</link>
+      <link>https://example.com/de/post/ai/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/post/ai/</guid>
+      <guid>https://example.com/de/post/ai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Dieser Artikel wurde ursprünglich von den Schwierigkeiten inspiriert, die richtige Stelle zu finden, nur um dann festzustellen, wie schädlich der Einsatz von künstlicher Intelligenz in manchen Fällen sein kann. Der Einsatz von KI-Algorithmen in ATS-Systemen (Applicant Tracking System) ist nicht so vorteilhaft, wie manche Leute denken. Ich habe einige interessante Links von YouTube zum Thema KI und ATS-Systeme eingefügt. Sie sind mit englischen, aber automatisch sogar auf Deutsch übersetzten Untertiteln versehen. Viel Spaß beim Lesen!&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 

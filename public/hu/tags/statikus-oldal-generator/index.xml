@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Statikus Oldal Generátor | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/statikus-oldal-generator/</link>
-      <atom:link href="http://localhost:1313/hu/tags/statikus-oldal-generator/index.xml" rel="self" type="application/rss+xml" />
+    <title>Statikus Oldal Generátor | Becsi Hunor Weboldala</title>
+    <link>https://example.com/hu/tags/statikus-oldal-generator/</link>
+      <atom:link href="https://example.com/hu/tags/statikus-oldal-generator/index.xml" rel="self" type="application/rss+xml" />
     <description>Statikus Oldal Generátor</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Sat, 01 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Statikus Oldal Generátor</title>
-      <link>http://localhost:1313/hu/tags/statikus-oldal-generator/</link>
+      <link>https://example.com/hu/tags/statikus-oldal-generator/</link>
     </image>
     
     <item>
       <title>Gyönyörű, gyors és ingyenes weboldalak készítése Hugóval: Linux, Mac és Windows felhasználók számára</title>
-      <link>http://localhost:1313/hu/post/hugo/</link>
+      <link>https://example.com/hu/post/hugo/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/hugo/</guid>
+      <guid>https://example.com/hu/post/hugo/</guid>
       <description>&lt;h1 id=&#34;gyönyörű-gyors-és-ingyenes-weboldalak-készítése-hugóval-átfogó-útmutató-linux-mac-és-windows-felhasználók-számára&#34;&gt;Gyönyörű, Gyors és Ingyenes Weboldalak Készítése Hugóval: Átfogó Útmutató Linux, Mac és Windows Felhasználók Számára&lt;/h1&gt;
 &lt;p&gt;A Hugo egy erőteljes, nyílt forráskódú statikus weboldal-generátor, amely lehetővé teszi számodra, hogy lenyűgöző weboldalakat készíts gyorsan és hatékonyan. Kiemelkedő sebessége és rugalmassága miatt a Hugo kiváló választás fejlesztőknek, bloggereknek és vállalkozásoknak, akik ingyenes és egyszerű módot keresnek tartalmuk hosztolására. Ebben az útmutatóban végigvezetlek a Hugo telepítésén Linux, Mac és Windows rendszeren, felfedezzük az ingyenes hosztolási lehetőségeket, valamint kiemeljük a további függőségeket és sablonforrásokat.&lt;/p&gt;
 &lt;h2 id=&#34;tartalomjegyzék&#34;&gt;Tartalomjegyzék&lt;/h2&gt;

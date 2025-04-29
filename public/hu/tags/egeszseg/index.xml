@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Egészség | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/egeszseg/</link>
-      <atom:link href="http://localhost:1313/hu/tags/egeszseg/index.xml" rel="self" type="application/rss+xml" />
+    <title>Egészség | Becsi Hunor Weboldala</title>
+    <link>https://example.com/hu/tags/egeszseg/</link>
+      <atom:link href="https://example.com/hu/tags/egeszseg/index.xml" rel="self" type="application/rss+xml" />
     <description>Egészség</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Egészség</title>
-      <link>http://localhost:1313/hu/tags/egeszseg/</link>
+      <link>https://example.com/hu/tags/egeszseg/</link>
     </image>
     
     <item>
       <title>A valódi ételek újrafelfedezése - alakítsd át az étrendedet a tartós egészség és vitalitás érdekében</title>
-      <link>http://localhost:1313/hu/post/realfood/</link>
+      <link>https://example.com/hu/post/realfood/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/realfood/</guid>
+      <guid>https://example.com/hu/post/realfood/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Egy olyan korban, amikor a kényelem gyakran háttérbe szorítja a minőséget, a „valódi élelmiszer” fogalmának megértése fontosabb, mint valaha. Ahogy a feldolgozott és ultrafeldolgozott „élelmiszer-szerű” termékekkel elárasztott piacon navigálunk, létfontosságúvá válik a tápláló és az egészségünkre káros ételek megkülönböztetése. Ez az utazás túlmutat a puszta táplálkozáson; az egészségünk és életerőnk visszaszerzéséről szól egy gyorsan romló környezetben.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Ebben a cikkben feltárom a valódi ételek lényegét, bemutatom, mik azok, mely élelmiszereket érdemes elkerülni, és miért elengedhetetlen ez a tudás a jólétünkhöz. Nagyrabecsült egészségügyi szakemberek és a személyes egészségügyi utazásom felismeréseire támaszkodva célom, hogy egy megbízható útitervet nyújtsak az étrendünk helyes átformálásához.&lt;/p&gt;
 &lt;p&gt;Az egészségesebb élethez vezető utam a ketogén diétával és az időszakos böjtöléssel kezdődött - ez a kombináció döntő fontosságú volt az elhízás elleni harcomban és az inzulinrezisztenciám megfordítására tett erőfeszítéseimben. E tapasztalatok révén ráébredtem, hogy étrendi döntéseink milyen mélyreható hatással vannak a testünkre. Ha láttad Dr. Sten Eckberg felvilágosító videóját „Az orvosod téved az inzulinrezisztenciával kapcsolatban” címmel, talán máris helyesen értékeled ennek az állapotnak a jelentőségét és széleskörű következményeit.&lt;/p&gt;
@@ -46,7 +46,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Ahhoz, hogy megértsük, mi is az igazi élelmiszer, tekintsünk vissza Dr. Robert Lustig egyik interjújában adott, lényegretörő definíciójára. Az ételt úgy írja le, mint &lt;strong&gt;&amp;ldquo;olyan anyagot, amely hozzájárul a szervezet növekedéséhez vagy az abban végbemenő égéshez (energia égetés). &amp;ldquo;&lt;/strong&gt; Ez azt jelenti, hogy az ételek valamilyen célt szolgálnak - vagy energiaként, vagy a testi növekedéshez való hozzájárulásként. A fruktóz, egy gyakori édesítőszer azonban gátolja ezt a folyamatot, és az amerikai élelmiszerboltokban található termékek 73%-ában megtalálható.&lt;/p&gt;
@@ -69,7 +69,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Ha egy gyermek hetente egyszer egy zacskó édességet kér, megkérdőjelezhetjük, hogy ez valóban ételnek minősül-e. Kevesen fogyasztanak kizárólag valódi élelmiszereket, hol található tehát az egyensúly?&lt;/p&gt;
@@ -122,7 +122,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;A NOVA osztályozási rendszer az élelmiszerek osztályozási eszköze, amely az élelmiszerek feldolgozási szintjén alapul. A brazíliai São Paulo-i Egyetem kutatói által kifejlesztett NOVA négy csoportba sorolja az élelmiszereket:&lt;/p&gt;
@@ -216,7 +216,7 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Számos modern élelmiszer-feldolgozási eljárás, például a növényi olajok magas hőfokon történő feldolgozása és a cukor fehérjékkel való kombinálása káros vegyületeket, úgynevezett fejlett glikációs végtermékeket (AGE-k) termel. Ezek a vegyületek, bár ízletesek, felgyorsíthatják a belső öregedési folyamatot (a rozsdához hasonlóan), és különböző egészségügyi problémákhoz vezethetnek. Dr. Pradip Jamnadas világos előadása ebben a témában felnyitotta a szememet a megfelelő élelmiszer-feldolgozási technikák újratanulásának szükségességére, ami létfontosságúvá teszi az egészséges élelmiszerek védelmét, amelyek beszerzéséért keményen megdolgoztunk.&lt;/p&gt;
@@ -238,7 +238,7 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;tanulj-tovább-soha-ne-hagyd-abba&#34;&gt;Tanulj tovább, soha ne hagyd abba!&lt;/h2&gt;
@@ -390,9 +390,9 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
     
     <item>
       <title>Egészségmegőrzés a Perfect Smile Podcast Nyomán - Hasznos magyar nyelvű egészséginformáció</title>
-      <link>http://localhost:1313/hu/post/balsaitamas/</link>
+      <link>https://example.com/hu/post/balsaitamas/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/balsaitamas/</guid>
+      <guid>https://example.com/hu/post/balsaitamas/</guid>
       <description>&lt;h3 id=&#34;az-ajánlás-háttere&#34;&gt;Az ajánlás háttere&lt;/h3&gt;
 &lt;p&gt;Sokan, akik ismernek engem, tudják, hogy az utóbbi pár évben milyen fordulatot vettem a táplálkozás és egészségmegőrzés terén. Gyakran kérik, hogy osszak meg velük általam megbízhatónak vélt magyar nyelvű információforrásokat, amelyek segíthetnek az egészségük javításában. Sajnálatos módon, ahogyan látható is, a weboldalon publikált cikkeim jelentős része külföldi, többnyire csak angolul elérhető információkat tartalmaz és külföldi szakemberekre, azoknak angol nyelvű oktató videóira hivatkozik. Így némileg korlátozottan tudom megosztani azt, amit tanultam. Persze némelyek magyar nyelvre fordított könyvei elérhetőek Magyarországon is (vagy talán elérhetőek lesznek a jövőben), érdemes ilyen irányba is kutatni annak, aki kíváncsi ezekre.&lt;/p&gt;
 &lt;p&gt;Magyar nyelven a YouTube-on sajnos kevés olyan csatornát és tartalomgyártót ismertem meg, akik pontos információt osztanak meg előítéletek, féligazságok és félelemkeltés nélkül, valamint nem valamilyen népszerű irányzatot támogatnak anyagi haszon reményében.&lt;/p&gt;
@@ -543,9 +543,9 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
     
     <item>
       <title>A zsírégetés és a gyógyulás feloldása: Dr. Mindy Pelz útmutatója az autofágiáról és 6 szuperélelmiszer, mely támogatja azt</title>
-      <link>http://localhost:1313/hu/post/autophagy/</link>
+      <link>https://example.com/hu/post/autophagy/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/autophagy/</guid>
+      <guid>https://example.com/hu/post/autophagy/</guid>
       <description>&lt;h2 id=&#34;ez-a-6-étel-zsírt-éget-és-meggyógyítja-a-testet--dr-mindy-pelz-vezető-böjtölési-szakértő&#34;&gt;Ez a 6 étel zsírt éget és meggyógyítja a testet | Dr. Mindy Pelz, vezető böjtölési szakértő&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bevezetés&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Nemrégiben bukkantam erre a videóra Dr. Mindy Pelz-től, aki hihetetlenül nagy forrása az olyan értékes meglátásoknak, melyek a jólétünkkel és egészségünkkel kapcsolatosak.
@@ -643,7 +643,7 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/hu/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Az autofágia egy természetes sejtfolyamat, amelynek során a sejtek lebontják és újrahasznosítják saját alkotóelemeiket. A kifejezés görög szavakból származik: „Auto” (ön) és »Fágia« (evés) szavakból ered. Lényegében az autofágia a szervezet módszere a sérült sejtek kitakarítására, hogy újabb, egészségesebb sejtek keletkezzenek.&lt;/p&gt;
@@ -740,9 +740,9 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
     
     <item>
       <title>Vedd kézbe az egészséged! - Utazásom a küzdelmektől a győzelemig</title>
-      <link>http://localhost:1313/hu/post/health/</link>
+      <link>https://example.com/hu/post/health/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/health/</guid>
+      <guid>https://example.com/hu/post/health/</guid>
       <description>&lt;h2 id=&#34;megértem-hogy-bár-könnyű-azt-mondani-csak-csináld-a-cselekvés-gyakran-túlterhelőnek-tűnhet-élesen-emlékszem-a-régi-énemre-ezt-kérdezné-komolyan-mondod-hogyan-kezdjek-neki-ennek-olyan-sok-információ-van-hogyan-tudom-mi-az-ami-valóban-segít-nekem-nem-elég-ha-csak-az-orvosaimmal-konzultálok-egyszerűen-nincs-időm-erre&#34;&gt;Megértem, hogy bár könnyű azt mondani: „Csak csináld!”, a cselekvés gyakran túlterhelőnek tűnhet. Élesen emlékszem a régi énemre, ezt kérdezné: „Komolyan mondod? Hogyan kezdjek neki ennek? Olyan sok információ van, hogyan tudom, mi az, ami valóban segít nekem? Nem elég, ha csak az orvosaimmal konzultálok? Egyszerűen nincs időm erre!”&lt;/h2&gt;
 &lt;p&gt;A valóság az, hogy &lt;strong&gt;igenis&lt;/strong&gt;, képes vagy átvenni az irányítást az egészséged felett. &lt;strong&gt;Ha azonban, a rossz információkra támaszkodsz, súlyos problémákba ütközhetsz.&lt;/strong&gt; Végső soron az egészséged a &lt;strong&gt;te&lt;/strong&gt; felelősséged, senki más nem fogja átvenni ezt tőled.&lt;/p&gt;
 &lt;h2 id=&#34;talán-meglep-de-ez-voltam-én-2020-tavaszán-szerény-kezdet-csakugyan&#34;&gt;Talán meglep, de ez voltam én 2020 tavaszán: szerény kezdet, csakugyan&amp;hellip;&lt;/h2&gt;
@@ -768,7 +768,7 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
                /hu/post/health/meunhealthy_hu13588576499155503934.webp 400w,
                /hu/post/health/meunhealthy_hu8347299589404435177.webp 760w,
                /hu/post/health/meunhealthy_hu3603714243754390691.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/meunhealthy_hu13588576499155503934.webp&#34;
+               src=&#34;https://example.com/hu/post/health/meunhealthy_hu13588576499155503934.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -797,7 +797,7 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
                /hu/post/health/mehealthy_hu12956826729830531394.webp 400w,
                /hu/post/health/mehealthy_hu11704054829860929877.webp 760w,
                /hu/post/health/mehealthy_hu10549967406138670410.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/mehealthy_hu12956826729830531394.webp&#34;
+               src=&#34;https://example.com/hu/post/health/mehealthy_hu12956826729830531394.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -831,7 +831,7 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
                /hu/post/health/doctor_hu2894407362411578465.webp 400w,
                /hu/post/health/doctor_hu6252066673234941761.webp 760w,
                /hu/post/health/doctor_hu3059248370869431956.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/doctor_hu2894407362411578465.webp&#34;
+               src=&#34;https://example.com/hu/post/health/doctor_hu2894407362411578465.webp&#34;
                width=&#34;760&#34;
                height=&#34;181&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -923,7 +923,7 @@ Link a videóhoz:
                /hu/post/health/bye_hu16740464285310595195.webp 400w,
                /hu/post/health/bye_hu18207890042636693065.webp 760w,
                /hu/post/health/bye_hu7363268470650961121.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/bye_hu16740464285310595195.webp&#34;
+               src=&#34;https://example.com/hu/post/health/bye_hu16740464285310595195.webp&#34;
                width=&#34;446&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

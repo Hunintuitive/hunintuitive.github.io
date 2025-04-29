@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MBTI | Hunor&#39;s Webseite</title>
-    <link>http://localhost:1313/de/tags/mbti/</link>
-      <atom:link href="http://localhost:1313/de/tags/mbti/index.xml" rel="self" type="application/rss+xml" />
+    <title>MBTI | Hunor Becsis Webseite</title>
+    <link>https://example.com/de/tags/mbti/</link>
+      <atom:link href="https://example.com/de/tags/mbti/index.xml" rel="self" type="application/rss+xml" />
     <description>MBTI</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>MBTI</title>
-      <link>http://localhost:1313/de/tags/mbti/</link>
+      <link>https://example.com/de/tags/mbti/</link>
     </image>
     
     <item>
       <title>Das Verständnis der Persönlichkeit durch psychologische Rahmen: Die Vorteile, Herausforderungen und Ungenauigkeiten</title>
-      <link>http://localhost:1313/de/post/psychgen/</link>
+      <link>https://example.com/de/post/psychgen/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/post/psychgen/</guid>
+      <guid>https://example.com/de/post/psychgen/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Im Bereich der Psychologie ist das Verständnis des menschlichen Verhaltens, der Persönlichkeit und der zwischenmenschlichen Dynamik ein komplexes und nuanciertes Unterfangen. Unter den verschiedenen Rahmenwerken und Instrumenten ragen der Myers-Briggs-Typenindikator (MBTI) und die Big Five Persönlichkeitsmerkmale als allgemein anerkannte Methoden zur Erforschung der Persönlichkeit heraus. Dieser Artikel befasst sich mit den Vorteilen und Herausforderungen dieser psychologischen Modelle und geht gleichzeitig auf mögliche Ungenauigkeiten und Einschränkungen ein, die mit ihrer Verwendung verbunden sind.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;der-myers-briggs-typenindikator-mbti-einblicke-und-anwendungen&#34;&gt;Der Myers-Briggs-Typenindikator (MBTI): Einblicke und Anwendungen&lt;/h2&gt;
 &lt;h3 id=&#34;überblick-über-den-mbti&#34;&gt;Überblick über den MBTI&lt;/h3&gt;
@@ -158,9 +158,9 @@
     
     <item>
       <title>Den MBTI verstehen: Ein Werkzeug für persönliches Wachstum und zwischenmenschliche Beziehungen</title>
-      <link>http://localhost:1313/de/post/mbti/</link>
+      <link>https://example.com/de/post/mbti/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/post/mbti/</guid>
+      <guid>https://example.com/de/post/mbti/</guid>
       <description>
 
     
@@ -296,7 +296,7 @@
                /de/post/mbti/post/mbti/hero_hu7160699245747680607.webp 400w,
                /de/post/mbti/post/mbti/hero_hu3353746863505768983.webp 760w,
                /de/post/mbti/post/mbti/hero_hu17984508630399659421.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/hero_hu7160699245747680607.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/hero_hu7160699245747680607.webp&#34;
                width=&#34;608&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -328,7 +328,7 @@ Dies ist die primäre Stärke und die am stärksten entwickelte Funktion der Per
                /de/post/mbti/post/mbti/parent_hu8178854820300883282.webp 400w,
                /de/post/mbti/post/mbti/parent_hu12285300945298062986.webp 760w,
                /de/post/mbti/post/mbti/parent_hu15312564605537607401.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/parent_hu8178854820300883282.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/parent_hu8178854820300883282.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -360,7 +360,7 @@ Die Elternfunktion unterstützt die Heldenfunktion und spiegelt wider, wie Indiv
                /de/post/mbti/post/mbti/child_hu5950597113597588233.webp 400w,
                /de/post/mbti/post/mbti/child_hu11926149102112967104.webp 760w,
                /de/post/mbti/post/mbti/child_hu10476796316563381828.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/child_hu5950597113597588233.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/child_hu5950597113597588233.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -392,7 +392,7 @@ Diese Funktion verkörpert einen Sinn für Verspieltheit, Kreativität und Spont
                /de/post/mbti/post/mbti/inferior_hu3077785251821687261.webp 400w,
                /de/post/mbti/post/mbti/inferior_hu8732168587405654447.webp 760w,
                /de/post/mbti/post/mbti/inferior_hu6043997103005298662.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/inferior_hu3077785251821687261.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/inferior_hu3077785251821687261.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -426,7 +426,7 @@ Die unterlegene Funktion ist, wie bereits erwähnt, der am wenigsten entwickelte
                /de/post/mbti/post/mbti/self_hu982056853556176506.webp 400w,
                /de/post/mbti/post/mbti/self_hu2389981426178816322.webp 760w,
                /de/post/mbti/post/mbti/self_hu2839036695552012006.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/self_hu982056853556176506.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/self_hu982056853556176506.webp&#34;
                width=&#34;760&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -456,7 +456,7 @@ Einer der wichtigsten Vorteile des MBTI besteht darin, dass er Menschen dazu erm
                /de/post/mbti/post/mbti/communication_hu6945019862927457763.webp 400w,
                /de/post/mbti/post/mbti/communication_hu15382381509027051817.webp 760w,
                /de/post/mbti/post/mbti/communication_hu11216665269684805102.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/communication_hu6945019862927457763.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/communication_hu6945019862927457763.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -486,7 +486,7 @@ Verschiedene Persönlichkeitstypen haben unterschiedliche Kommunikationsstile. D
                /de/post/mbti/post/mbti/team_hu5726691083357200237.webp 400w,
                /de/post/mbti/post/mbti/team_hu11066106974571765899.webp 760w,
                /de/post/mbti/post/mbti/team_hu8075843563724443301.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/team_hu5726691083357200237.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/team_hu5726691083357200237.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -516,7 +516,7 @@ Im beruflichen Umfeld kann die Kenntnis der MBTI-Typen der Teammitglieder die Zu
                /de/post/mbti/post/mbti/relationships_hu12977844522263434418.webp 400w,
                /de/post/mbti/post/mbti/relationships_hu8603476727348517019.webp 760w,
                /de/post/mbti/post/mbti/relationships_hu14834094677348719111.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/relationships_hu12977844522263434418.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/relationships_hu12977844522263434418.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -546,7 +546,7 @@ Der MBTI kann auch in persönlichen Beziehungen ein wertvolles Hilfsmittel sein.
                /de/post/mbti/post/mbti/developement_hu2249016094621261583.webp 400w,
                /de/post/mbti/post/mbti/developement_hu13457653216219235495.webp 760w,
                /de/post/mbti/post/mbti/developement_hu12932591224058057400.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/developement_hu2249016094621261583.webp&#34;
+               src=&#34;https://example.com/de/post/mbti/post/mbti/developement_hu2249016094621261583.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

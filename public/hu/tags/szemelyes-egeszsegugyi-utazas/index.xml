@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Személyes Egészségügyi Utazás | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/szemelyes-egeszsegugyi-utazas/</link>
-      <atom:link href="http://localhost:1313/hu/tags/szemelyes-egeszsegugyi-utazas/index.xml" rel="self" type="application/rss+xml" />
+    <title>Személyes Egészségügyi Utazás | Becsi Hunor Weboldala</title>
+    <link>https://example.com/hu/tags/szemelyes-egeszsegugyi-utazas/</link>
+      <atom:link href="https://example.com/hu/tags/szemelyes-egeszsegugyi-utazas/index.xml" rel="self" type="application/rss+xml" />
     <description>Személyes Egészségügyi Utazás</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Személyes Egészségügyi Utazás</title>
-      <link>http://localhost:1313/hu/tags/szemelyes-egeszsegugyi-utazas/</link>
+      <link>https://example.com/hu/tags/szemelyes-egeszsegugyi-utazas/</link>
     </image>
     
     <item>
       <title>Miért blogolok egészségügyi témákról magánemberként?</title>
-      <link>http://localhost:1313/hu/post/whyipublishhealth/</link>
+      <link>https://example.com/hu/post/whyipublishhealth/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/whyipublishhealth/</guid>
+      <guid>https://example.com/hu/post/whyipublishhealth/</guid>
       <description>&lt;h2 id=&#34;miért-blogolok-egészségügyi-témákról----a-felfedezés-útja&#34;&gt;Miért blogolok egészségügyi témákról? &amp;ndash; A felfedezés útja&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bevezetés&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;A mai összetett egészségügyi környezetben a zűrzavar és a téves információk sokasága gyakran arra készteti az egyéneket, hogy gyors megoldásokat keressenek, melyek veszélyeztethetik a jólétüket. Alapvető fontosságú felismerni, hogy az egészségügyi információkat vezérlő ösztönzők az önzetlen közegészségügyi kezdeményezésektől az öncélú nyereségvágyig terjedhetnek. Ezek az ösztönzők széles spektrumon mozognak, és különböző motivációkat tükröznek, amelyek hatással lehetnek az egészségügyi döntésekre. A közegészségügyi szakemberek és intézmények gyakran az emberek javát szolgálják, és elkötelezettek a közösség egészségének előmozdítása mellett. Ezzel szemben a piaci szereplők, akik profitra törekednek, sokszor manipulálják az információkat, hogy saját érdekeiket szolgálják, miközben figyelmen kívül hagyják a páciensek valódi szükségleteit.&lt;/p&gt;

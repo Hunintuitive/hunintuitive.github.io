@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Forrásanyag | Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/forrasanyag/</link>
-      <atom:link href="http://localhost:1313/hu/tags/forrasanyag/index.xml" rel="self" type="application/rss+xml" />
+    <title>Forrásanyag | Becsi Hunor Weboldala</title>
+    <link>https://example.com/hu/tags/forrasanyag/</link>
+      <atom:link href="https://example.com/hu/tags/forrasanyag/index.xml" rel="self" type="application/rss+xml" />
     <description>Forrásanyag</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Wed, 29 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Forrásanyag</title>
-      <link>http://localhost:1313/hu/tags/forrasanyag/</link>
+      <link>https://example.com/hu/tags/forrasanyag/</link>
     </image>
     
     <item>
       <title>Egészségmegőrzés a Perfect Smile Podcast Nyomán - Hasznos magyar nyelvű egészséginformáció</title>
-      <link>http://localhost:1313/hu/post/balsaitamas/</link>
+      <link>https://example.com/hu/post/balsaitamas/</link>
       <pubDate>Wed, 29 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/balsaitamas/</guid>
+      <guid>https://example.com/hu/post/balsaitamas/</guid>
       <description>&lt;h3 id=&#34;az-ajánlás-háttere&#34;&gt;Az ajánlás háttere&lt;/h3&gt;
 &lt;p&gt;Sokan, akik ismernek engem, tudják, hogy az utóbbi pár évben milyen fordulatot vettem a táplálkozás és egészségmegőrzés terén. Gyakran kérik, hogy osszak meg velük általam megbízhatónak vélt magyar nyelvű információforrásokat, amelyek segíthetnek az egészségük javításában. Sajnálatos módon, ahogyan látható is, a weboldalon publikált cikkeim jelentős része külföldi, többnyire csak angolul elérhető információkat tartalmaz és külföldi szakemberekre, azoknak angol nyelvű oktató videóira hivatkozik. Így némileg korlátozottan tudom megosztani azt, amit tanultam. Persze némelyek magyar nyelvre fordított könyvei elérhetőek Magyarországon is (vagy talán elérhetőek lesznek a jövőben), érdemes ilyen irányba is kutatni annak, aki kíváncsi ezekre.&lt;/p&gt;
 &lt;p&gt;Magyar nyelven a YouTube-on sajnos kevés olyan csatornát és tartalomgyártót ismertem meg, akik pontos információt osztanak meg előítéletek, féligazságok és félelemkeltés nélkül, valamint nem valamilyen népszerű irányzatot támogatnak anyagi haszon reményében.&lt;/p&gt;

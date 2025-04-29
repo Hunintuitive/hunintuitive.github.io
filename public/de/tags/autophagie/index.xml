@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Autophagie | Hunor&#39;s Webseite</title>
-    <link>http://localhost:1313/de/tags/autophagie/</link>
-      <atom:link href="http://localhost:1313/de/tags/autophagie/index.xml" rel="self" type="application/rss+xml" />
+    <title>Autophagie | Hunor Becsis Webseite</title>
+    <link>https://example.com/de/tags/autophagie/</link>
+      <atom:link href="https://example.com/de/tags/autophagie/index.xml" rel="self" type="application/rss+xml" />
     <description>Autophagie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
       <title>Autophagie</title>
-      <link>http://localhost:1313/de/tags/autophagie/</link>
+      <link>https://example.com/de/tags/autophagie/</link>
     </image>
     
     <item>
       <title>Fettabbau und Heilung möglich machen: Dr. Mindy Pelz&#39; Leitfaden zur Autophagie und 6 Supernahrungsmittel, die sie unterstützen</title>
-      <link>http://localhost:1313/de/post/autophagy/</link>
+      <link>https://example.com/de/post/autophagy/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/de/post/autophagy/</guid>
+      <guid>https://example.com/de/post/autophagy/</guid>
       <description>&lt;h2 id=&#34;diese-6-lebensmittel-verbrennen-fett-und-heilen-den-körper--dr-mindy-pelz-top-fastenexpertin&#34;&gt;Diese 6 Lebensmittel verbrennen Fett und heilen den Körper | Dr. Mindy Pelz, Top-Fastenexpertin&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Einführung&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Vor kurzem bin ich auf dieses Video von Dr. Mindy Pelz gestoßen, die eine unglaubliche Quelle der Erkenntnis ist, was unser Wohlbefinden und unsere Gesundheit betrifft.
@@ -114,7 +114,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/autophagy/virus.jpg&#34; alt=&#34;Alttext&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/autophagy/virus.jpg&#34; alt=&#34;Alttext&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Autophagie ist ein natürlicher zellulärer Prozess, bei dem Zellen ihre eigenen Bestandteile abbauen und recyceln. Der Begriff leitet sich von den griechischen Wörtern ab: „Auto“ (selbst) und ‚Phagy‘ (fressen). Im Wesentlichen ist die Autophagie die Methode des Körpers, geschädigte Zellen zu beseitigen, um neue, gesündere Zellen zu regenerieren.&lt;/p&gt;
