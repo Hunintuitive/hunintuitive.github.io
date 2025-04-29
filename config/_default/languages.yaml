@@ -12,10 +12,10 @@ en:
 hu:
   languageCode: 'hu'
   contentDir: content/hu
-  title: Hunor Weboldala
+  title: Becsi Hunor Weboldala
 
   params:
-    description: Hunor Weboldala
+    description: Becsi Hunor Weboldala
   menu:
     main:
       - name: Magyar
@@ -25,10 +25,10 @@ hu:
 de:
   languageCode: 'de'
   contentDir: content/de
-  title: Hunor's Webseite
+  title: Hunor Becsis Webseite
 
   params:
-    description: Hunor's Webseite
+    description: Hunor Becsis Webseite
   menu:
     main:
       - name: Deutsch
