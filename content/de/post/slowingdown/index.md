@@ -56,7 +56,7 @@ slides: example
 
 ---
 
-***Das Gestern ist Geschichte. Das Morgen ist ein Geheimnis. Das Heute ist ein Geschenk. Deshalb nennt man es Gegenwart/Geschenk (das hier gebrauchte englische Wort 'present' bedeutet sowohl 'Geschenk' - als auch 'Gegenwart'). - Alice Morse Earle***
+>***Das Gestern ist Geschichte. Das Morgen ist ein Geheimnis. Das Heute ist ein Geschenk. Deshalb nennt man es Gegenwart/Geschenk (das hier gebrauchte englische Wort 'present' bedeutet sowohl 'Geschenk' - als auch 'Gegenwart'). - Alice Morse Earle***
 
 In unserer schnelllebigen Welt ist die Eile zu einer Lebensweise geworden. Wir rennen gegen die Uhr an, jonglieren mit Aufgaben und betreiben Multitasking, bis wir uns ausgelaugt und unerfüllt fühlen. Wie Ralph Waldo Emerson treffend feststellte: „Wir bereiten uns immer auf das Leben vor, aber wir leben nie“. Diese Eile, immer mehr zu erreichen, führt oft zu einem Zustand der Angst und des Stresses, der uns daran hindert, den Reichtum des Lebens wirklich zu erleben bzw. zu genießen.
 

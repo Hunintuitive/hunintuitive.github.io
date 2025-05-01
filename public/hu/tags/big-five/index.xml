@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Big Five | Becsi Hunor Weboldala</title>
-    <link>https://example.com/hu/tags/big-five/</link>
-      <atom:link href="https://example.com/hu/tags/big-five/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/hu/tags/big-five/</link>
+      <atom:link href="http://localhost:1313/hu/tags/big-five/index.xml" rel="self" type="application/rss+xml" />
     <description>Big Five</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Sat, 14 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Big Five</title>
-      <link>https://example.com/hu/tags/big-five/</link>
+      <link>http://localhost:1313/hu/tags/big-five/</link>
     </image>
     
     <item>
       <title>A személyiség megértése pszichológiai keretrendszereken keresztül: Az előnyök, a kihívások és a pontatlanságok</title>
-      <link>https://example.com/hu/post/psychgen/</link>
+      <link>http://localhost:1313/hu/post/psychgen/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/hu/post/psychgen/</guid>
+      <guid>http://localhost:1313/hu/post/psychgen/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;A pszichológia birodalmában az emberi viselkedés, a személyiség és az interperszonális dinamika megértése összetett és árnyalt törekvés. A különböző keretrendszerek és eszközök közül a Myers-Briggs Típusindikátor (MBTI) és a Big Five személyiségjegyek a személyiség feltárásának széles körben elismert módszerei. Ez a cikk e pszichológiai modellek előnyeivel és kihívásaival foglalkozik, miközben kitér a használatukban rejlő lehetséges pontatlanságokra és korlátokra.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;a-myers-briggs-típusmutató-mbti-betekintés-és-alkalmazások&#34;&gt;A Myers-Briggs Típusmutató (MBTI): Betekintés és alkalmazások&lt;/h2&gt;
 &lt;h3 id=&#34;az-mbti-áttekintése&#34;&gt;Az MBTI áttekintése&lt;/h3&gt;
@@ -158,9 +158,9 @@
     
     <item>
       <title>A Big Five személyiségjegyek megértése</title>
-      <link>https://example.com/hu/post/bigfive/</link>
+      <link>http://localhost:1313/hu/post/bigfive/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/hu/post/bigfive/</guid>
+      <guid>http://localhost:1313/hu/post/bigfive/</guid>
       <description>
 
     

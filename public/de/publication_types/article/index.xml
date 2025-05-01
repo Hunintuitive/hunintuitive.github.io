@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Article | Hunor Becsis Webseite</title>
-    <link>https://example.com/de/publication_types/article/</link>
-      <atom:link href="https://example.com/de/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/de/publication_types/article/</link>
+      <atom:link href="http://localhost:1313/de/publication_types/article/index.xml" rel="self" type="application/rss+xml" />
     <description>Article</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Mon, 28 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Article</title>
-      <link>https://example.com/de/publication_types/article/</link>
+      <link>http://localhost:1313/de/publication_types/article/</link>
     </image>
     
     <item>
       <title>Warum ich als Laie über Gesundheitsthemen blogge?</title>
-      <link>https://example.com/de/post/whyipublishhealth/</link>
+      <link>http://localhost:1313/de/post/whyipublishhealth/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/whyipublishhealth/</guid>
+      <guid>http://localhost:1313/de/post/whyipublishhealth/</guid>
       <description>&lt;h2 id=&#34;warum-ich-über-gesundheitsthemen-blogge-eine-reise-der-entdeckung&#34;&gt;Warum ich über Gesundheitsthemen blogge: Eine Reise der Entdeckung&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Einführung&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In der heutigen komplexen Welt des Gesundheitswesens verleiten Verwirrung und Fehlinformationen den Einzelnen oft dazu, nach schnellen Lösungen zu suchen, die sein Wohlbefinden beeinträchtigen können. Es ist wichtig zu erkennen, dass die Anreize, die hinter Gesundheitsinformationen stehen, von altruistischen Initiativen für die öffentliche Gesundheit bis hin zu eigennützigen Profitmotiven reichen können. Diese Anreize weisen ein breites Spektrum auf und spiegeln verschiedene Motivationen wider, die Gesundheitsentscheidungen beeinflussen können. Fachleute und Einrichtungen des öffentlichen Gesundheitswesens arbeiten oft zum Wohle der Bevölkerung und setzen sich für die Förderung der Gesundheit der Gemeinschaft ein. Im Gegensatz dazu manipulieren Marktakteure, die auf Profit aus sind, oft Informationen, um ihren eigenen Interessen zu dienen, während sie die tatsächlichen Bedürfnisse der Patienten ignorieren.&lt;/p&gt;
@@ -281,9 +281,9 @@ Wissen Sie, ich sage&amp;hellip; Es tut mir leid, dass das medizinische Umfeld n
     
     <item>
       <title>Die Wiederentdeckung echter Lebensmittel - Umstellung deiner Ernährung für dauerhafte Gesundheit und Vitalität</title>
-      <link>https://example.com/de/post/realfood/</link>
+      <link>http://localhost:1313/de/post/realfood/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/realfood/</guid>
+      <guid>http://localhost:1313/de/post/realfood/</guid>
       <description>&lt;p&gt;&lt;strong&gt;In einer Zeit, in der Bequemlichkeit oft die Qualität überschattet, ist es wichtiger denn je zu wissen, was „echte Lebensmittel“ sind. Auf einem Markt, der mit verarbeiteten und ultra-verarbeiteten „lebensmittelähnlichen“ Produkten überschwemmt ist, wird die Unterscheidung zwischen nahrhaften Optionen und solchen, die unserer Gesundheit schaden, immer wichtiger. Auf dieser Reise geht es nicht nur um die bloße Ernährung, sondern auch darum, unsere Gesundheit und Vitalität inmitten einer sich rapide verschlechternden Umwelt zurückzugewinnen.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In diesem Artikel werde ich die Essenz echter Lebensmittel enthüllen - was sie sind, welche Lebensmittel man meiden sollte und warum dieses Wissen für unser Wohlbefinden so wichtig ist. Auf der Grundlage von Erkenntnissen angesehener Mediziner und meiner persönlichen Gesundheitsreise möchte ich einen Wegweiser für die Umstellung deiner Ernährung anbieten.&lt;/p&gt;
 &lt;p&gt;Mein Weg zum Wohlbefinden begann mit der ketogenen Diät und dem Intervallfasten - eine entscheidende Kombination in meinem Kampf gegen Fettleibigkeit und bei dem Bestreben, meine Insulinresistenz zu überwinden. Durch diese Erfahrung erkannte ich, welch tiefgreifenden Einfluss unsere Ernährungsgewohnheiten auf unseren Körper haben. Wenn du das aufschlussreiche Video von Dr. Sten Eckberg mit dem Titel Your Doctor Is Wrong About Insulin Resistance“ (Ihr Arzt irrt sich bei der Insulinresistenz) gesehen hast, kennst du vielleicht schon die Bedeutung dieses Zustands und seine weitreichenden Auswirkungen.&lt;/p&gt;
@@ -313,7 +313,7 @@ Wissen Sie, ich sage&amp;hellip; Es tut mir leid, dass das medizinische Umfeld n
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Um zu verstehen, was echte Lebensmittel sind, sollten wir uns auf eine aufschlussreiche Definition beziehen, die Dr. Robert Lustig in einem seiner Interviews gegeben hat. Er beschreibt Nahrung als &lt;strong&gt;“ eine Substanz, die entweder zum Wachstum oder zur Verbrennung (von Energie) in einem Organismus beiträgt “.&lt;/strong&gt; Das bedeutet, dass Nahrung einem Zweck dient - entweder als Energie oder als Beitrag zum körperlichen Wachstum. Fruktose, ein gängiger Süßstoff, hemmt jedoch diesen Prozess und ist in 73 % der Produkte in amerikanischen Lebensmittelgeschäften enthalten.&lt;/p&gt;
@@ -336,7 +336,7 @@ Wissen Sie, ich sage&amp;hellip; Es tut mir leid, dass das medizinische Umfeld n
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Wenn ein Kind einmal in der Woche um eine Tüte Süßigkeiten bittet, können wir uns fragen, ob das wirklich als Nahrung gilt. Nur wenige Menschen verzehren ausschließlich echte Lebensmittel, wo ist hier also das Gleichgewicht?&lt;/p&gt;
@@ -388,7 +388,7 @@ Wissen Sie, ich sage&amp;hellip; Es tut mir leid, dass das medizinische Umfeld n
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Das NOVA-Klassifizierungssystem ist ein Instrument zur Klassifizierung von Lebensmitteln, das auf dem Grad der Verarbeitung von Lebensmitteln basiert. NOVA wurde von Forschern der Universität von São Paulo in Brasilien entwickelt und teilt Lebensmittel in vier Gruppen ein:&lt;/p&gt;
@@ -482,7 +482,7 @@ Durch die Verwendung des NOVA-Klassifizierungssystems kannst du deine Lebensmitt
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Bei vielen modernen Lebensmittelverarbeitungsprozessen, wie z. B. der Erhitzung von Pflanzenölen und der Kombination von Zucker mit Proteinen, entstehen schädliche Verbindungen, die als fortgeschrittene Glykationsendprodukte (AGEs) bekannt sind. Diese Verbindungen sind zwar schmackhaft, können aber den inneren Alterungsprozess beschleunigen (ähnlich wie Rost) und zu verschiedenen gesundheitlichen Problemen führen. Dr. Pradip Jamnadas&amp;rsquo; klarer Vortrag zu diesem Thema öffnete mir die Augen für die Notwendigkeit, die richtige Verarbeitung von Lebensmitteln neu zu erlernen, um die gesunden Lebensmittel zu schützen, für die wir hart gearbeitet haben.&lt;/p&gt;
@@ -504,7 +504,7 @@ Durch die Verwendung des NOVA-Klassifizierungssystems kannst du deine Lebensmitt
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;lerne-weiter-hör-nie-auf&#34;&gt;Lerne weiter, hör nie auf!&lt;/h2&gt;
@@ -656,9 +656,9 @@ Durch die Verwendung des NOVA-Klassifizierungssystems kannst du deine Lebensmitt
     
     <item>
       <title>Die Macht der Worte: Wie ein Wort deine Autorität untergraben kann</title>
-      <link>https://example.com/de/post/communication/</link>
+      <link>http://localhost:1313/de/post/communication/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/communication/</guid>
+      <guid>http://localhost:1313/de/post/communication/</guid>
       <description>&lt;h3 id=&#34;einleitung&#34;&gt;Einleitung&lt;/h3&gt;
 &lt;p&gt;Als begeisterter Lerner effektiver Kommunikation war ich fasziniert von den Erkenntnissen, die Jefferson Fischer, ein erfahrener Prozessanwalt und Kommunikationsexperte, kürzlich in einer Folge von &lt;em&gt;The Diary of a CEO&lt;/em&gt; vermittelte. Fischers Weisheit beleuchtete die entscheidende Rolle, die die Sprache bei der Gestaltung unserer Beziehungen, unserer Karriere und unseres Selbstwertgefühls spielt. Ein bestimmtes Wort stellte sich als bedeutendes Hindernis für eine effektive Kommunikation heraus: &amp;ldquo;nur&amp;rdquo;.&lt;/p&gt;
 
@@ -696,7 +696,7 @@ Durch die Verwendung des NOVA-Klassifizierungssystems kannst du deine Lebensmitt
                /de/post/communication/post/communication/weak_hu1258467573571146432.webp 400w,
                /de/post/communication/post/communication/weak_hu4605424231346279981.webp 760w,
                /de/post/communication/post/communication/weak_hu3704105715186560498.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/weak_hu1258467573571146432.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/weak_hu1258467573571146432.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -728,7 +728,7 @@ Durch die Verwendung des NOVA-Klassifizierungssystems kannst du deine Lebensmitt
                /de/post/communication/post/communication/no_hu5411680983028109495.webp 400w,
                /de/post/communication/post/communication/no_hu2214479427449396254.webp 760w,
                /de/post/communication/post/communication/no_hu14363307389295533143.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/no_hu5411680983028109495.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/no_hu5411680983028109495.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -773,7 +773,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/communication/post/communication/cost_hu2148326397174409805.webp 400w,
                /de/post/communication/post/communication/cost_hu10775519145786177886.webp 760w,
                /de/post/communication/post/communication/cost_hu14634541831334980934.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/cost_hu2148326397174409805.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/cost_hu2148326397174409805.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -804,7 +804,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/communication/post/communication/rude_hu4047271063263923152.webp 400w,
                /de/post/communication/post/communication/rude_hu1416668807168419533.webp 760w,
                /de/post/communication/post/communication/rude_hu8945490063863785228.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/rude_hu4047271063263923152.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/rude_hu4047271063263923152.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -887,7 +887,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/communication/post/communication/reality_hu4452610556796158844.webp 400w,
                /de/post/communication/post/communication/reality_hu5946760626071578554.webp 760w,
                /de/post/communication/post/communication/reality_hu9921069936456881839.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/reality_hu4452610556796158844.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/reality_hu4452610556796158844.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -930,7 +930,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/communication/post/communication/tempathy_hu3087838361283004391.webp 400w,
                /de/post/communication/post/communication/tempathy_hu3203902018681238789.webp 760w,
                /de/post/communication/post/communication/tempathy_hu1519778464288119137.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/tempathy_hu3087838361283004391.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/tempathy_hu3087838361283004391.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -967,7 +967,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/communication/post/communication/mirroring_hu13087882218625507968.webp 400w,
                /de/post/communication/post/communication/mirroring_hu4515405210977292909.webp 760w,
                /de/post/communication/post/communication/mirroring_hu11705052292616885782.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/mirroring_hu13087882218625507968.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/mirroring_hu13087882218625507968.webp&#34;
                width=&#34;640&#34;
                height=&#34;640&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1003,7 +1003,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/communication/post/communication/labeling_hu3717442859472427088.webp 400w,
                /de/post/communication/post/communication/labeling_hu2314166428713905030.webp 760w,
                /de/post/communication/post/communication/labeling_hu14588059210548168603.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/labeling_hu3717442859472427088.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/labeling_hu3717442859472427088.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1039,7 +1039,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/communication/post/communication/accusation_hu17909493209014512377.webp 400w,
                /de/post/communication/post/communication/accusation_hu3052882509524101329.webp 760w,
                /de/post/communication/post/communication/accusation_hu17669643502797532648.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/accusation_hu17909493209014512377.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/accusation_hu17909493209014512377.webp&#34;
                width=&#34;760&#34;
                height=&#34;520&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1075,7 +1075,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/communication/post/communication/nostp_hu8361114887008617536.webp 400w,
                /de/post/communication/post/communication/nostp_hu1119872065478522209.webp 760w,
                /de/post/communication/post/communication/nostp_hu6483627104174049469.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/communication/post/communication/nostp_hu8361114887008617536.webp&#34;
+               src=&#34;http://localhost:1313/de/post/communication/post/communication/nostp_hu8361114887008617536.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1103,9 +1103,9 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
     
     <item>
       <title>Erstelle schöne, schnelle und kostenlose Websites mit Hugo: Ein umfassender Leitfaden für Linux-, Mac- und Windows-Nutzer</title>
-      <link>https://example.com/de/post/hugo/</link>
+      <link>http://localhost:1313/de/post/hugo/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/hugo/</guid>
+      <guid>http://localhost:1313/de/post/hugo/</guid>
       <description>&lt;h1 id=&#34;erstelle-schöne-schnelle-und-kostenlose-websites-mit-hugo-ein-umfassender-leitfaden-für-linux--mac--und-windows-nutzer&#34;&gt;Erstelle schöne, schnelle und kostenlose Websites mit Hugo: Ein umfassender Leitfaden für Linux-, Mac- und Windows-Nutzer&lt;/h1&gt;
 &lt;p&gt;Hugo ist ein leistungsstarker Open-Source-Generator für statische Websites, der es dir ermöglicht, beeindruckende Websites schnell und effizient zu erstellen. Mit seiner bemerkenswerten Geschwindigkeit und Flexibilität ist Hugo eine hervorragende Wahl für Entwickler, Blogger und Unternehmen, die eine kostenlose und unkomplizierte Möglichkeit suchen, deine Inhalte zu hosten. In diesem Leitfaden zeige ich dir, wie du Hugo auf Linux, Mac und Windows installierst, kostenlose Hosting-Optionen erkundest und zusätzliche Abhängigkeiten sowie Ressourcen für Vorlagen hervorhebst.&lt;/p&gt;
 &lt;h2 id=&#34;inhaltsverzeichnis&#34;&gt;Inhaltsverzeichnis&lt;/h2&gt;
@@ -1303,9 +1303,9 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
     
     <item>
       <title>Fettabbau und Heilung möglich machen: Dr. Mindy Pelz&#39; Leitfaden zur Autophagie und 6 Supernahrungsmittel, die sie unterstützen</title>
-      <link>https://example.com/de/post/autophagy/</link>
+      <link>http://localhost:1313/de/post/autophagy/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/autophagy/</guid>
+      <guid>http://localhost:1313/de/post/autophagy/</guid>
       <description>&lt;h2 id=&#34;diese-6-lebensmittel-verbrennen-fett-und-heilen-den-körper--dr-mindy-pelz-top-fastenexpertin&#34;&gt;Diese 6 Lebensmittel verbrennen Fett und heilen den Körper | Dr. Mindy Pelz, Top-Fastenexpertin&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Einführung&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Vor kurzem bin ich auf dieses Video von Dr. Mindy Pelz gestoßen, die eine unglaubliche Quelle der Erkenntnis ist, was unser Wohlbefinden und unsere Gesundheit betrifft.
@@ -1403,7 +1403,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/autophagy/virus.jpg&#34; alt=&#34;Alttext&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/autophagy/virus.jpg&#34; alt=&#34;Alttext&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Autophagie ist ein natürlicher zellulärer Prozess, bei dem Zellen ihre eigenen Bestandteile abbauen und recyceln. Der Begriff leitet sich von den griechischen Wörtern ab: „Auto“ (selbst) und ‚Phagy‘ (fressen). Im Wesentlichen ist die Autophagie die Methode des Körpers, geschädigte Zellen zu beseitigen, um neue, gesündere Zellen zu regenerieren.&lt;/p&gt;
@@ -1500,9 +1500,9 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
     
     <item>
       <title>Das Verständnis der Persönlichkeit durch psychologische Rahmen: Die Vorteile, Herausforderungen und Ungenauigkeiten</title>
-      <link>https://example.com/de/post/psychgen/</link>
+      <link>http://localhost:1313/de/post/psychgen/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/psychgen/</guid>
+      <guid>http://localhost:1313/de/post/psychgen/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Im Bereich der Psychologie ist das Verständnis des menschlichen Verhaltens, der Persönlichkeit und der zwischenmenschlichen Dynamik ein komplexes und nuanciertes Unterfangen. Unter den verschiedenen Rahmenwerken und Instrumenten ragen der Myers-Briggs-Typenindikator (MBTI) und die Big Five Persönlichkeitsmerkmale als allgemein anerkannte Methoden zur Erforschung der Persönlichkeit heraus. Dieser Artikel befasst sich mit den Vorteilen und Herausforderungen dieser psychologischen Modelle und geht gleichzeitig auf mögliche Ungenauigkeiten und Einschränkungen ein, die mit ihrer Verwendung verbunden sind.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;der-myers-briggs-typenindikator-mbti-einblicke-und-anwendungen&#34;&gt;Der Myers-Briggs-Typenindikator (MBTI): Einblicke und Anwendungen&lt;/h2&gt;
 &lt;h3 id=&#34;überblick-über-den-mbti&#34;&gt;Überblick über den MBTI&lt;/h3&gt;
@@ -1644,9 +1644,9 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
     
     <item>
       <title>Die Big Five Persönlichkeitsmerkmale verstehen</title>
-      <link>https://example.com/de/post/bigfive/</link>
+      <link>http://localhost:1313/de/post/bigfive/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/bigfive/</guid>
+      <guid>http://localhost:1313/de/post/bigfive/</guid>
       <description>
 
     
@@ -1800,9 +1800,9 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
     
     <item>
       <title>Den MBTI verstehen: Ein Werkzeug für persönliches Wachstum und zwischenmenschliche Beziehungen</title>
-      <link>https://example.com/de/post/mbti/</link>
+      <link>http://localhost:1313/de/post/mbti/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/mbti/</guid>
+      <guid>http://localhost:1313/de/post/mbti/</guid>
       <description>
 
     
@@ -1938,7 +1938,7 @@ Man könnte sagen: &amp;ldquo;Ich weiß es zu schätzen, dass Sie an mich denken
                /de/post/mbti/post/mbti/hero_hu7160699245747680607.webp 400w,
                /de/post/mbti/post/mbti/hero_hu3353746863505768983.webp 760w,
                /de/post/mbti/post/mbti/hero_hu17984508630399659421.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/hero_hu7160699245747680607.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/hero_hu7160699245747680607.webp&#34;
                width=&#34;608&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1970,7 +1970,7 @@ Dies ist die primäre Stärke und die am stärksten entwickelte Funktion der Per
                /de/post/mbti/post/mbti/parent_hu8178854820300883282.webp 400w,
                /de/post/mbti/post/mbti/parent_hu12285300945298062986.webp 760w,
                /de/post/mbti/post/mbti/parent_hu15312564605537607401.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/parent_hu8178854820300883282.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/parent_hu8178854820300883282.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2002,7 +2002,7 @@ Die Elternfunktion unterstützt die Heldenfunktion und spiegelt wider, wie Indiv
                /de/post/mbti/post/mbti/child_hu5950597113597588233.webp 400w,
                /de/post/mbti/post/mbti/child_hu11926149102112967104.webp 760w,
                /de/post/mbti/post/mbti/child_hu10476796316563381828.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/child_hu5950597113597588233.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/child_hu5950597113597588233.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2034,7 +2034,7 @@ Diese Funktion verkörpert einen Sinn für Verspieltheit, Kreativität und Spont
                /de/post/mbti/post/mbti/inferior_hu3077785251821687261.webp 400w,
                /de/post/mbti/post/mbti/inferior_hu8732168587405654447.webp 760w,
                /de/post/mbti/post/mbti/inferior_hu6043997103005298662.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/inferior_hu3077785251821687261.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/inferior_hu3077785251821687261.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2068,7 +2068,7 @@ Die unterlegene Funktion ist, wie bereits erwähnt, der am wenigsten entwickelte
                /de/post/mbti/post/mbti/self_hu982056853556176506.webp 400w,
                /de/post/mbti/post/mbti/self_hu2389981426178816322.webp 760w,
                /de/post/mbti/post/mbti/self_hu2839036695552012006.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/self_hu982056853556176506.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/self_hu982056853556176506.webp&#34;
                width=&#34;760&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2098,7 +2098,7 @@ Einer der wichtigsten Vorteile des MBTI besteht darin, dass er Menschen dazu erm
                /de/post/mbti/post/mbti/communication_hu6945019862927457763.webp 400w,
                /de/post/mbti/post/mbti/communication_hu15382381509027051817.webp 760w,
                /de/post/mbti/post/mbti/communication_hu11216665269684805102.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/communication_hu6945019862927457763.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/communication_hu6945019862927457763.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2128,7 +2128,7 @@ Verschiedene Persönlichkeitstypen haben unterschiedliche Kommunikationsstile. D
                /de/post/mbti/post/mbti/team_hu5726691083357200237.webp 400w,
                /de/post/mbti/post/mbti/team_hu11066106974571765899.webp 760w,
                /de/post/mbti/post/mbti/team_hu8075843563724443301.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/team_hu5726691083357200237.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/team_hu5726691083357200237.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2158,7 +2158,7 @@ Im beruflichen Umfeld kann die Kenntnis der MBTI-Typen der Teammitglieder die Zu
                /de/post/mbti/post/mbti/relationships_hu12977844522263434418.webp 400w,
                /de/post/mbti/post/mbti/relationships_hu8603476727348517019.webp 760w,
                /de/post/mbti/post/mbti/relationships_hu14834094677348719111.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/relationships_hu12977844522263434418.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/relationships_hu12977844522263434418.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2188,7 +2188,7 @@ Der MBTI kann auch in persönlichen Beziehungen ein wertvolles Hilfsmittel sein.
                /de/post/mbti/post/mbti/developement_hu2249016094621261583.webp 400w,
                /de/post/mbti/post/mbti/developement_hu13457653216219235495.webp 760w,
                /de/post/mbti/post/mbti/developement_hu12932591224058057400.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/mbti/post/mbti/developement_hu2249016094621261583.webp&#34;
+               src=&#34;http://localhost:1313/de/post/mbti/post/mbti/developement_hu2249016094621261583.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2335,9 +2335,9 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
     
     <item>
       <title>Ein detaillierter und umfassender Leitfaden für kohlenhydratarme Ernährung und Intervallfasten</title>
-      <link>https://example.com/de/post/nutrition/</link>
+      <link>http://localhost:1313/de/post/nutrition/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/nutrition/</guid>
+      <guid>http://localhost:1313/de/post/nutrition/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Dieser Ratgeber verbindet die Prinzipien der Ernährungsempfehlungen von Eric Berg und Sten Eckberg mit der effektiven Praxis des Intervallfastens und bietet einen detaillierten Ansatz für eine gesündere Ernährung. Es kombiniert die Stärken der Arbeit beider Personen und hebt gleichzeitig ihre einzigartigen Aspekte hervor, um ein holistisches Verständnis einer kohlenhydratarmen, nährstoffreichen Ernährung zusammen mit Fastenstrategien zu gewährleisten.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;über-low-carb-diäten-im-allgemeinen&#34;&gt;Über Low-Carb-Diäten im Allgemeinen:&lt;/h1&gt;
 &lt;p&gt;Bei einer kohlenhydratarmen Diät liegt der Schwerpunkt auf der Reduzierung der Kohlenhydratzufuhr, wobei der Verzehr von Proteinen und Fetten häufig im Vordergrund steht. Dieser Ansatz kann den Körper in einen Stoffwechselzustand führen, der als Ketose bekannt ist.&lt;/p&gt;
@@ -2416,7 +2416,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp 400w,
                /de/post/nutrition/post/nutrition/fats_hu14967968740712839398.webp 760w,
                /de/post/nutrition/post/nutrition/fats_hu14168891548557644008.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2453,7 +2453,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp 400w,
                /de/post/nutrition/post/nutrition/protein_hu3985988088946675115.webp 760w,
                /de/post/nutrition/post/nutrition/protein_hu2622240787389504942.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2488,7 +2488,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp 400w,
                /de/post/nutrition/post/nutrition/vegetables_hu9729150114698812687.webp 760w,
                /de/post/nutrition/post/nutrition/vegetables_hu637668811460900936.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2522,7 +2522,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp 400w,
                /de/post/nutrition/post/nutrition/fermented_hu11606051204472981349.webp 760w,
                /de/post/nutrition/post/nutrition/fermented_hu10254971514059385216.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2557,7 +2557,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp 400w,
                /de/post/nutrition/post/nutrition/herbs_hu1012424704571459638.webp 760w,
                /de/post/nutrition/post/nutrition/herbs_hu1608450799210159914.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2676,7 +2676,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp 400w,
                /de/post/nutrition/post/nutrition/listen_hu18227554464746987530.webp 760w,
                /de/post/nutrition/post/nutrition/listen_hu4399507923610735876.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2709,7 +2709,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp 400w,
                /de/post/nutrition/post/nutrition/electrolyte_hu13722727442810410052.webp 760w,
                /de/post/nutrition/post/nutrition/electrolyte_hu8213822077752006104.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
                width=&#34;760&#34;
                height=&#34;410&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2742,7 +2742,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/move_hu17565910668030462789.webp 400w,
                /de/post/nutrition/post/nutrition/move_hu609616498681504825.webp 760w,
                /de/post/nutrition/post/nutrition/move_hu15022939752702117903.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2773,7 +2773,7 @@ Der MBTI ermutigt zu lebenslangem Lernen und Anpassung. Wer seinen Typ kennt, ka
                /de/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp 400w,
                /de/post/nutrition/post/nutrition/strength_hu16000315351690534739.webp 760w,
                /de/post/nutrition/post/nutrition/strength_hu15557592185333769305.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2862,7 +2862,7 @@ Dazu gehören Reis, Gyula-Wurst und Schinken als verarbeitete Fleischprodukte, u
                /de/post/nutrition/post/nutrition/1_hu12608306184696674095.webp 400w,
                /de/post/nutrition/post/nutrition/1_hu13957937632408086842.webp 760w,
                /de/post/nutrition/post/nutrition/1_hu7339280858994939310.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
                width=&#34;760&#34;
                height=&#34;348&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2891,7 +2891,7 @@ Mandelbrot-Sandwich mit saurer Sahne, Zwiebeln, Tomaten und Gyulai-Wurst:
                /de/post/nutrition/post/nutrition/2_hu8531501771588726305.webp 400w,
                /de/post/nutrition/post/nutrition/2_hu6929092539650891298.webp 760w,
                /de/post/nutrition/post/nutrition/2_hu6580774699507192645.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
                width=&#34;681&#34;
                height=&#34;690&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2920,7 +2920,7 @@ Mandelbrot mit Gemüse, sautierten Butter-Knoblauch-Pilzen und saurer Sahne:
                /de/post/nutrition/post/nutrition/3_hu14624479402397347917.webp 400w,
                /de/post/nutrition/post/nutrition/3_hu9575846244799456290.webp 760w,
                /de/post/nutrition/post/nutrition/3_hu1049859194176989066.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
                width=&#34;723&#34;
                height=&#34;755&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2949,7 +2949,7 @@ Indisches Butterhähnchen mit Gemüse und Mandelbrot:
                /de/post/nutrition/post/nutrition/4_hu11476022687597826362.webp 400w,
                /de/post/nutrition/post/nutrition/4_hu13297248705405095904.webp 760w,
                /de/post/nutrition/post/nutrition/4_hu16788571616751026126.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
                width=&#34;760&#34;
                height=&#34;644&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2978,7 +2978,7 @@ Ketogene Pizza mit Mandelbrotkruste, Tomaten, Pilzen, Zwiebeln, Schinken und Moz
                /de/post/nutrition/post/nutrition/5_hu10308305180695310753.webp 400w,
                /de/post/nutrition/post/nutrition/5_hu7642898172156540297.webp 760w,
                /de/post/nutrition/post/nutrition/5_hu9679629861536622174.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
                width=&#34;609&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3007,7 +3007,7 @@ Omelett mit einem Gemüsesalat in Olivenöl und einer siebenbürgischen Speziali
                /de/post/nutrition/post/nutrition/6_hu11180730075905629242.webp 400w,
                /de/post/nutrition/post/nutrition/6_hu5435293754586230483.webp 760w,
                /de/post/nutrition/post/nutrition/6_hu4829253932576020461.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
                width=&#34;759&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3036,7 +3036,7 @@ Reichhaltiges Degustationsmenü mit zakuszka, siebenbürgischer Auberginencreme,
                /de/post/nutrition/post/nutrition/7_hu13657338855798430253.webp 400w,
                /de/post/nutrition/post/nutrition/7_hu2599764494827034775.webp 760w,
                /de/post/nutrition/post/nutrition/7_hu17807350305445368486.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
                width=&#34;760&#34;
                height=&#34;597&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3065,7 +3065,7 @@ Eine einfache Grünkohltortilla, gefüllt mit Butter, Käse, Zwiebeln, Tomaten, 
                /de/post/nutrition/post/nutrition/8_hu12986442913084533514.webp 400w,
                /de/post/nutrition/post/nutrition/8_hu1108794753218047171.webp 760w,
                /de/post/nutrition/post/nutrition/8_hu8930888672803234106.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
                width=&#34;760&#34;
                height=&#34;607&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3094,7 +3094,7 @@ Frisch gebackenes Mandelbrot, gefüllt mit Gemüse, Schinken, Champignons und K�
                /de/post/nutrition/post/nutrition/9_hu3227929631295161984.webp 400w,
                /de/post/nutrition/post/nutrition/9_hu7450178928638385947.webp 760w,
                /de/post/nutrition/post/nutrition/9_hu5274547627687762576.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
                width=&#34;760&#34;
                height=&#34;568&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3123,7 +3123,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/nutrition/post/nutrition/10_hu6177596377643891001.webp 400w,
                /de/post/nutrition/post/nutrition/10_hu1259333786772562334.webp 760w,
                /de/post/nutrition/post/nutrition/10_hu3249743412475386331.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/nutrition/post/nutrition/10_hu6177596377643891001.webp&#34;
+               src=&#34;http://localhost:1313/de/post/nutrition/post/nutrition/10_hu6177596377643891001.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3173,9 +3173,9 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
     
     <item>
       <title>Wie können wir uns in der Welt von heute effektiv informieren?</title>
-      <link>https://example.com/de/post/information/</link>
+      <link>http://localhost:1313/de/post/information/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/information/</guid>
+      <guid>http://localhost:1313/de/post/information/</guid>
       <description>&lt;p&gt;In einem Zeitalter, in dem Informationen per Mausklick frei fließen, kann es überwältigend sein, informiert zu bleiben. Angesichts der unzähligen Nachrichtenquellen, Social-Media-Plattformen und Meinungen ist es wichtig, sich in dieser Landschaft zurechtzufinden. Hier findest du einen umfassenden Leitfaden, wie du dich effektiv informieren und gleichzeitig vor Fehlinformationen schützen kannst.&lt;/p&gt;
 &lt;h3 id=&#34;1-diversifiziere-deine-quellen&#34;&gt;1. &lt;strong&gt;Diversifiziere deine Quellen&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
@@ -3200,7 +3200,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/information/post/information/sources_hu2885125570626894921.webp 400w,
                /de/post/information/post/information/sources_hu4574939387148463147.webp 760w,
                /de/post/information/post/information/sources_hu1004073634946449116.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/information/post/information/sources_hu2885125570626894921.webp&#34;
+               src=&#34;http://localhost:1313/de/post/information/post/information/sources_hu2885125570626894921.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3237,7 +3237,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/information/post/information/credibility_hu11030024400587255219.webp 400w,
                /de/post/information/post/information/credibility_hu1509639326146487821.webp 760w,
                /de/post/information/post/information/credibility_hu17555536432391745573.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/information/post/information/credibility_hu11030024400587255219.webp&#34;
+               src=&#34;http://localhost:1313/de/post/information/post/information/credibility_hu11030024400587255219.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3272,7 +3272,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/information/post/information/bias_hu988352355585877245.webp 400w,
                /de/post/information/post/information/bias_hu13732291745982661425.webp 760w,
                /de/post/information/post/information/bias_hu7006576616403561896.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/information/post/information/bias_hu988352355585877245.webp&#34;
+               src=&#34;http://localhost:1313/de/post/information/post/information/bias_hu988352355585877245.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3308,7 +3308,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/information/post/information/social_hu11930162465824126857.webp 400w,
                /de/post/information/post/information/social_hu2383784768021433870.webp 760w,
                /de/post/information/post/information/social_hu16524696365989396359.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/information/post/information/social_hu11930162465824126857.webp&#34;
+               src=&#34;http://localhost:1313/de/post/information/post/information/social_hu11930162465824126857.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3344,7 +3344,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/information/post/information/open_hu1020789361591823764.webp 400w,
                /de/post/information/post/information/open_hu9314527732018134115.webp 760w,
                /de/post/information/post/information/open_hu9530096137217501035.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/information/post/information/open_hu1020789361591823764.webp&#34;
+               src=&#34;http://localhost:1313/de/post/information/post/information/open_hu1020789361591823764.webp&#34;
                width=&#34;504&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3379,7 +3379,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/information/post/information/ai_hu15047762487584012263.webp 400w,
                /de/post/information/post/information/ai_hu12079778686655185127.webp 760w,
                /de/post/information/post/information/ai_hu5088898830553771726.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/information/post/information/ai_hu15047762487584012263.webp&#34;
+               src=&#34;http://localhost:1313/de/post/information/post/information/ai_hu15047762487584012263.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3426,7 +3426,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/information/post/information/misinformation_hu10458511445237424244.webp 400w,
                /de/post/information/post/information/misinformation_hu13319867737015523285.webp 760w,
                /de/post/information/post/information/misinformation_hu4735096666629943379.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/information/post/information/misinformation_hu10458511445237424244.webp&#34;
+               src=&#34;http://localhost:1313/de/post/information/post/information/misinformation_hu10458511445237424244.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3468,9 +3468,9 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
     
     <item>
       <title>Umfassender Leitfaden: Zugriff auf Informationen in verschiedenen Sprachen mithilfe von YouTube-Transkripten und KI-Übersetzungen</title>
-      <link>https://example.com/de/post/youtubetranslate/</link>
+      <link>http://localhost:1313/de/post/youtubetranslate/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/youtubetranslate/</guid>
+      <guid>http://localhost:1313/de/post/youtubetranslate/</guid>
       <description>&lt;h2 id=&#34;einführung&#34;&gt;Einführung&lt;/h2&gt;
 &lt;p&gt;YouTube ist eine Fundgrube für Informationen, die Millionen von Videos zu einer Vielzahl von Themen enthält. Wenn ein Video jedoch nicht in deiner Muttersprache ist, kann der Zugang zu diesen Informationen schwierig sein. Zum Glück stellt YouTube für viele Videos Transkripte zur Verfügung, und mit Hilfe von KI-Übersetzungsprogrammen kannst du diese Transkripte in deine bevorzugte Sprache übersetzen. In diesem Leitfaden erfährst du, wie du YouTube-Transkripte und KI-Übersetzung effizient nutzen kannst.&lt;/p&gt;
 &lt;h2 id=&#34;schritt-1-zugriff-auf-youtube-transkripte&#34;&gt;Schritt 1: Zugriff auf YouTube-Transkripte&lt;/h2&gt;
@@ -3567,9 +3567,9 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
     
     <item>
       <title>Die Kunst des Verlangsamens - Der Mythos des Multitaskings wird durch Präsenz ersetzt</title>
-      <link>https://example.com/de/post/slowingdown/</link>
+      <link>http://localhost:1313/de/post/slowingdown/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/slowingdown/</guid>
+      <guid>http://localhost:1313/de/post/slowingdown/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;Das Gestern ist Geschichte. Das Morgen ist ein Geheimnis. Das Heute ist ein Geschenk. Deshalb nennt man es Gegenwart/Geschenk (das hier gebrauchte englische Wort &amp;lsquo;present&amp;rsquo; bedeutet sowohl &amp;lsquo;Geschenk&amp;rsquo; - als auch &amp;lsquo;Gegenwart&amp;rsquo;). - Alice Morse Earle&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In unserer schnelllebigen Welt ist die Eile zu einer Lebensweise geworden. Wir rennen gegen die Uhr an, jonglieren mit Aufgaben und betreiben Multitasking, bis wir uns ausgelaugt und unerfüllt fühlen. Wie Ralph Waldo Emerson treffend feststellte: „Wir bereiten uns immer auf das Leben vor, aber wir leben nie“. Diese Eile, immer mehr zu erreichen, führt oft zu einem Zustand der Angst und des Stresses, der uns daran hindert, den Reichtum des Lebens wirklich zu erleben bzw. zu genießen.&lt;/p&gt;
 &lt;h2 id=&#34;die-kosten-der-hektik&#34;&gt;Die Kosten der Hektik&lt;/h2&gt;
@@ -3591,7 +3591,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Eile verkörpert eine Mentalität des Mangels - das Gefühl, dass wir nicht genug sind, dass wir uns beeilen müssen, um das Leben einzuholen. Wie Sura, ein Meditationscoach, feststellte, entspringt dieser Zustand des Widerstands oft der Angst, wodurch wir den gegenwärtigen Moment verpassen. Die Wahrheit ist, dass wir, wenn wir uns beeilen, nur die Oberfläche unserer Erfahrungen überfliegen, anstatt tief in das einzutauchen, was wirklich wichtig ist. Wir drängen uns selbst, um Meilensteine zu erreichen, ohne den Weg dorthin zu würdigen.&lt;/p&gt;
@@ -3615,7 +3615,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Das Leben ist kein Sprint, es ist ein Marathon, ein allmählicher Prozess, der Geduld und Absicht erfordert. Ralph Ransom betonte, dass „das Leben eine Reihe von Schritten ist“. Doch in einer Gesellschaft, die Geschwindigkeit und Effizienz verherrlicht, vergessen wir diese grundlegende Wahrheit oft. Entschleunigung ermöglicht es uns, Momente zu genießen, unsere Umgebung zu schätzen und bedeutungsvolle Beziehungen zu pflegen.&lt;/p&gt;
@@ -3637,7 +3637,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Stell dir vor, du liest ein Buch in Eile - sicher, du bist schneller fertig, aber nimmst du die Botschaft auch auf? Fühlst du dich von der Geschichte angesprochen? Ähnlich verhält es sich mit einer in Eile verzehrten Mahlzeit. Genießen wir die Aromen wirklich oder wollen wir nur unseren Körper auffüllen? Wenn wir langsamer werden, erlauben wir uns, uns tief auf unsere Erfahrungen einzulassen und alltägliche Momente in tiefgründige Erinnerungen zu verwandeln.&lt;/p&gt;
@@ -3660,7 +3660,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Multitasking wird am modernen Arbeitsplatz oft als Fähigkeit gepriesen, doch Forschungen zeigen, dass es die Produktivität mindert und die Fehlerquote erhöht. Wenn wir unseren Fokus auf mehrere Aufgaben verteilen, opfern wir die Qualität unserer Arbeit. Anstatt unsere Energie in ein einziges wichtiges Projekt zu stecken, verwässern wir unsere Bemühungen, was zu Frustration und Burnout führt.&lt;/p&gt;
@@ -3684,7 +3684,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Die Reise des Lebens ist von ständigem Lernen und Verbessern geprägt. Während wir unsere Karrieren, Beziehungen und unser persönliches Wachstum navigieren, ist es unerlässlich, dass wir uns daran erinnern, dass es keinen endgültigen Endpunkt gibt. So wie ein Mangobaum Jahre braucht, um Früchte zu tragen, ist unser Leben eine Reihe von Pflegeprozessen. Je langsamer wir vorgehen, desto weniger Fehler machen wir, und desto mehr wachsen wir.&lt;/p&gt;
@@ -3708,7 +3708,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;In unserem Streben nach Erfüllung müssen wir lernen, den gegenwärtigen Moment zu genießen. Ganz gleich, ob wir eine Mahlzeit genießen, uns mit einem geliebten Menschen unterhalten oder einfach in der Natur spazieren gehen - wenn wir ganz präsent sind, können wir unsere Erfahrungen verbessern. Wie St. Francis de Sales sagte: „Sei niemals in Eile; tue alles in Ruhe und mit einem ruhigen Geist.&lt;/p&gt;
@@ -3722,9 +3722,9 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
     
     <item>
       <title>Übernahme der Verantwortung für deine Gesundheit: Mein Weg von Kampf zum Sieg</title>
-      <link>https://example.com/de/post/health/</link>
+      <link>http://localhost:1313/de/post/health/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/health/</guid>
+      <guid>http://localhost:1313/de/post/health/</guid>
       <description>&lt;h2 id=&#34;ich-verstehe-dass-es-leicht-ist-zu-sagen-mach-einfach-aber-in-der-realität-fühlt-sich-der-schritt-zum-handeln-oft-überwältigend-an-ich-erinnere-mich-noch-gut-an-mein-früheres-selbst-das-sich-fragte-bist-du-verrückt-wie-soll-ich-das-überhaupt-angehen-da-gibt-es-so-viele-informationen---wie-weiß-ich-was-wirklich-hilfreich-für-mich-ist-reicht-es-nicht-einfach-meinen-ärzten-zu-vertrauen-ich-habe-einfach-keine-zeit-dafür&#34;&gt;Ich verstehe, dass es leicht ist, zu sagen: „Mach einfach!“ Aber in der Realität fühlt sich der Schritt zum Handeln oft überwältigend an. Ich erinnere mich noch gut an mein früheres Selbst, das sich fragte: „Bist du verrückt? Wie soll ich das überhaupt angehen? Da gibt es so viele Informationen - wie weiß ich, was wirklich hilfreich für mich ist? Reicht es nicht, einfach meinen Ärzten zu vertrauen? Ich habe einfach keine Zeit dafür!“&lt;/h2&gt;
 &lt;p&gt;Die Realität ist, ja, &lt;strong&gt;du&lt;/strong&gt; kannst die Verantwortung für deine Gesundheit übernehmen. &lt;strong&gt;Aber sich auf falsche Informationen zu verlassen, kann dich in ernsthafte Probleme führen.&lt;/strong&gt; Letztendlich ist deine Gesundheit &lt;strong&gt;deine&lt;/strong&gt; Verantwortung; niemand anders wird sie übernehmen.&lt;/p&gt;
 &lt;h2 id=&#34;du-wirst-vielleicht-überrascht-sein-zu-erfahren-dass-ich-das-im-frühling-2020-war-wirklich-bescheidene-anfänge&#34;&gt;Du wirst vielleicht überrascht sein, zu erfahren, dass ich das im Frühling 2020 war: wirklich bescheidene Anfänge…&lt;/h2&gt;
@@ -3750,7 +3750,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/health/meunhealthy_hu13588576499155503934.webp 400w,
                /de/post/health/meunhealthy_hu8347299589404435177.webp 760w,
                /de/post/health/meunhealthy_hu3603714243754390691.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/health/meunhealthy_hu13588576499155503934.webp&#34;
+               src=&#34;http://localhost:1313/de/post/health/meunhealthy_hu13588576499155503934.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3779,7 +3779,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/health/mehealthy_hu12956826729830531394.webp 400w,
                /de/post/health/mehealthy_hu11704054829860929877.webp 760w,
                /de/post/health/mehealthy_hu10549967406138670410.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/health/mehealthy_hu12956826729830531394.webp&#34;
+               src=&#34;http://localhost:1313/de/post/health/mehealthy_hu12956826729830531394.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3813,7 +3813,7 @@ Butter-Knoblauch-Hähnchenbrust mit Rührei, Sauerkraut, Rucola und Tomaten.
                /de/post/health/doctor_hu2894407362411578465.webp 400w,
                /de/post/health/doctor_hu6252066673234941761.webp 760w,
                /de/post/health/doctor_hu3059248370869431956.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/health/doctor_hu2894407362411578465.webp&#34;
+               src=&#34;http://localhost:1313/de/post/health/doctor_hu2894407362411578465.webp&#34;
                width=&#34;760&#34;
                height=&#34;181&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3906,7 +3906,7 @@ Link zum Video:
                /de/post/health/bye_hu16740464285310595195.webp 400w,
                /de/post/health/bye_hu18207890042636693065.webp 760w,
                /de/post/health/bye_hu7363268470650961121.webp 1200w&#34;
-               src=&#34;https://example.com/de/post/health/bye_hu16740464285310595195.webp&#34;
+               src=&#34;http://localhost:1313/de/post/health/bye_hu16740464285310595195.webp&#34;
                width=&#34;446&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3919,9 +3919,9 @@ Link zum Video:
     
     <item>
       <title>Die Zukunft der KI: Wie relevant ist sie für die Menschheit?</title>
-      <link>https://example.com/de/post/ai/</link>
+      <link>http://localhost:1313/de/post/ai/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/ai/</guid>
+      <guid>http://localhost:1313/de/post/ai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Dieser Artikel wurde ursprünglich von den Schwierigkeiten inspiriert, die richtige Stelle zu finden, nur um dann festzustellen, wie schädlich der Einsatz von künstlicher Intelligenz in manchen Fällen sein kann. Der Einsatz von KI-Algorithmen in ATS-Systemen (Applicant Tracking System) ist nicht so vorteilhaft, wie manche Leute denken. Ich habe einige interessante Links von YouTube zum Thema KI und ATS-Systeme eingefügt. Sie sind mit englischen, aber automatisch sogar auf Deutsch übersetzten Untertiteln versehen. Viel Spaß beim Lesen!&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 

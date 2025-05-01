@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Warum Musik Hören | Hunor Becsis Webseite</title>
-    <link>https://example.com/de/tags/warum-musik-horen/</link>
-      <atom:link href="https://example.com/de/tags/warum-musik-horen/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/de/tags/warum-musik-horen/</link>
+      <atom:link href="http://localhost:1313/de/tags/warum-musik-horen/index.xml" rel="self" type="application/rss+xml" />
     <description>Warum Musik Hören</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Thu, 13 Feb 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Warum Musik Hören</title>
-      <link>https://example.com/de/tags/warum-musik-horen/</link>
+      <link>http://localhost:1313/de/tags/warum-musik-horen/</link>
     </image>
     
     <item>
       <title>🎉 Herzlich Wilkommen zu meinem neuen Blog!</title>
-      <link>https://example.com/de/post/get-started/</link>
+      <link>http://localhost:1313/de/post/get-started/</link>
       <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/de/post/get-started/</guid>
+      <guid>http://localhost:1313/de/post/get-started/</guid>
       <description>&lt;p&gt;Wilkommen 👋&lt;/p&gt;
 
 
@@ -63,7 +63,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/de/post/get-started/bear.gif&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/de/post/get-started/bear.gif&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 
 
@@ -122,7 +122,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/de/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/de/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;p&gt;Cosmic Train Extended Version:&lt;/p&gt;
@@ -144,7 +144,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/de/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/de/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;p&gt;Ocean of Strange Times:&lt;/p&gt;
@@ -166,7 +166,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;https://example.com/de/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;http://localhost:1313/de/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h2 id=&#34;warum-sollte-man-musik-so-oft-wie-möglich-genießen&#34;&gt;Warum sollte man Musik so oft wie möglich genießen?&lt;/h2&gt;

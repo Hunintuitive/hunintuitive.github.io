@@ -83,7 +83,7 @@ Tamás ajánlott a podcastban több könyv címet is, megemlítette, hogy sokkal
 
 Dr. Balsai Tamás legfrissebb podcastjában egy új élettankönyv felfedezéséről beszél, amely mélyreható hatással volt a táplálkozással és a koleszterinnel kapcsolatos ismereteire. A beszélgetés során elmondta, hogy mindig is félt attól, hogy biológiai szempontból téves információkat adjon, ezért úgy döntött, hogy alaposan átnéz egy élettani könyvet, hogy saját tudását ellenőrizze. A könyv olvasása közben számos döbbenetes felismerést tett, amelyek közül kiemelte a koleszterin szerepét a szervezetben, mivel az ismert és gyakori téma.
 
-**Vicces idézet a podcastból:**
+>**Vicces idézet a podcastból:**
 ***Mondom, veszek egy élettankönyvet és nézzük meg, igen, megkeresni, hogy hol csúszik el ez az egész? És sehol! Ott van, benne van, csak más a fókusz. A lányaim hülyének néznek, ül az apjuk az élettan könyv fölött, ahelyett hogy nem tudom, mit csinálna és néha felüvölt. Döbbenet!***
 
 Balsai doktor hangsúlyozta, hogy a koleszterin felszívódása és metabolizmusa sokkal bonyolultabb, mint ahogy azt korábban hittük. Rámutatott, hogy a koleszterin a hosszú láncú zsírsavakkal együtt szívódik fel, és a testünk két gén által vezérelt mechanizmus segítségével szabályozza a mennyiségét. Eddig a hit, miszerint a koleszterint kerülni kell, 70 éven át tévútra vezetett minket. Az általa végzett kísérletek során - például egy öt napos böjt után - a koleszterinszintje nem változott, ahhoz az időszakhoz képest, amikor helyesen táplálkozott, ami arra utal, hogy a testének a koleszterin szintje már korábban is optimális volt. 

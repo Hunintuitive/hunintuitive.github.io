@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Real Food | Hunor Becsi&#39;s Website</title>
-    <link>https://example.com/en/tags/real-food/</link>
-      <atom:link href="https://example.com/en/tags/real-food/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/real-food/</link>
+      <atom:link href="http://localhost:1313/en/tags/real-food/index.xml" rel="self" type="application/rss+xml" />
     <description>Real Food</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Real Food</title>
-      <link>https://example.com/en/tags/real-food/</link>
+      <link>http://localhost:1313/en/tags/real-food/</link>
     </image>
     
     <item>
       <title>Rediscovering Real Food - Transform Your Diet for Lasting Health and Vitality</title>
-      <link>https://example.com/en/post/realfood/</link>
+      <link>http://localhost:1313/en/post/realfood/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/realfood/</guid>
+      <guid>http://localhost:1313/en/post/realfood/</guid>
       <description>&lt;p&gt;&lt;strong&gt;In an age where convenience often overshadows quality, understanding what constitutes &amp;ldquo;real food&amp;rdquo; is more vital than ever. As we navigate a marketplace flooded with processed and ultra-processed &amp;ldquo;food-like&amp;rdquo; products, distinguishing between nourishing options and those that may be detrimental to our health becomes crucial. This journey transcends mere sustenance; it is about reclaiming our health and vitality amidst a rapidly deteriorating environment.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In this article, I will unpack the essence of real food - what it is, which food products to avoid, and why this knowledge is essential for our well-being. Drawing insights from esteemed medical professionals and my personal health journey, I aim to provide a roadmap for transforming your diet.&lt;/p&gt;
 &lt;p&gt;My path to wellness began with the ketogenic diet and intermittent fasting - a crucial combination in my battle against obesity and sought to reverse my insulin resistance. Through this experience, I recognized the profound impact that our dietary choices have on our bodies. If you’ve seen Dr. Sten Eckberg&amp;rsquo;s enlightening video titled &amp;lsquo;Your Doctor Is Wrong About Insulin Resistance,&amp;rsquo; you may already appreciate the significance of this condition and its broader implications.&lt;/p&gt;
@@ -46,7 +46,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;To understand what real food is, let&amp;rsquo;s refer to an insightful definition provided by Dr. Robert Lustig in one of his interviews. He describes food as &lt;strong&gt;&amp;ldquo;a substrate that contributes to either the growth or burning of an organism.&amp;rdquo;&lt;/strong&gt; This means that food serves a purpose - either as energy or as a contributor to bodily growth. However, fructose, a common sweetener, inhibits this process and is present in 73% of items in the American grocery store.&lt;/p&gt;
@@ -69,7 +69,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;When a child asks for a bag of sweets once a week, we can question whether that truly qualifies as food. Few people consume exclusively real foods, so where is the balance?&lt;/p&gt;
@@ -122,7 +122,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The NOVA classification system is a food classification tool based on the level of processing that food items undergo. Developed by researchers at the University of São Paulo in Brazil, NOVA categorizes foods into four groups:&lt;/p&gt;
@@ -217,7 +217,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Many modern food processing procedures, such as using high heat on vegetable oils and combining sugar with proteins, produce harmful compounds known as Advanced Glycation End Products (AGEs). These compounds, while palatable, can accelerate the internal aging process (similar to rusting) and lead to various health issues. Dr. Pradip Jamnadas&amp;rsquo;s clear lecture on this topic opened my eyes to the necessity of relearning proper food processing techniques, making it vital to protect the healthy foods we work hard to acquire.&lt;/p&gt;
@@ -239,7 +239,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;keep-on-learning-never-stop&#34;&gt;Keep on learning, never stop!&lt;/h2&gt;

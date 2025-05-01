@@ -56,7 +56,7 @@ slides: example
 
 ---
 
-***Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why it’s called the present. - Alice Morse Earle***
+>***Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why it’s called the present. - Alice Morse Earle***
 
 In our fast-paced world, the rush has become a way of life. We race against the clock, juggling tasks, and multitasking until we are left feeling frazzled and unfulfilled. As Ralph Waldo Emerson poignantly stated, “We are always getting ready to live but never living.” This rush to accomplish more often leads to a state of anxiety and stress, preventing us from truly experiencing the richness of life.
 

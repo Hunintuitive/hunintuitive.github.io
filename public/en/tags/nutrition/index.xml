@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrition | Hunor Becsi&#39;s Website</title>
-    <link>https://example.com/en/tags/nutrition/</link>
-      <atom:link href="https://example.com/en/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/nutrition/</link>
+      <atom:link href="http://localhost:1313/en/tags/nutrition/index.xml" rel="self" type="application/rss+xml" />
     <description>Nutrition</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://example.com/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Nutrition</title>
-      <link>https://example.com/en/tags/nutrition/</link>
+      <link>http://localhost:1313/en/tags/nutrition/</link>
     </image>
     
     <item>
       <title>Rediscovering Real Food - Transform Your Diet for Lasting Health and Vitality</title>
-      <link>https://example.com/en/post/realfood/</link>
+      <link>http://localhost:1313/en/post/realfood/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/realfood/</guid>
+      <guid>http://localhost:1313/en/post/realfood/</guid>
       <description>&lt;p&gt;&lt;strong&gt;In an age where convenience often overshadows quality, understanding what constitutes &amp;ldquo;real food&amp;rdquo; is more vital than ever. As we navigate a marketplace flooded with processed and ultra-processed &amp;ldquo;food-like&amp;rdquo; products, distinguishing between nourishing options and those that may be detrimental to our health becomes crucial. This journey transcends mere sustenance; it is about reclaiming our health and vitality amidst a rapidly deteriorating environment.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In this article, I will unpack the essence of real food - what it is, which food products to avoid, and why this knowledge is essential for our well-being. Drawing insights from esteemed medical professionals and my personal health journey, I aim to provide a roadmap for transforming your diet.&lt;/p&gt;
 &lt;p&gt;My path to wellness began with the ketogenic diet and intermittent fasting - a crucial combination in my battle against obesity and sought to reverse my insulin resistance. Through this experience, I recognized the profound impact that our dietary choices have on our bodies. If you’ve seen Dr. Sten Eckberg&amp;rsquo;s enlightening video titled &amp;lsquo;Your Doctor Is Wrong About Insulin Resistance,&amp;rsquo; you may already appreciate the significance of this condition and its broader implications.&lt;/p&gt;
@@ -46,7 +46,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;To understand what real food is, let&amp;rsquo;s refer to an insightful definition provided by Dr. Robert Lustig in one of his interviews. He describes food as &lt;strong&gt;&amp;ldquo;a substrate that contributes to either the growth or burning of an organism.&amp;rdquo;&lt;/strong&gt; This means that food serves a purpose - either as energy or as a contributor to bodily growth. However, fructose, a common sweetener, inhibits this process and is present in 73% of items in the American grocery store.&lt;/p&gt;
@@ -69,7 +69,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;When a child asks for a bag of sweets once a week, we can question whether that truly qualifies as food. Few people consume exclusively real foods, so where is the balance?&lt;/p&gt;
@@ -122,7 +122,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The NOVA classification system is a food classification tool based on the level of processing that food items undergo. Developed by researchers at the University of São Paulo in Brazil, NOVA categorizes foods into four groups:&lt;/p&gt;
@@ -217,7 +217,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Many modern food processing procedures, such as using high heat on vegetable oils and combining sugar with proteins, produce harmful compounds known as Advanced Glycation End Products (AGEs). These compounds, while palatable, can accelerate the internal aging process (similar to rusting) and lead to various health issues. Dr. Pradip Jamnadas&amp;rsquo;s clear lecture on this topic opened my eyes to the necessity of relearning proper food processing techniques, making it vital to protect the healthy foods we work hard to acquire.&lt;/p&gt;
@@ -239,7 +239,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;keep-on-learning-never-stop&#34;&gt;Keep on learning, never stop!&lt;/h2&gt;
@@ -390,9 +390,9 @@ By utilizing the NOVA classification system, you can become more conscious of yo
     
     <item>
       <title>Unlocking Fat Loss and Healing: Dr. Mindy Pelz&#39;s Guide to Autophagy and 6 Superfoods to support it</title>
-      <link>https://example.com/en/post/autophagy/</link>
+      <link>http://localhost:1313/en/post/autophagy/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/autophagy/</guid>
+      <guid>http://localhost:1313/en/post/autophagy/</guid>
       <description>&lt;h2 id=&#34;these-6-foods-will-burn-fat-and-heal-body--dr-mindy-pelz-top-fasting-expert&#34;&gt;These 6 Foods will Burn Fat and Heal Body | Dr. Mindy Pelz, Top Fasting Expert&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I recently came across this video from Dr. Mindy Pelz, who is an incredible source of insight, regarding our wellbeing and health.
@@ -489,7 +489,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://example.com/en/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Autophagy is a natural cellular process in which cells degrade and recycle their own components. The term comes from Greek words: “Auto” (self) and “Phagy” (eating). Essentially, autophagy is the body’s method of cleaning out damaged cells to regenerate newer, healthier ones.&lt;/p&gt;
@@ -586,9 +586,9 @@ By utilizing the NOVA classification system, you can become more conscious of yo
     
     <item>
       <title>Taking Charge of Your Health - My Journey from Struggles to Strength</title>
-      <link>https://example.com/en/post/health/</link>
+      <link>http://localhost:1313/en/post/health/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/en/post/health/</guid>
+      <guid>http://localhost:1313/en/post/health/</guid>
       <description>&lt;h2 id=&#34;i-understand-that-while-its-easy-to-say-just-do-it-taking-action-can-often-feel-overwhelming-i-vividly-recall-my-former-self-questioning-are-you-serious-how-can-i-possibly-tackle-this-theres-so-much-information-out-there---how-do-i-know-whats-truly-helpful-for-me-isnt-it-enough-just-to-consult-my-doctors-i-simply-dont-have-the-time-for-this&#34;&gt;I understand that while it’s easy to say, “Just do it,” taking action can often feel overwhelming. I vividly recall my former self questioning, “Are you serious? How can I possibly tackle this? There’s so much information out there - how do I know what’s truly helpful for me? Isn’t it enough just to consult my doctors? I simply don’t have the time for this!”&lt;/h2&gt;
 &lt;p&gt;The reality is that, yes, &lt;strong&gt;you&lt;/strong&gt; can take charge of your health. &lt;strong&gt;However, relying on the wrong information could lead you into serious trouble.&lt;/strong&gt; Ultimately, your health is &lt;strong&gt;your&lt;/strong&gt; responsibility; no one else will take ownership of it.&lt;/p&gt;
 &lt;h2 id=&#34;you-might-be-surprised-to-learn-that-this-was-me-back-in-the-spring-of-2020-humble-beginnings-indeed&#34;&gt;You might be surprised to learn that this was me back in the spring of 2020: humble beginnings, indeed…&lt;/h2&gt;
@@ -614,7 +614,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
                /en/post/health/meunhealthy_hu13588576499155503934.webp 400w,
                /en/post/health/meunhealthy_hu8347299589404435177.webp 760w,
                /en/post/health/meunhealthy_hu3603714243754390691.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/health/meunhealthy_hu13588576499155503934.webp&#34;
+               src=&#34;http://localhost:1313/en/post/health/meunhealthy_hu13588576499155503934.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -643,7 +643,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
                /en/post/health/mehealthy_hu12956826729830531394.webp 400w,
                /en/post/health/mehealthy_hu11704054829860929877.webp 760w,
                /en/post/health/mehealthy_hu10549967406138670410.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/health/mehealthy_hu12956826729830531394.webp&#34;
+               src=&#34;http://localhost:1313/en/post/health/mehealthy_hu12956826729830531394.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -677,7 +677,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
                /en/post/health/doctor_hu2894407362411578465.webp 400w,
                /en/post/health/doctor_hu6252066673234941761.webp 760w,
                /en/post/health/doctor_hu3059248370869431956.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/health/doctor_hu2894407362411578465.webp&#34;
+               src=&#34;http://localhost:1313/en/post/health/doctor_hu2894407362411578465.webp&#34;
                width=&#34;760&#34;
                height=&#34;181&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -768,7 +768,7 @@ Link to video:
                /en/post/health/bye_hu16740464285310595195.webp 400w,
                /en/post/health/bye_hu18207890042636693065.webp 760w,
                /en/post/health/bye_hu7363268470650961121.webp 1200w&#34;
-               src=&#34;https://example.com/en/post/health/bye_hu16740464285310595195.webp&#34;
+               src=&#34;http://localhost:1313/en/post/health/bye_hu16740464285310595195.webp&#34;
                width=&#34;446&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

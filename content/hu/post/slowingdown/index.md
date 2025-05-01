@@ -56,7 +56,7 @@ slides: example
 
 ---
 
-***A tegnap már történelem. A holnap egy rejtély. A ma egy ajándék. Ezért hívják jelennek/ajándéknak (az itt használt angol "present" szó az előbb jelzett kettős jelentéssel bír). - Alice Morse Earle***
+>***A tegnap már történelem. A holnap egy rejtély. A ma egy ajándék. Ezért hívják jelennek/ajándéknak (az itt használt angol "present" szó az előbb jelzett kettős jelentéssel bír). - Alice Morse Earle***
 
 Rohanó világunkban a rohanás életformává vált. Versenyfutást folytatunk az idővel, zsonglőrködünk a feladatokkal, és addig-addig „multitaskingolunk”, amíg végképp kimerültnek és beteljesületlennek nem érezzük magunkat. Ahogy Ralph Waldo Emerson meghatóan megfogalmazta: „Mindig készülünk az életre, de soha nem élünk.” Ez a sietség, hogy minél többet teljesítsünk, gyakran a szorongás és a stressz állapotához vezet, ami megakadályozza, hogy valóban átélhessük az élet gazdagságát.
 
