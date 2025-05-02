@@ -34,7 +34,7 @@ Szia, kedves olvasóm!👋
 
 A zene számomra az élet szívverése - egy mélységes szeretet, amely mélyen a lelkemben rezonál. Akár elbűvölő dallamokban veszek el, akár örömmel alkotom meg saját dallamaimat, vagy szabadon táncolok ritmikus ütemekre, a zene minden pillanatomat gazdagítja. A zene az egész emberiség jólétének egyik erőteljes mozgatórugója.
 
-A *Star Trek*-ben Spock mondása volt: 🖖 *Élj sokáig és jólétben!* 😊 That is my honest wish for you and all of us!
+A *Star Trek*-ben Spock mondása volt: 🖖 *Élj sokáig és jólétben!* 😊 Ez az őszinte kívánságom neked és mindannyiunknak!
 
 ---
 
