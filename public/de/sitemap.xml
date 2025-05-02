@@ -2,6 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/de/post/get-started/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/post/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/get-started/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/post/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/tags/breakdance/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/breakdance/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/breakdance/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/tags/breaktanz-bar/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/musik/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/de/tags/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/de/tags/warum-musik-horen/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/de/publication_types/article/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,25 +102,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://localhost:1313/de/publication_types/article/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/post/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/tags/ganzheitliche-gesundheit/</loc>
@@ -69,25 +133,6 @@
                 rel="alternate"
                 hreflang="de"
                 href="http://localhost:1313/de/publication_types/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
                 />
   </url><url>
     <loc>http://localhost:1313/de/post/whyipublishhealth/</loc>
@@ -204,51 +249,6 @@
   </url><url>
     <loc>http://localhost:1313/de/tags/zwischenmenschliche-beziehungen/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/post/get-started/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/get-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/get-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/get-started/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/breakdance/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/breakdance/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/breakdance/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/de/tags/breaktanz-bar/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/musik/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/de/tags/warum-musik-horen/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/de/tags/anleitung/</loc>

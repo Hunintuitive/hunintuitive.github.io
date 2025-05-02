@@ -2,6 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/hu/post/get-started/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/get-started/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/post/get-started/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hu/post/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/post/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/post/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/breakelo-medve/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/breaktanc/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/miert-hallgass-zenet/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="http://localhost:1313/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="hu"
+                href="http://localhost:1313/hu/tags/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/hu/tags/zene/</loc>
+    <lastmod>2025-05-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/hu/publication_types/article/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -19,25 +92,6 @@
                 rel="alternate"
                 hreflang="hu"
                 href="http://localhost:1313/hu/publication_types/article/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hu/post/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/"
                 />
   </url><url>
     <loc>http://localhost:1313/hu/tags/egeszsegugyi-muveltseg/</loc>
@@ -89,25 +143,6 @@
     <loc>http://localhost:1313/hu/tags/szemelyes-egeszsegugyi-utazas/</loc>
     <lastmod>2025-04-28T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/</loc>
-    <lastmod>2025-04-28T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/tags/"
-                />
   </url><url>
     <loc>http://localhost:1313/hu/</loc>
     <lastmod>2025-04-27T00:00:00+00:00</lastmod>
@@ -204,41 +239,6 @@
   </url><url>
     <loc>http://localhost:1313/hu/tags/szemelyes-fejlodes/</loc>
     <lastmod>2025-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/post/get-started/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="http://localhost:1313/de/post/get-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="http://localhost:1313/en/post/get-started/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="hu"
-                href="http://localhost:1313/hu/post/get-started/"
-                />
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/breakelo-medve/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/breaktanc/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/miert-halgass-zenet/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://localhost:1313/hu/tags/zene/</loc>
-    <lastmod>2025-02-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/hu/post/hugo/</loc>
