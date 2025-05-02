@@ -1,12 +1,11 @@
 User-agent: *
-Disallow: /admin/
-Disallow: /drafts/
 Allow: /
-Sitemap: {{ "sitemap.xml" | https://hunintuitive.github.io }}
-Sitemap: {{ "sitemap.xml" | https://hunintuitive.github.io/en }}
-Sitemap: {{ "sitemap.xml" | https://hunintuitive.github.io/hu }}
-Sitemap: {{ "sitemap.xml" | https://hunintuitive.github.io/de }}
-Sitemap: {{ "sitemap.xml" | https://hunorbecsi.netlify.app }}
-Sitemap: {{ "sitemap.xml" | https://hunorbecsi.netlify.app/en }}
-Sitemap: {{ "sitemap.xml" | https://hunorbecsi.netlify.app/hu }}
-Sitemap: {{ "sitemap.xml" | https://hunorbecsi.netlify.app/de }}
+
+Sitemap: https://hunintuitive.github.io/sitemap.xml
+Sitemap: https://hunintuitive.github.io/en/sitemap.xml
+Sitemap: https://hunintuitive.github.io/hu/sitemap.xml
+Sitemap: https://hunintuitive.github.io/de/sitemap.xml
+Sitemap: https://hunorbecsi.netlify.app/sitemap.xml
+Sitemap: https://hunorbecsi.netlify.app/en/sitemap.xml
+Sitemap: https://hunorbecsi.netlify.app/hu/sitemap.xml
+Sitemap: https://hunorbecsi.netlify.app/de/sitemap.xml
