@@ -6,7 +6,7 @@
 # Website name
 title: Hunor Becsi's Website
 # Website URL
-baseURL: 'https://hunorbecsi.netlify.app/'
+baseURL: 'https://hunor-techtrek.hu/'
 
 ############################
 ## CUSTOM OUTPUT FORMATS (for sitemap and robots)
