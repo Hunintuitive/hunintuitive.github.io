@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Why Listen to Music | Hunor Becsi&#39;s Website</title>
-    <link>http://localhost:1313/en/tags/why-listen-to-music/</link>
-      <atom:link href="http://localhost:1313/en/tags/why-listen-to-music/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hunorbecsi.netlify.app/en/tags/why-listen-to-music/</link>
+      <atom:link href="https://hunorbecsi.netlify.app/en/tags/why-listen-to-music/index.xml" rel="self" type="application/rss+xml" />
     <description>Why Listen to Music</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
       <title>Why Listen to Music</title>
-      <link>http://localhost:1313/en/tags/why-listen-to-music/</link>
+      <link>https://hunorbecsi.netlify.app/en/tags/why-listen-to-music/</link>
     </image>
     
     <item>
       <title>🎶 A Dive Into My Musical World - Welcome to the Journey!</title>
-      <link>http://localhost:1313/en/post/get-started/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/get-started/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/get-started/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/get-started/</guid>
       <description>&lt;h2 id=&#34;-a-dive-into-my-musical-world&#34;&gt;🎶 A Dive Into My Musical World&lt;/h2&gt;
 &lt;p&gt;
 
@@ -36,7 +36,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/get-started/break.png&#34; alt=&#34;ME&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/break.png&#34; alt=&#34;ME&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Hello, dear reader!👋&lt;/p&gt;
@@ -88,7 +88,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/get-started/bear.gif&#34; alt=&#34;Breakdance Bear GIF&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/bear.gif&#34; alt=&#34;Breakdance Bear GIF&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;One of my favorite breakdance styles is the &lt;strong&gt;&amp;ldquo;Animation Break&amp;rdquo;&lt;/strong&gt;-if I ever go pro, I’d love to put on a show like this someday!&lt;/p&gt;
@@ -145,7 +145,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h3 id=&#34;cosmic-train-extended-version&#34;&gt;Cosmic Train Extended Version&lt;/h3&gt;
@@ -167,7 +167,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h3 id=&#34;ocean-of-strange-times&#34;&gt;Ocean of Strange Times&lt;/h3&gt;
@@ -189,7 +189,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;hr&gt;

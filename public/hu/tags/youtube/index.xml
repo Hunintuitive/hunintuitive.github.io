@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YouTube | Becsi Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/youtube/</link>
-      <atom:link href="http://localhost:1313/hu/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hunorbecsi.netlify.app/hu/tags/youtube/</link>
+      <atom:link href="https://hunorbecsi.netlify.app/hu/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
     <description>YouTube</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
       <title>YouTube</title>
-      <link>http://localhost:1313/hu/tags/youtube/</link>
+      <link>https://hunorbecsi.netlify.app/hu/tags/youtube/</link>
     </image>
     
     <item>
       <title>Átfogó útmutató - Nyelveken átívelő információhoz való hozzáférés a YouTube átiratok és a mesterséges intelligencia fordítás segítségével</title>
-      <link>http://localhost:1313/hu/post/youtubetranslate/</link>
+      <link>https://hunorbecsi.netlify.app/hu/post/youtubetranslate/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/youtubetranslate/</guid>
+      <guid>https://hunorbecsi.netlify.app/hu/post/youtubetranslate/</guid>
       <description>&lt;h2 id=&#34;bevezetés&#34;&gt;Bevezetés&lt;/h2&gt;
 &lt;p&gt;A YouTube az információk kincsesbányája, ahol videók milliói találhatók a legkülönbözőbb témákban. Ha azonban egy videó nem a te anyanyelveden van, az információhoz való hozzáférés kihívást jelenthet. Szerencsére a YouTube számos videóhoz átiratot biztosít, és a mesterséges intelligencia fordítóeszközök segítségével ezeket az átiratokat lefordíthatja az általad preferált nyelvre. Ez az útmutató végigvezet a YouTube átiratok és a mesterséges intelligencia általi fordítás hatékony használatának lépésein.&lt;/p&gt;
 &lt;h2 id=&#34;1-lépés-youtube-átiratok-elérése&#34;&gt;1. lépés: YouTube átiratok elérése&lt;/h2&gt;

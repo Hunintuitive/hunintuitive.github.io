@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mental Health | Hunor Becsi&#39;s Website</title>
-    <link>http://localhost:1313/en/tags/mental-health/</link>
-      <atom:link href="http://localhost:1313/en/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hunorbecsi.netlify.app/en/tags/mental-health/</link>
+      <atom:link href="https://hunorbecsi.netlify.app/en/tags/mental-health/index.xml" rel="self" type="application/rss+xml" />
     <description>Mental Health</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
       <title>Mental Health</title>
-      <link>http://localhost:1313/en/tags/mental-health/</link>
+      <link>https://hunorbecsi.netlify.app/en/tags/mental-health/</link>
     </image>
     
     <item>
       <title>The Art of Slowing Down - Embracing Presence Over the Multitasking Myth</title>
-      <link>http://localhost:1313/en/post/slowingdown/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/slowingdown/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/slowingdown/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/slowingdown/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why it’s called the present. - Alice Morse Earle&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -40,7 +40,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Rushing implies a mindset of lack - a feeling that we are not enough, that we have to hurry to catch up with life. As Sura, a meditation coach pointed out, this state of resistance often stems from anxiety, causing us to miss out on the present moment. The truth is, when we rush, we are merely skimming the surface of our experiences rather than diving deep into what truly matters. We push ourselves to achieve milestones without fully appreciating the journey that leads us there.&lt;/p&gt;
@@ -64,7 +64,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Life is not a sprint; it is a marathon, a gradual process that requires patience and intention. Ralph Ransom highlighted that “life is a series of steps.” Yet, in a society that glorifies speed and efficiency, we often forget this fundamental truth. Slowing down allows us to savor moments, appreciate our surroundings, and cultivate meaningful connections.&lt;/p&gt;
@@ -86,7 +86,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Imagine reading a book in a hurry - sure, you finish it faster, but do you absorb its message? Does the story resonate with you? Similarly, consider a meal consumed in haste. Are we truly enjoying the flavors, or merely fueling our bodies? When we slow down, we allow ourselves to engage deeply with our experiences, transforming mundane moments into profound memories.&lt;/p&gt;
@@ -109,7 +109,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Multitasking is often hailed as a skill in the modern workplace, yet research shows it diminishes productivity and increases errors. When we scatter our focus across multiple tasks, we sacrifice the quality of our work. Instead of pouring our energy into one important project, we dilute our efforts, leading to frustration and burnout.&lt;/p&gt;
@@ -133,7 +133,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The journey of life is filled with continuous learning and improvement. As we navigate our careers, relationships, and personal growth, it’s essential to remember that there is no definitive endpoint. Just as a mango tree takes years to bear fruit, our lives are a series of nurturing processes. The slower we go, the fewer mistakes we make, and the more we grow.&lt;/p&gt;
@@ -157,7 +157,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;In our quest for fulfillment, we must learn to embrace the present moment. Whether we are enjoying a meal, conversing with a loved one, or simply walking in nature, being fully present enhances our experience. As St. Francis de Sales said, “Never be in a hurry; do everything quietly and in a calm spirit.”&lt;/p&gt;

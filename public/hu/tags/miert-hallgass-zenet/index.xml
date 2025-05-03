@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Miért Hallgass Zenét | Becsi Hunor Weboldala</title>
-    <link>http://localhost:1313/hu/tags/miert-hallgass-zenet/</link>
-      <atom:link href="http://localhost:1313/hu/tags/miert-hallgass-zenet/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hunorbecsi.netlify.app/hu/tags/miert-hallgass-zenet/</link>
+      <atom:link href="https://hunorbecsi.netlify.app/hu/tags/miert-hallgass-zenet/index.xml" rel="self" type="application/rss+xml" />
     <description>Miért Hallgass Zenét</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
       <title>Miért Hallgass Zenét</title>
-      <link>http://localhost:1313/hu/tags/miert-hallgass-zenet/</link>
+      <link>https://hunorbecsi.netlify.app/hu/tags/miert-hallgass-zenet/</link>
     </image>
     
     <item>
       <title>🎶 Merülés a zenei világomba - Isten hozott az utazásban!</title>
-      <link>http://localhost:1313/hu/post/get-started/</link>
+      <link>https://hunorbecsi.netlify.app/hu/post/get-started/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/hu/post/get-started/</guid>
+      <guid>https://hunorbecsi.netlify.app/hu/post/get-started/</guid>
       <description>&lt;h2 id=&#34;-merülés-a-zenei-világomba&#34;&gt;🎶 Merülés a zenei világomba&lt;/h2&gt;
 &lt;p&gt;
 
@@ -36,7 +36,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/get-started/break.png&#34; alt=&#34;ÉN&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/hu/post/get-started/break.png&#34; alt=&#34;ÉN&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Szia, kedves olvasóm!👋&lt;/p&gt;
@@ -88,7 +88,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/get-started/bear.gif&#34; alt=&#34;Breakdance Bear GIF&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/hu/post/get-started/bear.gif&#34; alt=&#34;Breakdance Bear GIF&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Az egyik kedvenc breakdance stílusom az &lt;strong&gt;&amp;ldquo;Animation Break &amp;ldquo;&lt;/strong&gt; - ha valaha profi leszek, szeretnék egyszer egy ilyen bemutatót tartani!&lt;/p&gt;
@@ -145,7 +145,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/hu/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/hu/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h3 id=&#34;cosmic-train-extended-version&#34;&gt;Cosmic Train Extended Version&lt;/h3&gt;
@@ -167,7 +167,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/hu/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/hu/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h3 id=&#34;ocean-of-strange-times&#34;&gt;Ocean of Strange Times&lt;/h3&gt;
@@ -189,7 +189,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/hu/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/hu/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;hr&gt;

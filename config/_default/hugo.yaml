@@ -9,6 +9,31 @@ title: Hunor Becsi's Website
 baseURL: 'https://hunorbecsi.netlify.app/'
 
 ############################
+## CUSTOM OUTPUT FORMATS (for sitemap and robots)
+############################
+
+mediaTypes:
+  application/xml:
+    suffixes: ["xml"]
+  text/plain:
+    suffixes: ["txt"]
+
+outputFormats:
+  sitemap:
+    mediaType: application/xml
+    baseName: sitemap
+    isPlainText: false
+    notAlternative: true
+    permalinkable: true
+
+  robots:
+    mediaType: text/plain
+    baseName: robots
+    isPlainText: true
+    notAlternative: true
+    permalinkable: true
+
+############################
 ## LANGUAGE
 ############################
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hunor Becsi&#39;s Website</title>
-    <link>http://localhost:1313/en/</link>
-      <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://hunorbecsi.netlify.app/en/</link>
+      <atom:link href="https://hunorbecsi.netlify.app/en/index.xml" rel="self" type="application/rss+xml" />
     <description>Hunor Becsi&#39;s Website</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
       <title>Hunor Becsi&#39;s Website</title>
-      <link>http://localhost:1313/en/</link>
+      <link>https://hunorbecsi.netlify.app/en/</link>
     </image>
     
     <item>
       <title>🎶 A Dive Into My Musical World - Welcome to the Journey!</title>
-      <link>http://localhost:1313/en/post/get-started/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/get-started/</link>
       <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/get-started/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/get-started/</guid>
       <description>&lt;h2 id=&#34;-a-dive-into-my-musical-world&#34;&gt;🎶 A Dive Into My Musical World&lt;/h2&gt;
 &lt;p&gt;
 
@@ -36,7 +36,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/get-started/break.png&#34; alt=&#34;ME&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/break.png&#34; alt=&#34;ME&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Hello, dear reader!👋&lt;/p&gt;
@@ -88,7 +88,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/get-started/bear.gif&#34; alt=&#34;Breakdance Bear GIF&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/bear.gif&#34; alt=&#34;Breakdance Bear GIF&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;One of my favorite breakdance styles is the &lt;strong&gt;&amp;ldquo;Animation Break&amp;rdquo;&lt;/strong&gt;-if I ever go pro, I’d love to put on a show like this someday!&lt;/p&gt;
@@ -145,7 +145,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/Cosmic%20Train.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h3 id=&#34;cosmic-train-extended-version&#34;&gt;Cosmic Train Extended Version&lt;/h3&gt;
@@ -167,7 +167,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/Cosmic%20Train%20Extended.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;h3 id=&#34;ocean-of-strange-times&#34;&gt;Ocean of Strange Times&lt;/h3&gt;
@@ -189,7 +189,7 @@
 
 
 &lt;audio controls &gt;
-  &lt;source src=&#34;http://localhost:1313/en/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
+  &lt;source src=&#34;https://hunorbecsi.netlify.app/en/post/get-started/Ocean%20of%20Strange%20Times.mp3&#34; type=&#34;audio/mpeg&#34;&gt;
 &lt;/audio&gt;
 
 &lt;hr&gt;
@@ -214,9 +214,9 @@
     
     <item>
       <title>Why I Write About Health Topics as an Everyday Person?</title>
-      <link>http://localhost:1313/en/post/whyipublishhealth/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/whyipublishhealth/</link>
       <pubDate>Mon, 28 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/whyipublishhealth/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/whyipublishhealth/</guid>
       <description>&lt;h2 id=&#34;why-i-blog-about-health-topics-a-journey-of-discovery&#34;&gt;Why I Blog About Health Topics: A Journey of Discovery&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In today&amp;rsquo;s complex health care environment, confusion and misinformation often lead individuals to seek quick fixes that may compromise their well-being. It is essential to recognise that the incentives driving health information can range from altruistic public health initiatives to self-serving profit motives. These incentives run a wide spectrum and reflect different motivations that can influence health decisions. Public health professionals and institutions often work for the benefit of the people and are committed to promoting the health of the community. In contrast, market actors seeking profit often manipulate information to serve their own interests while ignoring the real needs of patients.&lt;/p&gt;
@@ -481,9 +481,9 @@ You know, I say&amp;hellip; I&amp;rsquo;m sorry that the medical establishment h
     
     <item>
       <title>Rediscovering Real Food - Transform Your Diet for Lasting Health and Vitality</title>
-      <link>http://localhost:1313/en/post/realfood/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/realfood/</link>
       <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/realfood/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/realfood/</guid>
       <description>&lt;p&gt;&lt;strong&gt;In an age where convenience often overshadows quality, understanding what constitutes &amp;ldquo;real food&amp;rdquo; is more vital than ever. As we navigate a marketplace flooded with processed and ultra-processed &amp;ldquo;food-like&amp;rdquo; products, distinguishing between nourishing options and those that may be detrimental to our health becomes crucial. This journey transcends mere sustenance; it is about reclaiming our health and vitality amidst a rapidly deteriorating environment.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;In this article, I will unpack the essence of real food - what it is, which food products to avoid, and why this knowledge is essential for our well-being. Drawing insights from esteemed medical professionals and my personal health journey, I aim to provide a roadmap for transforming your diet.&lt;/p&gt;
 &lt;p&gt;My path to wellness began with the ketogenic diet and intermittent fasting - a crucial combination in my battle against obesity and sought to reverse my insulin resistance. Through this experience, I recognized the profound impact that our dietary choices have on our bodies. If you’ve seen Dr. Sten Eckberg&amp;rsquo;s enlightening video titled &amp;lsquo;Your Doctor Is Wrong About Insulin Resistance,&amp;rsquo; you may already appreciate the significance of this condition and its broader implications.&lt;/p&gt;
@@ -513,7 +513,7 @@ You know, I say&amp;hellip; I&amp;rsquo;m sorry that the medical establishment h
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/realfood/real.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;To understand what real food is, let&amp;rsquo;s refer to an insightful definition provided by Dr. Robert Lustig in one of his interviews. He describes food as &lt;strong&gt;&amp;ldquo;a substrate that contributes to either the growth or burning of an organism.&amp;rdquo;&lt;/strong&gt; This means that food serves a purpose - either as energy or as a contributor to bodily growth. However, fructose, a common sweetener, inhibits this process and is present in 73% of items in the American grocery store.&lt;/p&gt;
@@ -536,7 +536,7 @@ You know, I say&amp;hellip; I&amp;rsquo;m sorry that the medical establishment h
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/realfood/product.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;When a child asks for a bag of sweets once a week, we can question whether that truly qualifies as food. Few people consume exclusively real foods, so where is the balance?&lt;/p&gt;
@@ -589,7 +589,7 @@ You know, I say&amp;hellip; I&amp;rsquo;m sorry that the medical establishment h
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/realfood/grocery.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The NOVA classification system is a food classification tool based on the level of processing that food items undergo. Developed by researchers at the University of São Paulo in Brazil, NOVA categorizes foods into four groups:&lt;/p&gt;
@@ -684,7 +684,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/realfood/home.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Many modern food processing procedures, such as using high heat on vegetable oils and combining sugar with proteins, produce harmful compounds known as Advanced Glycation End Products (AGEs). These compounds, while palatable, can accelerate the internal aging process (similar to rusting) and lead to various health issues. Dr. Pradip Jamnadas&amp;rsquo;s clear lecture on this topic opened my eyes to the necessity of relearning proper food processing techniques, making it vital to protect the healthy foods we work hard to acquire.&lt;/p&gt;
@@ -706,7 +706,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/realfood/barbecue.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;keep-on-learning-never-stop&#34;&gt;Keep on learning, never stop!&lt;/h2&gt;
@@ -857,9 +857,9 @@ By utilizing the NOVA classification system, you can become more conscious of yo
     
     <item>
       <title>The Power of Words: How One Word Can Undermine Your Authority</title>
-      <link>http://localhost:1313/en/post/communication/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/communication/</link>
       <pubDate>Sat, 19 Apr 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/communication/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/communication/</guid>
       <description>&lt;h3 id=&#34;introduction&#34;&gt;Introduction&lt;/h3&gt;
 &lt;p&gt;As an avid learner of effective communication, I was captivated by the insights shared by Jefferson Fischer, a seasoned trial attorney and communication expert, in a recent episode of &lt;em&gt;The Diary of a CEO&lt;/em&gt;. Fischer&amp;rsquo;s wisdom illuminated the crucial role language plays in shaping our relationships, careers, and self-esteem. A particular word emerged as a significant barrier to effective communication: &amp;ldquo;just.&amp;rdquo;&lt;/p&gt;
 
@@ -897,7 +897,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
                /en/post/communication/post/communication/weak_hu1258467573571146432.webp 400w,
                /en/post/communication/post/communication/weak_hu4605424231346279981.webp 760w,
                /en/post/communication/post/communication/weak_hu3704105715186560498.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/weak_hu1258467573571146432.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/weak_hu1258467573571146432.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -929,7 +929,7 @@ By utilizing the NOVA classification system, you can become more conscious of yo
                /en/post/communication/post/communication/no_hu5411680983028109495.webp 400w,
                /en/post/communication/post/communication/no_hu2214479427449396254.webp 760w,
                /en/post/communication/post/communication/no_hu14363307389295533143.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/no_hu5411680983028109495.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/no_hu5411680983028109495.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -974,7 +974,7 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
                /en/post/communication/post/communication/cost_hu2148326397174409805.webp 400w,
                /en/post/communication/post/communication/cost_hu10775519145786177886.webp 760w,
                /en/post/communication/post/communication/cost_hu14634541831334980934.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/cost_hu2148326397174409805.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/cost_hu2148326397174409805.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1005,7 +1005,7 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
                /en/post/communication/post/communication/rude_hu4047271063263923152.webp 400w,
                /en/post/communication/post/communication/rude_hu1416668807168419533.webp 760w,
                /en/post/communication/post/communication/rude_hu8945490063863785228.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/rude_hu4047271063263923152.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/rude_hu4047271063263923152.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1088,7 +1088,7 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
                /en/post/communication/post/communication/reality_hu4452610556796158844.webp 400w,
                /en/post/communication/post/communication/reality_hu5946760626071578554.webp 760w,
                /en/post/communication/post/communication/reality_hu9921069936456881839.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/reality_hu4452610556796158844.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/reality_hu4452610556796158844.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1131,7 +1131,7 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
                /en/post/communication/post/communication/tempathy_hu3087838361283004391.webp 400w,
                /en/post/communication/post/communication/tempathy_hu3203902018681238789.webp 760w,
                /en/post/communication/post/communication/tempathy_hu1519778464288119137.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/tempathy_hu3087838361283004391.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/tempathy_hu3087838361283004391.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1168,7 +1168,7 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
                /en/post/communication/post/communication/mirroring_hu13087882218625507968.webp 400w,
                /en/post/communication/post/communication/mirroring_hu4515405210977292909.webp 760w,
                /en/post/communication/post/communication/mirroring_hu11705052292616885782.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/mirroring_hu13087882218625507968.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/mirroring_hu13087882218625507968.webp&#34;
                width=&#34;640&#34;
                height=&#34;640&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1204,7 +1204,7 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
                /en/post/communication/post/communication/labeling_hu3717442859472427088.webp 400w,
                /en/post/communication/post/communication/labeling_hu2314166428713905030.webp 760w,
                /en/post/communication/post/communication/labeling_hu14588059210548168603.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/labeling_hu3717442859472427088.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/labeling_hu3717442859472427088.webp&#34;
                width=&#34;760&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1240,7 +1240,7 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
                /en/post/communication/post/communication/accusation_hu17909493209014512377.webp 400w,
                /en/post/communication/post/communication/accusation_hu3052882509524101329.webp 760w,
                /en/post/communication/post/communication/accusation_hu17669643502797532648.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/accusation_hu17909493209014512377.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/accusation_hu17909493209014512377.webp&#34;
                width=&#34;760&#34;
                height=&#34;520&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1276,7 +1276,7 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
                /en/post/communication/post/communication/nostp_hu8361114887008617536.webp 400w,
                /en/post/communication/post/communication/nostp_hu1119872065478522209.webp 760w,
                /en/post/communication/post/communication/nostp_hu6483627104174049469.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/communication/post/communication/nostp_hu8361114887008617536.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/communication/post/communication/nostp_hu8361114887008617536.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -1304,9 +1304,9 @@ One could say, &amp;ldquo;I appreciate you thinking of me, but I won’t be able
     
     <item>
       <title>Creating Beautiful, Fast, and Free Websites with Hugo: A Guide for Linux, Mac, and Windows Users</title>
-      <link>http://localhost:1313/en/post/hugo/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/hugo/</link>
       <pubDate>Sat, 01 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/hugo/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/hugo/</guid>
       <description>&lt;h1 id=&#34;creating-beautiful-fast-and-free-websites-with-hugo-a-comprehensive-guide-for-linux-mac-and-windows-users&#34;&gt;Creating Beautiful, Fast, and Free Websites with Hugo: A Comprehensive Guide for Linux, Mac, and Windows Users&lt;/h1&gt;
 &lt;p&gt;Hugo is a powerful open-source static site generator that enables you to create stunning websites quickly and efficiently. With its remarkable speed and flexibility, Hugo is an excellent choice for developers, bloggers, and businesses seeking a free and straightforward way to host their content. In this guide, we will walk you through installing Hugo on Linux, Mac, and Windows, explore free hosting options, and highlight additional dependencies and template resources.&lt;/p&gt;
 &lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;
@@ -1504,9 +1504,9 @@ Open Command Prompt and run:&lt;/p&gt;
     
     <item>
       <title>Unlocking Fat Loss and Healing: Dr. Mindy Pelz&#39;s Guide to Autophagy and 6 Superfoods to support it</title>
-      <link>http://localhost:1313/en/post/autophagy/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/autophagy/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/autophagy/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/autophagy/</guid>
       <description>&lt;h2 id=&#34;these-6-foods-will-burn-fat-and-heal-body--dr-mindy-pelz-top-fasting-expert&#34;&gt;These 6 Foods will Burn Fat and Heal Body | Dr. Mindy Pelz, Top Fasting Expert&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Introduction&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;I recently came across this video from Dr. Mindy Pelz, who is an incredible source of insight, regarding our wellbeing and health.
@@ -1603,7 +1603,7 @@ Open Command Prompt and run:&lt;/p&gt;
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Autophagy is a natural cellular process in which cells degrade and recycle their own components. The term comes from Greek words: “Auto” (self) and “Phagy” (eating). Essentially, autophagy is the body’s method of cleaning out damaged cells to regenerate newer, healthier ones.&lt;/p&gt;
@@ -1700,9 +1700,9 @@ Open Command Prompt and run:&lt;/p&gt;
     
     <item>
       <title>Understanding Personality Through Psychological Frameworks: The Benefits, Challenges, and Inaccuracies</title>
-      <link>http://localhost:1313/en/post/psychgen/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/psychgen/</link>
       <pubDate>Sat, 14 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/psychgen/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/psychgen/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;In the realm of psychology, understanding human behavior, personality, and interpersonal dynamics is a complex and nuanced endeavor. Among the various frameworks and tools, the Myers-Briggs Type Indicator (MBTI) and the Big Five Personality Traits stand out as widely recognized methods for exploring personality. This article delves into the benefits and challenges of these psychological models while addressing potential inaccuracies and limitations inherent in their use.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;the-myers-briggs-type-indicator-mbti-insights-and-applications&#34;&gt;The Myers-Briggs Type Indicator (MBTI): Insights and Applications&lt;/h2&gt;
 &lt;h3 id=&#34;overview-of-mbti&#34;&gt;Overview of MBTI&lt;/h3&gt;
@@ -1844,9 +1844,9 @@ Open Command Prompt and run:&lt;/p&gt;
     
     <item>
       <title>Understanding the Big Five Personality Traits</title>
-      <link>http://localhost:1313/en/post/bigfive/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/bigfive/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/bigfive/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/bigfive/</guid>
       <description>
 
     
@@ -2000,9 +2000,9 @@ Open Command Prompt and run:&lt;/p&gt;
     
     <item>
       <title>Understanding the MBTI: A Tool for Personal Growth and Interpersonal Relationships</title>
-      <link>http://localhost:1313/en/post/mbti/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/mbti/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/mbti/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/mbti/</guid>
       <description>
 
     
@@ -2138,7 +2138,7 @@ Open Command Prompt and run:&lt;/p&gt;
                /en/post/mbti/post/mbti/hero_hu7160699245747680607.webp 400w,
                /en/post/mbti/post/mbti/hero_hu3353746863505768983.webp 760w,
                /en/post/mbti/post/mbti/hero_hu17984508630399659421.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/hero_hu7160699245747680607.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/hero_hu7160699245747680607.webp&#34;
                width=&#34;608&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2170,7 +2170,7 @@ This is the individual’s primary strength and most developed function. It repr
                /en/post/mbti/post/mbti/parent_hu8178854820300883282.webp 400w,
                /en/post/mbti/post/mbti/parent_hu12285300945298062986.webp 760w,
                /en/post/mbti/post/mbti/parent_hu15312564605537607401.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/parent_hu8178854820300883282.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/parent_hu8178854820300883282.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2202,7 +2202,7 @@ The Parent function supports the Hero function and reflects how individuals nurt
                /en/post/mbti/post/mbti/child_hu5950597113597588233.webp 400w,
                /en/post/mbti/post/mbti/child_hu11926149102112967104.webp 760w,
                /en/post/mbti/post/mbti/child_hu10476796316563381828.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/child_hu5950597113597588233.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/child_hu5950597113597588233.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2234,7 +2234,7 @@ This function embodies a sense of playfulness, creativity, and spontaneity. For 
                /en/post/mbti/post/mbti/inferior_hu3077785251821687261.webp 400w,
                /en/post/mbti/post/mbti/inferior_hu8732168587405654447.webp 760w,
                /en/post/mbti/post/mbti/inferior_hu6043997103005298662.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/inferior_hu3077785251821687261.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/inferior_hu3077785251821687261.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2268,7 +2268,7 @@ The Inferior function, as previously mentioned, is the least developed aspect of
                /en/post/mbti/post/mbti/self_hu982056853556176506.webp 400w,
                /en/post/mbti/post/mbti/self_hu2389981426178816322.webp 760w,
                /en/post/mbti/post/mbti/self_hu2839036695552012006.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/self_hu982056853556176506.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/self_hu982056853556176506.webp&#34;
                width=&#34;760&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2298,7 +2298,7 @@ One of the most significant benefits of the MBTI is that it encourages individua
                /en/post/mbti/post/mbti/communication_hu6945019862927457763.webp 400w,
                /en/post/mbti/post/mbti/communication_hu15382381509027051817.webp 760w,
                /en/post/mbti/post/mbti/communication_hu11216665269684805102.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/communication_hu6945019862927457763.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/communication_hu6945019862927457763.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2328,7 +2328,7 @@ Different personality types have varying communication styles. Understanding the
                /en/post/mbti/post/mbti/team_hu5726691083357200237.webp 400w,
                /en/post/mbti/post/mbti/team_hu11066106974571765899.webp 760w,
                /en/post/mbti/post/mbti/team_hu8075843563724443301.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/team_hu5726691083357200237.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/team_hu5726691083357200237.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2358,7 +2358,7 @@ In professional settings, knowing the MBTI types of team members can foster coll
                /en/post/mbti/post/mbti/relationships_hu12977844522263434418.webp 400w,
                /en/post/mbti/post/mbti/relationships_hu8603476727348517019.webp 760w,
                /en/post/mbti/post/mbti/relationships_hu14834094677348719111.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/relationships_hu12977844522263434418.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/relationships_hu12977844522263434418.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2388,7 +2388,7 @@ The MBTI can also be a valuable tool in personal relationships. By understanding
                /en/post/mbti/post/mbti/developement_hu2249016094621261583.webp 400w,
                /en/post/mbti/post/mbti/developement_hu13457653216219235495.webp 760w,
                /en/post/mbti/post/mbti/developement_hu12932591224058057400.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/mbti/post/mbti/developement_hu2249016094621261583.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/mbti/post/mbti/developement_hu2249016094621261583.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2535,9 +2535,9 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
     
     <item>
       <title>A Detailed and Comprehensive Low-Carb Dietary and Intermittent Fasting Guide</title>
-      <link>http://localhost:1313/en/post/nutrition/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/nutrition/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/nutrition/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/nutrition/</guid>
       <description>&lt;p&gt;&lt;em&gt;&lt;strong&gt;This guide merges the principles of Eric Berg and Sten Eckberg&amp;rsquo;s dietary recommendations with the effective practice of intermittent fasting, providing a detailed approach to healthier nutrition. It combines the strengths of both individuals&amp;rsquo; work while highlighting their unique aspects, ensuring a holistic understanding of a low-carb, nutrient-dense diet alongside fasting strategies.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h1 id=&#34;about-low-carb-diets-in-general&#34;&gt;About Low-Carb Diets in general:&lt;/h1&gt;
 &lt;p&gt;A low-carb diet focuses on reducing carbohydrate intake and often emphasizes the consumption of proteins and fats. This approach can lead the body into a metabolic state known as ketosis.&lt;/p&gt;
@@ -2616,7 +2616,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp 400w,
                /en/post/nutrition/post/nutrition/fats_hu14967968740712839398.webp 760w,
                /en/post/nutrition/post/nutrition/fats_hu14168891548557644008.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/fats_hu14729299635231432754.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2653,7 +2653,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp 400w,
                /en/post/nutrition/post/nutrition/protein_hu3985988088946675115.webp 760w,
                /en/post/nutrition/post/nutrition/protein_hu2622240787389504942.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/protein_hu13547535977721423599.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2688,7 +2688,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp 400w,
                /en/post/nutrition/post/nutrition/vegetables_hu9729150114698812687.webp 760w,
                /en/post/nutrition/post/nutrition/vegetables_hu637668811460900936.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/vegetables_hu13440549901959528925.webp&#34;
                width=&#34;760&#34;
                height=&#34;570&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2722,7 +2722,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp 400w,
                /en/post/nutrition/post/nutrition/fermented_hu11606051204472981349.webp 760w,
                /en/post/nutrition/post/nutrition/fermented_hu10254971514059385216.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/fermented_hu12145999608271313520.webp&#34;
                width=&#34;760&#34;
                height=&#34;505&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2757,7 +2757,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp 400w,
                /en/post/nutrition/post/nutrition/herbs_hu1012424704571459638.webp 760w,
                /en/post/nutrition/post/nutrition/herbs_hu1608450799210159914.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/herbs_hu3948700234497090535.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2876,7 +2876,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp 400w,
                /en/post/nutrition/post/nutrition/listen_hu18227554464746987530.webp 760w,
                /en/post/nutrition/post/nutrition/listen_hu4399507923610735876.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/listen_hu3133320200857953670.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2909,7 +2909,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp 400w,
                /en/post/nutrition/post/nutrition/electrolyte_hu13722727442810410052.webp 760w,
                /en/post/nutrition/post/nutrition/electrolyte_hu8213822077752006104.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/electrolyte_hu17650085835090067531.webp&#34;
                width=&#34;760&#34;
                height=&#34;410&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2942,7 +2942,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/move_hu17565910668030462789.webp 400w,
                /en/post/nutrition/post/nutrition/move_hu609616498681504825.webp 760w,
                /en/post/nutrition/post/nutrition/move_hu15022939752702117903.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/move_hu17565910668030462789.webp&#34;
                width=&#34;507&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -2973,7 +2973,7 @@ The MBTI encourages lifelong learning and adaptation. Once individuals understan
                /en/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp 400w,
                /en/post/nutrition/post/nutrition/strength_hu16000315351690534739.webp 760w,
                /en/post/nutrition/post/nutrition/strength_hu15557592185333769305.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/strength_hu3468506186594054582.webp&#34;
                width=&#34;760&#34;
                height=&#34;475&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3062,7 +3062,7 @@ These include rice, Gyula sausage and ham as processed meat products, and zakusk
                /en/post/nutrition/post/nutrition/1_hu12608306184696674095.webp 400w,
                /en/post/nutrition/post/nutrition/1_hu13957937632408086842.webp 760w,
                /en/post/nutrition/post/nutrition/1_hu7339280858994939310.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/1_hu12608306184696674095.webp&#34;
                width=&#34;760&#34;
                height=&#34;348&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3091,7 +3091,7 @@ Almond bread sandwich with sour cream, onions, tomatoes, and Gyulai sausage:
                /en/post/nutrition/post/nutrition/2_hu8531501771588726305.webp 400w,
                /en/post/nutrition/post/nutrition/2_hu6929092539650891298.webp 760w,
                /en/post/nutrition/post/nutrition/2_hu6580774699507192645.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/2_hu8531501771588726305.webp&#34;
                width=&#34;681&#34;
                height=&#34;690&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3120,7 +3120,7 @@ Almond bread with veggies, sautéed butter-garlic mushrooms, and sour cream:
                /en/post/nutrition/post/nutrition/3_hu14624479402397347917.webp 400w,
                /en/post/nutrition/post/nutrition/3_hu9575846244799456290.webp 760w,
                /en/post/nutrition/post/nutrition/3_hu1049859194176989066.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/3_hu14624479402397347917.webp&#34;
                width=&#34;723&#34;
                height=&#34;755&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3149,7 +3149,7 @@ Indian butter chicken with vegetables and almond bread:
                /en/post/nutrition/post/nutrition/4_hu11476022687597826362.webp 400w,
                /en/post/nutrition/post/nutrition/4_hu13297248705405095904.webp 760w,
                /en/post/nutrition/post/nutrition/4_hu16788571616751026126.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/4_hu11476022687597826362.webp&#34;
                width=&#34;760&#34;
                height=&#34;644&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3178,7 +3178,7 @@ Ketogenic pizza with almond bread crust, tomatoes, mushrooms, onions, ham and mo
                /en/post/nutrition/post/nutrition/5_hu10308305180695310753.webp 400w,
                /en/post/nutrition/post/nutrition/5_hu7642898172156540297.webp 760w,
                /en/post/nutrition/post/nutrition/5_hu9679629861536622174.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/5_hu10308305180695310753.webp&#34;
                width=&#34;609&#34;
                height=&#34;515&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3207,7 +3207,7 @@ Omelet with a vegetable salad dressed in olive oil, and a Transylvanian specialt
                /en/post/nutrition/post/nutrition/6_hu11180730075905629242.webp 400w,
                /en/post/nutrition/post/nutrition/6_hu5435293754586230483.webp 760w,
                /en/post/nutrition/post/nutrition/6_hu4829253932576020461.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/6_hu11180730075905629242.webp&#34;
                width=&#34;759&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3236,7 +3236,7 @@ Rich degustation menu featuring zakuszka, Transylvanian eggplant cream, olive oi
                /en/post/nutrition/post/nutrition/7_hu13657338855798430253.webp 400w,
                /en/post/nutrition/post/nutrition/7_hu2599764494827034775.webp 760w,
                /en/post/nutrition/post/nutrition/7_hu17807350305445368486.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/7_hu13657338855798430253.webp&#34;
                width=&#34;760&#34;
                height=&#34;597&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3265,7 +3265,7 @@ A simple kale tortilla filled with butter, cheese, onions, tomatoes, boiled eggs
                /en/post/nutrition/post/nutrition/8_hu12986442913084533514.webp 400w,
                /en/post/nutrition/post/nutrition/8_hu1108794753218047171.webp 760w,
                /en/post/nutrition/post/nutrition/8_hu8930888672803234106.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/8_hu12986442913084533514.webp&#34;
                width=&#34;760&#34;
                height=&#34;607&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3294,7 +3294,7 @@ Freshly baked almond bread stuffed with vegetables, ham, mushrooms, and cheese:
                /en/post/nutrition/post/nutrition/9_hu3227929631295161984.webp 400w,
                /en/post/nutrition/post/nutrition/9_hu7450178928638385947.webp 760w,
                /en/post/nutrition/post/nutrition/9_hu5274547627687762576.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/9_hu3227929631295161984.webp&#34;
                width=&#34;760&#34;
                height=&#34;568&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3323,7 +3323,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/nutrition/post/nutrition/10_hu6177596377643891001.webp 400w,
                /en/post/nutrition/post/nutrition/10_hu1259333786772562334.webp 760w,
                /en/post/nutrition/post/nutrition/10_hu3249743412475386331.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/nutrition/post/nutrition/10_hu6177596377643891001.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/nutrition/post/nutrition/10_hu6177596377643891001.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3373,9 +3373,9 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
     
     <item>
       <title>How to Effectively Inform Ourselves in Today’s World?</title>
-      <link>http://localhost:1313/en/post/information/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/information/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/information/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/information/</guid>
       <description>&lt;p&gt;In an age where information flows freely at the click of a button, staying informed can feel overwhelming. With countless news sources, social media platforms, and opinions available, navigating this landscape wisely is essential. Here’s a comprehensive guide on how to inform yourself effectively while safeguarding against misinformation.&lt;/p&gt;
 &lt;h3 id=&#34;1-diversify-your-sources&#34;&gt;1. &lt;strong&gt;Diversify Your Sources&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
@@ -3400,7 +3400,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/information/post/information/sources_hu2885125570626894921.webp 400w,
                /en/post/information/post/information/sources_hu4574939387148463147.webp 760w,
                /en/post/information/post/information/sources_hu1004073634946449116.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/information/post/information/sources_hu2885125570626894921.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/sources_hu2885125570626894921.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3437,7 +3437,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/information/post/information/credibility_hu11030024400587255219.webp 400w,
                /en/post/information/post/information/credibility_hu1509639326146487821.webp 760w,
                /en/post/information/post/information/credibility_hu17555536432391745573.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/information/post/information/credibility_hu11030024400587255219.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/credibility_hu11030024400587255219.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3472,7 +3472,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/information/post/information/bias_hu988352355585877245.webp 400w,
                /en/post/information/post/information/bias_hu13732291745982661425.webp 760w,
                /en/post/information/post/information/bias_hu7006576616403561896.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/information/post/information/bias_hu988352355585877245.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/bias_hu988352355585877245.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3508,7 +3508,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/information/post/information/social_hu11930162465824126857.webp 400w,
                /en/post/information/post/information/social_hu2383784768021433870.webp 760w,
                /en/post/information/post/information/social_hu16524696365989396359.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/information/post/information/social_hu11930162465824126857.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/social_hu11930162465824126857.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3544,7 +3544,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/information/post/information/open_hu1020789361591823764.webp 400w,
                /en/post/information/post/information/open_hu9314527732018134115.webp 760w,
                /en/post/information/post/information/open_hu9530096137217501035.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/information/post/information/open_hu1020789361591823764.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/open_hu1020789361591823764.webp&#34;
                width=&#34;504&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3579,7 +3579,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/information/post/information/ai_hu15047762487584012263.webp 400w,
                /en/post/information/post/information/ai_hu12079778686655185127.webp 760w,
                /en/post/information/post/information/ai_hu5088898830553771726.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/information/post/information/ai_hu15047762487584012263.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/ai_hu15047762487584012263.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3626,7 +3626,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/information/post/information/misinformation_hu10458511445237424244.webp 400w,
                /en/post/information/post/information/misinformation_hu13319867737015523285.webp 760w,
                /en/post/information/post/information/misinformation_hu4735096666629943379.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/information/post/information/misinformation_hu10458511445237424244.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/misinformation_hu10458511445237424244.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3660,9 +3660,9 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
     
     <item>
       <title>Comprehensive Guide - Accessing Information Across Languages Using YouTube Transcripts and AI Translation</title>
-      <link>http://localhost:1313/en/post/youtubetranslate/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/youtubetranslate/</link>
       <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/youtubetranslate/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/youtubetranslate/</guid>
       <description>&lt;h1 id=&#34;comprehensive-guide-accessing-information-across-languages-using-youtube-transcripts-and-ai-translation&#34;&gt;Comprehensive Guide: Accessing Information Across Languages Using YouTube Transcripts and AI Translation&lt;/h1&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
 &lt;p&gt;YouTube is a treasure trove of information, featuring millions of videos on a wide range of topics. However, if a video is not in your native language, accessing that information can be challenging. Thankfully, YouTube provides transcripts for many videos, and with the help of AI translation tools, you can translate these transcripts into your preferred language. This guide will walk you through the steps to efficiently use YouTube transcripts and AI translation for this purpose.&lt;/p&gt;
@@ -3760,9 +3760,9 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
     
     <item>
       <title>The Art of Slowing Down - Embracing Presence Over the Multitasking Myth</title>
-      <link>http://localhost:1313/en/post/slowingdown/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/slowingdown/</link>
       <pubDate>Sat, 07 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/slowingdown/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/slowingdown/</guid>
       <description>&lt;blockquote&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Yesterday is history. Tomorrow is a mystery. Today is a gift. That’s why it’s called the present. - Alice Morse Earle&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -3786,7 +3786,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/rushing.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Rushing implies a mindset of lack - a feeling that we are not enough, that we have to hurry to catch up with life. As Sura, a meditation coach pointed out, this state of resistance often stems from anxiety, causing us to miss out on the present moment. The truth is, when we rush, we are merely skimming the surface of our experiences rather than diving deep into what truly matters. We push ourselves to achieve milestones without fully appreciating the journey that leads us there.&lt;/p&gt;
@@ -3810,7 +3810,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/marathon.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Life is not a sprint; it is a marathon, a gradual process that requires patience and intention. Ralph Ransom highlighted that “life is a series of steps.” Yet, in a society that glorifies speed and efficiency, we often forget this fundamental truth. Slowing down allows us to savor moments, appreciate our surroundings, and cultivate meaningful connections.&lt;/p&gt;
@@ -3832,7 +3832,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/book.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Imagine reading a book in a hurry - sure, you finish it faster, but do you absorb its message? Does the story resonate with you? Similarly, consider a meal consumed in haste. Are we truly enjoying the flavors, or merely fueling our bodies? When we slow down, we allow ourselves to engage deeply with our experiences, transforming mundane moments into profound memories.&lt;/p&gt;
@@ -3855,7 +3855,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/multitasking.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Multitasking is often hailed as a skill in the modern workplace, yet research shows it diminishes productivity and increases errors. When we scatter our focus across multiple tasks, we sacrifice the quality of our work. Instead of pouring our energy into one important project, we dilute our efforts, leading to frustration and burnout.&lt;/p&gt;
@@ -3879,7 +3879,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/journey.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;The journey of life is filled with continuous learning and improvement. As we navigate our careers, relationships, and personal growth, it’s essential to remember that there is no definitive endpoint. Just as a mango tree takes years to bear fruit, our lives are a series of nurturing processes. The slower we go, the fewer mistakes we make, and the more we grow.&lt;/p&gt;
@@ -3903,7 +3903,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/en/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/en/post/slowingdown/fulfillment.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;In our quest for fulfillment, we must learn to embrace the present moment. Whether we are enjoying a meal, conversing with a loved one, or simply walking in nature, being fully present enhances our experience. As St. Francis de Sales said, “Never be in a hurry; do everything quietly and in a calm spirit.”&lt;/p&gt;
@@ -3917,9 +3917,9 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
     
     <item>
       <title>Taking Charge of Your Health - My Journey from Struggles to Strength</title>
-      <link>http://localhost:1313/en/post/health/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/health/</link>
       <pubDate>Tue, 12 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/health/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/health/</guid>
       <description>&lt;h2 id=&#34;i-understand-that-while-its-easy-to-say-just-do-it-taking-action-can-often-feel-overwhelming-i-vividly-recall-my-former-self-questioning-are-you-serious-how-can-i-possibly-tackle-this-theres-so-much-information-out-there---how-do-i-know-whats-truly-helpful-for-me-isnt-it-enough-just-to-consult-my-doctors-i-simply-dont-have-the-time-for-this&#34;&gt;I understand that while it’s easy to say, “Just do it,” taking action can often feel overwhelming. I vividly recall my former self questioning, “Are you serious? How can I possibly tackle this? There’s so much information out there - how do I know what’s truly helpful for me? Isn’t it enough just to consult my doctors? I simply don’t have the time for this!”&lt;/h2&gt;
 &lt;p&gt;The reality is that, yes, &lt;strong&gt;you&lt;/strong&gt; can take charge of your health. &lt;strong&gt;However, relying on the wrong information could lead you into serious trouble.&lt;/strong&gt; Ultimately, your health is &lt;strong&gt;your&lt;/strong&gt; responsibility; no one else will take ownership of it.&lt;/p&gt;
 &lt;h2 id=&#34;you-might-be-surprised-to-learn-that-this-was-me-back-in-the-spring-of-2020-humble-beginnings-indeed&#34;&gt;You might be surprised to learn that this was me back in the spring of 2020: humble beginnings, indeed…&lt;/h2&gt;
@@ -3945,7 +3945,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/health/meunhealthy_hu13588576499155503934.webp 400w,
                /en/post/health/meunhealthy_hu8347299589404435177.webp 760w,
                /en/post/health/meunhealthy_hu3603714243754390691.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/health/meunhealthy_hu13588576499155503934.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/health/meunhealthy_hu13588576499155503934.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -3974,7 +3974,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/health/mehealthy_hu12956826729830531394.webp 400w,
                /en/post/health/mehealthy_hu11704054829860929877.webp 760w,
                /en/post/health/mehealthy_hu10549967406138670410.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/health/mehealthy_hu12956826729830531394.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/health/mehealthy_hu12956826729830531394.webp&#34;
                width=&#34;760&#34;
                height=&#34;567&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4008,7 +4008,7 @@ Butter-garlic chicken breast with scrambled eggs, sauerkraut, arugula, and tomat
                /en/post/health/doctor_hu2894407362411578465.webp 400w,
                /en/post/health/doctor_hu6252066673234941761.webp 760w,
                /en/post/health/doctor_hu3059248370869431956.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/health/doctor_hu2894407362411578465.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/health/doctor_hu2894407362411578465.webp&#34;
                width=&#34;760&#34;
                height=&#34;181&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4099,7 +4099,7 @@ Link to video:
                /en/post/health/bye_hu16740464285310595195.webp 400w,
                /en/post/health/bye_hu18207890042636693065.webp 760w,
                /en/post/health/bye_hu7363268470650961121.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/health/bye_hu16740464285310595195.webp&#34;
+               src=&#34;https://hunorbecsi.netlify.app/en/post/health/bye_hu16740464285310595195.webp&#34;
                width=&#34;446&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -4112,17 +4112,17 @@ Link to video:
     
     <item>
       <title>Experience</title>
-      <link>http://localhost:1313/en/experience/</link>
+      <link>https://hunorbecsi.netlify.app/en/experience/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/experience/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/experience/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Future of AI: How relevant is it for the human race?</title>
-      <link>http://localhost:1313/en/post/ai/</link>
+      <link>https://hunorbecsi.netlify.app/en/post/ai/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/ai/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/post/ai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This article was initially inspired by my struggle to search for an appropriate job, just to find out how detrimental the use of AI in some cases can be. The use of AI algorithms in ATS systems is not so beneficial as some may think. I have also included some interesting links from YouTube on the subject of AI and ATS systems. Have fun reading!&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 
@@ -4232,9 +4232,9 @@ Personalization: AI can analyze user behavior and preferences to provide persona
     
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/en/projects/</link>
+      <link>https://hunorbecsi.netlify.app/en/projects/</link>
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/projects/</guid>
+      <guid>https://hunorbecsi.netlify.app/en/projects/</guid>
       <description></description>
     </item>
     
