@@ -35,7 +35,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'pexels-markus-winkler'
+  caption: 'A cikk képei MI-vel lettek generálva'
   focal_point: ""
   preview_only: false
 
@@ -56,7 +56,7 @@ slides: example
 
 ---
 
-## Miért blogolok egészségügyi témákról? -- A felfedezés útja
+## Amiért egészségügyi témákról bloggolok: A felfedezés útja
 
 **Bevezetés**
 
@@ -109,6 +109,8 @@ Fontos megérteni, hogy még a legjobb szándékú orvosok vagy tudósok is kép
 ---
 
 ### Kihívások a modern orvostudományban
+
+![Alt text](/post/whyipublishhealth/challenges.png)
 
 Míg a személyes élmények mélyebb betekintést nyújthatnak, gyakran rávilágítanak az orvosi közösségen belüli széleskörű kihívásokra is. Nemrégiben találkoztam egy aggasztó tendenciával, amikor egy elismert egészségügyi szakember elutasította az alternatív egészségügyi gyakorlatokról szóló vitákat, csupán azért, mert azok ellentmondtak a széles körben elfogadott tanácsoknak, vagy tudományos konszenzusnak. Ez az eset kiemel egy jelentős problémát: a hagyományos módszerekhez való merev ragaszkodást, amely gyakran figyelmen kívül hagyja a status quo-t megkérdőjelező, újonnan felmerülő bizonyítékokat.
 
@@ -184,7 +186,10 @@ Ha az adatok vagy tények nem könnyen hozzáférhetőek, vagy ha az „orvosi s
 
 ---
 
-**Személyes történetek és tágabb betekintés:**
+### Saját élmények és ezekből adódó következtetések:
+
+![Alt text](/post/whyipublishhealth/personal.png)
+
 A ***Sohasem ártok - First Do No Harm (1997)*** ([Pubmed cikk a mögöttes igaz történetekkel kapcsolatban](https://pubmed.ncbi.nlm.nih.gov/22575229/)) című film egy Lori nevű anya megható igaz történetét meséli el, akinek fia, Robbie súlyos, nehezen kezelhető epilepsziában szenved. Lori útja sok olyan család küzdelmét tükrözi, akik hasonló orvosi kihívásokkal néznek szembe, és a való életben élő megfelelője, Phyllis Abrahams példázza azt a rugalmasságot és elszántságot, amely a bonyolult egészségügyi rendszerben való eligazodáshoz szükséges. Érdekes módon én is hasonló utat jártam be, mivel gyermekkoromban Romániában tévesen diagnosztizáltak nálam epilepsziát. Ez a téves diagnózis kihívást jelentő orvosi tapasztalatokhoz vezetett, beleértve a pneumoencefalográfiának nevezett eljárást, amelynek során levegőt fecskendeznek az agy-gerincvelői folyadékba (CSF), hogy javítsák az olyan állapotok képalkotását, mint az epilepszia. Sajnos ez a kockázatos eljárás súlyos szövődményekhez, például fertőzésekhez és rohamokhoz is vezethetett volna. Ráadásul epilepsziás gyógyszereket is felírtak nekem. Végül tizenéves koromban egy neurológus súlyos migrént diagnosztizált nálam - amelyet valószínűleg a pneumoencefalográfia vagy az epilepsziaellenes gyógyszerek okoztak -, és megerősítette, hogy valójában soha nem volt epilepsziám, csupán alvajáró voltam. Nehéz volt feldolgozni a tényt, hogy egy téves diagnózis alapján ilyen veszélyes gyakorlatnak vetettem alá magam.
 
 Ahogy Lori, akit Phyllis könyörtelen megoldáskeresése inspirált, alternatív lehetőségeket keresett a fia számára, miután kimerítette a hagyományos orvosi utakat, én is hasonló utakat kerestem, miután aurás migrénnel, magas vérnyomással, elhízással és a valószínűsíthető kiváltó okkal, az inzulinrezisztenciával küzdöttem. Lori kutatásai az étrendi változtatásokkal, különösen a ketogén diétával kapcsolatban drámaian csökkentették fia rohamait, ami jól mutatja egy anya rendíthetetlen elkötelezettségét gyermeke egészsége iránt. Hasonlóképpen, a ketogén életmód felfedezése jelentősen javította az egészségemet, lehetővé téve számomra, hogy visszaszerezzem a jólétemet.
@@ -200,6 +205,8 @@ Az alternatív egészségügyi gyakorlatokban rejlő teljes potenciál megérté
 ---
 
 ### Az egészségügyi műveltség fontossága
+
+![Alt text](/post/whyipublishhealth/literacy.png)
 
 Az egészségügyi műveltség az egészségügyi ellátás összetett világában való eligazodás alapvető eleme. Ahogy az egyének tájékozottabbá válnak az egészségügyi témákról, képessé válnak arra, hogy jobb döntéseket hozzanak a jólétükkel kapcsolatban. Az egészségügyi ismereteink bővítése során azonban létfontosságú, hogy éberek maradjunk az orvosi közösséget átható előítéletekkel szemben. Az egészségügyi szakemberek gyakran a bevett protokollok szerint működnek, ami akaratlanul is elfojtja az innovatív vagy alternatív kezelési megközelítéseket. Egyes szakemberek nyomást érezhetnek arra, hogy ragaszkodjanak ezekhez a bevett protokollokhoz, félve attól, hogy az alternatív megközelítések felfedezésének következményei lesznek. Sajnálatos módon kényes az egyensúly a bevált módszerekhez való ragaszkodás és a betegek ellátását javító újszerű ötletekre való nyitottság között.
 
@@ -354,5 +361,5 @@ Tudod, én azt mondom... Sajnálom, hogy az orvostudomány nem ismerte fel, amit
 
 --- 
 
-**Jogi nyilatkozat:** A blogban bemutatott információk kizárólag oktatási célokat szolgálnak, és nem tekinthetők orvosi vagy táplálkozási tanácsadásnak. Nem vagyok képzett egészségügyi szakember, és a megosztott meglátások személyes tapasztalatokon és kutatásokon alapulnak. Az egyéni egészségi állapotok eltérőek, és ami az egyik személynek beválik, nem biztos, hogy a másiknak megfelelő. Bármilyen egészségügyi problémával vagy kezelési lehetőséggel kapcsolatban mindig keresd egy képzett egészségügyi szolgáltató útmutatását. Az itt megosztott nézőpontok az egészséggel kapcsolatos tájékozott eszmecserék ösztönzésére szolgálnak, azonban nem helyettesíthetik a szakszerű orvosi tanácsadást.
+**Jogi nyilatkozat:** A blogban bemutatott információk kizárólag oktatási célokat szolgálnak, és nem tekinthetők orvosi vagy táplálkozási tanácsadásnak. Nem vagyok képzett egészségügyi szakember, és a megosztott meglátások személyes tapasztalatokon és kutatásokon alapulnak. Ezért nem tudok felelősséget vállalni a közzétett tartalomért, még akkor sem, ha minden tőlem telhetőt megtettem annak érdekében, hogy tényszerű információkat nyújtsak, melyek az egészségre vonatkozó témákkal kapcsolatos tanulmányaimon és a képzett szakemberek megállapításain alapulnak. Az egyéni egészségi állapotok eltérőek, és ami az egyik személynek beválik, nem biztos, hogy a másiknak megfelelő. Bármilyen egészségügyi problémával vagy kezelési lehetőséggel kapcsolatban mindig keresd egy képzett egészségügyi szolgáltató útmutatását. Az itt megosztott nézőpontok az egészséggel kapcsolatos tájékozott eszmecserék ösztönzésére szolgálnak, azonban nem helyettesíthetik a szakszerű orvosi tanácsadást.
 

@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Atrificial Intelligence | Hunor Becsi&#39;s Website</title>
-    <link>https://hunorbecsi.netlify.app/en/tags/atrificial-intelligence/</link>
-      <atom:link href="https://hunorbecsi.netlify.app/en/tags/atrificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/atrificial-intelligence/</link>
+      <atom:link href="http://localhost:1313/en/tags/atrificial-intelligence/index.xml" rel="self" type="application/rss+xml" />
     <description>Atrificial Intelligence</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Atrificial Intelligence</title>
-      <link>https://hunorbecsi.netlify.app/en/tags/atrificial-intelligence/</link>
+      <link>http://localhost:1313/en/tags/atrificial-intelligence/</link>
     </image>
     
     <item>
       <title>The Future of AI: How relevant is it for the human race?</title>
-      <link>https://hunorbecsi.netlify.app/en/post/ai/</link>
+      <link>http://localhost:1313/en/post/ai/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://hunorbecsi.netlify.app/en/post/ai/</guid>
+      <guid>http://localhost:1313/en/post/ai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;This article was initially inspired by my struggle to search for an appropriate job, just to find out how detrimental the use of AI in some cases can be. The use of AI algorithms in ATS systems is not so beneficial as some may think. I have also included some interesting links from YouTube on the subject of AI and ATS systems. Have fun reading!&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 

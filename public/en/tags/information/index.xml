@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Information | Hunor Becsi&#39;s Website</title>
-    <link>https://hunorbecsi.netlify.app/en/tags/information/</link>
-      <atom:link href="https://hunorbecsi.netlify.app/en/tags/information/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/tags/information/</link>
+      <atom:link href="http://localhost:1313/en/tags/information/index.xml" rel="self" type="application/rss+xml" />
     <description>Information</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 10 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Information</title>
-      <link>https://hunorbecsi.netlify.app/en/tags/information/</link>
+      <link>http://localhost:1313/en/tags/information/</link>
     </image>
     
     <item>
       <title>How to Effectively Inform Ourselves in Today’s World?</title>
-      <link>https://hunorbecsi.netlify.app/en/post/information/</link>
+      <link>http://localhost:1313/en/post/information/</link>
       <pubDate>Tue, 10 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://hunorbecsi.netlify.app/en/post/information/</guid>
+      <guid>http://localhost:1313/en/post/information/</guid>
       <description>&lt;p&gt;In an age where information flows freely at the click of a button, staying informed can feel overwhelming. With countless news sources, social media platforms, and opinions available, navigating this landscape wisely is essential. Here’s a comprehensive guide on how to inform yourself effectively while safeguarding against misinformation.&lt;/p&gt;
 &lt;h3 id=&#34;1-diversify-your-sources&#34;&gt;1. &lt;strong&gt;Diversify Your Sources&lt;/strong&gt;&lt;/h3&gt;
 &lt;p&gt;
@@ -41,7 +41,7 @@
                /en/post/information/post/information/sources_hu2885125570626894921.webp 400w,
                /en/post/information/post/information/sources_hu4574939387148463147.webp 760w,
                /en/post/information/post/information/sources_hu1004073634946449116.webp 1200w&#34;
-               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/sources_hu2885125570626894921.webp&#34;
+               src=&#34;http://localhost:1313/en/post/information/post/information/sources_hu2885125570626894921.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -78,7 +78,7 @@
                /en/post/information/post/information/credibility_hu11030024400587255219.webp 400w,
                /en/post/information/post/information/credibility_hu1509639326146487821.webp 760w,
                /en/post/information/post/information/credibility_hu17555536432391745573.webp 1200w&#34;
-               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/credibility_hu11030024400587255219.webp&#34;
+               src=&#34;http://localhost:1313/en/post/information/post/information/credibility_hu11030024400587255219.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -113,7 +113,7 @@
                /en/post/information/post/information/bias_hu988352355585877245.webp 400w,
                /en/post/information/post/information/bias_hu13732291745982661425.webp 760w,
                /en/post/information/post/information/bias_hu7006576616403561896.webp 1200w&#34;
-               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/bias_hu988352355585877245.webp&#34;
+               src=&#34;http://localhost:1313/en/post/information/post/information/bias_hu988352355585877245.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -149,7 +149,7 @@
                /en/post/information/post/information/social_hu11930162465824126857.webp 400w,
                /en/post/information/post/information/social_hu2383784768021433870.webp 760w,
                /en/post/information/post/information/social_hu16524696365989396359.webp 1200w&#34;
-               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/social_hu11930162465824126857.webp&#34;
+               src=&#34;http://localhost:1313/en/post/information/post/information/social_hu11930162465824126857.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -185,7 +185,7 @@
                /en/post/information/post/information/open_hu1020789361591823764.webp 400w,
                /en/post/information/post/information/open_hu9314527732018134115.webp 760w,
                /en/post/information/post/information/open_hu9530096137217501035.webp 1200w&#34;
-               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/open_hu1020789361591823764.webp&#34;
+               src=&#34;http://localhost:1313/en/post/information/post/information/open_hu1020789361591823764.webp&#34;
                width=&#34;504&#34;
                height=&#34;760&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -220,7 +220,7 @@
                /en/post/information/post/information/ai_hu15047762487584012263.webp 400w,
                /en/post/information/post/information/ai_hu12079778686655185127.webp 760w,
                /en/post/information/post/information/ai_hu5088898830553771726.webp 1200w&#34;
-               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/ai_hu15047762487584012263.webp&#34;
+               src=&#34;http://localhost:1313/en/post/information/post/information/ai_hu15047762487584012263.webp&#34;
                width=&#34;760&#34;
                height=&#34;428&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -267,7 +267,7 @@
                /en/post/information/post/information/misinformation_hu10458511445237424244.webp 400w,
                /en/post/information/post/information/misinformation_hu13319867737015523285.webp 760w,
                /en/post/information/post/information/misinformation_hu4735096666629943379.webp 1200w&#34;
-               src=&#34;https://hunorbecsi.netlify.app/en/post/information/post/information/misinformation_hu10458511445237424244.webp&#34;
+               src=&#34;http://localhost:1313/en/post/information/post/information/misinformation_hu10458511445237424244.webp&#34;
                width=&#34;760&#34;
                height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;

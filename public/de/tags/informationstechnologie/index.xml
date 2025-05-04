@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Informationstechnologie | Hunor Becsis Webseite</title>
-    <link>https://hunorbecsi.netlify.app/de/tags/informationstechnologie/</link>
-      <atom:link href="https://hunorbecsi.netlify.app/de/tags/informationstechnologie/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/de/tags/informationstechnologie/</link>
+      <atom:link href="http://localhost:1313/de/tags/informationstechnologie/index.xml" rel="self" type="application/rss+xml" />
     <description>Informationstechnologie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>de</language><lastBuildDate>Sat, 09 Nov 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Informationstechnologie</title>
-      <link>https://hunorbecsi.netlify.app/de/tags/informationstechnologie/</link>
+      <link>http://localhost:1313/de/tags/informationstechnologie/</link>
     </image>
     
     <item>
       <title>Die Zukunft der KI: Wie relevant ist sie für die Menschheit?</title>
-      <link>https://hunorbecsi.netlify.app/de/post/ai/</link>
+      <link>http://localhost:1313/de/post/ai/</link>
       <pubDate>Sat, 09 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://hunorbecsi.netlify.app/de/post/ai/</guid>
+      <guid>http://localhost:1313/de/post/ai/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Dieser Artikel wurde ursprünglich von den Schwierigkeiten inspiriert, die richtige Stelle zu finden, nur um dann festzustellen, wie schädlich der Einsatz von künstlicher Intelligenz in manchen Fällen sein kann. Der Einsatz von KI-Algorithmen in ATS-Systemen (Applicant Tracking System) ist nicht so vorteilhaft, wie manche Leute denken. Ich habe einige interessante Links von YouTube zum Thema KI und ATS-Systeme eingefügt. Sie sind mit englischen, aber automatisch sogar auf Deutsch übersetzten Untertiteln versehen. Viel Spaß beim Lesen!&lt;/strong&gt;&lt;/p&gt;
 &lt;hr&gt;
 

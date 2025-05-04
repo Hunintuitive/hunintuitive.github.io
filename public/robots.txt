@@ -1,5 +1,5 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://hunor-techtrek.hu/sitemap.xml
+Sitemap: http://localhost:1313/sitemap.xml
 

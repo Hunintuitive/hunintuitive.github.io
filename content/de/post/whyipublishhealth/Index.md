@@ -35,7 +35,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'pexels-markus-winkler'
+  caption: 'Bilder zu diesem Artikel wurden mit KI generiert'
   focal_point: ""
   preview_only: false
 
@@ -109,6 +109,8 @@ Es ist wichtig zu verstehen, dass selbst die wohlmeinendsten Ärzte oder Wissens
 ---
 
 ### Herausforderungen in der modernen Medizin
+
+![Alt text](/post/whyipublishhealth/challenges.png)
 
 Persönliche Erfahrungen können zwar einen Einblick geben, aber sie werfen auch oft ein Schlaglicht auf umfassendere Herausforderungen innerhalb der medizinischen Gemeinschaft. Kürzlich wurde ich mit einem beunruhigenden Trend konfrontiert, als ein angesehener Mediziner Diskussionen über alternative Gesundheitspraktiken abtat, nur weil sie den gängigen Ratschlägen widersprachen. Dieser Vorfall unterstreicht ein bedeutendes Problem: ein starres Festhalten an traditionellen Methoden, bei dem neue Erkenntnisse, die den Status quo in Frage stellen, oft übersehen werden.
 
@@ -184,7 +186,10 @@ Wenn Daten oder Fakten nicht ohne weiteres verfügbar sind oder wenn der „medi
 
 ---
 
-**Persönliche Erfahrungen und weitergehende Einsichten:**
+### Eigene Beobachtungen und Erkenntnisse:
+
+![Alt text](/post/whyipublishhealth/personal.png)
+
 Der Film ***Solange es noch Hoffnung gibt - First Do No Harm (1997)*** ([Pubmed-Artikel zu den wahren Geschichten dahinter](https://pubmed.ncbi.nlm.nih.gov/22575229/)) erzählt die ergreifende wahre Geschichte einer Mutter namens Lori, deren Sohn Robbie an schwerer hartnäckiger Epilepsie leidet. Loris Weg spiegelt die Kämpfe vieler Familien wider, die mit ähnlichen medizinischen Herausforderungen konfrontiert sind, und ihr Gegenstück im wirklichen Leben, Phyllis Abrahams, ist ein Beispiel für die Widerstandsfähigkeit und Entschlossenheit, die erforderlich sind, um sich in einem komplexen Gesundheitssystem zurechtzufinden. Interessanterweise habe auch ich einen ähnlichen Weg hinter mir, denn während meiner Kindheit in Rumänien wurde bei mir fälschlicherweise Epilepsie diagnostiziert. Diese Fehldiagnose führte zu einer schwierigen medizinischen Erfahrung, einschließlich eines Verfahrens namens Pneumoenzephalographie, bei dem Luft in die Gehirn-Rückenmarks-Flüssigkeit (CSF) injiziert wird, um die Bildgebung bei Erkrankungen wie Epilepsie zu verbessern. Leider hätte dieses riskante Verfahren zu schweren Komplikationen wie Infektionen und Krampfanfällen führen können. Außerdem wurden mir Epilepsiemedikamente verschrieben. Schließlich diagnostizierte eine Neurologin in meinen frühen Teenagerjahren bei mir schwere Migräne - möglicherweise verursacht durch die Pneumoenzephalographie oder die Epilepsiemedikamente - und bestätigte, dass ich nie wirklich Epilepsie hatte; ich schlafwandelte lediglich. Es fiel mir schwer, mich mit der Tatsache abzufinden, dass ich mich aufgrund einer falschen Diagnose einer so gefährlichen Praxis unterzogen hatte.
 
 Als Lori, inspiriert von Phyllis' unermüdlicher Suche nach Lösungen, alternative Möglichkeiten für ihren Sohn erforschte, nachdem sie die traditionellen medizinischen Wege ausgeschöpft hatte, fand auch ich mich auf der Suche nach ähnlichen Wegen wieder, nachdem ich mit Aura-Migräne, Bluthochdruck, Fettleibigkeit und der wahrscheinlich zugrunde liegenden Ursache, der Insulinresistenz, zu kämpfen hatte. Loris Erforschung von Ernährungsumstellungen, insbesondere der ketogenen Diät, führte zu einer drastischen Verringerung der Anfälle ihres Sohnes und veranschaulichte das unerschütterliche Engagement einer Mutter für die Gesundheit ihres Kindes. Auch meine Erkundung der ketogenen Lebensweise hat meine Gesundheit erheblich verbessert und mir ermöglicht, mein Wohlbefinden wiederzuerlangen.
@@ -200,6 +205,8 @@ Das volle Potenzial alternativer Gesundheitsmethoden zu verstehen, ist mit Hinde
 ---
 
 ### Die Bedeutung von Gesundheitsbildung
+
+![Alt text](/post/whyipublishhealth/literacy.png)
 
 Gesundheitsbildung ist eine entscheidende Komponente, um sich in der komplexen Welt der Gesundheitsversorgung zurechtzufinden. Je besser der Einzelne über Gesundheitsthemen informiert ist, desto besser kann er Entscheidungen über sein Wohlergehen treffen. Bei der Verbesserung unserer Gesundheitsbildung ist es jedoch von entscheidender Bedeutung, dass wir uns der Vorurteile bewusst sind, die in der medizinischen Gemeinschaft herrschen können. Medizinische Fachkräfte arbeiten oft innerhalb etablierter Protokolle, die ungewollt innovative oder alternative Behandlungsansätze unterdrücken können. Manche Mediziner fühlen sich unter Druck gesetzt, sich an diese etablierten Protokolle zu halten, weil sie Konsequenzen fürchten, wenn sie alternative Ansätze erforschen. Es ist ein heikles Gleichgewicht zwischen dem Festhalten an bewährten Methoden und der Offenheit für neue Ideen, die die Patientenversorgung verbessern können.
 
@@ -354,4 +361,4 @@ Wissen Sie, ich sage... Es tut mir leid, dass das medizinische Umfeld noch nicht
 
 ---
 
-**Haftungsausschluss:** Die in diesem Blog präsentierten Informationen sind nur für Bildungszwecke gedacht und sollten nicht als medizinische oder ernährungswissenschaftliche Beratung ausgelegt werden. Ich bin keine zugelassene medizinische Fachkraft, und die geteilten Einsichten beruhen auf persönlichen Erfahrungen und Recherchen. Individuelle Gesundheitszustände sind unterschiedlich, und was für eine Person gut ist, ist für eine andere möglicherweise nicht geeignet. Wende dich bei medizinischen Problemen oder Behandlungsmöglichkeiten immer an einen qualifizierten Gesundheitsdienstleister. Die hier gezeigten Perspektiven sollen zu sachkundigen Diskussionen über die Gesundheit anregen; sie sollten jedoch keine professionelle medizinische Beratung ersetzen.
+**Haftungsausschluss:** Die in diesem Blog präsentierten Informationen sind nur für Bildungszwecke gedacht und sollten nicht als medizinische oder ernährungswissenschaftliche Beratung ausgelegt werden. Ich bin keine zugelassene medizinische Fachkraft, und die geteilten Einsichten beruhen auf persönlichen Erfahrungen und Recherchen. Daher kann ich keine Verantwortung für den veröffentlichten Inhalt übernehmen, auch wenn ich mich bemüht habe, sachliche Informationen zu liefern, die auf meinen Studien zu gesundheitsbezogenen Themen und den Erkenntnissen qualifizierter Fachleute beruhen. Individuelle Gesundheitszustände sind unterschiedlich, und was für eine Person gut ist, ist für eine andere möglicherweise nicht geeignet. Wende dich bei medizinischen Problemen oder Behandlungsmöglichkeiten immer an einen qualifizierten Gesundheitsdienstleister. Die hier gezeigten Perspektiven sollen zu sachkundigen Diskussionen über die Gesundheit anregen; sie sollten jedoch keine professionelle medizinische Beratung ersetzen.

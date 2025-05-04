@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Böjt | Becsi Hunor Weboldala</title>
-    <link>https://hunorbecsi.netlify.app/hu/tags/bojt/</link>
-      <atom:link href="https://hunorbecsi.netlify.app/hu/tags/bojt/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/hu/tags/bojt/</link>
+      <atom:link href="http://localhost:1313/hu/tags/bojt/index.xml" rel="self" type="application/rss+xml" />
     <description>Böjt</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://hunorbecsi.netlify.app/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Böjt</title>
-      <link>https://hunorbecsi.netlify.app/hu/tags/bojt/</link>
+      <link>http://localhost:1313/hu/tags/bojt/</link>
     </image>
     
     <item>
       <title>A zsírégetés és a gyógyulás feloldása: Dr. Mindy Pelz útmutatója az autofágiáról és 6 szuperélelmiszer, mely támogatja azt</title>
-      <link>https://hunorbecsi.netlify.app/hu/post/autophagy/</link>
+      <link>http://localhost:1313/hu/post/autophagy/</link>
       <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://hunorbecsi.netlify.app/hu/post/autophagy/</guid>
+      <guid>http://localhost:1313/hu/post/autophagy/</guid>
       <description>&lt;h2 id=&#34;ez-a-6-étel-zsírt-éget-és-meggyógyítja-a-testet--dr-mindy-pelz-vezető-böjtölési-szakértő&#34;&gt;Ez a 6 étel zsírt éget és meggyógyítja a testet | Dr. Mindy Pelz, vezető böjtölési szakértő&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bevezetés&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Nemrégiben bukkantam erre a videóra Dr. Mindy Pelz-től, aki hihetetlenül nagy forrása az olyan értékes meglátásoknak, melyek a jólétünkkel és egészségünkkel kapcsolatosak.
@@ -114,7 +114,7 @@
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://hunorbecsi.netlify.app/hu/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;http://localhost:1313/hu/post/autophagy/virus.jpg&#34; alt=&#34;Alt text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;p&gt;Az autofágia egy természetes sejtfolyamat, amelynek során a sejtek lebontják és újrahasznosítják saját alkotóelemeiket. A kifejezés görög szavakból származik: „Auto” (ön) és »Fágia« (evés) szavakból ered. Lényegében az autofágia a szervezet módszere a sérült sejtek kitakarítására, hogy újabb, egészségesebb sejtek keletkezzenek.&lt;/p&gt;
