@@ -281,7 +281,7 @@ skills:
 
 languages:
   - name: English
-    percent: 95
+    percent: 98
   - name: German
     percent: 100
   - name: Hungarian
@@ -298,6 +298,14 @@ awards:
     awarder: 'Covalen Teamlead - Dóra Nagy, János Gábor Grenitzer'
     summary: |
       Two-time Star of the Month team-level recognition, multiple Covalen Value Champion honorary nominations from my peers and superiors. Consistently 100% Case and previously Call Quality results.
+
+  - title: Feedback from a customer regarding IT support
+    url: ''
+    date: '2019-01-16'
+    awarder: 'Steffen Thum - Director Commerzbank Ulm'
+    summary: |
+      Hello OS Delivery Team, Thank you for asking. Everything is working as hoped on my computer - the solution yesterday worked. The colleague was very friendly and professional (10 out of 10 points!:-))
+      Best regards
 
   - title: Former Team Lead commendation
     url: ''

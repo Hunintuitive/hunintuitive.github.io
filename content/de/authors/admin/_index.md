@@ -283,7 +283,7 @@ skills:
 
 languages:
   - name: Englisch
-    percent: 95
+    percent: 98
   - name: Deutsch
     percent: 100
   - name: Ungarisch
@@ -301,6 +301,15 @@ awards:
     summary: |
       Zweimalige Auszeichnung als "Star of the Month" auf Team-ebene, mehrfache Nominierung zum "Covalen Value Champion" durch meine Kollegen und Vorgesetzten. Konstant 100%-ige Ergebnisse bei der Fall- und Anrufqualität.
 
+  - title: Rückmeldung eines Kunden zur IT-Unterstützung
+    url: ''
+    date: '2019-01-16'
+    awarder: 'Steffen Thum - Direktor Commerzbank Ulm'
+    summary: |
+      IT Problem: Jabber Audioeinstellungen / Outlook Signaturen fallen täglich aus -
+      Hallo OS Delivery Team, Vielen Dank für die Nachfrage. Bei meimen Rechner läuft alles wie erhofft - die Problemlösung gestern hat funktioniert. Der Kollege war sehr freundlich und professionell (10 von 10 Punkten!:-))
+      Schöne Grüße
+    
   - title: Anerkennung von ehemaligem Teamleiter
     url: ''
     date: '2024-02-12'

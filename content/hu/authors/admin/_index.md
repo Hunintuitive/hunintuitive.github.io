@@ -285,7 +285,7 @@ skills:
 
 languages:
   - name: Angol
-    percent: 95
+    percent: 98
   - name: Német
     percent: 100
   - name: Magyar
@@ -302,6 +302,15 @@ awards:
     awarder: 'Covalen Teamlead - Nagy Dóra, Grenitzer János Gábor'
     summary: |
       Két alkalommal is Star of the Month csapat szintű elismerés, többszörös Covalen Value Champion megtisztelő jelölés a kollégáim és feletteseim részéről. Sorozatosan 100%-os Case és korábban Call Quality eredmények.
+
+  - title: Egy ügyfél visszajelzése az informatikai támogatással kapcsolatban
+    url: ''
+    date: '2019-01-16'
+    awarder: 'Steffen Thum - igazgató Commerzbank Ulm'
+    summary: |
+      Informatikai probléma: Jabber audio beállítások / Outlook aláírások naponta kiesnek -
+      Hello OS Delivery Team, Köszönöm, érdeklődésüket. Minden a remélt módon működik a gépemen - a tegnapi megoldás működött. A kolléga nagyon barátságos és profi volt (10-ből 10 pont!:-)))
+      Szívélyes üdvözlettel
 
   - title: Korábbi Team Lead dícséret
     url: ''
