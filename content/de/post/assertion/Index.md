@@ -58,9 +58,9 @@ slides: example
 
 ---
 
-*Mit Dankbarkeit an Jefferson Fischer und seine Gemeinschaft*
+*Mit Dankbarkeit an Jefferson Fischer und seine Community*
 
-> Inspiriert durch die Arbeit und die Worte von Jefferson Fischer, wurde dieser Artikel geschrieben, um seine nachdenklichen Podcast-Episoden und die mutigen Geschichten seiner Hörer zu ehren. Besonderer Dank gilt den Gemeinschaften rund um seine Videos für ihre gelebte Weisheit, die weiterhin Leben beeinflusst.
+> Inspiriert durch die Arbeit und die Worte von Jefferson Fischer, wurde dieser Artikel geschrieben, um seine nachdenklichen Podcast-Episoden und die mutigen Geschichten seiner Hörer zu ehren. Besonderer Dank gilt der Community rund um seine Videos für ihre gelebte Weisheit, die weiterhin Leben beeinflusst.
 
 ---
 
@@ -110,8 +110,8 @@ Eine Geschichte aus dem Kommentarbereich seines Podcasts veranschaulicht dies se
 Gaslighting ist eine Methode der psychologischen Manipulation, bei der der Manipulator absichtlich die Realitätswahrnehmung, die Erinnerungen oder das Urteilsvermögen des Opfers in Frage stellt. Im Zusammenhang mit einer narzisstischen Persönlichkeitsstörung kann sich Gaslighting auf den Versuch des Narzissten beziehen, die andere Person davon zu überzeugen, dass ihre Gefühle, Erfahrungen oder Wahrnehmungen falsch oder unrichtig sind, und so das Selbstvertrauen und die Realitätswahrnehmung des Opfers zu untergraben. Diese manipulative Technik wird häufig eingesetzt, um Macht und Kontrolle zu erlangen oder zu erhalten, und kann besonders typisch für den Narzissten sein, um das Opfer in einer existenziellen oder geistigen Schwebe zu halten.
 
 
-> 💡 *"Ringe nie mit einem Schwein. Ihr macht euch beide schmutzig, und das Schwein genießt es. "*
-> Dieses Zitat aus Fischers Gemeinde, das mir zum ersten Mal in dem Film "Guter Rat ist teuer" begegnete, bringt die Brillanz des Nicht-Engagements auf den Punkt.
+> 💡 *"Ringe nie mit einem Schwein. Ihr macht euch beide schmutzig, und das Schwein genießt es."*
+> Dieses Zitat aus Fischers Community, das mir zum ersten Mal in dem Film "Guter Rat ist teuer" begegnete, bringt die Brillanz des Nicht-Engagements auf den Punkt.
 
 ### **Drei Grundierungsstrategien**
 
@@ -215,7 +215,7 @@ Sich zurückzuziehen bedeutet nicht, aufzugeben, sondern seine Würde zu bewahre
 
 ![Alt text](/post/assertion/peace.png)
 
-In allen drei Lehren spiegeln Jefferson Fischer und seine Gemeinschaft eine Wahrheit wider: **Deine Stärke liegt nicht in dem, was du anderen sagst, sondern in dem, was du in dir selbst beschützt.** Ob du nun
+In allen drei Lehren spiegeln Jefferson Fischer und seine Community eine Wahrheit wider: **Deine Stärke liegt nicht in dem, was du anderen sagst, sondern in dem, was du in dir selbst beschützt.** Ob du nun
 
 * Einen Narzissten zum Schweigen bringst,
 * Deinen Ruf aufbaust,

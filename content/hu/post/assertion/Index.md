@@ -109,7 +109,7 @@ Egy történet a podcast kommentszekciójából gyönyörűen illusztrálja ezt:
 
 A gázlángolás (gaslighting) olyan pszichológiai manipulációs módszer, amely során a manipulátor szándékosan megkérdőjelezteti az áldozat valóságérzékelését, emlékeit vagy ítélőképességét. Nárcisztikus személyiségzavarral kapcsolatban a gázlángolás arra utalhat, hogy a nárcisztikus személy a másik személyt próbálja meggyőzni arról, hogy az érzései, tapasztalatai vagy észlelései nem helyesek vagy hamisak, így aláásva az áldozat önbizalmát és valóságérzékelését. Ez a manipulációs technika gyakran a hatalom és kontroll megszerzése vagy fenntartása érdekében történik, és a nárcisztikus személy esetében különösen jellemző lehet, hogy az áldozatot egzisztenciális vagy mentális bizonytalanságban tartsa.
 
-> 💡 *"Sose birkózz disznóval. Mindketten piszkosak lesztek, de a disznó élvezi. „*
+> 💡 *"Sose birkózz disznóval. Mindketten piszkosak lesztek, de a disznó élvezi."*
 > Ez a Fischer közösségéből visszhangzó idézet, amellyel először az „ Eltanácsolt tanácsadó ” című filmben találkoztam, jól érzékelteti a be nem avatkozás zsenialitását.
 
 ### **Három alapozási stratégia**
@@ -224,7 +224,7 @@ Jefferson Fischer és közössége mindhárom tanításban egy igazságot hangoz
 
 ![Alt text](/post/assertion/exit.png)
 
-> „Abban a pillanatban, amikor felhagysz a tiszteletlenséggel szembeni fellépéssel, visszaszerzed a békédet."
+> Abban a pillanatban, amikor felhagysz a tiszteletlenséggel szembeni fellépéssel, visszaszerzed a békédet.
 
 Hagyd, hogy ezek az értékes meglátások vezessenek téged - nem csak a konfliktusok idején, hanem abban is, ahogyan a hangod használod, minden napon. Ez számomra egy fontos elérendő cél.
 
@@ -233,7 +233,7 @@ Egy további értékes forrásban, a Bibliában, sok hasonló felismerés talál
 **Két kedvenc és tanulságos példám egymással való szembeállításban:**
 
 >**A probléma** - A Példabeszédek 27:3 szerint "Nehéz a kő, súlyos a homok, de amikor a bolond bosszant, az mindkettőnél nehezebb." **A megoldás** - Példabeszédek 26:4-5: "Ne felelj az ostobának az ő butasága szerint,
-nehogy egy szintre kerülj vele. Felelj csak az ostobának az ő butasága szerint,nehogy azt gondolja magáról, hogy bölcs."
+nehogy egy szintre kerülj vele. Felelj csak az ostobának az ő butasága szerint,nehogy azt gondolja magáról, hogy bölcs.
 
 Ez az összehasonlítás arra utal, hogy az ostobaság természeténél fogva terhes, és érzelmileg nehéz lehet vele foglalkozni. A bölcsesség azonban abban rejlik, hogy tudjuk, mikor és hogyan kell válaszolnunk. Néha az ostobasággal való foglalkozástól való tartózkodás segít megelőzni a teher fokozódását, míg máskor stratégiai válaszra van szükség, hogy a bolond ne jusson indokolatlanul vélt bölcsességhez.
 

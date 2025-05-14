@@ -225,7 +225,7 @@ Across all three teachings, Jefferson Fischer and his community echo one truth: 
 
 ![Alt text](/post/assertion/exit.png)
 
-> “The moment you stop engaging with disrespect is the moment you reclaim your peace.”
+> The moment you stop engaging with disrespect is the moment you reclaim your peace.
 
 Let these precious insights guide you-not just in times of conflict, but in how you carry your voice, every day. For me, this is an important goal to achieve.
 
@@ -234,7 +234,7 @@ There are many similar insights in another valuable source, the Bible. I encoura
 **Contrasting two of my favourite and very insightful examples:**
 
 >**The Problem** - Proverbs 27:3 states "A stone is heavy and sand is weighty, But the irritation caused by a fool is heavier than both." **The Solution** - Proverbs 26:4-5: "Do not answer the stupid one according to his foolishness,
-So that you do not put yourself on his level. Answer the stupid one according to his foolishness, So that he does not think he is wise."
+So that you do not put yourself on his level. Answer the stupid one according to his foolishness, So that he does not think he is wise.
 
 This comparison indicates that foolishness is inherently burdensome and can be emotionally heavy to deal with. However, wisdom lies in knowing when and how to respond. Sometimes, refraining from engaging with foolishness helps prevent escalating the burden, while at other times, a strategic response is necessary to prevent the fool from gaining unwarranted perceived wisdom.
 
