@@ -233,7 +233,7 @@ Egy további értékes forrásban, a Bibliában, sok hasonló felismerés talál
 **Két kedvenc és tanulságos példám egymással való szembeállításban:**
 
 >**A probléma** - A Példabeszédek 27:3 szerint "Nehéz a kő, súlyos a homok, de amikor a bolond bosszant, az mindkettőnél nehezebb." **A megoldás** - Példabeszédek 26:4-5: "Ne felelj az ostobának az ő butasága szerint,
-nehogy egy szintre kerülj vele. Felelj csak az ostobának az ő butasága szerint,nehogy azt gondolja magáról, hogy bölcs.
+nehogy egy szintre kerülj vele. Felelj csak az ostobának az ő butasága szerint, nehogy azt gondolja magáról, hogy bölcs.
 
 Ez az összehasonlítás arra utal, hogy az ostobaság természeténél fogva terhes, és érzelmileg nehéz lehet vele foglalkozni. A bölcsesség azonban abban rejlik, hogy tudjuk, mikor és hogyan kell válaszolnunk. Néha az ostobasággal való foglalkozástól való tartózkodás segít megelőzni a teher fokozódását, míg máskor stratégiai válaszra van szükség, hogy a bolond ne jusson indokolatlanul vélt bölcsességhez.
 
