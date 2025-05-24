@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/en/post/dopamine/</loc>
+    <lastmod>2025-05-23T00:00:00Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/post/assertion/</loc>
     <lastmod>2025-05-12T00:00:00Z</lastmod>
   </url>
