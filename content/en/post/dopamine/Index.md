@@ -144,15 +144,15 @@ A key insight from Dr. Lembke is that modern society’s obsession with instant 
 
 Living in a way that aligns with our "evolutionary" wiring involves balancing pursuit and patience, embracing challenges, and avoiding overexposure to artificial stimuli. Recognizing the transient nature of pleasure and pain, and accepting discomfort as part of life, can foster a more sustainable and joyful existence.
 
-**This is where I see a profound spiritual dimension.** If our neurobiology is designed with purpose, could it reflect a divine blueprint - one that guides us to seek not just survival, but eternal life, spiritual connection, and purpose? 
+**This is the point at which I believe I have uncovered a deep spiritual dimension.** If our neurobiology was not evolved by chance but was intentionally designed with a purpose, could it reflect a divine blueprint - one that guides us not only to survive but also to seek eternal life, spiritual connection, and a variety of meaningful purposes?
 
 ## A Divine Blueprint? The Neurobiology of Seeking as a Reflection of Divine Intent
 
 ![Divine](/post/dopamine/divine.png)
 
-As an avid Bible student and self-motivated researcher into the truths of creation, evolution, and science altogether, with the goal of nurturing a holistic, balanced view, I have come to see compelling evidence supporting the creation perspective - one where human beings were intentionally crafted with purpose. The realization struck me sharply when I heard Dr. Lembke speak of the dopamine system as making us "the ultimate seekers" mentioning that she would tell the evolutionary story, leaving room for other considerations. It resonated deeply: what if our neurobiological wiring is not accidental but a deliberate divine design? This could completely rewrite our understanding of the true purpose of this mechanism.
+As an avid Bible student and self-motivated researcher into the truths of creation, evolution, and science altogether, with the goal of nurturing a holistic, balanced view, I have come to see compelling evidence supporting the creation perspective - one where human beings were intentionally crafted with purpose. The realization struck me sharply when I heard Dr. Lembke speak of the dopamine system as making us "the ultimate seekers" mentioning that she would tell the evolutionary story, as if she were leaving room for other considerations. It resonated deeply: what if our neurobiological wiring is not accidental but a deliberate divine design? This could completely rewrite our understanding of the true purpose of this mechanism.
 
-Could it be that our innate drive to seek, driven by dopamine, is an intentional feature woven into our very biology - created to meet both our physical needs and our spiritual longing? From this perspective, the pursuit of connection, purpose, and even eternity -longings embedded in our very nature- are signs of a higher purpose. 
+Could it be that our innate drive to seek, driven by dopamine, is an intentional feature woven into our very biology - created to meet both our physical needs and our spiritual longings? From this perspective, the pursuit of connection, purpose, and even eternity -longings embedded in our very nature- may very well be signs of a higher purpose. 
 
 ### Linking Science to Spiritual Goals
 
