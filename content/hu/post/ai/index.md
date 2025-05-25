@@ -2,11 +2,11 @@
 title: "A mesterséges intelligencia jövője: Mennyire fontos az emberi faj számára?"
 authors:
 - admin
-date: "2024-11-09T00:00:00Z"
+date: "2025-05-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2024-11-09T00:00:00Z"
+publishDate: "2025-05-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -31,7 +31,7 @@ tags:
 - Munkakeresés
 - Számítástechnika
 
-featured: true
+featured: false
 
 
 # Featured image
