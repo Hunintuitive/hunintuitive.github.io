@@ -2,7 +2,7 @@
 title: "Die Zukunft der KI: Wie relevant ist sie für die Menschheit?"
 authors:
 - admin
-date: "2025-05-25T00:00:00Z"
+date: "2024-11-09T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
