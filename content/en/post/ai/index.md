@@ -2,7 +2,7 @@
 title: "The Future of AI: How relevant is it for the human race?"
 authors:
 - admin
-date: "2024-11-09T00:00:00Z"
+date: "2025-05-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -160,7 +160,7 @@ Again in summary while AI excels in these areas, it's essential to note that hum
 
 ## Final thoughts:
 
-Don't get me wrong, I appreciate the help of AI in many fields of application where it is a useful tool like medicine and many other fields of application since it "augments" some of our lacking abilities. I even used it as an aid to check this article. But as wonderful it is, as a creation of some ingenious human beings, I am reluctant to compare myself to their creation and try to compete with it, or want to ascend to something I am not, maybe never will be.
+Don't get me wrong, I appreciate the help of AI in many fields of application where it is a useful tool like medicine and many other fields of application since it "augments" some of our lacking abilities. I even used it as an aid write and to check this article. But as wonderful it is, as a creation of some ingenious human beings, I am reluctant to compare myself to their creation and try to compete with it, or want to ascend to something I am not, maybe never will be.
 
 My two cents to all this are: AI is a wonderful helping tool which can be used wisely for good and very poorly even for damaging purposes. As a human I am trying to aim for perfection, but the truth is, that many of us, myself included, have no real clue what the term perfection should even mean or represent. It depends on who you ask, so that may not be such a reliable value as we might think of it. Sometimes we have to slow down and process the reality around us just as it is. With our own capabilities given after we were born. This is where AI may not be able to help us, nor direct us in the right direction.
 
@@ -170,14 +170,12 @@ I wonder if we'll ever get the point, like the ending lines of the movie pointed
 
 >***Look at us! Running around, always rushed, always late. I guess that's why they call it the human "race". But sometimes it slows down just enough for all the pieces to fall into place. Fate works it's magic. And you are connected. Every once in a while with all the randomness something unexpected happens and that pushes us all forward. And the truth is... what I'm starting to think..., what I'm starting to feel..., is that MAYBE, the human race isn't a "race" at all...***
 
-## Other thought-provoking material on the subject:
+## Other thought-provoking materials on the subject:
 
 {{< youtube 2Zg--ouGl7c >}}
 {{< youtube MJQIQJYxey4 >}}
+{{< youtube JMYQmGfTltY >}}
 
 ---
 
-**Disclaimer:** The views expressed in this article solely reflect the opinion of the author and do not necessarily represent the opinions or beliefs of any organization or affiliation.
-
-
-
+**Disclaimer:** The information and opinions presented in this article are solely those of the author and do not constitute professional advice or endorsement. The content is for informational and educational purposes only and should not be considered as a definitive guide or recommendation. The author does not assume any responsibility for any actions taken based on the content of this article. Readers are encouraged to conduct their own research and consult with qualified professionals before making any decisions related to artificial intelligence, employment practices, or related topics.

@@ -2,7 +2,7 @@
 title: "A mesterséges intelligencia jövője: Mennyire fontos az emberi faj számára?"
 authors:
 - admin
-date: "2024-11-09T00:00:00Z"
+date: "2025-05-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -160,7 +160,7 @@ Ismét összefoglalva: bár az MI kiválóan teljesít ezeken a területeken, fo
 
 ## Záró gondolatok:
 
-Ne érts félre, nagyra értékelem a mesterséges intelligencia segítségét számos olyan alkalmazási területen, ahol hasznos eszköz, mint az orvostudomány és számos más alkalmazási terület, mivel „kiegészíti” néhány hiányzó képességünket. Még ennek a cikknek az ellenőrzéséhez is segítségül hívtam. De bármennyire is csodálatos, mint néhány zseniális emberi lény alkotása, nem szívesen hasonlítom magam hozzá, és nem próbálok versenyezni vele, vagy olyasmivé alakulni, ami nem vagyok, és talán soha nem is leszek.
+Ne érts félre, nagyra értékelem a mesterséges intelligencia segítségét számos olyan alkalmazási területen, ahol hasznos eszköz, mint az orvostudomány és számos más alkalmazási terület, mivel „kiegészíti” néhány hiányzó képességünket. Még ennek a cikknek a megírásához és az ellenőrzéséhez is segítségül hívtam. De bármennyire is csodálatos, mint néhány zseniális emberi lény alkotása, nem szívesen hasonlítom magam hozzá, és nem próbálok versenyezni vele, vagy olyasmivé alakulni, ami nem vagyok, és talán soha nem is leszek.
 
 Az én piciny mondandóm mindehhez a következő: A mesterséges intelligencia csodálatos segítő eszköz, amelyet lehet bölcsen használni nagyon jól, és nagyon rosszul, akár káros célokra is. Emberként a tökéletességre törekszem, de az igazság az, hogy sokunknak, beleértve magamat is, fogalmunk sincs arról, hogy a tökéletesség fogalma egyáltalán mit jelent vagy mit kellene jelentenie. Attól függ, hogy kit kérdezünk, tehát ez nem biztos, hogy olyan megbízható érték, mint amilyennek gondoljuk. Néha le kell lassítanunk és feldolgozni a körülöttünk lévő valóságot egyszerűen úgy, ahogy van. A saját, születésünk után kapott képességeinkkel. Ez az a pont, ahol a mesterséges intelligencia nem biztos, hogy képes segíteni, vagy a helyes irányba terelni minket.
 
@@ -174,10 +174,8 @@ Kíváncsi vagyok, hogy valaha is megértjük-e a lényeget, ahogy a mozifilm be
 
 {{< youtube 2Zg--ouGl7c >}}
 {{< youtube MJQIQJYxey4 >}}
+{{< youtube JMYQmGfTltY >}}
 
 ---
 
-**Jogi nyilatkozat:** A cikkben kifejtett nézetek kizárólag a szerző véleményét tükrözik, és nem feltétlenül képviselik bármely szervezet vagy szervezethez tartozó egyének véleményét vagy meggyőződését.
-
-
-
+**Jogi nyilatkozat:** A cikkben bemutatott információk és vélemények kizárólag a szerző sajátjai, és nem minősülnek szakmai tanácsadásnak vagy ajánlásnak. A tartalom kizárólag tájékoztató és oktatási célokat szolgál, és nem tekinthető végleges útmutatónak vagy ajánlásnak. A szerző nem vállal felelősséget a cikk tartalma alapján tett semminemű egyéni lépésekért. Az olvasókat arra biztatom, hogy végezzenek saját kutatást, és konzultáljanak képzett szakemberekkel, mielőtt bármilyen, a mesterséges intelligenciával, a foglalkoztatási gyakorlatokkal vagy a kapcsolódó témákkal kapcsolatos döntést hoznának.
