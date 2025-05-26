@@ -197,7 +197,7 @@ Kifejti:
 **Főbb témák és meglátások:**
 
 1. **Emberi képességek és szociális intelligencia:**
-   - Simon hangsúlyozza annak fontosságát, hogy olyan emberi készségeket tanítsunk a gyerekeknek, mint a barátság, a konfliktusmegoldás, az felelősségvállalás és a dicséretadás.
+   - Simon hangsúlyozza annak fontosságát, hogy olyan emberi készségeket tanítsunk a gyerekeknek, mint a barátság, a konfliktusmegoldás, a felelősségvállalás és a dicséretadás.
    - Ezeket a készségeket a legjobban a valós életben zajló interakciókban lehet megtanulni, például olyan játszótereken, ahol a telefonokat el kell venni, hogy ösztönözzük a szemtől-szembe kapcsolattartást.
    - A konfliktusmegoldás és az felelősségvállalás fejlesztése elősegíti a jobb társadalom felépítését, és felkészíti az egyéneket egy olyan jövőre, ahol a mesterséges intelligencia számos feladatot ellát.
 
@@ -233,8 +233,8 @@ Kifejti:
 
 8. **A mesterséges intelligencia és az emberi tényező korlátai:**
    - Az MI segíthet, de nem helyettesítheti a tökéletlenség, a hitelesség és az érzelmi mélység emberi tulajdonságait.
-   - Simon kritizálja, hogy a személyes konfliktusok megoldása során túlzottan az AI-ra hagyatkozunk, és azzal érvel, hogy a valódi emberi kapcsolat, beleértve a hibákat és a sebezhetőséget is, elengedhetetlen.
-   - A kapcsolatok, a konfliktusok és az életben való eligazodás megtanulása egy olyan út, amelyet az AI nem tud teljes mértékben szimulálni.
+   - Simon kritizálja, hogy a személyes konfliktusok megoldása során túlzottan az MI-re hagyatkozunk, és azzal érvel, hogy a valódi emberi kapcsolat, beleértve a hibákat és a sebezhetőséget is, elengedhetetlen.
+   - A kapcsolatok, a konfliktusok és az életben való eligazodás megtanulása egy olyan út, amelyet az MI nem tud teljes mértékben szimulálni.
 
 **Következtetés:**
 Az átfogó üzenet az, hogy a mesterséges intelligencia hihetetlen képességei ellenére az emberi tapasztalat lényege - az empátia, a hitelesség, a kreativitás, a rugalmasság és a kapcsolat - pótolhatatlan marad. A következő generáció felkészítése magában foglalja ezeknek az emberi képességeknek a fejlesztését, a hála gyakorlását, a kudarcok felvállalását és az ambiciózus, értelmes célok követését. Az emberek keresik a hiteles tapasztalatokat és a tökéletlenségeket, mert ezek jelzik emberségünket, és egy olyan világban, amelyet egyre inkább a technológia vezérel, ezek a tulajdonságok még inkább létfontosságúvá válnak.
