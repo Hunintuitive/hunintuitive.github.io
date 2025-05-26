@@ -2,11 +2,11 @@
 title: "Die Zukunft der KI: Wie relevant ist sie für die Menschheit?"
 authors:
 - admin
-date: "2025-05-25T00:00:00Z"
+date: "2025-05-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-25T00:00:00Z"
+publishDate: "2025-05-26T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -171,9 +171,71 @@ Ich frage mich, ob wir jemals auf den Punkt kommen werden, wie es in den letzten
 
 ## Andere Denkanstöße zum Thema (für Englischsprachige, aber ggf. mit deutschen Untertiteln):
 
+{{< youtube W4tqbEmplug >}}
+
+***Dies ist ganz aktuell und hat mich umgehauen. Es deckt sich am besten mit meinen Ansichten - Simon Sinek bringt es wirklich auf den Punkt.***
+
+Simon Sinek ist ein weltbekannter Unternehmer, Optimismusexperte und Gründer von The Optimism Company, einer Plattform, die Führungskräften und Organisationen menschliche Fähigkeiten vermittelt. Er ist auch der Bestsellerautor von Büchern wie „Start With Why (Mit dem Warum beginnen)“ und „Leaders Eat Last (Führungskräfte essen zuletzt)“. 
+
+Er erklärt: 
+
+ - Warum die moderne Politik dein Gefühl für Sinn und Zweck abtötet.
+
+ - Warum wir vergessen haben, wie man ein guter Freund ist. 
+
+ - Wie die künstliche Intelligenz eine Generation hilfloser Menschen schaffen wird. 
+
+ - Die Nummer eins geheimer Fähigkeit, die KI nicht erlernen kann. 
+
+ - Wie menschliche Fähigkeiten wie Empathie verschwinden. 
+
+***Der Abschnitt, den ich mit Hilfe von AI für dich zusammengefasst habe, hat mir sehr gut gefallen:***
+
+>Das Transkript stellt eine umfassende Diskussion über die Vorbereitung junger Menschen und der Gesellschaft auf die Zukunft der KI dar und betont menschliche Fähigkeiten, persönliches Wachstum, Dankbarkeit, Beziehungen, Ehrgeiz und die Bedeutung von Erfahrung. Simon Sinek gibt Einblicke, wie man sich in einer sich schnell verändernden Welt, die von technologischen Fortschritten angetrieben wird, zurechtfindet und welche wesentlichen Eigenschaften einzigartig menschlich bleiben werden.
+
+**Schlüsselthemen und Einblicke:**
+
+1. **Menschliche Fertigkeiten und soziale Intelligenz:**
+   - Simon betont, wie wichtig es ist, Kindern menschliche Fähigkeiten wie Freundschaft, Konfliktlösung, Verantwortlichkeit und Komplimente zu vermitteln.
+   - Diese Fähigkeiten werden am besten durch reale Interaktionen erlernt, z. B. bei Spieltreffen, bei denen die Telefone weggelegt werden, um den persönlichen Kontakt zu fördern.
+   - Die Entwicklung von Konfliktlösung und Verantwortlichkeit fördert eine bessere Gesellschaft und bereitet den Einzelnen auf eine Zukunft vor, in der die KI viele Aufgaben übernimmt.
+
+2. **Lernen und Aufbau echter Fertigkeiten:**
+   - Über die sozialen Fähigkeiten hinaus plädiert Simon für anspruchsvolle, kreative Aktivitäten wie Entwerfen, Bauen, Schreiben oder Vorstellen - Aktivitäten, die das Selbstvertrauen und die Widerstandsfähigkeit fördern.
+   - Selbst wenn KI-Tools helfen, ist der Akt des eigenen Tuns und Schaffens entscheidend für Wachstum und Selbstvertrauen.
+   - Erfahrung lehrt Weisheit, baut Ängste ab und stärkt das Selbstvertrauen - Qualitäten, die KI nicht ersetzen kann.
+
+3. **Die Rolle der KI und die Angst vor Obsoleszenz:**
+   - Es besteht die Sorge, dass die Menschen ängstlicher und weniger selbstbewusst werden, wenn die KI alles für uns erledigt.
+   - Simon weist darauf hin, dass es von entscheidender Bedeutung ist, Herausforderungen anzunehmen und zu scheitern, da Scheitern ein natürlicher Bestandteil von Wachstum und Innovation ist.
+   - Scheitern ist ein wesentlicher Bestandteil von Ehrgeiz; es bedeutet, dass man sich höhere Ziele setzt als die eigenen Fähigkeiten und fördert die Kreativität.
+
+4. **Dankbarkeit und Perspektive:**
+   - Das Praktizieren von Dankbarkeit wird als wirksames Mittel zur Steigerung des Glücks hervorgehoben, insbesondere unter unvorhersehbaren oder bedrohlichen Umständen wie Naturkatastrophen.
+   - Simon berichtet von persönlichen Erfahrungen wie Bränden und Evakuierungen, wobei er die Wertschätzung für geliebte Menschen und materielle Besitztümer sowie die dankbare Annahme von Verlusten betont.
+   - Dankbarkeit erstreckt sich auch auf Beziehungen - Freunde anzurufen, um sich zu bedanken, ihre Bedeutung zu erkennen und die Vergänglichkeit materieller Dinge und des Lebens selbst zu verstehen.
+
+5. **Ambition, Zweck und Zufriedenheit:**
+   - Der durch KI und Technologie geschaffene Überfluss wirft die Frage nach „genug“ auf. Simon denkt darüber nach, wie wichtig es ist, sich größere Visionen und Ziele jenseits des materiellen Erfolgs zu setzen.
+   - Wahres Glück und Sinn ergeben sich aus der Verfolgung sinnvoller, ehrgeiziger Ziele, die uns herausfordern und unsere Kreativität anregen.
+   - Geld bietet zwar Möglichkeiten und Zeit, aber nicht unbedingt Glück; echte Erfüllung entsteht durch Leidenschaft und Sinn.
+
+6. **Beziehungen und persönliche Prioritäten:**
+   - Simon betont, wie wichtig es ist, enge Beziehungen zu pflegen, und deutet an, dass die Menschen bereit sind, alles zu opfern, um geliebten Menschen zu helfen.
+   - Er räumt ein, dass diese Beziehungen vernachlässigt werden und dass es notwendig ist, sie bewusst zu priorisieren.
+   - Authentizität in Beziehungen bedeutet, sich verletzlich zu zeigen, aus Fehlern zu lernen und sich anzustrengen, anstatt schnelle Lösungen zu suchen.
+
+7. **Wert von Erfahrung und Weisheit:**
+   - Erfahrung, insbesondere aus Fehlern, liefert unschätzbares Wissen, das die KI nicht wiedergeben kann.
+   - Ein Beispiel aus der Feuerwehr veranschaulicht, wie gesammelte Weisheit - das Hören auf erfahrene Personen - den Unterschied zwischen Leben und Tod bedeuten kann.
+   - Simon plädiert dafür, die schwierige, schmutzige Arbeit selbst zu machen - sei es beim Bauen, Erstellen oder Lösen von Konflikten -, um echtes Verständnis und Können zu erlangen.
+
+**Schlussfolgerung:**
+Die übergreifende Botschaft ist, dass trotz der unglaublichen Fähigkeiten der KI der Kern der menschlichen Erfahrung - Einfühlungsvermögen, Authentizität, Kreativität, Belastbarkeit und Verbundenheit - unersetzlich bleibt. Zur Vorbereitung der nächsten Generation gehört es, diese menschlichen Fähigkeiten zu kultivieren, Dankbarkeit zu üben, Misserfolge zu akzeptieren und ehrgeizige, sinnvolle Ziele zu verfolgen. Menschen suchen authentische Erfahrungen und Unvollkommenheiten, weil sie unsere Menschlichkeit ausmachen, und in einer Welt, die zunehmend von der Technologie bestimmt wird, werden diese Qualitäten noch wichtiger.
+
+{{< youtube JMYQmGfTltY >}}
 {{< youtube 2Zg--ouGl7c >}}
 {{< youtube MJQIQJYxey4 >}}
-{{< youtube JMYQmGfTltY >}}
 
 ---
 

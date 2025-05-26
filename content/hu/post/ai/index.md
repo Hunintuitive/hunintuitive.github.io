@@ -2,11 +2,11 @@
 title: "A mesterséges intelligencia jövője: Mennyire fontos az emberi faj számára?"
 authors:
 - admin
-date: "2025-05-25T00:00:00Z"
+date: "2025-05-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-25T00:00:00Z"
+publishDate: "2025-05-26T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -172,9 +172,76 @@ Kíváncsi vagyok, hogy valaha is megértjük-e a lényeget, ahogy a mozifilm be
 
 ## Elgondolkodtató egyéb anyagok a témában (angolul értőknek, de adott esetben magyar felírattal is):
 
+{{< youtube W4tqbEmplug >}}
+
+***Ez nagyon friss, és mondhatni eldobtam az agyamat tőle. Ez az, ami a legjobban illeszkedik az én nézeteimhez - Simon Sinek tényleg nagyon eltalálta.***
+
+Simon Sinek világhírű vállalkozó, optimizmus-szakértő és a The Optimism Company alapítója, egy olyan platform, amely emberi készségeket tanít vezetőknek és szervezeteknek. Emellett olyan bestsellerek szerzője, mint a „Start With Why (Kezdd a miértekkel)” és a „Leaders Eat Last (A vezetők esznek utoljára)”. 
+
+Kifejti: 
+
+ - Miért öli meg a modern politika a céltudatosságot.
+
+ - Miért felejtettük el, hogyan kell jó barátnak lenni? 
+
+ - Hogyan fog a mesterséges intelligencia gyámoltalan emberek generációit szülni. 
+
+ - Az első számú titkos képesség, amit az MI nem tud megtanulni. 
+
+ - Hogyan tűnnek el az olyan emberi képességek, mint az empátia. 
+
+***Nagyon tetszett az a rész, amelyet az MI segítségével összefoglaltam neked:***
+
+>Az átirat átfogó vitát mutat be a fiatalok és a társadalom mesterséges intelligencia jövőjére való felkészítéséről, hangsúlyozva az emberi készségeket, a személyes fejlődést, a hálát, a kapcsolatokat, az ambíciót és a tapasztalatok fontosságát. Simon Sinek betekintést nyújt abba, hogyan navigáljunk a technológiai fejlődés által vezérelt, gyorsan változó világban, és melyek azok az alapvető tulajdonságok, amelyek egyedülállóan emberi tulajdonságok maradnak.
+
+**Főbb témák és meglátások:**
+
+1. **Emberi képességek és szociális intelligencia:**
+   - Simon hangsúlyozza annak fontosságát, hogy olyan emberi készségeket tanítsunk a gyerekeknek, mint a barátság, a konfliktusmegoldás, az felelősségvállalás és a dicséretadás.
+   - Ezeket a készségeket a legjobban a valós életben zajló interakciókban lehet megtanulni, például olyan játszótereken, ahol a telefonokat el kell venni, hogy ösztönözzük a szemtől-szembe kapcsolattartást.
+   - A konfliktusmegoldás és az felelősségvállalás fejlesztése elősegíti a jobb társadalom felépítését, és felkészíti az egyéneket egy olyan jövőre, ahol a mesterséges intelligencia számos feladatot ellát.
+
+2. **Valódi készségek tanulása és fejlesztése:**
+   - A szociális készségeken túl Simon támogatja a kihívást jelentő, kreatív tevékenységekbe való bekapcsolódást, mint például a tervezés, az építés, az írás vagy a képzelet - olyan tevékenységek, amelyek elősegítik az önbizalmat és a rugalmasságot.
+   - Még ha a mesterséges intelligencia eszközei segítenek is, a saját magunk által végzett tevékenység és alkotás létfontosságú a növekedéshez és az önbizalomhoz.
+   - A tapasztalat bölcsességre tanít, csökkenti a félelmet és növeli az önbizalmat - olyan tulajdonságok, amelyeket a mesterséges intelligencia nem helyettesíthet.
+
+3. **A mesterséges intelligencia szerepe és az idejétmúltságtól való félelem:**
+   - Félő, hogy ha a mesterséges intelligencia mindent megtesz helyettünk, az emberek félősebbé és kevésbé magabiztossá válhatnak.
+   - Simon szerint a kihívások és a kudarcok elfogadása kulcsfontosságú, mivel a kudarc a növekedés és az innováció természetes része.
+   - A kudarc az ambíció lényeges összetevője; azt jelzi, hogy az ember magasabbra törekszik, mint a jelenlegi képességei, és elősegíti a kreativitást.
+
+4. **Hála és perspektíva:**
+   - A hála gyakorlását a boldogság növelésének erőteljes módjaként emeli ki, különösen olyan kiszámíthatatlan vagy fenyegető körülmények között, mint a természeti katasztrófák.
+   - Simon személyes tapasztalatokat oszt meg, például tűzesetekről és evakuálásokról, hangsúlyozva a szeretteink és az anyagi javak iránti megbecsülést, valamint a veszteség hálával való elfogadását.
+   - A hála kiterjed a kapcsolatokra is - a barátok felhívása, hogy kifejezzük hálánkat, fontosságuk felismerése, valamint az anyagi dolgok és az élet mulandó természetének megértése.
+
+5. **Ambíció, céltudatosság és elégedettség:**
+   - A mesterséges intelligencia és a technológia által teremtett bőség felveti az „elég” kérdését. Simon az anyagi sikeren túli, nagyobb víziók és törekvések kitűzésének fontosságáról elmélkedik.
+   - Az igazi boldogság és cél az értelmes, ambiciózus célok követéséből fakad, amelyek kihívást jelentenek számunkra és kreativitásra ösztönöznek.
+   - A pénzre úgy tekintünk, mint ami lehetőségeket és időt biztosít, de nem feltétlenül boldogságot; a valódi beteljesülés a szenvedélyből és a célból fakad.
+
+6. **Kapcsolatok és személyes prioritások:**
+   - Simon hangsúlyozza a szoros kapcsolatok ápolásának fontosságát, azt sugallva, hogy az emberek hajlandóak mindent feláldozni azért, hogy segítsenek szeretteiknek.
+   - Elismeri e kapcsolatok gyakori elhanyagolását, és azt, hogy tudatosan kell prioritást adni nekik.
+   - A kapcsolatok hitelessége magában foglalja a sebezhetőséget, a hibákból való tanulást és az erőfeszítések befektetését ahelyett, hogy gyors, tranzakciós megoldásokra törekednénk.
+
+7. **A tapasztalat és a bölcsesség értéke:**
+   - A tapasztalat, különösen a kudarcokból származó tapasztalat felbecsülhetetlen tudást nyújt, amelyet a mesterséges intelligencia nem tud reprodukálni.
+   - A tűzoltásból vett példa jól szemlélteti, hogy a felhalmozott bölcsesség - a tapasztalt egyének meghallgatása - hogyan jelentheti a különbséget élet és halál között.
+   - Simon amellett érvel, hogy a nehéz, piszkos munkát - legyen szó akár építkezésről, alkotásról vagy konfliktusmegoldásról - saját magunknak kell elvégeznünk, hogy valódi megértésre és készségekre tegyünk szert.
+
+8. **A mesterséges intelligencia és az emberi tényező korlátai:**
+   - Az MI segíthet, de nem helyettesítheti a tökéletlenség, a hitelesség és az érzelmi mélység emberi tulajdonságait.
+   - Simon kritizálja, hogy a személyes konfliktusok megoldása során túlzottan az AI-ra hagyatkozunk, és azzal érvel, hogy a valódi emberi kapcsolat, beleértve a hibákat és a sebezhetőséget is, elengedhetetlen.
+   - A kapcsolatok, a konfliktusok és az életben való eligazodás megtanulása egy olyan út, amelyet az AI nem tud teljes mértékben szimulálni.
+
+**Következtetés:**
+Az átfogó üzenet az, hogy a mesterséges intelligencia hihetetlen képességei ellenére az emberi tapasztalat lényege - az empátia, a hitelesség, a kreativitás, a rugalmasság és a kapcsolat - pótolhatatlan marad. A következő generáció felkészítése magában foglalja ezeknek az emberi képességeknek a fejlesztését, a hála gyakorlását, a kudarcok felvállalását és az ambiciózus, értelmes célok követését. Az emberek keresik a hiteles tapasztalatokat és a tökéletlenségeket, mert ezek jelzik emberségünket, és egy olyan világban, amelyet egyre inkább a technológia vezérel, ezek a tulajdonságok még inkább létfontosságúvá válnak.
+
+{{< youtube JMYQmGfTltY >}}
 {{< youtube 2Zg--ouGl7c >}}
 {{< youtube MJQIQJYxey4 >}}
-{{< youtube JMYQmGfTltY >}}
 
 ---
 

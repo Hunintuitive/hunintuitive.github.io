@@ -2,11 +2,11 @@
 title: "The Future of AI: How relevant is it for the human race?"
 authors:
 - admin
-date: "2025-05-25T00:00:00Z"
+date: "2025-05-26T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2025-05-25T00:00:00Z"
+publishDate: "2025-05-26T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -172,9 +172,76 @@ I wonder if we'll ever get the point, like the ending lines of the movie pointed
 
 ## Other thought-provoking materials on the subject:
 
+{{< youtube W4tqbEmplug >}}
+
+***This is very recent and blew my mind. It’s the one that best aligns with my views - Simon Sinek really nails it.***
+
+Simon Sinek is a world-renowned entrepreneur, optimism expert, and founder of The Optimism Company, a platform which teaches human skills to leaders and organisations. He is also the bestselling author of books such as, ‘Start With Why’ and ‘Leaders Eat Last’. 
+
+He explains: 
+
+ - Why modern politics is killing your sense of purpose.
+
+ - Why we’ve forgotten how to be a good friend. 
+
+ - How AI will create a generation of helpless humans. 
+
+ - The number one secret skill AI can’t learn. 
+
+ - How human skills like empathy are vanishing. 
+
+***I very much liked the section which I summarized with the help of AI for you:***
+
+>The transcript presents a comprehensive discussion about preparing young people and society for the future of AI, emphasizing human skills, personal growth, gratitude, relationships, ambition, and the importance of experience. Simon Sinek offers insights on how to navigate a rapidly changing world driven by technological advancements and the essential qualities that will remain uniquely human.
+
+**Key Themes and Insights:**
+
+1. **Human Skills and Social Intelligence:**
+   - Simon stresses the importance of teaching children human skills such as friendship, conflict resolution, accountability, and giving compliments.
+   - These skills are best learned through real-life interactions, such as playdates where phones are taken away to encourage face-to-face connection.
+   - Developing conflict resolution and accountability fosters a better society and prepares individuals for a future where AI handles many tasks.
+
+2. **Learning and Building Real Skills:**
+   - Beyond social skills, Simon advocates for engaging in challenging, creative activities like designing, building, writing, or imagining - activities that foster confidence and resilience.
+   - Even if AI tools assist, the act of doing and creating oneself is vital for growth and confidence.
+   - Experience teaches wisdom, reduces fear, and builds confidence-qualities that AI cannot replace.
+
+3. **The Role of AI and Fear of Obsolescence:**
+   - There is concern that if AI does everything for us, humans might become more fearful and less confident.
+   - Simon suggests that embracing challenge and failure is crucial, as failure is a natural part of growth and innovation.
+   - Failure is framed as an essential component of ambition; it signifies aiming higher than one’s current abilities and fosters creativity.
+
+4. **Gratitude and Perspective:**
+   - Practicing gratitude is highlighted as a powerful way to increase happiness, especially in unpredictable or threatening circumstances like natural disasters.
+   - Simon shares personal experiences, such as fires and evacuations, emphasizing appreciation for loved ones and material possessions, and accepting loss with gratitude.
+   - Gratitude extends to relationships - calling friends to express thanks, recognizing their importance, and understanding the transient nature of material things and life itself.
+
+5. **Ambition, Purpose, and Contentment:**
+   - The abundance created by AI and technology raises questions about "enough." Simon reflects on the importance of setting bigger visions and aspirations beyond material success.
+   - True happiness and purpose come from pursuing meaningful, ambitious goals that challenge us and inspire creativity.
+   - Money is viewed as providing options and time, but not necessarily happiness; genuine fulfillment comes from passion and purpose.
+
+6. **Relationships and Personal Priorities:**
+   - Simon emphasizes the importance of nurturing close relationships, suggesting that people are willing to sacrifice everything to help loved ones.
+   - There’s an acknowledgment of neglecting these relationships and the need to prioritize them consciously.
+   - Authenticity in relationships involves vulnerability, learning from mistakes, and investing effort rather than seeking quick transactional fixes.
+
+7. **Value of Experience and Wisdom:**
+   - Experience, especially from failures, provides invaluable knowledge that AI cannot replicate.
+   - An example from firefighting illustrates how accumulated wisdom -listening to experienced individuals- can mean the difference between life and death.
+   - Simon advocates for doing the difficult, messy work yourself -whether it’s building, creating, or resolving conflicts- to gain true understanding and skill.
+
+8. **The Limitations of AI and the Human Element:**
+   - AI can assist but cannot replace the human qualities of imperfection, authenticity, and emotional depth.
+   - Simon criticizes over-reliance on AI for resolving personal conflicts, arguing that genuine human connection, including mistakes and vulnerability, is essential.
+   - Learning to navigate relationships, conflicts, and life itself is a journey that AI cannot fully emulate.
+
+**Conclusion:**
+The overarching message is that despite the incredible capabilities of AI, the core of human experience -empathy, authenticity, creativity, resilience, and connection- remains irreplaceable. Preparing the next generation involves cultivating these human skills, practicing gratitude, embracing failure, and pursuing ambitious, meaningful goals. Human beings seek authentic experiences and imperfections because they signify our humanity, and in a world increasingly driven by technology, these qualities become even more vital.
+
+{{< youtube JMYQmGfTltY >}}
 {{< youtube 2Zg--ouGl7c >}}
 {{< youtube MJQIQJYxey4 >}}
-{{< youtube JMYQmGfTltY >}}
 
 ---
 
