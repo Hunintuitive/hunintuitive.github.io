@@ -189,7 +189,7 @@ Er erklärt:
 
  - Wie menschliche Fähigkeiten wie Empathie verschwinden. 
 
-***Der Abschnitt, den ich mit Hilfe von AI für dich zusammengefasst habe, hat mir sehr gut gefallen:***
+***Der Abschnitt, den ich mit Hilfe von KI für dich zusammengefasst habe, hat mir sehr gut gefallen:***
 
 >Das Transkript stellt eine umfassende Diskussion über die Vorbereitung junger Menschen und der Gesellschaft auf die Zukunft der KI dar und betont menschliche Fähigkeiten, persönliches Wachstum, Dankbarkeit, Beziehungen, Ehrgeiz und die Bedeutung von Erfahrung. Simon Sinek gibt Einblicke, wie man sich in einer sich schnell verändernden Welt, die von technologischen Fortschritten angetrieben wird, zurechtfindet und welche wesentlichen Eigenschaften einzigartig menschlich bleiben werden.
 

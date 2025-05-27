@@ -192,7 +192,7 @@ Kifejti:
 
 ***Nagyon tetszett az a rész, amelyet az MI segítségével összefoglaltam neked:***
 
->Az átirat átfogó vitát mutat be a fiatalok és a társadalom mesterséges intelligencia jövőjére való felkészítéséről, hangsúlyozva az emberi készségeket, a személyes fejlődést, a hálát, a kapcsolatokat, az ambíciót és a tapasztalatok fontosságát. Simon Sinek betekintést nyújt abba, hogyan navigáljunk a technológiai fejlődés által vezérelt, gyorsan változó világban, és melyek azok az alapvető tulajdonságok, amelyek egyedülállóan emberi tulajdonságok maradnak.
+>Az átirat átfogó beszélgetést mutat be a fiatalok és a társadalom mesterséges intelligencia jövőjére való felkészítéséről, hangsúlyozva az emberi készségeket, a személyes fejlődést, a hálát, a kapcsolatokat, az ambíciót és a tapasztalatok fontosságát. Simon Sinek betekintést nyújt abba, hogyan navigáljunk a technológiai fejlődés által vezérelt, gyorsan változó világban, és melyek azok az alapvető tulajdonságok, amelyek egyedülállóan emberi tulajdonságok maradnak.
 
 **Főbb témák és meglátások:**
 
