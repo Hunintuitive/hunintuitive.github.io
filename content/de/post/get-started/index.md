@@ -5,7 +5,7 @@ title: 🎶 Ein Tauchgang in meine musikalische Welt - Willkommen auf der Reise!
 
 
 summary: Lustige Musik, ein Breakdance-Bär und die herzlichen Gründe, Musik zu genießen, so oft man kann. 🤩
-date: 2025-05-01
+date: 2025-05-29
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -20,6 +20,7 @@ tags:
   - Musik
   - Breakdance
   - Breaktanz Bär
+  - Bevorzugte Musikgenres
   - Warum Musik hören
 ---
 ## 🎶 Ein Tauchgang in meine musikalische Welt
@@ -33,6 +34,8 @@ Willkommen in meiner kleinen Ecke des Internets. Dies war mein allererster Blogb
 > ***Im wahrsten Sinne des Wortes sind wir Außerirdische auf einem fremden Planeten. Wir verbringen die meiste Zeit unseres Lebens damit, zu versuchen, mit anderen zu kommunizieren. Wenn wir während unseres ganzen Lebens nur zwei Menschen erreichen und mit ihnen kommunizieren können, haben wir wirklich großes Glück.“ -Gene Roddenberry***  
 
 Musik ist für mich der Herzschlag des Lebens - eine tiefe Liebe, die tief in meiner Seele mitschwingt. Ob ich mich in bezaubernden Melodien verliere, mit Freude meine eigenen Melodien kreiere oder frei zu rhythmischen Beats tanze - Musik bereichert jeden Moment. Musik ist ein mächtiger Motor für das Wohlergehen der gesamten Menschheit.
+
+Als begeisterter „Trekkie“ finde ich im riesigen Universum von Star Trek und Science-Fiction unendlich viel Inspiration. Die Geschichten von Erforschung, Einheit und Hoffnung beflügeln meine Fantasie und erinnern mich daran, wie wichtig Neugier und Aufgeschlossenheit in unserer eigenen Welt sind.
 
 Spock aus *Star Trek* pflegte zu sagen: 🖖 *Lebe lang und in Frieden!* 😊 Das ist mein ehrlicher Wunsch für dich und uns alle!
 
@@ -63,7 +66,7 @@ Einer meiner Lieblings-Breakdance-Stile ist der **"Animation Break"** - sollte i
 
 ---
 
-## Tanz & Bewegung
+## Tanz & Bewegung im Reich des Breakdance und Breakbeat
 
 Hier ist ein fesselndes Breakdance-Video voller energiegeladener Moves und Beats, die Lust aufs Tanzen machen!
 
@@ -76,6 +79,31 @@ Hier ist ein fesselndes Breakdance-Video voller energiegeladener Moves und Beats
 Bereite dich darauf vor, in eine hypnotisierende Mischung aus Klängen einzutauchen - eine Reise, auf der sich uralte östliche Melodien mit pulsierenden Trance-Rhythmen vermischen. Diese Verschmelzung schafft eine lebendige Klanglandschaft, die die Seele berührt und den Geist belebt.
 
 {{< youtube KBPbEpsjU4k >}}  
+
+---
+
+## Synthwave & Retrowave: Ein Liebesbrief an die Nostalgie der 80er
+
+Synthwave und Retrowave sind lebendige Genres, die ihre Wurzeln in der nostalgischen Feier der 1980er Jahre haben und eine retrofuturistische Ästhetik mit moderner elektronischer Produktion verbinden. Geprägt von satten Synthesizern, pulsierenden Bässen und nostalgischen Melodien, beschwören diese Genres den Geist klassischer Filme, Videospiele und neonbeleuchteter Stadtlandschaften aus dieser Zeit herauf.
+
+Künstler wie Nina und The Midnight sind zu prominenten Stimmen in dieser Szene geworden, die nahtlos cineastische Soundscapes mit gefühlvollem Songwriting verbinden. Nina, die für ihren verträumten Gesang und ihre beschwörenden Melodien bekannt ist, fängt die emotionale Tiefe des Retrowave ein, während The Midnight nostalgische Synthesizer mit poetischen Texten kombinieren und so eine fesselnde musikalische Reise schaffen. Ihre Arbeit zeigt, dass Synthwave und Retrowave mehr als nur Genres sind - sie sind eine leidenschaftliche Liebeserklärung an eine vergangene Ära, die für ein modernes Publikum neu interpretiert wurde.
+
+### Nina:
+{{< youtube cZmdeYxLXMU >}}
+{{< youtube rPbrR6b6ZYs >}}
+
+### The Midnight:
+{{< youtube qTZcBb5gUOU >}}
+
+Als Kind der 80er Jahre kann ich nicht anders, als diese Musik unglaublich inspirierend zu finden. Sie versetzt mich oft in die Vergangenheit zurück und lässt mich fröhliche Kindheitserinnerungen aufleben. Diese Ära war eine Zeit der musikalischen Innovation und des kühnen Experimentierens, in der eine reiche Vielfalt an Genres geschaffen wurde. Die lebendigen Klänge der 80er Jahre - von Synthie-Pop und New Wave bis hin zum frühen Hip-Hop und vielen anderen - definierten eine dynamische Ära der Kreativität, die mich und andere auch heute noch inspiriert und anspricht.
+
+Ein weiterer Künstler ist Kebu, der mich ebenfalls in die wunderbaren 80er Jahre und in meine Kindheit zurückversetzt und meine Fantasie jedes Mal zu neuen Höhenflügen anregt, wenn ich mich mit seinen Werken beschäftige:
+
+{{< youtube yaPINt0Q7po >}}
+{{< youtube TRCQmNMOqUY >}}
+{{< youtube eNiom2eQ8IU >}}
+{{< youtube 1NvHr5_Yb6Y >}}
+{{< youtube OGD1uQCmais >}}
 
 ---
 

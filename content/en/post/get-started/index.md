@@ -5,7 +5,7 @@ title: 🎶 A Dive Into My Musical World - Welcome to the Journey!
 
 
 summary: Fun music, a breakdance bear, and the heartfelt reasons to enjoy music as often as you can. 🤩
-date: 2025-05-01
+date: 2025-05-29
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -20,7 +20,9 @@ tags:
   - Music
   - Breakdance
   - Breaking Bear
+  - Favourite music genres
   - Why listen to music
+
 ---
 ## 🎶 A Dive Into My Musical World
 
@@ -33,6 +35,8 @@ Welcome to my little corner of the internet. This was my very first blog post-an
 > ***In a very real sense, we are aliens on a strange planet. We spend most of our lives reaching out and trying to communicate. If during our whole lifetime, we could reach out and really connect with just two people, we are indeed very fortunate." -Gene Roddenberry***  
 
 Music, for me, is the heartbeat of life-a profound love that resonates deep within my soul. Whether I’m lost in enchanting melodies, creating my own tunes with joy, or dancing freely to rhythmic beats, music enriches every moment. Music is one powerful driver of the prosperity of all mankind.
+
+As a devoted "Trekkie", I find endless inspiration in the vast universe of Star Trek and sci-fi. The stories of exploration, unity, and hope fuel my imagination and remind me of the importance of curiosity and open-mindedness in our own world.
 
 Spock from *Star Trek* used to say: 🖖 *Live long and prosper!* 😊 That is my honest wish for you and all of us!
 
@@ -63,7 +67,7 @@ One of my favorite breakdance styles is the **"Animation Break"**-if I ever go p
 
 ---
 
-## Dance & Movement
+## Dance & Movement in Realm of Breakdance and Breakbeat
 
 Here's a captivating breakdancing video full of energetic moves and beats that make you want to get up and dance!  
 
@@ -76,6 +80,31 @@ Here's a captivating breakdancing video full of energetic moves and beats that m
 Prepare to immerse yourself in a mesmerizing blend of sounds-a journey where ancient Eastern melodies intertwine with pulsating trance rhythms. This fusion creates a vibrant soundscape that touches the soul and energizes the spirit.  
 
 {{< youtube KBPbEpsjU4k >}}  
+
+---
+
+## Synthwave & Retrowave: A Love Letter to ‘80s Nostalgia
+
+Synthwave and retrowave are vibrant genres rooted in the nostalgic celebration of the 1980s, blending retro-futuristic aesthetics with modern electronic production. Characterized by lush synthesizers, pulsating basslines, and nostalgic melodies, these genres evoke the spirit of classic movies, video games, and neon-lit cityscapes from the era.
+
+Artists like Nina and The Midnight have become prominent voices within this scene, seamlessly merging cinematic soundscapes with heartfelt songwriting. Nina, known for her dreamy vocals and evocative melodies, captures the emotional depth of retrowave, while The Midnight combines nostalgic synths with poetic lyrics, creating immersive musical journeys. Their work exemplifies how synthwave and retrowave are more than just genres-they're a passionate love letter to a bygone era, reimagined for modern audiences.
+
+### Nina:
+{{< youtube cZmdeYxLXMU >}}
+{{< youtube rPbrR6b6ZYs >}}
+
+### The Midnight:
+{{< youtube qTZcBb5gUOU >}}
+
+As a kid of the 80s, I can't help but find this music incredibly inspiring. It often transports me back in time, allowing me to relive joyful childhood memories. That era was a period of musical innovation and bold experimentation, with a rich diversity of genres being created. The vibrant sounds of the 80s -ranging from synth-pop and new wave to early hip-hop and many others- defined a dynamic era of creativity that continues to inspire and resonate with me and others as well today.
+
+Another artist is Kebu, who also transports me back to the wonderful 80s and my childhood, allowing my imagination to reach new heights every time I engage with his work:
+
+{{< youtube yaPINt0Q7po >}}
+{{< youtube TRCQmNMOqUY >}}
+{{< youtube eNiom2eQ8IU >}}
+{{< youtube 1NvHr5_Yb6Y >}}
+{{< youtube OGD1uQCmais >}}
 
 ---
 
