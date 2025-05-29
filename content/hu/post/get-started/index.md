@@ -100,6 +100,9 @@ A 80-as évek gyermekeként nem tehetek róla, de hihetetlenül inspirálónak t
 
 Egy másik művész Kebu, aki szintén visszarepít a csodálatos 80-as évekbe és a gyermekkoromba, és lehetővé teszi, hogy a képzeletem új magasságokba emelkedjen minden alkalommal, amikor a munkáival foglalkozom:
 
+{{< youtube zyAKsU9njYM >}}
+{{< youtube _6mHcgm5MhM >}}
+{{< youtube DEjHl7CIQIw >}}
 {{< youtube yaPINt0Q7po >}}
 {{< youtube TRCQmNMOqUY >}}
 {{< youtube eNiom2eQ8IU >}}

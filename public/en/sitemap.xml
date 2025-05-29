@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/en/post/get-started/</loc>
+    <lastmod>2025-05-29T00:00:00Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/en/post/ai/</loc>
     <lastmod>2025-05-26T00:00:00Z</lastmod>
   </url>
@@ -14,11 +19,6 @@
   <url>
     <loc>http://localhost:1313/en/post/assertion/</loc>
     <lastmod>2025-05-12T00:00:00Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/en/post/get-started/</loc>
-    <lastmod>2025-05-01T00:00:00Z</lastmod>
   </url>
   
   <url>

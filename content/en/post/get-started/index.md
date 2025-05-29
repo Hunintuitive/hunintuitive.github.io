@@ -100,6 +100,9 @@ As a kid of the 80s, I can't help but find this music incredibly inspiring. It o
 
 Another artist is Kebu, who also transports me back to the wonderful 80s and my childhood, allowing my imagination to reach new heights every time I engage with his work:
 
+{{< youtube zyAKsU9njYM >}}
+{{< youtube _6mHcgm5MhM >}}
+{{< youtube DEjHl7CIQIw >}}
 {{< youtube yaPINt0Q7po >}}
 {{< youtube TRCQmNMOqUY >}}
 {{< youtube eNiom2eQ8IU >}}

@@ -99,6 +99,9 @@ Als Kind der 80er Jahre kann ich nicht anders, als diese Musik unglaublich inspi
 
 Ein weiterer Künstler ist Kebu, der mich ebenfalls in die wunderbaren 80er Jahre und in meine Kindheit zurückversetzt und meine Fantasie jedes Mal zu neuen Höhenflügen anregt, wenn ich mich mit seinen Werken beschäftige:
 
+{{< youtube zyAKsU9njYM >}}
+{{< youtube _6mHcgm5MhM >}}
+{{< youtube DEjHl7CIQIw >}}
 {{< youtube yaPINt0Q7po >}}
 {{< youtube TRCQmNMOqUY >}}
 {{< youtube eNiom2eQ8IU >}}
