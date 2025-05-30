@@ -87,7 +87,7 @@ Készülj fel arra, hogy elmerülj a hangok hipnotikus keverékében - egy olyan
 
 A synthwave és a retrowave a nyolcvanas évek nosztalgikus ünneplésében gyökerező, vibráló műfaj, mely a retro-futurisztikus esztétikát modern elektronikus produkcióval ötvözi. A pompás szintetizátorok, lüktető basszusvonalak és nosztalgikus dallamok jellemzik ezeket a műfajokat, amelyek a klasszikus filmek, videojátékok és neonfényes városképek szellemét idézik fel ebből a korszakból.
 
-Az olyan művészek, mint Nina és a The Midnight, kiemelkedő hangokká váltak ebben a szcénában, és zökkenőmentesen egyesítik a filmes hangzásvilágot a szívből jövő dalszerzéssel. Nina, aki álmodozó énekhangjáról és felidéző dallamairól ismert, a retrowave érzelmi mélységét ragadja meg, míg a The Midnight a nosztalgikus szintetizátorokat költői dalszövegekkel kombinálja, magával ragadó zenei utazásokat létrehozva. Munkájuk jól példázza, hogy a synthwave és a retrowave több, mint egyszerű műfaj - szenvedélyes szerelmes levél egy letűnt korszakhoz, a modern közönség számára újragondolva.
+Az olyan művészek, mint Nina és a The Midnight, kiemelkedő hangokká váltak ebben a szcénában, és zökkenőmentesen egyesítik a filmes hangzásvilágot a szívből jövő dalszerzéssel. Nina, aki álmodozó énekhangjáról és magávalragadó dallamairól ismert, a retrowave érzelmi mélységét ragadja meg, míg a The Midnight a nosztalgikus szintetizátorokat költői dalszövegekkel kombinálja, szintén magával ragadó zenei utazásokat létrehozva. Munkájuk jól példázza, hogy a synthwave és a retrowave több, mint egyszerű műfaj - szenvedélyes szerelmes levél egy letűnt korszakhoz, a modern közönség számára újragondolva.
 
 ### Nina:
 {{< youtube cZmdeYxLXMU >}}
