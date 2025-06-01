@@ -165,7 +165,7 @@ Persze sok nüansznyi dolog van még, amit érdemes tudni arról, hogy mi szám�
 
 Számtalan sikertörténet van körülöttünk, amelyek rávilágítanak arra, hogy akik elértek valamit, nem hódoltak be azoknak a korlátozó hiedelmeknek, amelyeket bizonyos entitások ebben a világban megpróbálnak rájuk erőltetni.
 
-## Legyen az Te utad is egy ilyen sikertörténet! A legjobbakat kívánom!
+## Legyen a Te utad is egy ilyen sikertörténet! A legjobbakat kívánom!
 
 ![Alt text](/bye.png) 
 
