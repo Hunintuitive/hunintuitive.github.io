@@ -5,7 +5,7 @@ title: 🎶 Merülés a zenei világomba - Isten hozott az utazásban!
 
 
 summary: Szórakoztató zene, egy breaktáncos medve, és a szívbéli okok, hogy minél gyakrabban élvezd a zenét. 🤩
-date: 2025-05-29
+date: 2025-06-06
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -73,6 +73,10 @@ Az egyik kedvenc breakdance stílusom az **"Animation Break "** - ha valaha prof
 
 {{< youtube x417V16UQBE >}}  
 
+Fedezd fel az egyik abszolút kedvenc mixemet, ami ellenállhatatlanul megmozgat - biztos, hogy a saját lejátszási listádat is felpezsdítheti és inspirálhatja.
+
+{{< youtube rRrTdlqUF5M >}}
+
 ---
 
 ## Kultúrák fúziója: Keleti dallamok találkozása a trance-szel
@@ -104,7 +108,6 @@ Egy másik művész Kebu, aki szintén visszarepít a csodálatos 80-as évekbe 
 {{< youtube _6mHcgm5MhM >}}
 {{< youtube DEjHl7CIQIw >}}
 {{< youtube yaPINt0Q7po >}}
-{{< youtube TRCQmNMOqUY >}}
 {{< youtube eNiom2eQ8IU >}}
 {{< youtube 1NvHr5_Yb6Y >}}
 {{< youtube OGD1uQCmais >}}

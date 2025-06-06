@@ -5,7 +5,7 @@ title: 🎶 A Dive Into My Musical World - Welcome to the Journey!
 
 
 summary: Fun music, a breakdance bear, and the heartfelt reasons to enjoy music as often as you can. 🤩
-date: 2025-05-29
+date: 2025-06-06
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -73,6 +73,10 @@ Here's a captivating breakdancing video full of energetic moves and beats that m
 
 {{< youtube x417V16UQBE >}}  
 
+Discover my ultimate favorite blend of electrifying break beats that irresistibly get me moving - sure to energize and inspire your own playlist.
+
+{{< youtube rRrTdlqUF5M >}}
+
 ---
 
 ## Fusion of Cultures: Eastern Melodies Meets Trance
@@ -104,7 +108,6 @@ Another artist is Kebu, who also transports me back to the wonderful 80s and my 
 {{< youtube _6mHcgm5MhM >}}
 {{< youtube DEjHl7CIQIw >}}
 {{< youtube yaPINt0Q7po >}}
-{{< youtube TRCQmNMOqUY >}}
 {{< youtube eNiom2eQ8IU >}}
 {{< youtube 1NvHr5_Yb6Y >}}
 {{< youtube OGD1uQCmais >}}

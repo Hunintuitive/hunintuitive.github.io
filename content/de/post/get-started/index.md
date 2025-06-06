@@ -5,7 +5,7 @@ title: 🎶 Ein Tauchgang in meine musikalische Welt - Willkommen auf der Reise!
 
 
 summary: Lustige Musik, ein Breakdance-Bär und die herzlichen Gründe, Musik zu genießen, so oft man kann. 🤩
-date: 2025-05-29
+date: 2025-06-06
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -72,6 +72,10 @@ Hier ist ein fesselndes Breakdance-Video voller energiegeladener Moves und Beats
 
 {{< youtube x417V16UQBE >}}  
 
+Entdecke meine ultimative Lieblingsmischung aus elektrisierenden Breakbeats, die mich unwiderstehlich in Bewegung bringen - und sicher auch deine eigene Playlist anregen und inspirieren.
+
+{{< youtube rRrTdlqUF5M >}}
+
 ---
 
 ## Eine Fusion der Kulturen: Östliche Melodien treffen auf Trance
@@ -103,7 +107,6 @@ Ein weiterer Künstler ist Kebu, der mich ebenfalls in die wunderbaren 80er Jahr
 {{< youtube _6mHcgm5MhM >}}
 {{< youtube DEjHl7CIQIw >}}
 {{< youtube yaPINt0Q7po >}}
-{{< youtube TRCQmNMOqUY >}}
 {{< youtube eNiom2eQ8IU >}}
 {{< youtube 1NvHr5_Yb6Y >}}
 {{< youtube OGD1uQCmais >}}

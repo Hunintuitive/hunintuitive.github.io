@@ -3,17 +3,17 @@
   
   <url>
     <loc>http://localhost:1313/hu/post/get-started/</loc>
-    <lastmod>2025-05-29T00:00:00Z</lastmod>
+    <lastmod>2025-06-06T00:00:00Z</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/hu/post/dopamine/</loc>
+    <lastmod>2025-05-30T00:00:00Z</lastmod>
   </url>
   
   <url>
     <loc>http://localhost:1313/hu/post/ai/</loc>
     <lastmod>2025-05-26T00:00:00Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/hu/post/dopamine/</loc>
-    <lastmod>2025-05-23T00:00:00Z</lastmod>
   </url>
   
   <url>
