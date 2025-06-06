@@ -112,7 +112,7 @@ Die primäre oder dominante Funktion ist die am weitesten entwickelte und oft di
 
 - **Beispiel**: ***Ich werde hier meinen eigenen Typ verwenden, da er mir am vertrautesten ist: ein INFJ (Introverted Intuitive Feeling Judging).*** Dieser Typ verwendet Ni als seine dominante Funktion, die es ihm ermöglicht, komplexe Ideen zu verarbeiten und zukünftige Möglichkeiten vorauszusehen. Dieser Fokus prägt sein einfühlsames Wesen und den Wunsch, anderen zu helfen, ihr Potenzial zu entfalten."
 
-### Sekundäre (Hilfs-)Funktion
+### Sekundäre (Hilfs-) Funktion
 
 Die sekundäre Funktion unterstützt die dominante Funktion und sorgt für Ausgewogenheit. Sie ermöglicht es dem Einzelnen, sich auf eine vielseitigere Weise mit der Welt auseinanderzusetzen.
 
