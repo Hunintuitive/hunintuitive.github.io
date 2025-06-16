@@ -1,0 +1,38 @@
+<div class="video-wrapper" data-video-id="{{ .Get 0 }}">
+  <img 
+    src="https://img.youtube.com/vi/{{ .Get 0 }}/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="{{ .Get 1 | default "Play" }}">
+    <!-- Optional: include label text or keep SVG only -->
+    {{ if .IsNamedParams }}
+      {{ with .Get 2 }}{{ . }}{{ else }}Play{{ end }}
+    {{ end }}
+    <!-- SVG Icon -->
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+

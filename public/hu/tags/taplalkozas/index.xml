@@ -249,138 +249,602 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
 &lt;h2 id=&#34;you-tube-források-a-fentiekhez-ha-szeretnél-többet-megtudni&#34;&gt;You Tube források a fentiekhez, ha szeretnél többet megtudni:&lt;/h2&gt;
 &lt;p&gt;Angolul jól értőknek ajánlott, bár Google által generált automatikus magyar fordítás is elérhető, sajnálatosan megkérdőjelezhető pontossággal.&lt;/p&gt;
 &lt;h2 id=&#34;dr-robert-lustig&#34;&gt;Dr. Robert Lustig:&lt;/h2&gt;
-&lt;p&gt;
-
+&lt;p&gt;&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;kDDOlSXFeDE&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/kDDOlSXFeDE/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/kDDOlSXFeDE?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/EKkUtrL6B18?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/dBnniua6-oM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
 
 
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;EKkUtrL6B18&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/EKkUtrL6B18/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/sxJvfqTFttY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;dBnniua6-oM&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/dBnniua6-oM/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;sxJvfqTFttY&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/sxJvfqTFttY/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;strong&gt;Zseniális betekintés a keto és vegán étrendekbe valamint gondolatok a &amp;ldquo;Metabolical&amp;rdquo; című könyvről:&lt;/strong&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;jRV8uiqVPas&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/jRV8uiqVPas/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jRV8uiqVPas?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 &lt;/p&gt;
 &lt;h2 id=&#34;dr-pradip-jamnadas&#34;&gt;Dr. Pradip Jamnadas:&lt;/h2&gt;
-&lt;p&gt;
-
+&lt;p&gt;&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;Npy0qwgh5RM&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/Npy0qwgh5RM/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Npy0qwgh5RM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/qIcSIC_IjfM?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/PNByT_Mm_Ac?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
 
 
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;qIcSIC_IjfM&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/qIcSIC_IjfM/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/irn3cFHmK-Y?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/pCQovPrsM2k?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/gVsxe9v72C0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;PNByT_Mm_Ac&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/PNByT_Mm_Ac/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;irn3cFHmK-Y&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/irn3cFHmK-Y/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;pCQovPrsM2k&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/pCQovPrsM2k/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;gVsxe9v72C0&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/gVsxe9v72C0/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 &lt;/p&gt;
 &lt;h2 id=&#34;dr-andrew-huberman&#34;&gt;Dr. Andrew Huberman:&lt;/h2&gt;
-&lt;p&gt;
-
+&lt;p&gt;&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;WFcYF_pxLgA&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/WFcYF_pxLgA/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/WFcYF_pxLgA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/DkS1pkKpILY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jSqCL7Npln0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;DkS1pkKpILY&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/DkS1pkKpILY/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;jSqCL7Npln0&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/jSqCL7Npln0/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 &lt;/p&gt;
 &lt;h2 id=&#34;prof-anna-lembke&#34;&gt;Prof. Anna Lembke:&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Rövid előadás a „ Dopamin Nemzetről”:&lt;/strong&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;n2u8Z1HeKD8&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/n2u8Z1HeKD8/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/n2u8Z1HeKD8?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jziP0CEgvOw?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;jziP0CEgvOw&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/jziP0CEgvOw/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 &lt;/p&gt;
 &lt;h2 id=&#34;arra-szeretnélek-ösztönözni-hogy-fedezd-fel-a-további-videókat-is-ezeknek-a-kivételes-egyéneknek-az-értékes-munkájával-kapcsolatban&#34;&gt;Arra szeretnélek ösztönözni, hogy fedezd fel a további videókat is ezeknek a kivételes egyéneknek az értékes munkájával kapcsolatban!&lt;/h2&gt;
 &lt;hr&gt;
@@ -551,13 +1015,42 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
       <description>&lt;h2 id=&#34;ez-a-6-étel-zsírt-éget-és-meggyógyítja-a-testet--dr-mindy-pelz-vezető-böjtölési-szakértő&#34;&gt;Ez a 6 étel zsírt éget és meggyógyítja a testet | Dr. Mindy Pelz, vezető böjtölési szakértő&lt;/h2&gt;
 &lt;p&gt;&lt;strong&gt;Bevezetés&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Nemrégiben bukkantam erre a videóra Dr. Mindy Pelz-től, aki hihetetlenül nagy forrása az olyan értékes meglátásoknak, melyek a jólétünkkel és egészségünkkel kapcsolatosak.
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;s2ssYtWT5bY&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/s2ssYtWT5bY/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/s2ssYtWT5bY?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 &lt;/p&gt;
 &lt;p&gt;Automatikus google fordítással elérhető magyar felírat a videóhoz. Ha nem tudod, hogyan kell ezt bekapcsolni &lt;a href=&#34;https://youtu.be/7iWbCN4YM2o&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;itt&lt;/a&gt; találsz egy útmutatót.&lt;/p&gt;
 &lt;h1 id=&#34;miért-használd-az-autofágiát-és-a-koplalást-a-cél-nem-pusztán-a-böjt-önmagában-hanem-az-autofágia-beindítása-a-böjt-által&#34;&gt;Miért használd az autofágiát és a koplalást? A cél nem pusztán a böjt önmagában, hanem az autofágia beindítása a böjt által.&lt;/h1&gt;
@@ -767,10 +1260,10 @@ Oké, de akkor kezded érteni? Nem kell összeesküvés. &lt;em&gt;&lt;strong&gt
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/post/health/meunhealthy_hu3135214152744216186.webp 400w,
+               /hu/post/health/meunhealthy_hu6463501211222675145.webp 400w,
                /hu/post/health/meunhealthy_hu289967597744675001.webp 760w,
                /hu/post/health/meunhealthy_hu15761300378287395345.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/meunhealthy_hu3135214152744216186.webp&#34;
+               src=&#34;http://localhost:1313/hu/post/health/meunhealthy_hu6463501211222675145.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -864,26 +1357,84 @@ Link a videóhoz:
 &lt;p&gt;Mélyen megérintett, amikor Dr. Robert Lustig &amp;ldquo;Metabolical&amp;rdquo; című könyvében publikált idézete: „Az UCSF-en van egy mottónk: „Istenben bízunk, mindenki más álljon elő az adataival”.” Teljes szívemből egyetértek, és örömmel fogadtam el ezt a személyes mottómnak is.&lt;/p&gt;
 &lt;h2 id=&#34;íme-egy-példa-az-ilyen-adatokra-amelyekből-kiderül-hogy-sok-embernek-vannak-az-enyémhez-hasonló-tapasztalatai-követik-amit-az-orvosuk-vagy-a-dietetikusuk-ajánl-és-az-állapotuk-tovább-romlik&#34;&gt;Íme egy példa az ilyen adatokra, amelyekből kiderül, hogy sok embernek vannak az enyémhez hasonló tapasztalatai: követik, amit az orvosuk vagy a dietetikusuk ajánl, és az állapotuk tovább romlik:&lt;/h2&gt;
 &lt;p&gt;Sajnos ez a forrás is angol nyelvű, Google automatikusan fordított magyar felírat elérhető, esetenként pontatlan fordítással:&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;bRzBGHx93hc&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/bRzBGHx93hc/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bRzBGHx93hc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Mindenhol kezdtem olyan mintákat felismerni, melyek azt jelezték, hogy ha nem képezzük magunkat az egészségről, akkor nem állíthatjuk, hogy bölcsek vagyunk. Végül is “azt fogjuk aratni, amit vetünk”, ahogyan a Galácia 6:7-ben (Biblia) olvashatjuk.&lt;/p&gt;
 &lt;h2 id=&#34;van-egy-mondás-ha-valami-túl-jónak-tűnik-ahhoz-hogy-igaz-legyen-akkor-az-valószínűleg-nem-igaz&#34;&gt;Van egy mondás: „Ha valami túl jónak tűnik ahhoz, hogy igaz legyen, akkor az valószínűleg nem igaz.”&lt;/h2&gt;
 &lt;p&gt;De miért vagyunk még mindig olyan könnyen elcsábíthatóak, hogy higgyünk a tündérmesékben? Vegyük például a „varázspirula” mentalitást. Valószínűleg mélyen legbelül tudjuk, hogy nincs &amp;ldquo;varázspirula&amp;rdquo; vagy egyetlen gyógymód minden problémánkra, mégis abban reménykedünk legbelül, hogy valahol, egy zseniális feltaláló egyszer mégiscsak megalkotja. Ugyanez a felfogás vonatkozik a kapcsolatokkal, a jóléttel és az élet nagyjából minden más területével kapcsolatos elvárásainkra is. Az igazság azonban az, hogy ha egyáltalán nem teszünk erőfeszítést, ha nem nézünk utána és nem fektetünk bele munkát, akkor nem fogunk &amp;ldquo;semmilyen hasznot aratni&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Láttad a &amp;ldquo;The Magic Pill&amp;rdquo; (Varázspirula) című dokumentumfilmet? Ez egy elég vitatott alkotás, amely sok kritikát váltott ki, de számomra jelentős igazságokat közvetít azon túl, hogy a ketózisra és a ketogén diétára összpontosít, amelyet sok kritikus bírál. A dokumentumfilm alapvető igazságokat tár fel a Föld ökoszisztémájáról és arról, hogyan tervezték eredetileg (igen, hiszek egy Nagy Tervezőben, aki határozott céllal helyezett minket ide), és hogyan sikerült az emberiségnek megzavarnia ezt a bonyolult rendszert, veszélyeztetve mind az egészségünket, mind pedig a létünket.&lt;/p&gt;
 &lt;p&gt;A videó angol nyelvű, Google automatikusan fordított magyar felírat elérhető, esetenként pontatlan fordítással:&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;W2mkTlTGM9c&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/W2mkTlTGM9c/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/W2mkTlTGM9c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Ez a dokumentumfilm még inkább rávilágít arra, hogy nincs varázspirula. Nem feltételezhetjük hogy alapból sikeresek leszünk, ha újra feltaláljuk az ételeinket, vagy megváltoztatjuk azokat anélkül, hogy megértenénk ennek a hosszú távú hatásait. Ez az elv nemcsak az élelmiszerekre és az egészségre vonatkozik, hanem arra is, ahogyan egész környezetünkkel bánunk itt a Földön.&lt;/p&gt;
 &lt;p&gt;Prof. Yuval Noah Harari (történész) egy felkavaró felismerést osztott meg egy lebilincselő podcastban &amp;quot; The Diary of a CEO&amp;quot; (Egy vezérigazgató naplója) címmel: „&lt;em&gt;&lt;strong&gt;Az emberek jellemzően jóval azelőtt megtanulnak manipulálni valamit, hogy megértenék manipulációik következményeit.&lt;/strong&gt;&lt;/em&gt; Ha megvizsgáljuk a külső világot, különösen az ökológiai rendszereinket, megtanultuk, hogyan vágjuk ki az erdőket és építsünk hatalmas gátakat jóval azelőtt, hogy felfogtuk volna, milyen következményekkel jár ezekre az ökoszisztémákra nézve, ami hozzájárult a jelenlegi ökológiai válsághoz. Úgy manipuláltuk a világot, hogy nem értettük meg a következményeket, és valami hasonló történhet a saját testünkben is.”&lt;/p&gt;

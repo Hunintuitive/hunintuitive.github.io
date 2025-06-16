@@ -31,13 +31,42 @@
 &lt;p&gt;For example, in my personal experience consulting medical professionals here in Hungary, I found that they were often uncertain about the connection between skin tags and moles and insulin resistance. I am not implying that such connections do not exist; rather, I have yet to meet a practitioner who has confirmed this link. However, several health practitioners, including licensed medical doctors, have pointed out a relationship between these skin conditions and metabolic issues. Research studies, including at least &lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/PMC6536054/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;one&lt;/a&gt;, linking skin tags to metabolic syndrome, suggest that skin tags may serve as visible markers of underlying metabolic issues, particularly insulin resistance. This underscores the importance of monitoring individuals with skin tags for potential metabolic disturbances, which can inform better healthcare practices.&lt;/p&gt;
 &lt;p&gt;The conflicting information available can create confusion and frustration for individuals facing these differing views. They may feel uncertain about their health and the validity of the advice they receive, leading to anxiety over potential underlying health issues. The lack of a clear consensus can cause them to second-guess their treatment options or hesitate to seek further medical advice. This internal conflict may result in feelings of helplessness as they strive to comprehend their condition amidst contradictory perspectives. Ultimately, this situation could hinder their ability to make informed decisions regarding their health and well-being, potentially delaying necessary interventions or lifestyle changes that could improve their overall condition. Despite emerging evidence, many healthcare providers may remain unaware of such connections, and there can be some resistance to acknowledging them, which can sometimes lead to misunderstandings about differing perspectives in the medical community.&lt;/p&gt;
 &lt;p&gt;To illustrate this point, consider &lt;strong&gt;an intriguing conversation posted on YouTube between Dr. Ken D. Berry and Dr. Robert Lufkin titled &amp;ldquo;Why Your Doctor Lies to You&amp;rdquo;:&lt;/strong&gt;&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;ZkkbwA7We2U&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/ZkkbwA7We2U/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZkkbwA7We2U?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Both individuals discussed changes related to their own health that led them to reevaluate their perspectives on medicine and certain medical practices.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Brief summary from 38:33 minutes into the conversation:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -202,30 +231,117 @@ While it is crucial to advocate for alternative practices, a balanced view must 
 &lt;h2 id=&#34;a-closer-examination-of-the-inspiring-materials-behind-this-article&#34;&gt;A Closer Examination of the Inspiring Materials Behind This Article:&lt;/h2&gt;
 &lt;h3 id=&#34;if-youre-curious-to-learn-more-i-encourage-you-to-dive-deeper-into-the-subject-by-exploring-additional-resources-and-perspectives-that-can-enrich-your-understanding&#34;&gt;If you&amp;rsquo;re curious to learn more, I encourage you to dive deeper into the subject by exploring additional resources and perspectives that can enrich your understanding.&lt;/h3&gt;
 &lt;h3 id=&#34;youtube-videos&#34;&gt;YouTube Videos&lt;/h3&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;7STAPF4Gdr0&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/7STAPF4Gdr0/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/7STAPF4Gdr0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8AqlZK2TxZA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;8AqlZK2TxZA&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/8AqlZK2TxZA/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;These videos address the relationship between skin tags and insulin resistance.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;Oh5wT4r2EYA&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/Oh5wT4r2EYA/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Oh5wT4r2EYA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;In a discussion led by Jordan Peterson and Dr. Benjamin Bikman, a professor of Cell Biology, the conversation centers on the impact of carbohydrate intake on health, particularly regarding insulin resistance and chronic diseases.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Key Points:&lt;/strong&gt;&lt;/p&gt;
@@ -267,13 +383,42 @@ While it is crucial to advocate for alternative practices, a balanced view must 
 &lt;li&gt;In the discussion, a significant point emerged regarding human metabolic pathways and their implications for health and longevity. Dr. Bikman articulated that humans possess two primary metabolic pathways, with the carbohydrate pathway being a relatively recent adaptation primarily used in emergencies. This pathway provides a quick source of energy but is limited in supply. When carbohydrates are depleted-such as during a 24-hour fast-the body transitions into a state of ketogenesis, utilizing fat for energy. This shift is crucial, particularly when considering the challenges faced by our ancestors during times of food scarcity, which likely triggered the activation of autophagy, a process where the body digests its own damaged tissues. This mechanism allows for regeneration and repair, enabling survival during difficult periods. Dr. Bikman emphasized that a constant reliance on carbohydrates prevents the body from entering an autophagic state, potentially hindering its ability to repair and rejuvenate itself. He proposed that a carnivore diet may not only mimic the effects of autophagy but actively promote it, which could explain its effectiveness for some individuals. Additionally, the discussion touched on the intricate balance between growth and decay in cellular processes, highlighting the role of hormones in determining whether cells are in a building or breaking phase. Dr. Bikman noted that optimizing the process of cellular death through autophagy is essential for long-term health, suggesting that a carnivore diet may facilitate this balance by reducing reliance on an emergency food supply that often leads to fat accumulation. The conversation also hinted at the broader implications of insulin resistance, a condition exacerbated by chronic high carbohydrate intake. Dr. Bikman encouraged a deeper exploration of the mechanisms behind insulin resistance and its connections to a range of health issues, including diabetes, obesity, and various age-related diseases, underscoring the importance of understanding these metabolic pathways for improving overall health and longevity.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;The discussion serves as a call to action for individuals to reassess their dietary habits, particularly regarding carbohydrate consumption, to combat the growing health crises in modern society.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;NyFSkGMWP5Q&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/NyFSkGMWP5Q/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NyFSkGMWP5Q?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;The &lt;a href=&#34;https://stevenbartlett.com/wp-content/uploads/2025/02/DOAC-Benjamin-Bikman-independent-research.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcast&lt;/a&gt; featuring Dr. Benjamin Bikman delves into various aspects of insulin resistance and its implications for health. Here’s a summary of the key topics discussed:&lt;/p&gt;
 &lt;ol&gt;
@@ -313,21 +458,79 @@ While it is crucial to advocate for alternative practices, a balanced view must 
 &lt;/ol&gt;
 &lt;p&gt;Throughout the discussion, Dr. Bikman emphasizes the interconnectedness of metabolic health, the importance of understanding individual risk factors, and the need for a multidisciplinary approach to treatment and prevention. The information shared is for educational purposes and should not replace professional medical advice.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@benbikman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Bikman&amp;rsquo;s YouTube Channel&lt;/a&gt;&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;lZZCLlX05PQ&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/lZZCLlX05PQ/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/lZZCLlX05PQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VaVC3PAWqLk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;VaVC3PAWqLk&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/VaVC3PAWqLk/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Dr. Thomas Seyfried mentions at the beginning of the podcast a troubling trend: cancer is experiencing exponential growth in the American population. This trend is also evident in many other nations around the world.&lt;/p&gt;
 &lt;p&gt;Even without delving into debates about biochemistry, it is clear that despite all efforts to contain and treat cancer, these efforts are far from sufficient. More and more people are developing various types of cancer worldwide. Lifestyle and nutritional factors must be considered to prevent cancer effectively. Therefore, it would be logical to direct more research efforts toward this area rather than focusing solely on managing the problem, which is obviously getting out of hand. Identifying the causes and finding ways to prevent cancer extend beyond the scope of traditional medicine. Environmental factors-such as food, toxic substances, and lifestyle-must also be taken into account. Finding the root cause and addressing it is much easier than attempting to unravel the Gordian knot presented by the current situation.&lt;/p&gt;

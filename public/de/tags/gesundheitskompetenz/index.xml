@@ -31,13 +31,42 @@
 &lt;p&gt;In meiner persönlichen Erfahrung mit Ärzten hier in Ungarn habe ich zum Beispiel festgestellt, dass sie sich oft nicht sicher waren, ob es einen Zusammenhang zwischen Hautanhängseln und Muttermalen und Insulinresistenz gibt. Ich will damit nicht sagen, dass es solche Zusammenhänge nicht gibt, aber ich habe noch keinen Arzt getroffen, der diesen Zusammenhang bestätigt hat. Mehrere Heilpraktiker, darunter auch zugelassene Ärzte, haben jedoch auf einen Zusammenhang zwischen diesen Hautkrankheiten und Stoffwechselproblemen hingewiesen. Forschungsstudien, darunter mindestens &lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/PMC6536054/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;eine&lt;/a&gt;, die Hautanhängsel mit dem metabolischen Syndrom in Verbindung bringen, legen nahe, dass Hautanhängsel als sichtbare Marker für zugrunde liegende Stoffwechselprobleme, insbesondere Insulinresistenz, dienen können. Dies unterstreicht, wie wichtig es ist, Personen mit Hautanhängseln auf mögliche Stoffwechselstörungen zu überwachen, was zu einer besseren Gesundheitsfürsorge führen kann.&lt;/p&gt;
 &lt;p&gt;Die widersprüchlichen Informationen, die zur Verfügung stehen, können zu Verwirrung und Frustration bei den Betroffenen führen, die mit diesen unterschiedlichen Ansichten konfrontiert werden. Sie fühlen sich möglicherweise unsicher in Bezug auf ihre Gesundheit und die Gültigkeit der Ratschläge, die sie erhalten, was zu Ängsten über mögliche zugrunde liegende Gesundheitsprobleme führt. Das Fehlen eines klaren Konsenses kann dazu führen, dass sie ihre Behandlungsoptionen in Frage stellen oder zögern, weiteren medizinischen Rat einzuholen. Dieser innere Konflikt kann zu einem Gefühl der Hilflosigkeit führen, da sie sich bemühen, ihren Zustand inmitten widersprüchlicher Perspektiven zu verstehen. Letztlich könnte diese Situation sie daran hindern, fundierte Entscheidungen in Bezug auf ihre Gesundheit und ihr Wohlbefinden zu treffen, und möglicherweise notwendige Eingriffe oder Lebensstiländerungen verzögern, die ihren Gesamtzustand verbessern könnten. Trotz neuer Erkenntnisse sind sich viele Gesundheitsdienstleister solcher Zusammenhänge nicht bewusst, und es kann Widerstände geben, sie anzuerkennen, was manchmal zu Missverständnissen über unterschiedliche Perspektiven in der medizinischen Gemeinschaft führen kann.&lt;/p&gt;
 &lt;p&gt;Zur Veranschaulichung dieses Punktes betrachten wir &lt;strong&gt;ein faszinierendes Gespräch, das auf YouTube zwischen Dr. Ken D. Berry und Dr. Robert Lufkin mit dem Titel „Warum Ihr Arzt Sie anlügt?“ veröffentlicht wurde:&lt;/strong&gt;&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;ZkkbwA7We2U&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/ZkkbwA7We2U/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZkkbwA7We2U?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Beide Personen sprachen über Veränderungen im Zusammenhang mit ihrer eigenen Gesundheit, die sie dazu veranlassten, ihre Ansichten über die Medizin und bestimmte medizinische Praktiken neu zu bewerten.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Kurzzusammenfassung ab 38:33 Minuten des Gesprächs:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -202,30 +231,117 @@ Auch wenn es von entscheidender Bedeutung ist, für alternative Verfahren einzut
 &lt;h2 id=&#34;eine-genauere-untersuchung-der-inspirierenden-quellen-hinter-diesem-artikel&#34;&gt;Eine genauere Untersuchung der inspirierenden Quellen hinter diesem Artikel:&lt;/h2&gt;
 &lt;h3 id=&#34;wenn-du-neugierig-bist-mehr-zu-erfahren-ermutige-ich-dich-tiefer-in-das-thema-einzutauchen-indem-du-zusätzliche-ressourcen-und-perspektiven-entdeckst-die-dein-verständnis-bereichern-können&#34;&gt;Wenn du neugierig bist, mehr zu erfahren, ermutige ich dich, tiefer in das Thema einzutauchen, indem du zusätzliche Ressourcen und Perspektiven entdeckst, die dein Verständnis bereichern können.&lt;/h3&gt;
 &lt;h3 id=&#34;youtube-videos&#34;&gt;YouTube-Videos&lt;/h3&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;7STAPF4Gdr0&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/7STAPF4Gdr0/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/7STAPF4Gdr0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8AqlZK2TxZA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;8AqlZK2TxZA&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/8AqlZK2TxZA/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Diese Videos befassen sich mit dem Zusammenhang zwischen Hautanhängseln und Insulinresistenz.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;Oh5wT4r2EYA&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/Oh5wT4r2EYA/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Oh5wT4r2EYA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;In einer von Jordan Peterson und Dr. Benjamin Bikman, Professor für Zellbiologie, geführten Diskussion geht es um die Auswirkungen der Kohlenhydratzufuhr auf die Gesundheit, insbesondere im Hinblick auf Insulinresistenz und chronische Krankheiten.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Schlüsselpunkte:&lt;/strong&gt;&lt;/p&gt;
@@ -267,13 +383,42 @@ Auch wenn es von entscheidender Bedeutung ist, für alternative Verfahren einzut
 &lt;li&gt;In der Diskussion wurde ein wichtiger Punkt bezüglich der menschlichen Stoffwechselwege und ihrer Auswirkungen auf Gesundheit und Langlebigkeit deutlich. Dr. Bikman erläuterte, dass der Mensch über zwei primäre Stoffwechselwege verfügt, wobei der Kohlenhydrat-Stoffwechselweg eine relativ junge Anpassung ist, die vor allem in Notfällen genutzt wird. Dieser Stoffwechselweg stellt eine schnelle Energiequelle dar, ist aber in seinem Angebot begrenzt. Wenn die Kohlenhydrate erschöpft sind - z. B. während einer 24-stündigen Fastenkur - geht der Körper in einen Zustand der Ketogenese über, bei dem er Fett zur Energiegewinnung nutzt. Diese Umstellung ist von entscheidender Bedeutung, insbesondere wenn man bedenkt, welchen Herausforderungen unsere Vorfahren in Zeiten der Nahrungsmittelknappheit ausgesetzt waren. Dieser Mechanismus ermöglicht die Regeneration und Reparatur, was das Überleben in schwierigen Zeiten ermöglicht. Dr. Bikman betonte, dass eine ständige Abhängigkeit von Kohlenhydraten den Körper daran hindert, in einen autophagischen Zustand einzutreten, was seine Fähigkeit, sich zu reparieren und zu verjüngen, beeinträchtigen könnte. Er schlug vor, dass eine fleischfressende Ernährung die Auswirkungen der Autophagie nicht nur nachahmen, sondern aktiv fördern könnte, was ihre Wirksamkeit bei einigen Menschen erklären könnte. In der Diskussion wurde auch das komplizierte Gleichgewicht zwischen Wachstum und Verfall in zellulären Prozessen angesprochen, wobei die Rolle der Hormone bei der Entscheidung, ob sich die Zellen in einer Aufbauphase oder einer Abbauphase befinden, hervorgehoben wurde. Dr. Bikman wies darauf hin, dass die Optimierung des Zelltods durch Autophagie für die langfristige Gesundheit von entscheidender Bedeutung ist, und schlug vor, dass eine fleischfressende Ernährung dieses Gleichgewicht erleichtern könnte, indem sie die Abhängigkeit von einer Notversorgung mit Nahrungsmitteln verringert, die häufig zu Fettansammlungen führt. Das Gespräch wies auch auf die weiterreichenden Auswirkungen der Insulinresistenz hin, die durch eine chronisch hohe Kohlenhydratzufuhr noch verschlimmert wird. Dr. Bikman regte an, die Mechanismen hinter der Insulinresistenz und ihre Verbindungen zu einer Reihe von Gesundheitsproblemen wie Diabetes, Fettleibigkeit und verschiedenen altersbedingten Krankheiten genauer zu erforschen, und betonte, wie wichtig das Verständnis dieser Stoffwechselwege für die Verbesserung der allgemeinen Gesundheit und Langlebigkeit ist.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Die Diskussion dient als Aufruf zum Handeln für Einzelpersonen, ihre Ernährungsgewohnheiten zu überdenken, insbesondere in Bezug auf den Kohlenhydratkonsum, um die wachsenden Gesundheitskrisen in der modernen Gesellschaft zu bekämpfen.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;NyFSkGMWP5Q&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/NyFSkGMWP5Q/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NyFSkGMWP5Q?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Der &lt;a href=&#34;https://stevenbartlett.com/wp-content/uploads/2025/02/DOAC-Benjamin-Bikman-independent-research.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Podcast&lt;/a&gt; mit Dr. Benjamin Bikman befasst sich mit verschiedenen Aspekten der Insulinresistenz und ihren Auswirkungen auf die Gesundheit. Hier eine Zusammenfassung der wichtigsten behandelten Themen:&lt;/p&gt;
 &lt;ol&gt;
@@ -313,21 +458,79 @@ Auch wenn es von entscheidender Bedeutung ist, für alternative Verfahren einzut
 &lt;/ol&gt;
 &lt;p&gt;Während der gesamten Diskussion betont Dr. Bikman die Zusammenhänge der Stoffwechselgesundheit, die Bedeutung des Verständnisses individueller Risikofaktoren und die Notwendigkeit eines multidisziplinären Ansatzes für Behandlung und Prävention. Die geteilten Informationen dienen der Aufklärung und sollen eine professionelle medizinische Beratung nicht ersetzen.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@benbikman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Bikman&amp;rsquo;s YouTube Kanal&lt;/a&gt;&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;lZZCLlX05PQ&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/lZZCLlX05PQ/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/lZZCLlX05PQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VaVC3PAWqLk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;VaVC3PAWqLk&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/VaVC3PAWqLk/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Dr. Thomas Seyfried weist zu Beginn des Podcasts auf einen beunruhigenden Trend hin: Krebserkrankungen nehmen in der amerikanischen Bevölkerung exponentiell zu. Dieser Trend ist auch in vielen anderen Ländern der Welt zu beobachten.&lt;/p&gt;
 &lt;p&gt;Auch ohne in Debatten über Biochemie einzutauchen, ist klar, dass trotz aller Bemühungen, Krebs einzudämmen und zu behandeln, diese Bemühungen bei weitem nicht ausreichen. Weltweit erkranken immer mehr Menschen an verschiedenen Arten von Krebs. Um Krebs wirksam vorzubeugen, müssen Lebensstil und Ernährungsfaktoren berücksichtigt werden. Daher wäre es logisch, mehr Forschungsanstrengungen auf diesen Bereich zu richten, anstatt sich nur auf die Bewältigung des Problems zu konzentrieren, das offensichtlich aus dem Ruder läuft. Die Ermittlung der Ursachen und die Suche nach Wegen zur Krebsprävention gehen über den Rahmen der traditionellen Medizin hinaus. Auch Umweltfaktoren - wie Ernährung, Giftstoffe und Lebensstil - müssen berücksichtigt werden. Es ist viel einfacher, die eigentliche Ursache zu finden und zu bekämpfen, als zu versuchen, den gordischen Knoten zu entwirren, den die derzeitige Situation darstellt.&lt;/p&gt;

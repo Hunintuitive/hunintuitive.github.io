@@ -31,13 +31,42 @@
 &lt;p&gt;Például személyes tapasztalataim során, amikor itt Magyarországon egészségügyi szakemberekkel konzultáltam, azt tapasztaltam, hogy gyakran bizonytalanok voltak a bőrfoltok valamint anyajegyek és az inzulinrezisztencia közötti kapcsolatot illetően. Ezzel nem azt akarom mondani, hogy ilyen összefüggések nem léteznek, inkább azt, hogy még nem találkoztam olyan szakemberrel, aki megerősítette volna ezt az összefüggést. Azonban több egészségügyi szakember, köztük okleveles orvosok is rámutattak az összefüggésre e bőrbetegségek és az anyagcsereproblémák között. Kutatási tanulmányok, közülük legalább &lt;a href=&#34;https://pmc.ncbi.nlm.nih.gov/articles/PMC6536054/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;egy&lt;/a&gt;, melyek a bőrkinövéseket a metabolikus szindrómával hozzák összefüggésbe, azt sugallják, hogy a bőrkinövések a mögöttes anyagcsereproblémák, különösen az inzulinrezisztencia látható markereiként szolgálhatnak. Ez aláhúzza annak fontosságát, hogy a bőrkinövésekkel rendelkező egyéneket nyomon kövessék a lehetséges anyagcserezavarok szempontjából, ami jobb egészségügyi gyakorlatot eredményezhet.&lt;/p&gt;
 &lt;p&gt;A rendelkezésre álló, egymásnak ellentmondó információk zavart és frusztrációt okozhatnak a különböző nézetekkel szembesülő egyének számára. Bizonytalannak érezhetik magukat az egészségükkel és a kapott tanácsok érvényességével kapcsolatban, ami aggodalomhoz vezethet az esetlegesen fennálló egészségügyi problémák miatt. Az egyértelmű konszenzus hiánya arra késztetheti őket, hogy megkérdőjelezzék a kezelési lehetőségeiket, vagy habozzanak további orvosi tanácsot kérni. Ez a belső konfliktus a tehetetlenség érzését eredményezheti, mivel igyekeznek megérteni állapotukat az ellentmondásos nézőpontok közepette. Végső soron ez a helyzet akadályozhatja őket abban, hogy jól tájékozott döntéseket hozzanak az egészségükkel és jólétükkel kapcsolatban, és ezzel esetleg késleltethetik a szükséges beavatkozásokat vagy életmódváltásokat, melyek javíthatnának általános állapotukon. A feltáruló bizonyítékok ellenére sok egészségügyi szolgáltató nem ismeri ezeket az összefüggéseket, és bizonyos ellenállás tapasztalható ezek elismerésével szemben, ami néha félreértésekhez vezethet az orvosi közösségben az eltérő nézőpontok tekintetében.&lt;/p&gt;
 &lt;p&gt;Ennek illusztrálására pillantsunk bele egy &lt;strong&gt;érdekfeszítő beszélgetésbe, melyet Dr. Ken D. Berry és Dr. Robert Lufkin tettek közzé a YouTube-on „Miért hazudik Önnek az orvosa?” címmel:&lt;/strong&gt;&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;ZkkbwA7We2U&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/ZkkbwA7We2U/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZkkbwA7We2U?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Mindkét személy a saját egészségükkel kapcsolatos változásokról beszélt, amelyek arra késztették őket, hogy átértékeljék az orvostudományról és bizonyos orvosi gyakorlatokról alkotott nézeteiket.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Rövid összefoglaló a beszélgetés 38:33 percétől:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
@@ -202,30 +231,117 @@ Miközben alapvető fontosságú az alternatív gyakorlatok támogatása, a kieg
 &lt;h2 id=&#34;a-cikk-hátterében-álló-inspiráló-anyagok-közelebbi-vizsgálata&#34;&gt;A cikk hátterében álló inspiráló anyagok közelebbi vizsgálata:&lt;/h2&gt;
 &lt;h3 id=&#34;ha-kíváncsi-vagy-hogy-többet-tudj-meg-arra-bátorítalak-hogy-merülj-el-mélyebben-a-témában-további-források-és-nézőpontok-felfedezésével-melyek-gazdagíthatják-a-megértésedet&#34;&gt;Ha kíváncsi vagy, hogy többet tudj meg, arra bátorítalak, hogy merülj el mélyebben a témában további források és nézőpontok felfedezésével, melyek gazdagíthatják a megértésedet.&lt;/h3&gt;
 &lt;h3 id=&#34;youtube-videók&#34;&gt;YouTube videók&lt;/h3&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;7STAPF4Gdr0&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/7STAPF4Gdr0/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/7STAPF4Gdr0?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/8AqlZK2TxZA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;8AqlZK2TxZA&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/8AqlZK2TxZA/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Ezek a videók a bőrkinövések és az inzulinrezisztencia közötti kapcsolatot tárgyalják.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;Oh5wT4r2EYA&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/Oh5wT4r2EYA/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/Oh5wT4r2EYA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;A Jordan Peterson és Dr. Benjamin Bikman, a sejtbiológia professzora által folytatott beszélgetés középpontjában a szénhidrátbevitel egészségre gyakorolt hatása áll, különös tekintettel az inzulinrezisztenciára és a krónikus betegségekre.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Kulcspontok:&lt;/strong&gt;&lt;/p&gt;
@@ -267,13 +383,42 @@ Miközben alapvető fontosságú az alternatív gyakorlatok támogatása, a kieg
 &lt;li&gt;A beszélgetés során egy fontos kérdés merült fel az emberi anyagcsere-útvonalakkal és azok egészségre és hosszú életre gyakorolt hatásával kapcsolatban. Dr. Bikman kifejtette, hogy az ember két elsődleges anyagcsere-útvonallal rendelkezik, a szénhidrát-útvonal egy viszonylag új keletű adaptáció, amelyet elsősorban vészhelyzetekben használunk. Ez az útvonal gyors energiaforrást biztosít, de a készlet korlátozott. Amikor a szénhidrátok kimerülnek - például egy 24 órás böjt során -, a szervezet átvált a ketogenezis állapotába, és a zsírokat használja fel energiaként. Ez a váltás kulcsfontosságú, különösen, ha figyelembe vesszük, milyen kihívásokkal kellett szembenézniük őseinknek az élelmiszerhiányos időkben, ami valószínűleg kiváltotta az autofágia aktiválódását, egy olyan folyamatot, amelyben a szervezet saját sérült szöveteit emészti meg. Ez a mechanizmus lehetővé teszi a regenerációt és a javítást, ami a nehéz időszakokban is lehetővé teszi a túlélést. Dr. Bikman hangsúlyozta, hogy a szénhidrátoktól való állandó függés megakadályozza, hogy a szervezet autofágiás állapotba kerüljön, ami potenciálisan akadályozza a szervezet javítási és megfiatalítási képességét. Azt javasolta, hogy a húsevő étrend nemcsak utánozhatja az autofágia hatásait, hanem aktívan elősegítheti azt, ami megmagyarázhatja annak hatékonyságát egyes egyének esetében. A beszélgetés kitért továbbá a sejtfolyamatok növekedése és bomlása közötti bonyolult egyensúlyra, kiemelve a hormonok szerepét annak meghatározásában, hogy a sejtek építő vagy bomlasztó fázisban vannak. Dr. Bikman megjegyezte, hogy a sejtek autofágián keresztül történő elhalási folyamatának optimalizálása alapvető fontosságú a hosszú távú egészség szempontjából, és azt sugallta, hogy a húsevő étrend elősegítheti ezt az egyensúlyt azáltal, hogy csökkenti a sürgősségi tápláléktól való függőséget, ami gyakran zsírfelhalmozódáshoz vezet. A beszélgetés utalt az inzulinrezisztencia tágabb értelemben vett következményeire is, amely állapotot a krónikusan magas szénhidrátbevitel súlyosbítja. Dr. Bikman az inzulinrezisztencia mögött meghúzódó mechanizmusok mélyebb feltárására ösztönzött, valamint az inzulinrezisztencia és számos egészségügyi problémával - többek között a cukorbetegséggel, az elhízással és a különböző, korral összefüggő betegségekkel - való kapcsolatának feltárására, kiemelve ezen anyagcsere-utak megértésének fontosságát az általános egészség és a hosszú élettartam javítása szempontjából.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;A beszélgetés felhívásként szolgál az egyének számára, hogy vizsgálják felül táplálkozási szokásaikat, különösen a szénhidrátfogyasztás tekintetében, a modern társadalomban egyre súlyosbodó egészségügyi válságok leküzdése érdekében.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;NyFSkGMWP5Q&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/NyFSkGMWP5Q/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/NyFSkGMWP5Q?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;A &lt;a href=&#34;https://stevenbartlett.com/wp-content/uploads/2025/02/DOAC-Benjamin-Bikman-independent-research.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;podcast&lt;/a&gt; Dr. Benjamin Bikman az inzulinrezisztencia különböző aspektusait és annak az egészségre gyakorolt hatásait vizsgálja. Íme, a tárgyalt legfontosabb témák összefoglalása:&lt;/p&gt;
 &lt;ol&gt;
@@ -313,21 +458,79 @@ Miközben alapvető fontosságú az alternatív gyakorlatok támogatása, a kieg
 &lt;/ol&gt;
 &lt;p&gt;A beszélgetés során Dr. Bikman hangsúlyozza a anyagcsere egészség összefüggéseit, az egyéni kockázati tényezők megértésének fontosságát, valamint a kezelés és megelőzés multidiszciplináris megközelítésének szükségességét. A megosztott információk oktatási célokat szolgálnak, és nem helyettesítik a szakszerű orvosi tanácsadást.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/@benbikman&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ben Bikman YouTube-csatornája&lt;/a&gt;&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;lZZCLlX05PQ&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/lZZCLlX05PQ/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/lZZCLlX05PQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
-
-
-
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/VaVC3PAWqLk?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;VaVC3PAWqLk&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/VaVC3PAWqLk/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Dr. Thomas Seyfried a podcast elején megemlít egy aggasztó tendenciát: a rákos megbetegedések száma exponenciálisan növekszik az amerikai lakosság körében. Ez a tendencia a világ számos más nemzetében is megfigyelhető.&lt;/p&gt;
 &lt;p&gt;Még a biokémiai vitákba való belemerülés nélkül is világos, hogy a rák megfékezésére és kezelésére tett erőfeszítések ellenére ezek az erőfeszítések messze nem elegendőek. Világszerte egyre több embernél alakulnak ki a rák különböző típusai. A rák hatékony megelőzéséhez figyelembe kell venni az életmódbeli és táplálkozási tényezőket. Ezért logikus lenne, ha több kutatási erőfeszítést irányítanánk erre a területre, ahelyett, hogy kizárólag a probléma kezelésére összpontosítanánk, ami nyilvánvalóan kezd kicsúszni a kezünkből. Az okok feltárása és a rák megelőzési módjainak megtalálása túlmutat a hagyományos orvoslás hatáskörén. A környezeti tényezőket - például az élelmiszereket, a mérgező anyagokat és az életmódot - is figyelembe kell venni. A kiváltó okok megtalálása és kezelése sokkal egyszerűbb, mint a jelenlegi helyzet okozta gordiuszi csomó kibogozása.&lt;/p&gt;

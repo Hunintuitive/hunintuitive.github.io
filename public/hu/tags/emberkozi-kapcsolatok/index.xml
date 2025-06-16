@@ -19,13 +19,42 @@
       <guid>http://localhost:1313/hu/post/communication/</guid>
       <description>&lt;h3 id=&#34;bevezetés&#34;&gt;Bevezetés&lt;/h3&gt;
 &lt;p&gt;A hatékony kommunikáció lelkes tanulójaként magával ragadott Jefferson Fischer, a tapasztalt peres ügyvéd és kommunikációs szakértő által az &lt;em&gt;Egy vezérigazgató naplója&lt;/em&gt; egyik legutóbbi epizódjában megosztott meglátás. Fischer bölcsessége rávilágított arra, hogy a beszéd milyen döntő szerepet játszik kapcsolataink, karrierünk és önbecsülésünk alakításában. Egy bizonyos szó a hatékony kommunikáció jelentős akadályaként jelent meg: &amp;ldquo;csak&amp;rdquo;.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;zsuOSDb7gzQ&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/zsuOSDb7gzQ/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/zsuOSDb7gzQ?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;h3 id=&#34;a-probléma-a-csak-kifejezéssel&#34;&gt;A probléma a &amp;ldquo;csak&amp;rdquo; kifejezéssel&lt;/h3&gt;
 &lt;p&gt;Fischer rámutat, hogy a &amp;ldquo;csak&amp;rdquo; túlzott használata csökkentheti a beszélő tekintélyét és magabiztosságát. Az olyan mondatok, mint „Csak úgy gondolom, hogy&amp;hellip;” vagy „Csak azt akartam mondani&amp;hellip;” akaratlanul is gyengítik az üzenetet, kevésbé jelentősnek és bizonytalannak hangzik. Az ilyen nyelvezet a bizonytalanság benyomását kelti, ami arra készteti a hallgatót, hogy megkérdőjelezze a beszélő meggyőződését és szakértelmét.&lt;/p&gt;
@@ -256,13 +285,42 @@ Mondhatnád, hogy &amp;ldquo;Értékelem, hogy rám gondoltál, de most nem tudo
 &lt;p&gt;Egy olyan világban, amelyet egyre inkább a félreérthető kommunikáció és a félreértések határoznak meg, a hatékony beszéd erejét nem lehet eléggé hangsúlyozni. Kutatásaim és személyes fejlődésem folytatásával elköteleztem magam amellett, hogy a szavaim erejét felhasználva gazdagabbá tegyem az interakciókat, és törekedjek mélyebben megérteni a körülöttem élőket.&lt;/p&gt;
 &lt;h3 id=&#34;ajánlott-hallgatnivaló-chris-voss-al-a-kommunikációról&#34;&gt;Ajánlott hallgatnivaló: Chris Voss-al a kommunikációról&lt;/h3&gt;
 &lt;p&gt;Jefferson Fischer és Chris Voss beszélgetését Jefferson podcastjében különösen tanulságosnak találtam. Arra ösztönözlek, ha értesz jól angolul, hogy tekintsd meg további értékes nézőpontokért:&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;jC30mx2ozLI&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/jC30mx2ozLI/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/jC30mx2ozLI?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;h3 id=&#34;a-kommunikációs-technikák-gyakorlati-összefoglalása&#34;&gt;A kommunikációs technikák gyakorlati összefoglalása:&lt;/h3&gt;
 &lt;h4 id=&#34;1-taktikai-empátia&#34;&gt;1. Taktikai empátia&lt;/h4&gt;

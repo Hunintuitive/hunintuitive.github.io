@@ -39,10 +39,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /hu/post/health/meunhealthy_hu3135214152744216186.webp 400w,
+               /hu/post/health/meunhealthy_hu6463501211222675145.webp 400w,
                /hu/post/health/meunhealthy_hu289967597744675001.webp 760w,
                /hu/post/health/meunhealthy_hu15761300378287395345.webp 1200w&#34;
-               src=&#34;http://localhost:1313/hu/post/health/meunhealthy_hu3135214152744216186.webp&#34;
+               src=&#34;http://localhost:1313/hu/post/health/meunhealthy_hu6463501211222675145.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -136,26 +136,84 @@ Link a videóhoz:
 &lt;p&gt;Mélyen megérintett, amikor Dr. Robert Lustig &amp;ldquo;Metabolical&amp;rdquo; című könyvében publikált idézete: „Az UCSF-en van egy mottónk: „Istenben bízunk, mindenki más álljon elő az adataival”.” Teljes szívemből egyetértek, és örömmel fogadtam el ezt a személyes mottómnak is.&lt;/p&gt;
 &lt;h2 id=&#34;íme-egy-példa-az-ilyen-adatokra-amelyekből-kiderül-hogy-sok-embernek-vannak-az-enyémhez-hasonló-tapasztalatai-követik-amit-az-orvosuk-vagy-a-dietetikusuk-ajánl-és-az-állapotuk-tovább-romlik&#34;&gt;Íme egy példa az ilyen adatokra, amelyekből kiderül, hogy sok embernek vannak az enyémhez hasonló tapasztalatai: követik, amit az orvosuk vagy a dietetikusuk ajánl, és az állapotuk tovább romlik:&lt;/h2&gt;
 &lt;p&gt;Sajnos ez a forrás is angol nyelvű, Google automatikusan fordított magyar felírat elérhető, esetenként pontatlan fordítással:&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;bRzBGHx93hc&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/bRzBGHx93hc/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bRzBGHx93hc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Mindenhol kezdtem olyan mintákat felismerni, melyek azt jelezték, hogy ha nem képezzük magunkat az egészségről, akkor nem állíthatjuk, hogy bölcsek vagyunk. Végül is “azt fogjuk aratni, amit vetünk”, ahogyan a Galácia 6:7-ben (Biblia) olvashatjuk.&lt;/p&gt;
 &lt;h2 id=&#34;van-egy-mondás-ha-valami-túl-jónak-tűnik-ahhoz-hogy-igaz-legyen-akkor-az-valószínűleg-nem-igaz&#34;&gt;Van egy mondás: „Ha valami túl jónak tűnik ahhoz, hogy igaz legyen, akkor az valószínűleg nem igaz.”&lt;/h2&gt;
 &lt;p&gt;De miért vagyunk még mindig olyan könnyen elcsábíthatóak, hogy higgyünk a tündérmesékben? Vegyük például a „varázspirula” mentalitást. Valószínűleg mélyen legbelül tudjuk, hogy nincs &amp;ldquo;varázspirula&amp;rdquo; vagy egyetlen gyógymód minden problémánkra, mégis abban reménykedünk legbelül, hogy valahol, egy zseniális feltaláló egyszer mégiscsak megalkotja. Ugyanez a felfogás vonatkozik a kapcsolatokkal, a jóléttel és az élet nagyjából minden más területével kapcsolatos elvárásainkra is. Az igazság azonban az, hogy ha egyáltalán nem teszünk erőfeszítést, ha nem nézünk utána és nem fektetünk bele munkát, akkor nem fogunk &amp;ldquo;semmilyen hasznot aratni&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;Láttad a &amp;ldquo;The Magic Pill&amp;rdquo; (Varázspirula) című dokumentumfilmet? Ez egy elég vitatott alkotás, amely sok kritikát váltott ki, de számomra jelentős igazságokat közvetít azon túl, hogy a ketózisra és a ketogén diétára összpontosít, amelyet sok kritikus bírál. A dokumentumfilm alapvető igazságokat tár fel a Föld ökoszisztémájáról és arról, hogyan tervezték eredetileg (igen, hiszek egy Nagy Tervezőben, aki határozott céllal helyezett minket ide), és hogyan sikerült az emberiségnek megzavarnia ezt a bonyolult rendszert, veszélyeztetve mind az egészségünket, mind pedig a létünket.&lt;/p&gt;
 &lt;p&gt;A videó angol nyelvű, Google automatikusan fordított magyar felírat elérhető, esetenként pontatlan fordítással:&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;W2mkTlTGM9c&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/W2mkTlTGM9c/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/W2mkTlTGM9c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Ez a dokumentumfilm még inkább rávilágít arra, hogy nincs varázspirula. Nem feltételezhetjük hogy alapból sikeresek leszünk, ha újra feltaláljuk az ételeinket, vagy megváltoztatjuk azokat anélkül, hogy megértenénk ennek a hosszú távú hatásait. Ez az elv nemcsak az élelmiszerekre és az egészségre vonatkozik, hanem arra is, ahogyan egész környezetünkkel bánunk itt a Földön.&lt;/p&gt;
 &lt;p&gt;Prof. Yuval Noah Harari (történész) egy felkavaró felismerést osztott meg egy lebilincselő podcastban &amp;quot; The Diary of a CEO&amp;quot; (Egy vezérigazgató naplója) címmel: „&lt;em&gt;&lt;strong&gt;Az emberek jellemzően jóval azelőtt megtanulnak manipulálni valamit, hogy megértenék manipulációik következményeit.&lt;/strong&gt;&lt;/em&gt; Ha megvizsgáljuk a külső világot, különösen az ökológiai rendszereinket, megtanultuk, hogyan vágjuk ki az erdőket és építsünk hatalmas gátakat jóval azelőtt, hogy felfogtuk volna, milyen következményekkel jár ezekre az ökoszisztémákra nézve, ami hozzájárult a jelenlegi ökológiai válsághoz. Úgy manipuláltuk a világot, hogy nem értettük meg a következményeket, és valami hasonló történhet a saját testünkben is.”&lt;/p&gt;

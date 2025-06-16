@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2025. június 15. --><html lang="hu" dir="ltr"
+<!-- Last Published: 2025. június 16. --><html lang="hu" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -68,6 +68,9 @@
   
   
 
+  
+    
+    <link href="/css/custom.min.98c2af517fdd02edf3cabb30e77b1b4a7c9937e9fcfb81205478f728054cd8c8.css" rel="stylesheet" />
   
 
   <script>
@@ -1983,13 +1986,42 @@
       
 
       <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        
-
+        <div class="video-wrapper" data-video-id="3e4tlYOvI0I">
+  <img 
+    src="https://img.youtube.com/vi/3e4tlYOvI0I/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/3e4tlYOvI0I?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
 
 <p><em><strong>A Myers-Briggs Típusmutató (MBTI) egy széles körben elismert pszichológiai keretrendszer, amely az egyéneket 16 különböző személyiségtípusba sorolja négy dichotómia - introverzió (I) vs. extraverzió (E), érzékelés (S) vs. intuíció (N), gondolkodás (T) vs. érzés (F) és ítélkezés (J) vs. érzékelés (P) - preferenciái alapján. Az Isabel Briggs Myers és édesanyja, Katharine Cook Briggs által a 20. század elején kifejlesztett MBTI célja, hogy betekintést nyújtson az egyéni különbségekbe és preferenciákba, elősegítve a jobb önismeretet és a jobb kapcsolatokat.</strong></em></p>
 <p><em><strong>A pszichológiai elméletekben, például Carl Jung elméletében és a Myers-Briggs Típusindikátorban (MBTI) leírt kognitív funkciók az egyének különböző módszereire utalnak, ahogyan a világot érzékelik és döntéseket hoznak. Minden kognitív funkció az információfeldolgozás egy meghatározott módjához kapcsolódik, és két fő kategóriába sorolhatók: az észlelő funkciók (hogyan vesszük fel az információkat) és az ítélő funkciók (hogyan hozunk döntéseket). Mindegyik funkció lehet introvertált vagy extravertált is.</strong></em></p>

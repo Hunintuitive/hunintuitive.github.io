@@ -39,10 +39,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /en/post/health/meunhealthy_hu3135214152744216186.webp 400w,
+               /en/post/health/meunhealthy_hu6463501211222675145.webp 400w,
                /en/post/health/meunhealthy_hu289967597744675001.webp 760w,
                /en/post/health/meunhealthy_hu15761300378287395345.webp 1200w&#34;
-               src=&#34;http://localhost:1313/en/post/health/meunhealthy_hu3135214152744216186.webp&#34;
+               src=&#34;http://localhost:1313/en/post/health/meunhealthy_hu6463501211222675145.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -135,25 +135,83 @@ Link to video:
 &lt;p&gt;&lt;strong&gt;I owe a great deal to the doctors mentioned above, for their guidance and advice have enabled me to transform my life for the better.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It resonated deeply with me when Dr. Robert Lustig quoted in his book &amp;ldquo;Metabolical&amp;rdquo;: &amp;ldquo;At UCSF we have a motto: &amp;lsquo;In God we trust, everyone else has to produce the data.&amp;rsquo;&amp;rdquo; I wholeheartedly agree and have gladly adopted that as my personal motto as well.&lt;/p&gt;
 &lt;h2 id=&#34;heres-an-example-of-such-data-which-reveals-that-many-people-have-had-experiences-similar-to-mine-they-follow-what-their-doctor-or-dietitian-recommends-and-their-condition-continues-to-worsen&#34;&gt;Here’s an example of such data, which reveals that many people have had experiences similar to mine: they follow what their doctor or dietitian recommends, and their condition continues to worsen:&lt;/h2&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;bRzBGHx93hc&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/bRzBGHx93hc/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bRzBGHx93hc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;I began to identify patterns everywhere that indicated that if we do not educate ourselves about health, we cannot claim to be wise. Eventually, we will “reap what we sow,” as mentioned in Galatians 6:7 (The Bible).&lt;/p&gt;
 &lt;h2 id=&#34;theres-a-saying-if-something-seems-too-good-to-be-true-assume-that-it-isnt&#34;&gt;There’s a saying: “If something seems too good to be true, assume that it isn’t.”&lt;/h2&gt;
 &lt;p&gt;But why are we still so easily lured into believing fairy tales? Take the “magic pill” mentality, for example. Deep down, we likely know that there is no “magic pill” or single cure for all our problems, yet we still hope that somewhere, some brilliant inventor will eventually create it. This same notion applies to our expectations about relationships, wealth, and pretty much all aspects of life. However, the truth is that if you do not make an effort, if you do not search and put in the work, you will not “reap any benefits.”&lt;/p&gt;
 &lt;p&gt;Have you seen the documentary The Magic Pill? It’s a controversial piece that has drawn much criticism, but to me, it conveys significant truths beyond just its focus on ketosis and ketogenic diets, which many critics scrutinize. The documentary delves into fundamental truths about the Earth’s ecosystem and how it was originally designed (yes, I believe in a Great Designer who placed us here with a distinct purpose) and how humanity has disrupted this intricate system, jeopardizing both our health and our very existence.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;W2mkTlTGM9c&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/W2mkTlTGM9c/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/W2mkTlTGM9c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;This documentary further illustrates that there is no magic pill. We cannot assume that we can reinvent our food or alter it without understanding the long-term effects, all the while expecting to succeed. This principle extends not only to food and health but also to how we treat our entire environment here on Earth.&lt;/p&gt;
 &lt;p&gt;Prof. Yuval Noah Harari (historian) shared a disturbing insight in a captivating podcast on The Diary of a CEO:

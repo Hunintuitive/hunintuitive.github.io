@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: 2025. június 15. --><html lang="hu" dir="ltr"
+<!-- Last Published: 2025. június 16. --><html lang="hu" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -68,6 +68,9 @@
   
   
 
+  
+    
+    <link href="/css/custom.min.98c2af517fdd02edf3cabb30e77b1b4a7c9937e9fcfb81205478f728054cd8c8.css" rel="stylesheet" />
   
 
   <script>
@@ -2185,138 +2188,602 @@ A NOVA osztályozási rendszer felhasználásával tudatosabbá válhatsz az él
 <h2 id="you-tube-források-a-fentiekhez-ha-szeretnél-többet-megtudni">You Tube források a fentiekhez, ha szeretnél többet megtudni:</h2>
 <p>Angolul jól értőknek ajánlott, bár Google által generált automatikus magyar fordítás is elérhető, sajnálatosan megkérdőjelezhető pontossággal.</p>
 <h2 id="dr-robert-lustig">Dr. Robert Lustig:</h2>
-<p>
-
+<p><div class="video-wrapper" data-video-id="kDDOlSXFeDE">
+  <img 
+    src="https://img.youtube.com/vi/kDDOlSXFeDE/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/kDDOlSXFeDE?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/EKkUtrL6B18?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/dBnniua6-oM?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
 
 
-
+<div class="video-wrapper" data-video-id="EKkUtrL6B18">
+  <img 
+    src="https://img.youtube.com/vi/EKkUtrL6B18/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/sxJvfqTFttY?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="dBnniua6-oM">
+  <img 
+    src="https://img.youtube.com/vi/dBnniua6-oM/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="sxJvfqTFttY">
+  <img 
+    src="https://img.youtube.com/vi/sxJvfqTFttY/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
 
 <strong>Zseniális betekintés a keto és vegán étrendekbe valamint gondolatok a &ldquo;Metabolical&rdquo; című könyvről:</strong>
-
-
+<div class="video-wrapper" data-video-id="jRV8uiqVPas">
+  <img 
+    src="https://img.youtube.com/vi/jRV8uiqVPas/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/jRV8uiqVPas?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
 </p>
 <h2 id="dr-pradip-jamnadas">Dr. Pradip Jamnadas:</h2>
-<p>
-
+<p><div class="video-wrapper" data-video-id="Npy0qwgh5RM">
+  <img 
+    src="https://img.youtube.com/vi/Npy0qwgh5RM/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/Npy0qwgh5RM?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/qIcSIC_IjfM?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/PNByT_Mm_Ac?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
 
 
-
+<div class="video-wrapper" data-video-id="qIcSIC_IjfM">
+  <img 
+    src="https://img.youtube.com/vi/qIcSIC_IjfM/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/irn3cFHmK-Y?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/pCQovPrsM2k?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/gVsxe9v72C0?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="PNByT_Mm_Ac">
+  <img 
+    src="https://img.youtube.com/vi/PNByT_Mm_Ac/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="irn3cFHmK-Y">
+  <img 
+    src="https://img.youtube.com/vi/irn3cFHmK-Y/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="pCQovPrsM2k">
+  <img 
+    src="https://img.youtube.com/vi/pCQovPrsM2k/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="gVsxe9v72C0">
+  <img 
+    src="https://img.youtube.com/vi/gVsxe9v72C0/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
 </p>
 <h2 id="dr-andrew-huberman">Dr. Andrew Huberman:</h2>
-<p>
-
+<p><div class="video-wrapper" data-video-id="WFcYF_pxLgA">
+  <img 
+    src="https://img.youtube.com/vi/WFcYF_pxLgA/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/WFcYF_pxLgA?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/DkS1pkKpILY?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/jSqCL7Npln0?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="DkS1pkKpILY">
+  <img 
+    src="https://img.youtube.com/vi/DkS1pkKpILY/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="jSqCL7Npln0">
+  <img 
+    src="https://img.youtube.com/vi/jSqCL7Npln0/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
 </p>
 <h2 id="prof-anna-lembke">Prof. Anna Lembke:</h2>
 <p><strong>Rövid előadás a „ Dopamin Nemzetről”:</strong>
-
-
+<div class="video-wrapper" data-video-id="n2u8Z1HeKD8">
+  <img 
+    src="https://img.youtube.com/vi/n2u8Z1HeKD8/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/n2u8Z1HeKD8?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
-
-
-
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/jziP0CEgvOw?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
+
+<div class="video-wrapper" data-video-id="jziP0CEgvOw">
+  <img 
+    src="https://img.youtube.com/vi/jziP0CEgvOw/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
+    
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
 </p>
 <h2 id="arra-szeretnélek-ösztönözni-hogy-fedezd-fel-a-további-videókat-is-ezeknek-a-kivételes-egyéneknek-az-értékes-munkájával-kapcsolatban">Arra szeretnélek ösztönözni, hogy fedezd fel a további videókat is ezeknek a kivételes egyéneknek az értékes munkájával kapcsolatban!</h2>
 <hr>

@@ -39,10 +39,10 @@
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Alt text&#34; srcset=&#34;
-               /de/post/health/meunhealthy_hu3135214152744216186.webp 400w,
+               /de/post/health/meunhealthy_hu6463501211222675145.webp 400w,
                /de/post/health/meunhealthy_hu289967597744675001.webp 760w,
                /de/post/health/meunhealthy_hu15761300378287395345.webp 1200w&#34;
-               src=&#34;http://localhost:1313/de/post/health/meunhealthy_hu3135214152744216186.webp&#34;
+               src=&#34;http://localhost:1313/de/post/health/meunhealthy_hu6463501211222675145.webp&#34;
                width=&#34;760&#34;
                height=&#34;468&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -136,26 +136,84 @@ Link zum Video:
 &lt;p&gt;Es hat mich zutiefst berührt, als Dr. Robert Lustig in seinem Buch &lt;em&gt;Metabolical&lt;/em&gt; folgendes zitierte: „An der UCSF haben wir ein Motto: &amp;ldquo;In Gott vertrauen wir, alle anderen müssen die Daten liefern.“ Dem stimme ich voll und ganz zu und habe es gerne zu meinem persönlichen Motto gemacht.&lt;/p&gt;
 &lt;h2 id=&#34;hier-ist-ein-beispiel-für-solche-daten-die-zeigen-dass-viele-menschen-ähnliche-erfahrungen-gemacht-haben-sie-folgen-den-empfehlungen-ihres-arztes-oder-ernährungsberaters-und-ihr-zustand-verschlechtert-sich-weiterhin&#34;&gt;Hier ist ein Beispiel für solche Daten, die zeigen, dass viele Menschen ähnliche Erfahrungen gemacht haben: Sie folgen den Empfehlungen ihres Arztes oder Ernährungsberaters, und ihr Zustand verschlechtert sich weiterhin:&lt;/h2&gt;
 &lt;p&gt;Leider ist auch diese Ressource auf Englisch, wobei die von Google automatisch übersetzten deutschen Untertitel verfügbar sind, die manchmal ungenaue Übersetzungen enthalten:&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;bRzBGHx93hc&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/bRzBGHx93hc/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/bRzBGHx93hc?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;Ich begann, überall Muster zu erkennen, die darauf hinwiesen, dass wir nicht behaupten können, weise zu sein, wenn wir uns nicht über Gesundheit weiterbilden. Letztendlich werden wir „ernten, was wir gesät haben“, wie es in Galater 6:7 (Die Bibel) heißt.&lt;/p&gt;
 &lt;h2 id=&#34;es-gibt-ein-sprichwort-wenn-etwas-zu-schön-scheint-um-wahr-zu-sein-dann-ist-es-das-wahrscheinlich-auch-nicht&#34;&gt;Es gibt ein Sprichwort: „Wenn etwas zu schön scheint, um wahr zu sein, dann ist es das wahrscheinlich auch nicht.“&lt;/h2&gt;
 &lt;p&gt;Aber warum lassen wir uns immer noch so leicht in den Bann von Märchen ziehen? Denk zum Beispiel an die „Wunderpillen“-Mentalität. Tief im Inneren wissen wir wahrscheinlich, dass es keine „Wunderpille“ oder eine einzelne Heilung für all unsere Probleme gibt, aber wir hoffen immer noch, dass irgendwann ein brillanter Erfinder sie schaffen wird. Dieser Gedanke gilt auch für unsere Erwartungen an Beziehungen, Wohlstand und fast alle anderen Lebensbereiche. Doch die Wahrheit ist: Wenn du keinen Einsatz zeigst, wenn du nicht suchst und die Arbeit machst, wirst du „keine Früchte ernten“.&lt;/p&gt;
 &lt;p&gt;Hast du die Dokumentation The Magic Pill (Die Wunderpille) gesehen? Es ist ein umstrittenes Werk, das viel Kritik auf sich gezogen hat, aber für mich enthält es bedeutende Wahrheiten, die über den Fokus auf Ketose und ketogene Diäten hinausgehen, den viele Kritiker bemängeln. Die Dokumentation beleuchtet fundamentale Wahrheiten über das Ökosystem der Erde und wie es ursprünglich gestaltet wurde (ja, ich glaube an einen großen Designer, der uns mit einem klaren Zweck hier platziert hat) und wie die Menschheit dieses komplexe System gestört hat, was sowohl unsere Gesundheit als auch unser Überleben gefährdet.&lt;/p&gt;
 &lt;p&gt;Video auf Englisch, wobei die von Google automatisch übersetzten deutschen Untertitel verfügbar sind, die manchmal ungenaue Übersetzungen enthalten:
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;W2mkTlTGM9c&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/W2mkTlTGM9c/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/W2mkTlTGM9c?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 &lt;/p&gt;
 &lt;p&gt;Die Dokumentation verdeutlicht weiter, dass es keine Wunderpille gibt. Wir können nicht einfach unsere Nahrung neu erfinden oder verändern, ohne die langfristigen Auswirkungen zu verstehen, und gleichzeitig erwarten, erfolgreich zu sein. Dieses Prinzip gilt nicht nur für Nahrung und Gesundheit, sondern auch für den Umgang mit unserer gesamten Umwelt hier auf der Erde.&lt;/p&gt;
 &lt;p&gt;Prof. Yuval Noah Harari (Historiker) teilte einen beunruhigenden Gedanken in einem faszinierenden Podcast bei &amp;ldquo;The Diary of a CEO&amp;rdquo;:

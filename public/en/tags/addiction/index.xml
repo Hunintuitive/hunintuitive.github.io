@@ -19,13 +19,42 @@
       <guid>http://localhost:1313/en/post/dopamine/</guid>
       <description>&lt;h2 id=&#34;unveiling-the-power-of-dopamine-with-anna-lembke-and-exploring-divine-perspectives-on-human-purpose-and-eternal-life&#34;&gt;Unveiling the Power of Dopamine with Anna Lembke and Exploring Divine Perspectives on Human Purpose and Eternal Life&lt;/h2&gt;
 &lt;p&gt;In an era where digital distractions, addictive substances, and compulsive behaviors dominate our lives, understanding the brain’s chemistry is more crucial than ever. At the forefront of this understanding stands Dr. Anna Lembke, a renowned psychiatrist, Stanford professor, and one of the leading experts on dopamine and addiction. Her profound insights, shared in her interview with Steven Bartlett on his podcast &lt;em&gt;Diary of a CEO&lt;/em&gt;, shed light on how this single chemical influences our thoughts, actions, and well-being.&lt;/p&gt;
-
-
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;R6xbXOp7wDA&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/R6xbXOp7wDA/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/R6xbXOp7wDA?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;This article aims to distill the core messages from Dr. Lembke’s enlightening conversation, emphasizing the importance of understanding dopamine’s role in addiction and how we can harness this knowledge to live healthier, more balanced lives. Additionally, I will explore a potentially transformative perspective: could our dopamine system be a divine design - intentionally crafted to guide us toward eternal life, spiritual fulfillment, and meaningful connection?&lt;/p&gt;
 &lt;h2 id=&#34;the-fundamental-role-of-dopamine-in-survival-and-pleasure&#34;&gt;The Fundamental Role of Dopamine in Survival and Pleasure&lt;/h2&gt;

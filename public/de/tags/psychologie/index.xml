@@ -161,13 +161,42 @@
       <link>http://localhost:1313/de/post/bigfive/</link>
       <pubDate>Fri, 13 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/post/bigfive/</guid>
-      <description>
-
+      <description>&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;IB1FVbo8TSs&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/IB1FVbo8TSs/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/IB1FVbo8TSs?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Die Big-Five-Persönlichkeitsmerkmale, auch bekannt als das Fünf-Faktoren-Modell (FFM), bilden einen umfassenden Rahmen für das Verständnis der menschlichen Persönlichkeit. Dieses Modell umfasst fünf große Dimensionen, die die wichtigsten Unterschiede in der Persönlichkeit hervorheben. Jedes Merkmal bietet Einblicke in die Eigenschaften und Verhaltensweisen einer Person.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;h2 id=&#34;die-fünf-merkmale-definiert&#34;&gt;Die fünf Merkmale definiert&lt;/h2&gt;
@@ -317,13 +346,42 @@
       <link>http://localhost:1313/de/post/mbti/</link>
       <pubDate>Thu, 12 Dec 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/de/post/mbti/</guid>
-      <description>
-
+      <description>&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;3e4tlYOvI0I&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/3e4tlYOvI0I/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
     
-    &lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
-      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&#34; allowfullscreen=&#34;allowfullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/3e4tlYOvI0I?autoplay=0&amp;controls=1&amp;end=0&amp;loop=0&amp;mute=0&amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;
-      &gt;&lt;/iframe&gt;
-    &lt;/div&gt;
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
 
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Der Myers-Briggs-Typenindikator (MBTI) ist ein weltweit anerkanntes psychologisches System, das Menschen anhand ihrer Präferenzen in 16 verschiedene Persönlichkeitstypen einteilt - Introversion (I) vs. Extraversion (E), Empfinden (S) vs. Intuition (N), Denken (T) vs. Fühlen (F), und Urteilen (J) vs. Wahrnehmen (P). Der MBTI wurde von Isabel Briggs Myers und ihrer Mutter Katharine Cook Briggs Anfang des 20. Jahrhunderts entwickelt und soll Einblicke in die individuellen Unterschiede und Vorlieben geben, um ein besseres Selbstverständnis und bessere Beziehungen zu fördern.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;&lt;strong&gt;Die kognitiven Funktionen, wie sie in psychologischen Theorien wie denen von Carl Jung und dem Myers-Briggs-Typenindikator (MBTI) beschrieben werden, beziehen sich auf die verschiedenen Arten, wie Menschen die Welt wahrnehmen und Entscheidungen treffen. Jede kognitive Funktion ist mit einer bestimmten Art der Informationsverarbeitung verbunden und wird in zwei Hauptkategorien unterteilt: Wahrnehmungsfunktionen (wie wir Informationen aufnehmen) und Beurteilungsfunktionen (wie wir Entscheidungen treffen). Jede Funktion kann auch entweder introvertiert oder extravertiert sein.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;

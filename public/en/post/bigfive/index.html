@@ -1,6 +1,6 @@
 <!doctype html>
 <!-- This site was created with Hugo Blox. https://hugoblox.com -->
-<!-- Last Published: June 15, 2025 --><html lang="en-us" dir="ltr"
+<!-- Last Published: June 16, 2025 --><html lang="en-us" dir="ltr"
       data-wc-theme-default="system">
   
 <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
@@ -68,6 +68,9 @@
   
   
 
+  
+    
+    <link href="/css/custom.min.98c2af517fdd02edf3cabb30e77b1b4a7c9937e9fcfb81205478f728054cd8c8.css" rel="stylesheet" />
   
 
   <script>
@@ -1885,13 +1888,42 @@
       
 
       <div class="prose prose-slate lg:prose-xl dark:prose-invert">
-        
-
+        <div class="video-wrapper" data-video-id="IB1FVbo8TSs">
+  <img 
+    src="https://img.youtube.com/vi/IB1FVbo8TSs/hqdefault.jpg" 
+    alt="Video Thumbnail" 
+    loading="lazy" 
+    class="video-thumbnail" 
+  />
+  <button class="play-button" aria-label="Play">
     
-    <div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;">
-      <iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/IB1FVbo8TSs?autoplay=0&controls=1&end=0&loop=0&mute=0&start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"
-      ></iframe>
-    </div>
+    
+    
+    <svg width="40" height="40" viewBox="0 0 24 24" fill="white" xmlns="http://www.w3.org/2000/svg">
+      <circle cx="12" cy="12" r="10" fill="rgba(0,0,0,0.6)" />
+      <polygon points="10,8 16,12 10,16" fill="white"/>
+    </svg>
+  </button>
+</div>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    document.querySelectorAll('.video-wrapper').forEach(wrapper => {
+      wrapper.querySelector('.play-button').addEventListener('click', () => {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement('iframe');
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = "560";
+        iframe.height = "315";
+        iframe.allowFullscreen = true;
+        iframe.setAttribute('loading', 'lazy');
+        wrapper.innerHTML = '';
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+</script>
+
 
 <p><em><strong>The Big Five personality traits, also known as the Five Factor Model (FFM), represent a comprehensive framework for understanding human personality. This model encompasses five broad dimensions that highlight the most significant variations in personality. Each trait offers insights into an individual’s characteristics and behaviors.</strong></em></p>
 <h2 id="the-five-traits-defined">The Five Traits Defined</h2>
