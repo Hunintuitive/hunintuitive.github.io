@@ -126,7 +126,7 @@ Láttad a "The Magic Pill" (Varázspirula) című dokumentumfilmet? Ez egy elég
 
 A videó angol nyelvű, Google automatikusan fordított magyar felírat elérhető, esetenként pontatlan fordítással:
 
-{{< youtube W2mkTlTGM9c >}}
+{{< youtube tqGMZWMhjUo >}}
 
 Ez a dokumentumfilm még inkább rávilágít arra, hogy nincs varázspirula. Nem feltételezhetjük hogy alapból sikeresek leszünk, ha újra feltaláljuk az ételeinket, vagy megváltoztatjuk azokat anélkül, hogy megértenénk ennek a hosszú távú hatásait. Ez az elv nemcsak az élelmiszerekre és az egészségre vonatkozik, hanem arra is, ahogyan egész környezetünkkel bánunk itt a Földön.
 

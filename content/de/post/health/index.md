@@ -124,7 +124,7 @@ Aber warum lassen wir uns immer noch so leicht in den Bann von Märchen ziehen? 
 Hast du die Dokumentation The Magic Pill (Die Wunderpille) gesehen? Es ist ein umstrittenes Werk, das viel Kritik auf sich gezogen hat, aber für mich enthält es bedeutende Wahrheiten, die über den Fokus auf Ketose und ketogene Diäten hinausgehen, den viele Kritiker bemängeln. Die Dokumentation beleuchtet fundamentale Wahrheiten über das Ökosystem der Erde und wie es ursprünglich gestaltet wurde (ja, ich glaube an einen großen Designer, der uns mit einem klaren Zweck hier platziert hat) und wie die Menschheit dieses komplexe System gestört hat, was sowohl unsere Gesundheit als auch unser Überleben gefährdet.
 
 Video auf Englisch, wobei die von Google automatisch übersetzten deutschen Untertitel verfügbar sind, die manchmal ungenaue Übersetzungen enthalten:
-{{< youtube W2mkTlTGM9c >}}
+{{< youtube tqGMZWMhjUo >}}
 
 Die Dokumentation verdeutlicht weiter, dass es keine Wunderpille gibt. Wir können nicht einfach unsere Nahrung neu erfinden oder verändern, ohne die langfristigen Auswirkungen zu verstehen, und gleichzeitig erwarten, erfolgreich zu sein. Dieses Prinzip gilt nicht nur für Nahrung und Gesundheit, sondern auch für den Umgang mit unserer gesamten Umwelt hier auf der Erde.
 
