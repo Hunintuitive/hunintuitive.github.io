@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://localhost:1313/hu/post/health/</loc>
+    <lastmod>2025-06-17T00:00:00Z</lastmod>
+  </url>
+  
+  <url>
     <loc>http://localhost:1313/hu/post/get-started/</loc>
     <lastmod>2025-06-15T00:00:00Z</lastmod>
   </url>
@@ -84,11 +89,6 @@
   <url>
     <loc>http://localhost:1313/hu/post/slowingdown/</loc>
     <lastmod>2024-12-07T00:00:00Z</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://localhost:1313/hu/post/health/</loc>
-    <lastmod>2024-11-12T00:00:00Z</lastmod>
   </url>
   
   <url>
