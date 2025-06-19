@@ -118,8 +118,15 @@ A kíváncsi elme a tanulás hatékony eszköze. Nyitott elmével közelíts az 
 
 Bár a közösségi média és az AI-eszközök gyors hozzáférést biztosíthatnak az információkhoz, elengedhetetlen, hogy felismerjük az e platformokra való túlzott hagyatkozás lehetséges veszélyeit. Ezek felerősíthetik a meglévő előítéleteket, és "visszhangkamrákat" hozhatnak létre, korlátozva a különböző nézőpontoknak való kitettségünket. Ahogyan egy hangya sem lépi túl a köré rajzolt kört, amíg véletlenül át nem lépi a határt, úgy mi is beszorulhatunk saját mentális gátjaink mögé. Emiatt hasznos lehet, kilépni ezen korlátok mögül, és függetlenül ellenőrizni a tényeket.
 
+***Egy elgondolkodtató kísérlet:***
+
 {{< youtube I1xDym4EGzI >}}
 
+E cikk kontextusában a hangya köré rajzolt kör a kezdeti mentális gátjainkat vagy előítéleteinket jelképezi - olyan korlátokat, melyek korlátozzák megértésünket vagy felfedezésünket. Ahogyan a hangya kezdetben a körbe van zárva, mi is úgy érezhetjük, hogy a közösségi médiára és a mesterséges intelligencia eszközeire való túlzott hagyatkozás által létrehozott előítéletek vagy visszhangkamrák csapdájában vagyunk. A legfontosabb felismerés azonban az, hogy ezek a határok nem feltétlenül tekinthetők abszolútnak; a hangya „felfedezi”, hogy a határokat át lehet átlépni, és elkezdi tesztelni a határait, ami további menekülésekhez és szélesebb körű felfedezéshez vezet.
+
+Hasonlóképpen, az információ és a tudás területén a kezdeti határokat - legyenek azok feltételezések, előítéletek vagy korlátozott perspektívák - meg lehet kérdőjelezni. Minél inkább függetlenül ellenőrizzük a tényeket és keressük a különböző nézőpontokat, annál inkább rájövünk, hogy mentális „köreink” nem rögzítettek. Ez a folyamat arra ösztönöz bennünket, hogy túllépjünk mentális határainkon, hasonlóan ahhoz, ahogy a hangya megtanul további körökből kilépni, elősegítve a nagyobb megértést és a kritikus gondolkodást.
+
+Így ez az analógia aláhúzza annak fontosságát, hogy aktívan kérdőjelezzük meg a mentális gátjainkat, ismerjük fel azok kezdeti korlátait, és vegyünk részt a rajtuk túli felfedezésben, hogy árnyaltabb és nyitottabb látásmódra tegyünk szert.
 
 Nem szabad lemondanunk arról a felelősségünkről, hogy magunk ellenőrizzük a tényeket. Egy információkkal telített világban kiemelkedő fontosságú annak elismerése, hogy nem ismerhetünk minden tényt. Ha felelősséget vállalunk a saját megértésünkért, akkor képessé válunk arra, hogy kritikusan és átgondoltan foglalkozzunk a megszerzett információkkal. Példának okáért a Biblia és a legújabb tudományos eredmények összevetése elősegítheti a világ árnyaltabb megértését. Ez a különböző nézőpontok iránti nyitottság arra ösztönöz, hogy kreatívan gondolkodjunk, és kitörjünk a merev gondolkodási sémákból és mentális korlátok fogságából, mint [Jon Kabat-Zinn 9 pont gyakorlatában](https://mbsrtraining.com/mindfulness-exercises-by-jon-kabat-zinn/9-dots-exercise-by-jon-kabat-zinn/).
 
