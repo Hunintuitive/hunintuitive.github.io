@@ -128,7 +128,7 @@ Similarly, in the realm of information and knowledge, the initial boundaries -wh
 
 Thus, the analogy underscores the importance of actively challenging our mental confines, recognizing their initial limitations, and engaging in exploration beyond them to achieve a more nuanced and open-minded perspective.
 
-We must not relinquish our responsibility to verify facts for ourselves. In a world saturated with information, acknowledging that we cannot know all the facts is paramount. Taking ownership of our understanding empowers us to engage with information critically and thoughtfully. For instance, comparing insights from the Bible with the latest scientific findings can foster a more nuanced understanding of the world. This openness to different viewpoints encourages us to think creatively and break free from rigid thought patterns and mental barriers like in [9-Dots Exercise by Jon Kabat-Zinn](https://mbsrtraining.com/mindfulness-exercises-by-jon-kabat-zinn/9-dots-exercise-by-jon-kabat-zinn/).
+We must not relinquish our responsibility to verify facts for ourselves. In a world saturated with information, acknowledging that we cannot know all the facts is paramount. Taking ownership of our understanding empowers us to engage with information critically and thoughtfully. For instance, comparing insights from the Bible with the latest scientific findings can foster a more nuanced understanding of the world. This openness to different viewpoints encourages us to think creatively and break free from rigid thought patterns and mental barriers like in [9-Dots Exercise by Jon Kabat-Zinn](https://mbsrtraining.com/mindfulness-exercises-gentle-mbsr-training/9-dots-exercise/).
 
 {{< youtube 5jtEJqQ3_Co >}}
 
