@@ -5,7 +5,7 @@ title: 🎶 Ein Tauchgang in meine musikalische Welt - Willkommen auf der Reise!
 
 
 summary: Lustige Musik, ein Breakdance-Bär und die herzlichen Gründe, Musik zu genießen, so oft man kann. 🤩
-date: 2025-06-15
+date: 2025-07-21
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -99,7 +99,7 @@ Inspiriert von der legendären Band Hybrid aus den 80er Jahren, deren innovative
 
 ***Hier einige Beispiele für dein Vergnügen:***
 
-
+{{< youtube X0HAN64UadM >}}
 {{< youtube cAsya--w9Sg >}}
 {{< youtube gxD_Zvyfo8o >}}
 {{< youtube T36DdNm5qMQ >}}

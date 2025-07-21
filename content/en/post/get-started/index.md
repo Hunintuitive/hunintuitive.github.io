@@ -5,7 +5,7 @@ title: 🎶 A Dive Into My Musical World - Welcome to the Journey!
 
 
 summary: Fun music, a breakdance bear, and the heartfelt reasons to enjoy music as often as you can. 🤩
-date: 2025-06-15
+date: 2025-07-21
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -101,7 +101,7 @@ Drawing inspiration from the legendary band Hybrid of the 80s, whose innovative 
 
 ***Here some examples for your enjoyment:***
 
-
+{{< youtube X0HAN64UadM >}}
 {{< youtube cAsya--w9Sg >}}
 {{< youtube gxD_Zvyfo8o >}}
 {{< youtube T36DdNm5qMQ >}}

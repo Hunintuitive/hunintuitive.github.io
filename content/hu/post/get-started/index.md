@@ -5,7 +5,7 @@ title: 🎶 Merülés a zenei világomba - Isten hozott az utazásban!
 
 
 summary: Szórakoztató zene, egy breaktáncos medve, és a szívbéli okok, hogy minél gyakrabban élvezd a zenét. 🤩
-date: 2025-06-15
+date: 2025-07-21
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -100,6 +100,8 @@ Képzeld el a trance elbűvölő lüktetésének zökkenőmentes fúzióját a k
 A 80-as évek legendás Hybrid zenekarából merítve ihletet, akiknek innovatív megközelítése a műfajok keverésében új dimenziókat nyitott meg az elektronikus zenében, EduTry munkája ugyanezt a kísérletező szellemet és érzelmi mélységet tükrözi. A Hybrid gazdag, rétegzett hangzásvilágához hasonlóan az ő zenéje is minden alkalommal magával ragad - lehetővé téve, hogy elveszítsem magam az ütemek és érzelmek vibráló világában. Ez egy olyan hely, ahol megáll az idő, és teljesen elmerülhetek a hangok gazdagságában, érezve, hogy minden hang rezonál bennem.
 
 ***Íme néhány példa, mely reményeim szerint örömet szerezhet:***
+
+{{< youtube X0HAN64UadM >}}
 {{< youtube cAsya--w9Sg >}}
 {{< youtube gxD_Zvyfo8o >}}
 {{< youtube T36DdNm5qMQ >}}
@@ -113,7 +115,6 @@ A 80-as évek legendás Hybrid zenekarából merítve ihletet, akiknek innovatí
 {{< youtube IVpwp6DBovs >}}
 {{< youtube Ty8QwaBbFwk >}}
 {{< youtube FuSYARW80bs >}}
-
 
 ***Hybrid:***
 
