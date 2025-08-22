@@ -203,7 +203,7 @@ Jefferson Fischer és Chris Voss beszélgetését Jefferson podcastjében külö
 - **Takarékosan használd**: Csak néhány szót vagy mondatot tükrözz, hogy ne tűnjön robotszerűnek.
 - **Szünet**: Engedj teret a másik félnek, hogy a tükrözés után kifejtse a mondanivalóját.
 
-**Példa**: „ Nem vagy biztos benne, hogy ez a javaslat megfelel az igényeidnek?” Ez arra ösztönzi a másik felet, hogy tisztázza aggályait.
+**Példa**: „Nem vagy biztos benne, hogy ez a javaslat megfelel az igényeidnek?” Ez arra ösztönzi a másik felet, hogy tisztázza aggályait.
 
 #### 3. Címkézés
 
