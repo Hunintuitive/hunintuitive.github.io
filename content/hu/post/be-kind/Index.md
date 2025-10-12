@@ -243,7 +243,7 @@ Egy erős fa belülről szilárd -- gyökerei mélyek, a törzse ép.
 Egy üreges fa kívülről egészségesnek tűnhet, de nyomás alatt össze fog roppanni.
 
 Ha az életedet „túlzó kedveskedéssel” próbálod élni, belülről üresíted ki magad.
-A valódi integritás azt jelenti, hogy belülről táplálod magad -- az igazságoddal, az értékeiddel, a vállalásaiddal -- hogy a külsőd tetteid is szilárdan álljanak, amikor az élet szelessé válik.
+A valódi integritás azt jelenti, hogy belülről táplálod magad -- az igazságoddal, az értékeiddel, a vállalásaiddal -- hogy a kívülről látható tetteid is szilárdan álljanak, amikor az élet szelessé válik.
 
 ---
 
