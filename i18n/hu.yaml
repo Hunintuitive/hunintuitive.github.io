@@ -1,0 +1,288 @@
+# Navigation
+
+- id: toggle_navigation
+  translation: Navigáció
+
+- id: table_of_contents
+  translation: Tartalomjegyzék
+
+- id: on_this_page
+  translation: Ezen az oldalon
+
+- id: back_to_top
+  translation: Vissza felülre
+
+- id: home
+  translation: Home
+
+- id: close
+  translation: Close
+
+- id: languages
+  translation: Languages
+
+# General
+
+- id: related
+  translation: Kapcsolódó anyagok
+
+- id: backlinks
+  translation: Visszautalások
+
+- id: minute_read
+  translation: perc olvasás
+
+- id: previous
+  translation: Előző
+
+- id: next
+  translation: Következő
+
+- id: figure
+  translation: '%d. ábra:'
+
+- id: edit_page
+  translation: Az oldal szerkesztése
+
+# Themes
+
+- id: theme_selector
+  translation: Megjelenítési beállítások
+
+- id: theme_light
+  translation: Világos
+
+- id: theme_dark
+  translation: Sötét
+
+- id: theme_auto
+  translation: Automatikus
+
+# Buttons
+
+- id: btn_preprint
+  translation: Megjelenés előtt
+
+- id: btn_pdf
+  translation: PDF
+
+- id: btn_cite
+  translation: Idézet
+
+- id: btn_slides
+  translation: Diák
+
+- id: btn_video
+  translation: Videó
+
+- id: btn_code
+  translation: Kód
+
+- id: btn_dataset
+  translation: Adatállomány
+
+- id: btn_project
+  translation: Projekt
+
+- id: btn_poster
+  translation: Poszter
+
+- id: btn_source
+  translation: Forrás dokumentum
+
+- id: btn_copy
+  translation: Másolás
+
+- id: btn_copied
+  translation: Másolva
+
+- id: btn_download
+  translation: Letöltés
+
+# About widget
+
+- id: interests
+  translation: Érdeklődési terület
+
+- id: education
+  translation: Tanulmányok
+
+- id: user_profile_latest
+  translation: Legújabb
+
+# Accomplishments widget
+
+- id: see_certificate
+  translation: Lásd a tanúsítványt
+
+# Experience widget
+
+- id: experience
+  translation: Szakmai Tapasztalat
+
+- id: present
+  translation: Jelen
+
+# Pages widget
+
+- id: read_more
+  translation: Olvass tovább
+
+- id: more_pages
+  translation: Lásd mindet
+
+- id: more_posts
+  translation: További posztok
+
+- id: more_talks
+  translation: Előadások
+
+- id: more_publications
+  translation: Lásd az összes kiadványt
+
+# Contact widget
+
+- id: contact_name
+  translation: Név
+
+- id: contact_email
+  translation: Email
+
+- id: contact_message
+  translation: Üzenet
+
+- id: contact_attachment
+  translation: Fájl csatolása
+
+- id: contact_send
+  translation: Elküldés
+
+- id: book_appointment
+  translation: Időpont kérése
+
+# Publication/Event details
+
+- id: abstract
+  translation: Kivonat
+
+- id: publication
+  translation: Publikáció
+
+- id: publication_type
+  translation: Típus
+
+- id: date
+  translation: Dátum
+
+- id: last_updated
+  translation: Utoljára frissítve
+
+- id: event
+  translation: Esemény
+
+- id: location
+  translation: Helyszín
+
+- id: pub_paper_conference
+  translation: Konferenciadokumentum
+
+- id: pub_article_journal
+  translation: Folyóiratcikk
+
+- id: pub_article
+  translation: Előnyomat
+
+- id: pub_report
+  translation: Jelentés
+
+- id: pub_book
+  translation: Könyv
+
+- id: pub_chapter
+  translation: Könyv szekció
+
+- id: pub_thesis
+  translation: Tézisek
+
+- id: pub_patent
+  translation: Szabadalom
+
+# Project details
+
+- id: open_project_site
+  translation: Tovább a projekt oldalára
+
+# Content types for default archive page titles and search results
+
+- id: posts
+  translation: Posztok
+
+- id: publications
+  translation: Publikációk
+
+- id: talks
+  translation: Előadások
+
+- id: projects
+  translation: Projektek
+
+- id: slides
+  translation: Diák
+
+- id: authors
+  translation: Szerzők
+
+# Search
+
+- id: search
+  translation: Keresés
+
+- id: search_placeholder
+  translation: Keresés...
+
+- id: search_results
+  translation: találat
+
+- id: search_no_results
+  translation: Nincsen találat
+
+- id: search_common_queries
+  translation: Gyakori keresések
+
+# Error 404
+
+- id: page_not_found
+  translation: Az oldal nem található
+
+- id: 404_recommendations
+  translation: Esetleg ezeket kereste?
+
+# Cookie consent
+
+- id: cookie_message
+  translation: Ez az oldal a legjobb felhasználói élmény érdekében sütiket használ.
+
+- id: cookie_dismiss
+  translation: Rendben
+
+- id: cookie_learn
+  translation: További információk
+
+# Published with
+
+- id: published_with
+  translation: Published with {hugoblox} — the free, {repo_link}open source{/repo_link} website builder that empowers creators.
+
+# Feedback widget
+
+- id: feedback_widget_title
+  translation: Visszajelzés
+
+- id: feedback_widget_question
+  translation: Hasznos volt ez az oldal?
+
+- id: feedback_widget_answer_positive
+  translation: 😍 Igen
+
+- id: feedback_widget_answer_negative
+  translation: 😡 Nem

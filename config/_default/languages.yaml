@@ -1,0 +1,37 @@
+# Languages
+#   Create a section for each of your site's languages.
+#   Documentation: https://docs.hugoblox.com/reference/language/
+
+# Default language
+en:
+  languageCode: en-us
+  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  contentDir: content/en
+
+# Uncomment the lines below to configure your website in a second language.
+hu:
+  languageCode: 'hu'
+  contentDir: content/hu
+  title: Becsi Hunor Weboldala
+
+  params:
+    description: Becsi Hunor Weboldala
+  menu:
+    main:
+      - name: Magyar
+        url: '#about'
+        weight: 1
+
+de:
+  languageCode: 'de'
+  contentDir: content/de
+  title: Hunor Becsis Webseite
+
+  params:
+    description: Hunor Becsis Webseite
+  menu:
+    main:
+      - name: Deutsch
+        url: '#about'
+        weight: 2
+
