@@ -1,5 +1,5 @@
 ---
-title: "„Ne légy *kedves* minden áron – légy valódi önmagad” Jefferson Fisher tanítása az őszinte, valóban kedves és hiteles kommunikációról"
+title: "„Ne légy kedves minden áron – légy valódi önmagad” Jefferson Fisher tanítása az őszinte, valóban kedves és hiteles kommunikációról"
 authors:
 - admin
 date: "2025-10-11T00:00:00Z"
@@ -131,9 +131,9 @@ Ha valódi integritást szeretnénk, túl kell lépnünk a felszínes udvariass�
 * **Kedvesség:** Le akar nyűgözni.
 * **Jóság:** Kapcsolódni akar.
 
-> **Röviden:** a kedvesség a felszínt nyugtatja, a jószívűség a lényeget gyógyítja.
+> **Röviden:** a kedvesség a felszínt nyugtatja, a jóság, legbelül a lényeget gyógyítja.
 
-Ahogy Fisher rámutat, a *"kedves"* szót ritkán használjuk azokra, akik igazán számítanak nekünk. Őket inkább **jóságosnak, törődőnek, hitelesnek nevezzük**. Mert a *"kedves"* az idegeneknek való – a *jóság* azoknak szól, akik formálják az életünket.
+Ahogy Fisher rámutat, a *"kedves"* szót ritkán használjuk azokra, akik igazán számítanak nekünk. Őket inkább **jóságosnak, törődőnek, hitelesnek nevezzük**. Mert a *"kedves"* az idegeneknek való – a *jóság* (vagy a pontosság kedvéért, az abból fakadó nemesebb kedvesség) azoknak szól, akik formálják az életünket.
 
 ---
 
