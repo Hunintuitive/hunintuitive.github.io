@@ -59,7 +59,7 @@ Egy olyan korban, melyben az információk szabadon, egy gombnyomással áramlan
 
 ### 1. **Diverzifikáld a forrásaidat**
 
-![Alt text](/post/information/sources.jpg)
+![Alt text](/post/information/sources.png)
 
 Az egyik legjobb módja annak, hogy átfogó képet kapjunk bármely témáról, az, ha több információforrásra támaszkodunk. Vegyük figyelembe a különböző típusú forrásokat, például:
 
@@ -81,7 +81,7 @@ Nem minden információ egyformán hiteles. Mielőtt tényként fogadnád el val
 
 ### 3. **Légy tudatában az elfogultságnak**
 
-![Alt text](/post/information/bias.jpg)
+![Alt text](/post/information/bias.png)
 
 Minden forrásnak megvan a maga nézőpontja és elfogultsága. Így ismerhetjük fel és vehetjük figyelembe az elfogultságot:
 
@@ -93,7 +93,7 @@ Minden forrásnak megvan a maga nézőpontja és elfogultsága. Így ismerhetjü
 
 ### 4. **Használd bölcsen a közösségi médiát**
 
-![Alt text](/post/information/social.jpg)
+![Alt text](/post/information/social.png)
 
 A közösségi média egy kétélű kard. Miközben képes gyorsan szélesíteni a tudatosságot, ugyanakkor a félretájékoztatást is elősegítheti. A közösségi média hatékony használatához:
 
@@ -114,7 +114,7 @@ A kíváncsi elme a tanulás hatékony eszköze. Nyitott elmével közelíts az 
 
 ### 6. **Légy óvatos a közösségi médiára és a mesterséges intelligenciára való túlzott hagyatkozással**
 
-![Alt text](/post/information/ai.jpg)
+![Alt text](/post/information/ai.png)
 
 Bár a közösségi média és az AI-eszközök gyors hozzáférést biztosíthatnak az információkhoz, elengedhetetlen, hogy felismerjük az e platformokra való túlzott hagyatkozás lehetséges veszélyeit. Ezek felerősíthetik a meglévő előítéleteket, és "visszhangkamrákat" hozhatnak létre, korlátozva a különböző nézőpontoknak való kitettségünket. Ahogyan egy hangya sem lépi túl a köré rajzolt kört, amíg véletlenül át nem lépi a határt, úgy mi is beszorulhatunk saját mentális gátjaink mögé. Emiatt hasznos lehet, kilépni ezen korlátok mögül, és függetlenül ellenőrizni a tényeket.
 

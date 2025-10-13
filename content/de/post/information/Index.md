@@ -59,7 +59,7 @@ In einem Zeitalter, in dem Informationen per Mausklick frei fließen, kann es ü
 
 ### 1. **Diversifiziere deine Quellen**
 
-![Alt text](/post/information/sources.jpg)
+![Alt text](/post/information/sources.png)
 
 Eine der besten Möglichkeiten, sich einen umfassenden Überblick über ein Thema zu verschaffen, besteht darin, mehrere Informationsquellen heranzuziehen. Ziehe verschiedene Arten von Quellen in Betracht, wie z. B.:
 
@@ -81,7 +81,7 @@ Nicht alle Informationen sind gleich. Bevor du eine Information als Tatsache akz
 
 ### 3. **Sei dir der Voreingenommenheit bewusst**
 
-![Alt text](/post/information/bias.jpg)
+![Alt text](/post/information/bias.png)
 
 Jede Quelle hat ihre eigene Perspektive und Voreingenommenheit. Hier erfährst du, wie du Voreingenommenheit erkennen und berücksichtigen kannst:
 
@@ -93,7 +93,7 @@ Zu verstehen, wie Voreingenommenheit die Interpretation beeinflussen kann, ist v
 
 ### 4. **Soziale Medien umsichtig nutzen**
 
-![Alt text](/post/information/social.jpg)
+![Alt text](/post/information/social.png)
 
 Soziale Medien sind ein zweischneidiges Schwert. Sie können zwar das Bewusstsein schnell verbreiten, aber auch Fehlinformationen verbreiten. So kannst du soziale Medien effektiv nutzen:
 
@@ -115,7 +115,7 @@ Ein neugieriger Geist ist ein mächtiges Werkzeug zum Lernen. Geh unvoreingenomm
 
 ### 6. **Sei vorsichtig, dich nicht zu sehr auf soziale Medien und KI zu verlassen**
 
-![Alt text](/post/information/ai.jpg)
+![Alt text](/post/information/ai.png)
 
 Soziale Medien und KI-Tools können zwar einen schnellen Zugang zu Informationen bieten, aber es ist wichtig, die potenziellen Gefahren eines übermäßigen Vertrauens in diese Plattformen zu erkennen. Sie können bestehende Vorurteile verstärken und 'Echokammern' schaffen, die unseren Zugang zu unterschiedlichen Standpunkten einschränken. So wie eine Ameise den Kreis, der um sie herum gezeichnet wurde, erst dann überschreitet, wenn sie versehentlich die Linie übertritt, können auch wir durch unsere eigenen mentalen Barrieren eingeschränkt werden. Deshalb ist es wichtig, diese Grenzen zu überwinden und Fakten unabhängig zu überprüfen.
 

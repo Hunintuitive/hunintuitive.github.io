@@ -59,7 +59,7 @@ In an age where information flows freely at the click of a button, staying infor
 
 ### 1. **Diversify Your Sources**
 
-![Alt text](/post/information/sources.jpg)
+![Alt text](/post/information/sources.png)
 
 One of the best ways to gain a well-rounded view of any topic is to rely on multiple sources of information. Consider various types of sources, such as:
 
@@ -81,7 +81,7 @@ Not all information is created equal. Before accepting information as fact, cons
 
 ### 3. **Be Aware of Bias**
 
-![Alt text](/post/information/bias.jpg)
+![Alt text](/post/information/bias.png)
 
 Every source has its own perspective and bias. Here’s how to recognize and account for bias:
 
@@ -93,7 +93,7 @@ Understanding how bias can affect interpretation is crucial-acknowledging that d
 
 ### 4. **Engage with Social Media Wisely**
 
-![Alt text](/post/information/social.jpg)
+![Alt text](/post/information/social.png)
 
 Social media is a double-edged sword. While it can spread awareness quickly, it can also perpetuate misinformation. To use social media effectively:
 
@@ -114,7 +114,7 @@ A curious mind is a powerful tool for learning. Approach information with an ope
 
 ### 6. **Be Cautious of Overreliance on Social Media and AI**
 
-![Alt text](/post/information/ai.jpg)
+![Alt text](/post/information/ai.png)
 
 While social media and AI tools can provide quick access to information, it’s crucial to recognize the potential dangers of overreliance on these platforms. They can reinforce existing biases and create echo chambers, limiting our exposure to diverse viewpoints. Just as an ant will not overstep the circle drawn around it until it accidentally crosses the line, we can become confined by our own mental barriers. Therefore, it is essential to step outside these confines and verify facts independently.
 
