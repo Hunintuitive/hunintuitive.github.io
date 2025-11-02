@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YouTube | Becsi Hunor Weboldala</title>
+    <link>http://localhost:1313/hu/tags/youtube/</link>
+      <atom:link href="http://localhost:1313/hu/tags/youtube/index.xml" rel="self" type="application/rss+xml" />
+    <description>YouTube</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>YouTube</title>
+      <link>http://localhost:1313/hu/tags/youtube/</link>
+    </image>
+    
+    <item>
+      <title>Átfogó útmutató - Nyelveken átívelő információhoz való hozzáférés a YouTube átiratok és a mesterséges intelligencia fordítás segítségével</title>
+      <link>http://localhost:1313/hu/post/youtubetranslate/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hu/post/youtubetranslate/</guid>
+      <description>&lt;h2 id=&#34;bevezetés&#34;&gt;Bevezetés&lt;/h2&gt;
+&lt;p&gt;A YouTube az információk kincsesbányája, ahol videók milliói találhatók a legkülönbözőbb témákban. Ha azonban egy videó nem a te anyanyelveden van, az információhoz való hozzáférés kihívást jelenthet. Szerencsére a YouTube számos videóhoz átiratot biztosít, és a mesterséges intelligencia fordítóeszközök segítségével ezeket az átiratokat lefordíthatja az általad preferált nyelvre. Ez az útmutató végigvezet a YouTube átiratok és a mesterséges intelligencia általi fordítás hatékony használatának lépésein.&lt;/p&gt;
+&lt;h2 id=&#34;1-lépés-youtube-átiratok-elérése&#34;&gt;1. lépés: YouTube átiratok elérése&lt;/h2&gt;
+&lt;h3 id=&#34;11-videó-keresése&#34;&gt;1.1 Videó keresése&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Navigálj a YouTube-ra&lt;/strong&gt;: Látogass el a YouTube weboldalára vagy nyisd meg az alkalmazást.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Videó keresése&lt;/strong&gt;: Használd a keresősávot, hogy megtaláld az érdeklődési körödbe tartozó videót.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;12-az-átirat-megtekintése&#34;&gt;1.2 Az átirat megtekintése&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Videó megnyitása&lt;/strong&gt;: Kattints a videóra a megtekintés megkezdéséhez.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Átirat elérése&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Asztali gépen&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Kattints a videó alatt található három pontra (További lehetőségek).&lt;/li&gt;
+&lt;li&gt;Válaszd az &lt;strong&gt;Átirat megnyitása&lt;/strong&gt; lehetőséget a legördülő menüből.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobilon&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Érints meg a videót a vezérlők megjelenítéséhez.&lt;/li&gt;
+&lt;li&gt;Kattints a jobb felső sarokban található három függőleges pontra.&lt;/li&gt;
+&lt;li&gt;Válaszd az &lt;strong&gt;Átirat&lt;/strong&gt; lehetőséget (jegyezd meg, hogy ez a funkció nem minden videón elérhető mobilon).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Átirat megtekintése&lt;/strong&gt;: Az átirat a videó jobb oldalán jelenik meg, megjelenítve a beszélt szöveget időbélyegekkel a könnyű hivatkozás érdekében.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;13-az-átirat-másolása&#34;&gt;1.3 Az átirat másolása&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Szöveg kiválasztása&lt;/strong&gt;: Jelöld ki az átirat szövegét kattintással és húzással.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Szöveg másolása&lt;/strong&gt;: Jobb kattintás és válaszd a &lt;strong&gt;Másolás&lt;/strong&gt; lehetőséget, vagy használd a &lt;code&gt;Ctrl+C&lt;/code&gt; billentyűkombinációt Windows-on, illetve a &lt;code&gt;Command+C&lt;/code&gt;-t Mac-en.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;2-lépés-mi-fordítóeszközök-használata&#34;&gt;2. lépés: MI fordítóeszközök használata&lt;/h2&gt;
+&lt;h3 id=&#34;21-fordítóeszköz-kiválasztása&#34;&gt;2.1 Fordítóeszköz kiválasztása&lt;/h3&gt;
+&lt;p&gt;Több MI fordító szolgáltatás is elérhető. A népszerű lehetőségek közé tartozik:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Google Fordító&lt;/strong&gt;: Ingyenes és széles körben használt fordítóeszköz.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;DeepL Fordító&lt;/strong&gt;: Különösen az európai nyelvek árnyalt fordításáról ismert. &lt;em&gt;- szerény véleményem szerint ez a legpontosabb és legjobb.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Microsoft Fordító&lt;/strong&gt;: Megbízható fordítást kínál különböző platformokon.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;22-az-átirat-fordítása&#34;&gt;2.2 Az átirat fordítása&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Nyisd meg a kiválasztott fordítóeszközt&lt;/strong&gt;: Látogass el a választott fordító szolgáltatás weboldalára.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Illeszd be az átiratot&lt;/strong&gt;: A kijelölt forrásszöveg mezőbe illeszd be a másolt átiratot a &lt;code&gt;Ctrl+V&lt;/code&gt; vagy a &lt;code&gt;Command+V&lt;/code&gt; használatával.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Nyelvek kiválasztása&lt;/strong&gt;:
+&lt;ul&gt;
+&lt;li&gt;Állítsd be a forrást (az eredeti átirat nyelve).&lt;/li&gt;
+&lt;li&gt;Állítsd be a célnyelvet (a preferált nyelved).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Fordítás&lt;/strong&gt;: Kattints a &lt;strong&gt;Fordítás&lt;/strong&gt; gombra a fordítás megkezdéséhez.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;23-a-fordítás-ellenőrzése&#34;&gt;2.3 A fordítás ellenőrzése&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Pontosság ellenőrzése&lt;/strong&gt;: Olvasd át a lefordított szöveget a pontosság és a kontextus szempontjából, mivel az MI fordítások néha figyelmen kívül hagyják a finomabb részleteket.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Szükség esetén szerkesztés&lt;/strong&gt;: Kézzel állítsd be az esetleges furcsa kifejezéseket vagy érthetetlen fordításokat a világosabb megértés érdekében.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;3-lépés-a-fordított-információk-használata&#34;&gt;3. lépés: A Fordított információk használata&lt;/h2&gt;
+&lt;h3 id=&#34;31-főbb-pontok-összefoglalása&#34;&gt;3.1 Főbb pontok összefoglalása&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Fő ötletek azonosítása&lt;/strong&gt;: Nézd át a fordított tartalmat, kiemelve a főbb pontokat.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Összefoglaló készítése&lt;/strong&gt;: Készíts egy tömör összefoglalót a videó főbb ötleteiről a fordított átirat alapján.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;32-megosztás-és-hivatkozás&#34;&gt;3.2 Megosztás és hivatkozás&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Forrás megidézése&lt;/strong&gt;: Amikor az információt a munkádban használod, gondoskodj a megfelelő hivatkozásról az eredeti videóra.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Böngészés megosztása&lt;/strong&gt;: Oszd meg a felfedezéseidet másokkal, akik hasznot húzhatnak az információból.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;4-lépés-további-tippek&#34;&gt;4. lépés: További tippek&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Feliratok engedélyezése&lt;/strong&gt;: Ha elérhető, kapcsolj be feliratokat az eredeti nyelven a videó nézése közben a megértés segítése érdekében. &lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;7iWbCN4YM2o&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/7iWbCN4YM2o/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Kapcsolódó tartalom felfedezése&lt;/strong&gt;: Sok csatorna kínál tartalmat több nyelven, vagy hasonló videókat a kapcsolódó témákról a preferált nyelveden.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Visszajelzés adása&lt;/strong&gt;: Ha pontatlanságokat tapasztalsz a fordításokban, fontold meg, hogy visszajelzést adsz az AI fordítási modellek javítása érdekében.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;következtetés&#34;&gt;Következtetés&lt;/h2&gt;
+&lt;p&gt;A YouTube átiratok és MI fordítóeszközök hatékony használatával jelentősen javíthatod az értékes információkhoz való hozzáférésedet különböző nyelveken. Ez az útmutató világos keretet nyújt a videótartalom fordításához és a nyelvi akadályok leküzdéséhez, lehetővé téve, hogy felfedezd a YouTube-on elérhető széleskörű tudást. Legyen szó oktatási célokról, kutatásról vagy személyes kíváncsiságról, ezek az eszközök lehetővé teszik számodra, hogy kihasználhasd az online videótartalmak teljes potenciálját.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

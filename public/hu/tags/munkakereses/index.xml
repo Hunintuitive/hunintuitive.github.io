@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Munkakeresés | Becsi Hunor Weboldala</title>
+    <link>http://localhost:1313/hu/tags/munkakereses/</link>
+      <atom:link href="http://localhost:1313/hu/tags/munkakereses/index.xml" rel="self" type="application/rss+xml" />
+    <description>Munkakeresés</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>hu</language><lastBuildDate>Mon, 26 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <title>Munkakeresés</title>
+      <link>http://localhost:1313/hu/tags/munkakereses/</link>
+    </image>
+    
+    <item>
+      <title>A mesterséges intelligencia jövője: Mennyire fontos az emberi faj számára?</title>
+      <link>http://localhost:1313/hu/post/ai/</link>
+      <pubDate>Mon, 26 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hu/post/ai/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Ezt a cikket eredetileg a megfelelő állás megtalálásának nehézségei ihlették, csak hogy rájöjjek, milyen káros lehet bizonyos esetekben a mesterséges intelligencia használata. Az MI-algoritmusok használata az ATS-rendszerekben (Applicant Tracking System - magyarul - Jelölt követő rendszer) nem olyan előnyös, mint azt egyesek gondolják. Néhány érdekes linket is mellékeltem a YouTube-ról a mesterséges intelligencia és az ATS-rendszerek témájában. Magyar, automatikusan fordított felirat elérhető hozzájuk. Jó szórakozást az olvasáshoz!&lt;/strong&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;6nGM37ThEsU&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/6nGM37ThEsU/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;8QEK7B9GUhM&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/8QEK7B9GUhM/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;468IKvaTf_k&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/468IKvaTf_k/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;h2 id=&#34;a-mesterséges-intelligenciáért-folytatott-verseny-amely-az-emberektől-azt-követeli-hogy-úgy-viselkedjenek-mint-gépek&#34;&gt;A mesterséges intelligenciáért folytatott verseny, amely az emberektől azt követeli, hogy úgy viselkedjenek, mint gépek.&lt;/h2&gt;
+&lt;h1 id=&#34;a-mesterséges-intelligencia-minden-amire-törekednünk-kellene-hogyan-befolyásolja-az-életünket-kell-e-úgy-viselkednünk-mint-a-gépek-egy-tech-rajongó-gondolatai-a-mesterséges-intelligenciáról-és-annak-a-saját-életünkre-gyakorolt-hatásairól&#34;&gt;A mesterséges intelligencia minden, amire törekednünk kellene? Hogyan befolyásolja az életünket? Kell-e úgy viselkednünk, mint a gépek? Egy tech-rajongó gondolatai a Mesterséges Intelligenciáról és annak a saját életünkre gyakorolt hatásairól.&lt;/h1&gt;
+&lt;h2 id=&#34;-the-switch---magyarul-sejtcserés-támadás-2010-mozifilm&#34;&gt;@ The Switch - magyarul: Sejtcserés támadás (2010 Mozifilm):&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nézz ránk! Rohangálunk, mindig sietünk, mindig késünk. Gondolom, ezért hívják ezt „emberi” „versenynek” (angolul - race, ami magyarul fajt vagy versenyt jelenthet szövegkörnyezettől függően). Amire a legjobban vágyunk ebben a világban, az a kapcsolat&amp;hellip;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Mit gondolsz? Lehet, hogy van némi igazság a film nyitó gondolatában?&lt;/p&gt;
+&lt;p&gt;Milyen szempontból lehet releváns a mesterséges intelligencia? Az emberi faj számára, vagy csak egy véletlenszerű értelmetlen „verseny” kedvéért?&lt;/p&gt;
+&lt;p&gt;Ez nem is olyan könnyű kérdés. Elgondolkodtatott, és ez ihlette ezt a cikket. Nem akarlak igazán befolyásolni egyik irányba sem. Csak szeretnék rámutatni néhány dologra ezzel kapcsolatban, józan ésszel ítélve, és bevonva más, nálam zseniálisabb és műveltebb emberek néhány gondolatát és véleményét ezekről a témákról, melyek megragadták a figyelmemet.&lt;/p&gt;
+&lt;h2 id=&#34;mi-a-legfontosabb-számunkra-emberek-számára&#34;&gt;Mi a legfontosabb számunkra, emberek számára?&lt;/h2&gt;
+&lt;p&gt;Hajlamos vagyok egyetérteni azzal a nézettel, hogy nekünk embereknek, az emberi fajnak, ami végső soron fontos cél, vagy nevezzük talán „szükségletnek” az életben, eltekintve a megélhetéstől, a békére való törekvéstől és a lehetőségektől, hogy alapvetően „jó” életet éljünk, az, hogy &lt;strong&gt;értelmes módon vágyunk a környezetünkkel való kapcsolatra&lt;/strong&gt;, legyen az a természet, a körülöttünk élő emberek vagy akár magasabb erők, mint Isten, földönkívüli kultúrák és így tovább&amp;hellip;. Válaszd azt, ami a te képzeletedet táplálja, vagy ami fontos számodra.&lt;/p&gt;
+&lt;h2 id=&#34;hogyan-hat-a-mesterséges-intelligencia-az-életünkre&#34;&gt;Hogyan hat a Mesterséges Intelligencia az életünkre?&lt;/h2&gt;
+&lt;p&gt;A folyamatosan fejlődő technológiai környezetben a mesterséges intelligencia (MI) iránti versenyfutás forró beszédtémává vált. Ahogy a gépek egyre „intelligensebbé” válnak, és egyre többféle feladat elvégzésére képesek, úgy nő az emberekre nehezedő nyomás, hogy alkalmazkodjanak, és egyre inkább úgy viselkedjenek, mint a gépek, és ez nem biztos, hogy jó dolog. A probléma persze a saját szemléletünk lehet, az, ahogyan a technológiai fejlődésre reagálunk, vagy ahogyan használjuk ezeket az eszközöket, és ahogyan a mindennapi életben viszonyulunk hozzájuk.&lt;/p&gt;
+&lt;p&gt;A mesterséges intelligencia forradalmasítja az iparágakat az egészségügytől a pénzügyekig, és a folyamatok egyszerűsítésében, valamint a hatékonyság növelésében rejlő lehetőségei tagadhatatlanok. Azonban ahogy a gépek egyre fejlettebbé válnak, úgy nő az igény arra, hogy az emberek is ugyanúgy viselkedjenek, mint a gépek.&lt;/p&gt;
+&lt;p&gt;Tudtad, hogy ha egy karrieroldalon jelentkezel egy állásra, az úgynevezett ATS rendszerek (azaz Applicant Tracking System - Jelölt követő rendszer), amelyek képesek MI-megoldásokat beépíteni, eldönthetik, hogy az önéletrajzodat egyáltalán figyelembe veszik-e, vagy továbbítják-e egy emberi toborzónak? Eltekintve néhány, az ilyen eszközöket alkalmazó vállalatok által felhozott jogos érvtől, te hogyan érzed magad emiatt?&lt;/p&gt;
+&lt;p&gt;Ha fogalmad sincs arról, hogy egy algoritmus fog értékelni, vagy nem tudod, hogyan kell olyan önéletrajzot írni, amely átmegy a mesterséges intelligencia tesztjén, akkor mi hasznod származik belőle, vagy az azt használó vállalatnak? - merül fel a remélhetőleg logikus kérdés a fejemben. Az biztos, hogy a toborzóknak kevesebb életrajzot kell majd átolvasniuk a beküldött ezrek közül, de vajon tényleg hasznára válik-e ez a vállalatnak, biztosítja-e, hogy a legjobb jelölteket kapja meg, akik megfelelnek az adott munkakörnek? A döntést rád bízom.&lt;/p&gt;
+&lt;p&gt;Vicces volt, hogy az utóbbi időben sok állásra jelentkeztem, csak azért, hogy az algoritmusok elutasítsanak. Meglepett viszont, hogy később ugyanannak a cégnek egy toborzója felvette velem a kapcsolatot. Látta a LinkedIn-profilomat online, hasonló állást ajánlott, mint amire korábban jelentkeztem, és elsőre elutasítottak a cég karrieroldalán, ami ezeket az MI algoritmusokat használja.&lt;/p&gt;
+&lt;p&gt;Mit gondolsz? Előnyös volt az MI használata ebben az esetben, vagy inkább az ellenkezője?&lt;/p&gt;
+&lt;h2 id=&#34;nemde-úgy-tűnik-arra-vagyunk-csábítva-hogy-úgy-akarjunk-viselkedni-mint-a-saját-teremtményünk-de-jót-tesz-ez-nekünk&#34;&gt;Nemde úgy tűnik, arra vagyunk csábítva, hogy úgy akarjunk viselkedni, mint a saját teremtményünk? De jót tesz ez nekünk?&lt;/h2&gt;
+&lt;p&gt;Egy olyan világban, ahol a gyorsaság és a pontosság kulcsfontosságú, az embereket már-már arra &lt;strong&gt;kényszerítik&lt;/strong&gt;, hogy gépi pontossággal végezzék a feladatokat. Az olyan iparágakban, mint a gyártás és a logisztika, a gyors és hibamentes munkavégzés képessége elengedhetetlen a versenyképesség megőrzéséhez. Még az ügyfélszolgálaton is egyre nagyobb az igény a gyorsaságra, az egyszerre több eszköz használatára és a multitasking maximalizálására a lehető legrövidebb idő alatt. Ez az emberek munkához való hozzáállásának megváltozásához vezetett, és mindenekelőtt a hatékonyságra és a termelékenységre helyezik a hangsúlyt. Elvárjuk, hogy minden szolgáltatás, minden eszköz, sőt még embertársaink is mindig és minden lehetséges körülmények között tökéletesen teljesítsenek. Ezzel az elvárással csak az a baj, hogy egyáltalán nem reális.&lt;/p&gt;
+&lt;p&gt;Erről eszembe jut egy híres idézet Esther Pereltől: „Az elvárások neheztelést szülnek”. Igen, ha az elvárások nem reálisak, vagy túl nagy hangsúlyt fektetünk rájuk, akkor több negatív eredményt hozhatunk létre, mint amennyit szeretnénk.&lt;/p&gt;
+&lt;p&gt;A gépként való viselkedés nem mentes a kihívásoktól. Az emberek érzelmes lények, és nehéz lehet megpróbálni elnyomni ezeket az érzelmeket egy robotszerűbb megközelítés érdekében. Tanulmányok igazolják, hogy a kiégés és a mentális egészségügyi problémák egyre nagyobb számban fordulnak elő azokban az iparágakban, amelyek nagy hangsúlyt fektetnek a termelékenységre és a hatékonyságra. Egyes tudósok azt állítják, hogy nincs olyan ember, aki valóban képes lenne multitaskingra, legalábbis olyan hatékonyan biztosan nem, mint amilyen hatékonyan egy többmagos processzor képes erre egy számítógépben. Vicces tény: Tudtad, hogy a &amp;ldquo;computerek&amp;rdquo; eredetileg a NASA-nál dolgozó emberek voltak, akik matematikával segítették az űrkutatáshoz szükséges számításokat? Mégis egyre nagyobb az elvárás, hogy a multitaskingban jeleskedjünk, bármit jelentsen is ez.&lt;/p&gt;
+&lt;p&gt;Ráadásul az a nyomás, hogy gépként viselkedjünk, negatív hatással lehet a kreativitásra és az innovációra. A gépek talán képesek gyorsan és pontosan elvégezni a feladatokat, de hiányzik belőlük a „innovatív” gondolkodás képessége és az új ötletek kitalálása. Amint az embereket arra kényszerítik, hogy kizárólag a hatékonyságra összpontosítsanak, a kreativitás elfojtásának veszélye egyre hangsúlyosabbá válik.&lt;/p&gt;
+&lt;h2 id=&#34;milyen-következtetéseket-vonhatnánk-le-mindebből&#34;&gt;Milyen következtetéseket vonhatnánk le mindebből?&lt;/h2&gt;
+&lt;p&gt;Merre tovább akkor? Egyértelmű, hogy a mesterséges intelligencia itt van, hogy megmarad, és továbbra is jelentős szerepet fog játszani a munka, sőt az élet más aspektusainak alakításában. Fontos azonban, hogy az emberek ne feledjék, hogy ők nem gépek, és senkitől sem szabad elvárni, hogy úgy viselkedjen, mint a gépek. Ez alatt azt értem, hogy nekünk, embereknek ennek megfelelően kell alakítanunk az elvárásainkat, hogy egyetlen embertársunk sem lesz igazán képes úgy teljesíteni, mint egy gép.&lt;/p&gt;
+&lt;p&gt;A hatékonyság és a kreativitás közötti egyensúly megtalálása kulcsfontosságú egy olyan világban, ahol a mesterséges intelligencia egyre inkább beépül a mindennapi életünkbe. Az MI előnyeinek kihasználása mellett az emberi intelligencia egyedi erejének elismerése és hasznosítása kulcsfontosságú lesz ahhoz, hogy a mesterséges intelligencia fejlesztését fenntartható és jövedelmező módon irányítsuk az emberiség számára.&lt;/p&gt;
+&lt;p&gt;Az emberek alkotásaként szándékosan hagytam ki az MI-t a fenti egyenletből.&lt;/p&gt;
+&lt;p&gt;Egyesek talán úgy gondolnak az MI-ra és a gépekre, mint az emberi evolúció következő lépésére, ahogyan fejlődni fogunk a jövőben. De vajon ez az egyetlen út? És vajon jó-e ez az út?&lt;/p&gt;
+&lt;p&gt;És bár van egyfajta szépség a saját magunk által létrehozott gépekben, még inkább a körülöttünk lévő élet minden aspektusában. Ha úgy tetszik, mi emberek is példái vagyunk egy rendkívüli alkotásnak, egy biológiai „gépet” alkotva, mely értékesebb és csodálatosabb, mint a mi általunk létrehozott gép vagy &amp;ldquo;intelligencia&amp;rdquo;, még akkor is, ha bizonyos szempontból gyorsabban hoz döntéseket, és egyes tulajdonságokban és esetekben még felül is múl minket.&lt;/p&gt;
+&lt;p&gt;Hajlok arra, hogy azt gondoljam, mi emberek, nem a természet véletlen művei vagyunk. Úgy tűnik, hogy a Föld bolygón minden élet apró biológiai „gépekből” áll, kifinomult „hardverrel”, mint például fehérjék, DNS, földi ásványok és vegyületek, és „szoftverrel”, ami az összes élőlény DNS-ében kódolt hatalmas információra utal. Ez az információ nagyobb rendszereket alkot, a baktériumoktól kezdve a bolygónk legnagyobb élőlényeiig. Akár Istennek, akár egy idegen fajnak nevezzük, a jelenség mögött álló intelligencia igen mélyreható, csodálatos lehet, és több kutatást érdemel a mi oldalunkról. Mindezekhez képest a mesterséges intelligencia nagyszerű eredmény, de nem a legjelentősebb.&lt;/p&gt;
+&lt;p&gt;Alig értjük magunkat és a környezetünket, és máris valami újat akarunk létrehozni, és úgy viselkedünk, mintha ez lenne a jövőnk és a legfontosabb számunkra? Nehéz kérdés, nem igaz?&lt;/p&gt;
+&lt;p&gt;A mesterséges intelligencia nem jó vagy rossz. Az számít, hogy hogyan használjuk, és hogyan viselkedünk vele kapcsolatban.&lt;/p&gt;
+&lt;h2 id=&#34;egy-kis-kísérlet-megkérdeztem-a-chat-gpt-t-hogy-a-mesterséges-intelligencia-érző-vagy-az-emberi-intelligenciához-hasonló-e&#34;&gt;Egy kis kísérlet: Megkérdeztem a Chat GPT-t, hogy a mesterséges intelligencia érző vagy az emberi intelligenciához hasonló-e.&lt;/h2&gt;
+&lt;p&gt;A válasz egyáltalán nem volt meglepő:&lt;/p&gt;
+&lt;p&gt;„A mesterséges intelligencia jelenleg nem érző, és nem is hasonlítható az emberi intelligenciához a szó teljes értelmében. A mesterséges intelligencia rendszerek, beleértve az olyan fejlett modelleket, mint a GPT-3 és utódai, inkább algoritmusok és adatminták alapján működnek, mint tudatosság, öntudat vagy érzelmi megértés alapján.&lt;/p&gt;
+&lt;p&gt;Érzőképesség: Az érzőképesség az érzések, érzékelések és szubjektív tapasztalatok képességére utal. A jelenlegi mesterséges intelligencia nem rendelkezik ezekkel a tulajdonságokkal; nem rendelkezik tudatossággal vagy az érzelmek megtapasztalásának képességével. A mesterséges intelligencia képes beszélgetést szimulálni és kérdésekre válaszolni, de nem rendelkezik vágyakkal, meggyőződésekkel vagy szubjektív tapasztalatokkal.
+Emberi intelligencia: Az emberi intelligencia a kognitív képességek széles skáláját foglalja magában, beleértve az érvelést, a problémamegoldást, az érzelmi megértést, a kreativitást és a szociális interakciót. A mesterséges intelligencia bizonyos feladatokban kiemelkedő teljesítményre képes, és bizonyos területeken (például adatfeldolgozás vagy mintafelismerés) felülmúlhatja az embert. Nem rendelkezik azonban az emberekhez hasonló általános intelligenciával, amely magában foglalja az érzelmi és szociális intelligenciát, az etikai érvelést és az új helyzetekhez való emberi módon történő alkalmazkodás képességét.&lt;/p&gt;
+&lt;p&gt;Összefoglalva, bár a mesterséges intelligencia képes az emberi viselkedés egyes aspektusait utánozni és összetett feladatokat végrehajtani, hiányzik belőle a tudatosság és az emberi kognitív és érzelmi képességek teljes skálája”.&lt;/p&gt;
+&lt;h2 id=&#34;a-kísérlet-folytatódik---kérdés-a-mesterséges-intelligencia-felé-túlszárnyalja-e-a-mesterséges-intelligencia-az-embert-milyen-módokon&#34;&gt;A kísérlet folytatódik - kérdés a mesterséges intelligencia felé: Túlszárnyalja-e a mesterséges intelligencia az embert? Milyen módokon?&lt;/h2&gt;
+&lt;p&gt;Az MI válasza ezúttal sem volt meglepő:&lt;/p&gt;
+&lt;p&gt;Az MI különböző feladatokban és területeken felülmúlhatja az embert, különösen azokon a területeken, amelyek nagy mennyiségű adat feldolgozását vagy ismétlődő feladatok elvégzését igénylik. Íme néhány olyan mód, amelyben a mesterséges intelligencia jobb teljesítményt mutat az emberekhez képest:&lt;/p&gt;
+&lt;p&gt;Adatfeldolgozás és -elemzés: Az MI-algoritmusok képesek hatalmas adathalmazok gyors és pontos elemzésére, olyan minták és trendek azonosítására, amelyek felismerése az ember számára időigényes vagy lehetetlen lenne.
+Gyorsaság és hatékonyság: Az MI-rendszerek olyan sebességgel képesek számításokat és feladatokat elvégezni, amelyek messze meghaladják az emberi képességeket. Ez különösen előnyös az olyan területeken, mint a pénzügy, ahol a gyors döntéshozatal elengedhetetlen.
+Előrejelző analitika: Az MI képes előrejelzéseket készíteni a múltbeli adatok alapján. Az olyan ágazatokban, mint a marketing, az egészségügy és a pénzügy, a prediktív modellek olyan meglátásokat generálhatnak, amelyek segítenek a szervezeteknek megalapozott döntéseket hozni.
+Ismétlődő feladatok automatizálása: Az MI automatizálhatja az olyan rutinfeladatokat, mint az adatbevitel, az ütemezés és a készletgazdálkodás, felszabadítva ezzel az emberi dolgozókat, hogy az összetettebb és kreatívabb feladatokra koncentrálhassanak.
+Pontosság és precizitás: Az olyan területeken, mint az orvosi képalkotás és a gyártás, az MI nagyobb pontosságot és következetességet képes elérni, mint az ember, csökkentve a hibák valószínűségét.
+Természetes nyelvi feldolgozás (NLP): A mesterséges intelligenciával működő nyelvi modellek képesek megérteni és generálni az emberi nyelvet, így bizonyos esetekben hatékonyabban segíthetnek az írásban, a fordításban és az ügyfélszolgálatban, mint az emberek.
+Kép- és hangfelismerés: A mesterséges intelligenciával működő rendszerek a képosztályozási és hangfelismerési feladatokban felülmúlják az embereket, így a biztonságtól a hozzáférhetőségig terjedő alkalmazásokban értékesnek bizonyulnak.
+Játék: Az olyan stratégiai játékokban, mint a sakk, a Go és a videojátékok, a mesterséges intelligencia fejlett algoritmusok és mély tanulási technikák segítségével képes felülmúlni a legjobb emberi játékosokat.
+Személyre szabás: A mesterséges intelligencia képes elemezni a felhasználói viselkedést és preferenciákat, hogy személyre szabott ajánlásokat nyújtson olyan területeken, mint az e-kereskedelem, a streaming szolgáltatások és a reklám, ami gyakran nagyobb ügyfél-elégedettséghez és elkötelezettséghez vezet.&lt;/p&gt;
+&lt;p&gt;Ismét összefoglalva: bár az MI kiválóan teljesít ezeken a területeken, fontos megjegyezni, hogy az ember még mindig rendelkezik olyan egyedi tulajdonságokkal, mint az érzelmi intelligencia, a kreativitás és az összetett döntéshozatali képességek, amelyeket az MI nem tud megismételni. A leghatékonyabb alkalmazások gyakran az MI-rendszerek és az emberi szakértelem együttműködésével valósulnak meg.&lt;/p&gt;
+&lt;h2 id=&#34;záró-gondolatok&#34;&gt;Záró gondolatok:&lt;/h2&gt;
+&lt;p&gt;Ne érts félre, nagyra értékelem a mesterséges intelligencia segítségét számos olyan alkalmazási területen, ahol hasznos eszköz, mint az orvostudomány és számos más alkalmazási terület, mivel „kiegészíti” néhány hiányzó képességünket. Még ennek a cikknek a megírásához és az ellenőrzéséhez is segítségül hívtam. De bármennyire is csodálatos, mint néhány zseniális emberi lény alkotása, nem szívesen hasonlítom magam hozzá, és nem próbálok versenyezni vele, vagy olyasmivé alakulni, ami nem vagyok, és talán soha nem is leszek.&lt;/p&gt;
+&lt;p&gt;Az én piciny mondandóm mindehhez a következő: A mesterséges intelligencia csodálatos segítő eszköz, amelyet lehet bölcsen használni nagyon jól, és nagyon rosszul, akár káros célokra is. Emberként a tökéletességre törekszem, de az igazság az, hogy sokunknak, beleértve magamat is, fogalmunk sincs arról, hogy a tökéletesség fogalma egyáltalán mit jelent vagy mit kellene jelentenie. Attól függ, hogy kit kérdezünk, tehát ez nem biztos, hogy olyan megbízható érték, mint amilyennek gondoljuk. Néha le kell lassítanunk és feldolgozni a körülöttünk lévő valóságot egyszerűen úgy, ahogy van. A saját, születésünk után kapott képességeinkkel. Ez az a pont, ahol a mesterséges intelligencia nem biztos, hogy képes segíteni, vagy a helyes irányba terelni minket.&lt;/p&gt;
+&lt;p&gt;Kíváncsi vagyok, hogy valaha is megértjük-e a lényeget, ahogy a mozifilm befejező sorai olyan szépen rámutattak:&lt;/p&gt;
+&lt;h2 id=&#34;-the-switch---sejtcserés-támadás-2010-es-mozifilm-befejező-sorok&#34;&gt;@ The Switch - Sejtcserés támadás (2010-es Mozifilm) befejező sorok:&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nézz ránk! Rohangálunk, mindig sietünk, mindig elkésünk. Gondolom, ezért hívják emberi „versenynek/fajnak”. De néha csupán annyira lassul le, hogy minden darab a helyére kerüljön. A sors megteszi a maga varázslatát. És te összekapcsolódtál. Időnként a sok véletlenszerűség mellett, történik valami váratlan, ami mindannyiunkat előbbre visz. És az igazság az&amp;hellip; amit kezdek gondolni&amp;hellip;, amit kezdek érezni&amp;hellip;, hogy TALÁN az emberi &amp;ldquo;verseny/faj&amp;rdquo; egyáltalán nem is „verseny”&amp;hellip;&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;elgondolkodtató-egyéb-anyagok-a-témában-angolul-értőknek-de-adott-esetben-magyar-felírattal-is&#34;&gt;Elgondolkodtató egyéb anyagok a témában (angolul értőknek, de adott esetben magyar felírattal is):&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;W4tqbEmplug&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/W4tqbEmplug/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Ez nagyon friss, és mondhatni eldobtam az agyamat tőle. Ez az, ami a legjobban illeszkedik az én nézeteimhez - Simon Sinek tényleg nagyon eltalálta.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Simon Sinek világhírű vállalkozó, optimizmus-szakértő és a The Optimism Company alapítója, egy olyan platform, amely emberi készségeket tanít vezetőknek és szervezeteknek. Emellett olyan bestsellerek szerzője, mint a „Start With Why (Kezdd a miértekkel)” és a „Leaders Eat Last (A vezetők esznek utoljára)”.&lt;/p&gt;
+&lt;p&gt;Kifejti:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Miért öli meg a modern politika a céltudatosságot.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Miért felejtettük el, hogyan kell jó barátnak lenni?&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hogyan fog a mesterséges intelligencia gyámoltalan emberek generációit szülni.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Az első számú titkos képesség, amit az MI nem tud megtanulni.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Hogyan tűnnek el az olyan emberi képességek, mint az empátia.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Nagyon tetszett az a rész, amelyet az MI segítségével összefoglaltam neked:&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Az átirat átfogó beszélgetést mutat be a fiatalok és a társadalom mesterséges intelligencia jövőjére való felkészítéséről, hangsúlyozva az emberi készségeket, a személyes fejlődést, a hálát, a kapcsolatokat, az ambíciót és a tapasztalatok fontosságát. Simon Sinek betekintést nyújt abba, hogyan navigáljunk a technológiai fejlődés által vezérelt, gyorsan változó világban, és melyek azok az alapvető tulajdonságok, amelyek egyedülállóan emberi tulajdonságok maradnak.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Főbb témák és meglátások:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Emberi képességek és szociális intelligencia:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simon hangsúlyozza annak fontosságát, hogy olyan emberi készségeket tanítsunk a gyerekeknek, mint a barátság, a konfliktusmegoldás, a felelősségvállalás és a dicséretadás.&lt;/li&gt;
+&lt;li&gt;Ezeket a készségeket a legjobban a valós életben zajló interakciókban lehet megtanulni, például olyan játszótereken, ahol a telefonokat el kell venni, hogy ösztönözzük a szemtől-szembe kapcsolattartást.&lt;/li&gt;
+&lt;li&gt;A konfliktusmegoldás és az felelősségvállalás fejlesztése elősegíti a jobb társadalom felépítését, és felkészíti az egyéneket egy olyan jövőre, ahol a mesterséges intelligencia számos feladatot ellát.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Valódi készségek tanulása és fejlesztése:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A szociális készségeken túl Simon támogatja a kihívást jelentő, kreatív tevékenységekbe való bekapcsolódást, mint például a tervezés, az építés, az írás vagy a képzelet - olyan tevékenységek, amelyek elősegítik az önbizalmat és a rugalmasságot.&lt;/li&gt;
+&lt;li&gt;Még ha a mesterséges intelligencia eszközei segítenek is, a saját magunk által végzett tevékenység és alkotás létfontosságú a növekedéshez és az önbizalomhoz.&lt;/li&gt;
+&lt;li&gt;A tapasztalat bölcsességre tanít, csökkenti a félelmet és növeli az önbizalmat - olyan tulajdonságok, amelyeket a mesterséges intelligencia nem helyettesíthet.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A mesterséges intelligencia szerepe és az idejétmúltságtól való félelem:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Félő, hogy ha a mesterséges intelligencia mindent megtesz helyettünk, az emberek félősebbé és kevésbé magabiztossá válhatnak.&lt;/li&gt;
+&lt;li&gt;Simon szerint a kihívások és a kudarcok elfogadása kulcsfontosságú, mivel a kudarc a növekedés és az innováció természetes része.&lt;/li&gt;
+&lt;li&gt;A kudarc az ambíció lényeges összetevője; azt jelzi, hogy az ember magasabbra törekszik, mint a jelenlegi képességei, és elősegíti a kreativitást.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Hála és perspektíva:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A hála gyakorlását a boldogság növelésének erőteljes módjaként emeli ki, különösen olyan kiszámíthatatlan vagy fenyegető körülmények között, mint a természeti katasztrófák.&lt;/li&gt;
+&lt;li&gt;Simon személyes tapasztalatokat oszt meg, például tűzesetekről és evakuálásokról, hangsúlyozva a szeretteink és az anyagi javak iránti megbecsülést, valamint a veszteség hálával való elfogadását.&lt;/li&gt;
+&lt;li&gt;A hála kiterjed a kapcsolatokra is - a barátok felhívása, hogy kifejezzük hálánkat, fontosságuk felismerése, valamint az anyagi dolgok és az élet mulandó természetének megértése.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ambíció, céltudatosság és elégedettség:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A mesterséges intelligencia és a technológia által teremtett bőség felveti az „elég” kérdését. Simon az anyagi sikeren túli, nagyobb víziók és törekvések kitűzésének fontosságáról elmélkedik.&lt;/li&gt;
+&lt;li&gt;Az igazi boldogság és cél az értelmes, ambiciózus célok követéséből fakad, amelyek kihívást jelentenek számunkra és kreativitásra ösztönöznek.&lt;/li&gt;
+&lt;li&gt;A pénzre úgy tekintünk, mint ami lehetőségeket és időt biztosít, de nem feltétlenül boldogságot; a valódi beteljesülés a szenvedélyből és a célból fakad.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Kapcsolatok és személyes prioritások:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Simon hangsúlyozza a szoros kapcsolatok ápolásának fontosságát, azt sugallva, hogy az emberek hajlandóak mindent feláldozni azért, hogy segítsenek szeretteiknek.&lt;/li&gt;
+&lt;li&gt;Elismeri e kapcsolatok gyakori elhanyagolását, és azt, hogy tudatosan kell prioritást adni nekik.&lt;/li&gt;
+&lt;li&gt;A kapcsolatok hitelessége magában foglalja a sebezhetőséget, a hibákból való tanulást és az erőfeszítések befektetését ahelyett, hogy gyors, tranzakciós megoldásokra törekednénk.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A tapasztalat és a bölcsesség értéke:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;A tapasztalat, különösen a kudarcokból származó tapasztalat felbecsülhetetlen tudást nyújt, amelyet a mesterséges intelligencia nem tud reprodukálni.&lt;/li&gt;
+&lt;li&gt;A tűzoltásból vett példa jól szemlélteti, hogy a felhalmozott bölcsesség - a tapasztalt egyének meghallgatása - hogyan jelentheti a különbséget élet és halál között.&lt;/li&gt;
+&lt;li&gt;Simon amellett érvel, hogy a nehéz, piszkos munkát - legyen szó akár építkezésről, alkotásról vagy konfliktusmegoldásról - saját magunknak kell elvégeznünk, hogy valódi megértésre és készségekre tegyünk szert.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A mesterséges intelligencia és az emberi tényező korlátai:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Az MI segíthet, de nem helyettesítheti a tökéletlenség, a hitelesség és az érzelmi mélység emberi tulajdonságait.&lt;/li&gt;
+&lt;li&gt;Simon kritizálja, hogy a személyes konfliktusok megoldása során túlzottan az MI-re hagyatkozunk, és azzal érvel, hogy a valódi emberi kapcsolat, beleértve a hibákat és a sebezhetőséget is, elengedhetetlen.&lt;/li&gt;
+&lt;li&gt;A kapcsolatok, a konfliktusok és az életben való eligazodás megtanulása egy olyan út, amelyet az MI nem tud teljes mértékben szimulálni.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;Következtetés:&lt;/strong&gt;
+Az átfogó üzenet az, hogy a mesterséges intelligencia hihetetlen képességei ellenére az emberi tapasztalat lényege - az empátia, a hitelesség, a kreativitás, a rugalmasság és a kapcsolat - pótolhatatlan marad. A következő generáció felkészítése magában foglalja ezeknek az emberi képességeknek a fejlesztését, a hála gyakorlását, a kudarcok felvállalását és az ambiciózus, értelmes célok követését. Az emberek keresik a hiteles tapasztalatokat és a tökéletlenségeket, mert ezek jelzik emberségünket, és egy olyan világban, amelyet egyre inkább a technológia vezérel, ezek a tulajdonságok még inkább létfontosságúvá válnak.&lt;/p&gt;
+&lt;p&gt;&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;JMYQmGfTltY&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/JMYQmGfTltY/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;2Zg--ouGl7c&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/2Zg--ouGl7c/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+
+&lt;div class=&#34;video-wrapper&#34; data-video-id=&#34;MJQIQJYxey4&#34;&gt;
+  &lt;img 
+    src=&#34;https://img.youtube.com/vi/MJQIQJYxey4/hqdefault.jpg&#34; 
+    alt=&#34;Video Thumbnail&#34; 
+    loading=&#34;lazy&#34; 
+    class=&#34;video-thumbnail&#34; 
+  /&gt;
+  &lt;button class=&#34;play-button&#34; aria-label=&#34;Play&#34;&gt;
+    
+    
+    
+    &lt;svg width=&#34;40&#34; height=&#34;40&#34; viewBox=&#34;0 0 24 24&#34; fill=&#34;white&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+      &lt;circle cx=&#34;12&#34; cy=&#34;12&#34; r=&#34;10&#34; fill=&#34;rgba(0,0,0,0.6)&#34; /&gt;
+      &lt;polygon points=&#34;10,8 16,12 10,16&#34; fill=&#34;white&#34;/&gt;
+    &lt;/svg&gt;
+  &lt;/button&gt;
+&lt;/div&gt;
+
+&lt;script&gt;
+  document.addEventListener(&#39;DOMContentLoaded&#39;, () =&gt; {
+    document.querySelectorAll(&#39;.video-wrapper&#39;).forEach(wrapper =&gt; {
+      wrapper.querySelector(&#39;.play-button&#39;).addEventListener(&#39;click&#39;, () =&gt; {
+        const videoId = wrapper.dataset.videoId;
+        const iframe = document.createElement(&#39;iframe&#39;);
+        iframe.src = `https://www.youtube.com/embed/${videoId}?autoplay=1`;
+        iframe.width = &#34;560&#34;;
+        iframe.height = &#34;315&#34;;
+        iframe.allowFullscreen = true;
+        iframe.setAttribute(&#39;loading&#39;, &#39;lazy&#39;);
+        wrapper.innerHTML = &#39;&#39;;
+        wrapper.appendChild(iframe);
+      });
+    });
+  });
+&lt;/script&gt;
+
+&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Jogi nyilatkozat:&lt;/strong&gt; A cikkben bemutatott információk és vélemények kizárólag a szerző sajátjai, és nem minősülnek szakmai tanácsadásnak vagy ajánlásnak. A tartalom kizárólag tájékoztató és oktatási célokat szolgál, és nem tekinthető végleges útmutatónak vagy ajánlásnak. A szerző nem vállal felelősséget a cikk tartalma alapján tett semminemű egyéni lépésekért. Az olvasókat arra biztatom, hogy végezzenek saját kutatást, és konzultáljanak képzett szakemberekkel, mielőtt bármilyen, a mesterséges intelligenciával, a foglalkoztatási gyakorlatokkal vagy a kapcsolódó témákkal kapcsolatos döntést hoznának.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
