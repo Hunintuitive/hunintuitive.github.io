@@ -73,7 +73,7 @@ A YouTube az információk kincsesbányája, ahol videók milliói találhatók 
      - Kattints a videó alatt található három pontra (További lehetőségek).
      - Válaszd az **Átirat megnyitása** lehetőséget a legördülő menüből.
    - **Mobilon**:
-     - Érints meg a videót a vezérlők megjelenítéséhez.
+     - Érintsd meg a videót a vezérlők megjelenítéséhez.
      - Kattints a jobb felső sarokban található három függőleges pontra.
      - Válaszd az **Átirat** lehetőséget (jegyezd meg, hogy ez a funkció nem minden videón elérhető mobilon).
 
@@ -122,7 +122,7 @@ Több MI fordító szolgáltatás is elérhető. A népszerű lehetőségek köz
 
 ## 4. lépés: További tippek
 
-1. **Feliratok engedélyezése**: Ha elérhető, kapcsolj be feliratokat az eredeti nyelven a videó nézése közben a megértés segítése érdekében. {{< youtube 7iWbCN4YM2o >}}
+1. **Feliratok engedélyezése**: Ha elérhető, kapcsolj be feliratokat az eredeti nyelven a videó nézése közben a megértés segítése érdekében. {{< youtube AwxGvFYq7AA >}}
 2. **Kapcsolódó tartalom felfedezése**: Sok csatorna kínál tartalmat több nyelven, vagy hasonló videókat a kapcsolódó témákról a preferált nyelveden.
 3. **Visszajelzés adása**: Ha pontatlanságokat tapasztalsz a fordításokban, fontold meg, hogy visszajelzést adsz az AI fordítási modellek javítása érdekében.
 
