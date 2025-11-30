@@ -325,4 +325,8 @@ awards:
 
 ## About Me
 
-Hunor Becsi is a dynamic and experienced professional with a wide range of skills in IT, customer service, quality assurance, sales, procurement, human resources and many other areas of expertise and skills. He thrives in emerging industries and is eager to take on new challenges. His innate curiosity drives his continuous quest for knowledge and professional development. He is committed to excellence, hard work, integrity, and reliability, which embody his core values. As a private person, he is also open and curious, seeking to approach the world around him in a loving and respectful way, committed to kindness, fairness and justice. It is particularly important for him to value the innocence and positive qualities of the inner child, which help to make the world a more colorful and joyful place. With a passion for learning and a proactive approach to problem solving, he is eager to apply his talents in innovative environments and contribute to organizational success wherever he serves.
+I am someone who values learning, growth, and meaningful connections with others. My professional journey has taken me through IT, customer service, quality assurance, sales, procurement, human resources, and other fields, each teaching me valuable lessons about people, collaboration, and problem-solving.
+
+I strive to approach life with curiosity, kindness, and integrity, seeking to bring compassion and fairness into everything I do. I try to stay connected to the positive qualities of my “inner child” - creativity, wonder, and joy - believing that small acts of care and respect can make the world a little brighter.
+
+Above all, my goal is to use what I learn to support others, contribute positively to my community, and continue becoming a better version of myself - one step at a time.

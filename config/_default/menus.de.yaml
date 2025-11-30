@@ -16,7 +16,7 @@
 #    weight: 30
 
 main:
-  - name: Wer ist Hunor Becsi?
+  - name: Lerne Hunor Becsi kennen
     url: /
     weight: 10
   - name: Ausgewählte Blog-Artikel

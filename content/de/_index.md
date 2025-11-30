@@ -9,6 +9,12 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: markdown
+    content:
+      title: 'Lernen, Wachsen und Verbindungen schaffen'
+      subtitle: ''
+      text: |-
+        ***Ein Raum, in dem ich meine Reise, Erfahrungen und Erkenntnisse teile - in der Hoffnung, andere auf ihrem eigenen Weg zu inspirieren und zu unterstützen.***
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -32,14 +38,18 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 Meine Mission'
+      title: '🎯 Meine Mission'
       subtitle: ''
       text: |-
-        **Im Mittelpunkt meines Weges steht der Wunsch, einen bedeutenden Einfluss auf das Leben anderer zu nehmen, und dass jeder von uns seine eigenen Stärken, Talente und Qualitäten findet, die wir mit anderen teilen können, um die Menschen um uns herum zu stärken und zu unterstützen. Ich glaube, dass das Erkennen und Nutzen dieser Stärken dazu beiträgt, eine verständnisvollere Gemeinschaft mit größerem Zusammenhalt zu schaffen. Inspiriert von den Worten von Rory Vaden - ***„Du bist in der besten Position, der Person zu dienen, die du einmal warst“*** - sehe ich unsere Schwächen und Erfahrungen nicht als Einschränkungen, sondern als Quellen der Widerstandsfähigkeit und des Wachstums. Indem wir unser wahres Selbst akzeptieren, können wir andere auf ihrem eigenen Weg besser verstehen und unterstützen.**
+        **Meine Mission ist einfach: zu lernen, zu wachsen und das weiterzugeben, was anderen vielleicht helfen kann. Ich glaube, dass jeder von uns Stärken, Erfahrungen und einzigartige Gaben in sich trägt, die andere Menschen bereichern können - und dass Gemeinschaften stärker und mitfühlender werden, wenn wir diese Dinge ehrlich und offen miteinander teilen.**
 
-        **Mein Ziel ist es, einen Raum zu schaffen, in dem sich jeder ermutigt fühlt, seine eigenen Gaben und Talente zu erkennen und zu teilen. Durch Offenheit, Freundlichkeit und gegenseitige Unterstützung können wir das Potenzial in uns selbst und in anderen freisetzen und so eine sinnvolle Reflexion, Verbindung und persönliches Wachstum ermöglichen. Wir gehen diesen Weg gemeinsam, und indem wir unsere Stärken anerkennen, tragen wir zu einer Gemeinschaft bei, in der jede Stimme zählt und in der gemeinsames Wachstum möglich ist. Durch ehrliche Gespräche, ein gemeinsames Ziel und Empathie können wir auf eine verständnisvollere, mitfühlendere Zukunft hinarbeiten.**
+        >Die Worte von Rory Vaden begleiten mich: „Du bist in der besten Position, der Person zu dienen, die du einmal warst“ Für mich sind unsere Verletzlichkeiten und Herausforderungen keine Schwächen, sondern Quellen für Verständnis, Widerstandskraft und persönliches Wachstum. Das, was wir erlebt haben, kann eine Brücke für diejenigen sein, die ähnliche Wege gehen, und ihnen zu einem besseren Verständnis und mehr Einsicht verhelfen.
 
-        >Damit verbunden ist mein persönlicher Blog, in dem ich Themen erforsche, die mit den Grundsätzen meiner Mission übereinstimmen, nämlich die besten Versionen von uns selbst zu werden. Ich glaube, dass durch Offenheit, Freundlichkeit und gegenseitige Unterstützung jeder sein eigenes Potenzial finden und zur Entwicklung unserer Gemeinschaft beitragen kann. In meinem Blog teile ich inspirierende, unterstützende Inhalte, die uns helfen, unser Potenzial zu entdecken und unsere Reise in Richtung Wachstum und positive Veränderung zu unterstützen. Schließe dich mir an, wenn wir gemeinsam unsere Stärken entdecken und uns gegenseitig dabei unterstützen, die beste Version von uns selbst zu werden und gemeinsam für positive Veränderungen zu wachsen - Schritt für Schritt.
+        **Ich möchte einen Raum schaffen, der dazu ermutigt, die eigenen Stärken zu erkennen, das eigene Potenzial zu entfalten und die persönlichen Talente mit anderen zu teilen. Durch Offenheit, Empathie und gegenseitige Unterstützung können echte Verbundenheit und bedeutungsvolles Wachstum entstehen. Wir gehen diesen Weg gemeinsam, lernen voneinander und bauen eine Gemeinschaft auf, in der jede Stimme zählt.**
+
+        >Mein persönlicher Blog ist ein Teil dieser Mission. Dort schreibe ich über Themen, die mit Entwicklung, Heilung, Selbsterkenntnis und der Reise zu unserem besten Selbst verbunden sind. Schritt für Schritt teile ich, was ich selbst lerne - in der Hoffnung, dass es jemandem Klarheit, Mut oder Trost schenken kann.
+
+        **Wenn dich dieser Weg der ehrlichen Reflexion und des gemeinsamen Wachstums anspricht, lade ich dich herzlich ein, ihn mit mir zu gehen. Gemeinsam entdecken wir unsere Stärken und unterstützen uns darin, zu der besten Version unserer selbst zu werden.**
 
     design:
       columns: '1'

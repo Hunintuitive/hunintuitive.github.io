@@ -64,7 +64,7 @@ work:
     summary: |
       A feladatok közé tartozik:
       - A vállalat helyi és nemzetközi gyártási utasításainak német nyelvű létrehozása, módosítása és frissítése, magyar nyelvű fordítása a magyarországi gyártáshoz, valamint együttműködés az érintett partnerosztályokkal a folyamatok hatékony implementálása érdekében.
-      - Ismereteket szereztem a gyártott termékek gyártási utasításainak  dokumentálásában, beleértve az SAP HANA rendszer, a SharePoint, a Word  és a Photoshop kiterjedtebb használatát. Feladataim közé tartozik a  termékek, szerszámok, eszközök és gyártási folyamatok fotózása, valamint  az anyagok darablistájával (BOM) való munka.
+      - Ismereteket szereztem a gyártott termékek gyártási utasításainak  dokumentálásában, beleértve az SAP HANA rendszer, a SharePoint, a Word  és a Photoshop kiterjedtebb használatát. Feladataim közé tartozik a  termékek, szerszámok, eszközök és gyártási folyamatok fotózása, valamint az anyagok darabjegyzékeivel (BOM) való munka.
       - Munkám során figyelembe  kell vennem a különböző gyártási technológiákat és szerszámokat, hogy a  dokumentáció pontosan tükrözze a gyártási folyamatokat.
 
   - position: German Speaking Customer Service Representative
@@ -332,5 +332,9 @@ awards:
 
 ## Rólam
 
-Becsi Hunor egy dinamikus és tapasztalt szakember, aki sokrétű készségekkel rendelkezik az IT, az ügyfélszolgálat, a minőségbiztosítás, az értékesítés, a beszerzés, a humánerőforrás és még sok más szakmát és készséget felölelő területeken. A feltörekvő iparágakban virágzik, és lelkesen fogadja az új kihívásokat. Veleszületett kíváncsisága hajtja folyamatos tudás- és szakmai fejlődési törekvéseit. Elkötelezett a kiválóság iránt, a kemény munka, a becsületesség és a megbízhatóság alapértékeinek megtestesítője. Emellett magánemberként nyitott és kíváncsi, szeretetteljes és tiszteletteljes módon igyekszik megközelíteni a körülötte lévő világot, elkötelezetten áll ki a kedvesség, a méltányosság és az igazságosság mellett. Különösen fontos számára a belső gyermek ártatlanságának és pozitív vonásainak megbecsülése, hiszen ezek a tulajdonságok segítik a világ színesebbé és örömtelibbé tételét. A tanulás iránti szenvedéllyel és a problémamegoldás proaktív megközelítésével szívesen alkalmazza tehetségét innovatív környezetben, és bárhol is szolgáljon, szívesen járul hozzá a szervezeti sikerhez.
+Értékelem a tanulást, a fejlődést és a valódi kapcsolatokat másokkal. Szakmai utam során dolgoztam az informatikában, ügyfélszolgálaton, minőségbiztosításban, értékesítésben, beszerzésben, humánerőforrásban és más területeken, melyek mind értékes tapasztalatokat adtak az emberekről, az együttműködésről és a problémamegoldásról.
+
+Igyekszem kíváncsian, kedvességgel és integritással közelíteni az élethez, és mindenbe, amit teszek, együttérzést és méltányosságot vinni. Kapcsolódni próbálok a “belső gyermek” pozitív tulajdonságaihoz - a kreativitáshoz, a rácsodálkozáshoz és az örömhöz - mert hiszem, hogy a figyelmes és tiszteletteljes apró tettek több fényt hozhatnak a világba.
+
+Mindezek felett a célom, hogy azt, amit tanulok, mások támogatására, a közösség pozitív alakítására és saját fejlődésemre használjam - egyik lépésről a másikra.
 

@@ -9,6 +9,12 @@ design:
   spacing: "6rem"
 
 sections:
+  - block: markdown
+    content:
+      title: 'Tanulás, fejlődés és kapcsolódás másokkal'
+      subtitle: ''
+      text: |-
+        ***Egy hely, ahol megoszthatom az utamat, tapasztalataimat és az útközben szerzett tanulságokat - abban a reményben, hogy másokat is inspirálhatnak és támogathatnak a saját útjukon.***
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -32,14 +38,18 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 Küldetésem'
+      title: '🎯 Küldetésem'
       subtitle: ''
       text: |-
-        **Az utazásom középpontjában az az őszinte vágy áll, hogy jelentőségteljes hatást gyakoroljak mások életére, és hogy mindenki megtalálja saját erősségeit, tehetségeit, valamint tulajdonságait, melyeket megosztva felemelhetjük és támogathatjuk a körülöttünk élőket. Hiszek abban, hogy ezeknek az erősségek felismerése és kihasználása segít egy megértőbb, összetartóbb közösség felépítésében. Rory Vaden szavai által inspirálva - ***„Te vagy a legjobb helyzetben ahhoz, hogy azt a személyt szolgáld, aki valaha voltál”*** - a sebezhetőségünket és tapasztalatainkat nem korlátoknak, hanem az ellenálló képesség és a növekedés forrásainak tekintem. Ha elfogadjuk valódi önmagunkat, jobban megérthetünk és támogathatunk másokat saját útjukon.**
+        **Küldetésem egyszerű: tanulni, növekedni, és továbbadni mindazt a bölcsességet, ami mások számára is segítséget jelenthet. Hiszem, hogy mindannyiunkban vannak olyan erősségek, tapasztalatok és ajándékok, amelyek képesek felemelni másokat - és amikor ezeket őszintén, kedvesen és nyitottan osztjuk meg, közösségeink erősebbé és együttérzőbbé válnak.**
 
-        **Célom, hogy olyan teret biztosítsak, ahol mindenki bátorítva érzi magát, hogy felismerje és megossza saját adottságait, ajándékait. A nyitottság, a kedvesség és a kölcsönös támogatás révén felszabadíthatjuk a bennünk és másokban rejlő lehetőségeket is, ezzel elősegítve az értelmes elmélyülést, a kapcsolódást és a személyes fejlődést. Együtt járunk ezen az úton, és az erősségeink felismerésével hozzájárulunk egy olyan közösséghez, ahol minden hang számít, és ahol a közös növekedés megvalósítható. Őszinte beszélgetésekkel, közös célokkal és empátiával dolgozhatunk egy megértőbb, együttérzőbb jövőért.**
+        >Rory Vaden szavai nagyon inspirálóak: „Te vagy a legjobb helyzetben ahhoz, hogy azt a személyt szolgáld, aki valaha voltál” Úgy látom, hogy a nehézségeink és sebezhetőségünk nem gyengeség, hanem olyan tapasztalat, melyből kitartás, megértés és bölcsesség születik. Amit átélünk, az hidat teremthet mások számára, akik hasonló úton járnak, segítve őket a megértésben és az előrehaladásban.
 
-        >Ehhez kapcsolódik személyes blogom is, ahol olyan témákat dolgozok fel, melyek összhangban állnak küldetésem alapelveivel, különösen azzal, hogy önmagunk legjobb változataivá váljunk. Hiszem, hogy a nyitottság, a kedvesség és a kölcsönös támogatás révén mindenki megtalálhatja saját lehetőségeit, és hozzájárulhat közösségünk fejlődéséhez. Blogomban inspiráló, támogató tartalmakat osztok meg, melyek segítenek felfedezni a bennünk rejlő potenciált, támogatva ezzel utunkat a növekedés és a pozitív változás felé. Tarts velem, miközben közösen fedezzük fel erősségeinket, támogatva egymást, hogy önmagunk legjobb változataivá váljunk, és együtt növekedjünk a pozitív változásért - lépésről lépésre.
+        **Szeretnék olyan teret létrehozni, ahol mindenki bátorítást kap arra, hogy felismerje saját erősségeit, felfedezze a benne rejlő lehetőségeket, és megossza saját tehetségét. Nyitottságon, empátián és kölcsönös támogatáson keresztül valódi kapcsolat és értelmes személyes fejlődés születhet. Ezen az úton együtt haladunk, tanulva egymástól, és olyan közösséget építve, ahol minden hang számít.**
+
+        >A személyes blogom is ennek a küldetésnek a része. Ebben olyan témákról elmélkedem, melyek a növekedéshez, gyógyuláshoz, önismerethez és önmagunk legjobb változatának megéléséhez kapcsolódnak. Lépésről lépésre osztom meg, amit tanulok - bízva abban, hogy valakinek reményt, megértést vagy bátorítást nyújthat.
+
+        **Ha téged is vonz ez az őszinte, közös fejlődésre épülő út, szeretettel hívlak, tarts velem. Fedezzük fel együtt a bennünk rejlő erőt, és támogassuk egymást abban, hogy önmagunk legjobb változataivá válhassunk.**
 
     design:
       columns: '1'

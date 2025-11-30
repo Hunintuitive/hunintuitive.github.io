@@ -16,7 +16,7 @@
 #    weight: 30
 
 main:
-  - name: Ki az a Becsi Hunor?
+  - name: Ismerd meg Becsi Hunort
     url: /
     weight: 10
   - name: Kiemelt Blog Cikkek
