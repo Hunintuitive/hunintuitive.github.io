@@ -41,13 +41,17 @@ sections:
       title: '🎯 Meine Mission'
       subtitle: ''
       text: |-
+        >Ich lerne offen, wachse bewusst und verstärke das, was wirklich hilft.
+
         **Meine Mission ist einfach: zu lernen, zu wachsen und das weiterzugeben, was anderen vielleicht helfen kann. Ich glaube, dass jeder von uns Stärken, Erfahrungen und einzigartige Gaben in sich trägt, die andere Menschen bereichern können - und dass Gemeinschaften stärker und mitfühlender werden, wenn wir diese Dinge ehrlich und offen miteinander teilen.**
 
         >Die Worte von Rory Vaden begleiten mich: „Du bist in der besten Position, der Person zu dienen, die du einmal warst“ Für mich sind unsere Verletzlichkeiten und Herausforderungen keine Schwächen, sondern Quellen für Verständnis, Widerstandskraft und persönliches Wachstum. Das, was wir erlebt haben, kann eine Brücke für diejenigen sein, die ähnliche Wege gehen, und ihnen zu einem besseren Verständnis und mehr Einsicht verhelfen.
 
+        **Ich versuche nicht, das Rad neu zu erfinden. Stattdessen beobachte, höre zu und denke nach. Wenn ich auf Ideen, Perspektiven oder Stimmen stoße, die mir wirklich helfen, mich weiterzuentwickeln, fühle ich mich dazu berufen, sie zu verbreiten - damit ihr Wert über mich hinausgeht und auch anderen zugute kommt.**
+
         **Ich möchte einen Raum schaffen, der dazu ermutigt, die eigenen Stärken zu erkennen, das eigene Potenzial zu entfalten und die persönlichen Talente mit anderen zu teilen. Durch Offenheit, Empathie und gegenseitige Unterstützung können echte Verbundenheit und bedeutungsvolles Wachstum entstehen. Wir gehen diesen Weg gemeinsam, lernen voneinander und bauen eine Gemeinschaft auf, in der jede Stimme zählt.**
 
-        >Mein persönlicher Blog ist ein Teil dieser Mission. Dort schreibe ich über Themen, die mit Entwicklung, Heilung, Selbsterkenntnis und der Reise zu unserem besten Selbst verbunden sind. Schritt für Schritt teile ich, was ich selbst lerne - in der Hoffnung, dass es jemandem Klarheit, Mut oder Trost schenken kann.
+        >Mein persönlicher Blog ist ein Teil dieser Mission. Dort reflektiere ich über Wachstum, Heilung, Selbstbewusstsein und darüber, wie wir die beste Version unserer selbst werden können. Ich teile Schritt für Schritt, was ich lerne, in der Hoffnung, dass es jemandem, der es braucht, Klarheit, Ermutigung oder Trost bringt.
 
         **Wenn dich dieser Weg der ehrlichen Reflexion und des gemeinsamen Wachstums anspricht, lade ich dich herzlich ein, ihn mit mir zu gehen. Gemeinsam entdecken wir unsere Stärken und unterstützen uns darin, zu der besten Version unserer selbst zu werden.**
 

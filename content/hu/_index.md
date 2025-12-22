@@ -41,15 +41,19 @@ sections:
       title: '🎯 Küldetésem'
       subtitle: ''
       text: |-
+        >Nyíltan tanulok, tudatosan fejlődök, és felerősítem azt, ami valóban segít.
+
         **Küldetésem egyszerű: tanulni, növekedni, és továbbadni mindazt a bölcsességet, ami mások számára is segítséget jelenthet. Hiszem, hogy mindannyiunkban vannak olyan erősségek, tapasztalatok és ajándékok, amelyek képesek felemelni másokat - és amikor ezeket őszintén, kedvesen és nyitottan osztjuk meg, közösségeink erősebbé és együttérzőbbé válnak.**
 
         >Rory Vaden szavai nagyon inspirálóak: „Te vagy a legjobb helyzetben ahhoz, hogy azt a személyt szolgáld, aki valaha voltál” Úgy látom, hogy a nehézségeink és sebezhetőségünk nem gyengeség, hanem olyan tapasztalat, melyből kitartás, megértés és bölcsesség születik. Amit átélünk, az hidat teremthet mások számára, akik hasonló úton járnak, segítve őket a megértésben és az előrehaladásban.
 
+        **Nem akarom újra feltalálni a kereket. Inkább megfigyelek, hallgatok és gondolkodom. Ha olyan ötletekkel, nézőpontokkal vagy véleményekkel találkozom, amelyek valóban segítenek a fejlődésben, akkor úgy érzem, hogy ezeket tovább kell adnom, hogy azok értéke túlmutasson rajtam, és másokat is támogasson.**
+
         **Szeretnék olyan teret létrehozni, ahol mindenki bátorítást kap arra, hogy felismerje saját erősségeit, felfedezze a benne rejlő lehetőségeket, és megossza saját tehetségét. Nyitottságon, empátián és kölcsönös támogatáson keresztül valódi kapcsolat és értelmes személyes fejlődés születhet. Ezen az úton együtt haladunk, tanulva egymástól, és olyan közösséget építve, ahol minden hang számít.**
 
-        >A személyes blogom is ennek a küldetésnek a része. Ebben olyan témákról elmélkedem, melyek a növekedéshez, gyógyuláshoz, önismerethez és önmagunk legjobb változatának megéléséhez kapcsolódnak. Lépésről lépésre osztom meg, amit tanulok - bízva abban, hogy valakinek reményt, megértést vagy bátorítást nyújthat.
+        >A személyes blogom is ennek a küldetésnek a része. Ebben a növekedésről, a gyógyulásról, az önismeretről és arról elmélkedem, hogyan válhatunk önmagunk legjobb változatává. Lépésről lépésre osztom meg, amit tanulok abban a reményben, hogy ez tisztánlátást, bárorítást vagy vígaszt nyújt azoknak, akiknek szükségük van rá.
 
-        **Ha téged is vonz ez az őszinte, közös fejlődésre épülő út, szeretettel hívlak, tarts velem. Fedezzük fel együtt a bennünk rejlő erőt, és támogassuk egymást abban, hogy önmagunk legjobb változataivá válhassunk.**
+        **Ha téged is vonz ez az őszinte, közös fejlődésre épülő út, szeretettel hívlak meg, hogy tarts velem. Fedezzük fel együtt a bennünk rejlő erőt, és támogassuk egymást abban, hogy önmagunk legjobb változataivá válhassunk.**
 
     design:
       columns: '1'
