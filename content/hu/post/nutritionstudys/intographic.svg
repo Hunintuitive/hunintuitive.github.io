@@ -1,0 +1,31 @@
+<svg width="100%" height="700" viewBox="0 0 700 700" xmlns="http://www.w3.org/2000/svg">
+
+  <rect x="0" y="0" width="700" height="700" fill="#f9fff9" rx="15" stroke="#4CAF50" stroke-width="3"/>
+  <text x="350" y="40" font-size="26" font-weight="bold" text-anchor="middle" fill="#2E7D32">Kritikus ítélőképesség – gyors ellenőrzőlista</text>
+
+  <rect x="50" y="70" width="600" height="70" fill="#e8f5e9" rx="10"/>
+  <text x="80" y="110" font-size="16" fill="#2E7D32">🔍 1. Tanulmány típusa (RCT vs megfigyeléses) ✅ Biztonságos lépés</text>
+
+  <rect x="50" y="150" width="600" height="70" fill="#fff3e0" rx="10"/>
+  <text x="80" y="190" font-size="16" fill="#FF6F00">⚠️ 2. Figyelj a zavaró tényezőkre</text>
+
+  <rect x="50" y="230" width="600" height="70" fill="#e8f5e9" rx="10"/>
+  <text x="80" y="270" font-size="16" fill="#2E7D32">📋 3. Vizsgáld meg a korlátokat ✅ Biztonságos lépés</text>
+
+  <rect x="50" y="310" width="600" height="70" fill="#e8f5e9" rx="10"/>
+  <text x="80" y="350" font-size="16" fill="#2E7D32">📚 4. Hasonlítsd össze más bizonyítékokkal ✅ Biztonságos lépés</text>
+
+  <rect x="50" y="390" width="600" height="70" fill="#fff3e0" rx="10"/>
+  <text x="80" y="430" font-size="16" fill="#FF6F00">⚠️ 5. Légy szkeptikus a címekkel szemben</text>
+
+  <rect x="50" y="470" width="600" height="70" fill="#e8f5e9" rx="10"/>
+  <text x="80" y="510" font-size="16" fill="#2E7D32">🧠 6. Kérdezz rá az ok-okozatra ✅ Biztonságos lépés</text>
+
+  <rect x="50" y="550" width="600" height="100" fill="#e3f2fd" rx="10"/>
+  <text x="80" y="590" font-size="16" fill="#1565C0">💡 7. Használj segédeszközöket okosan: ChatGPT segíthet a tanulmányok elemzésében</text>
+
+  <path d="M350 670 L320 640 L300 660" stroke="#4CAF50" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="350" y="690" font-size="14" text-anchor="middle" fill="#2E7D32">Használd ezt az ellenőrző listát a hírek biztonságos olvasásához!</text>
+
+</svg>
+
