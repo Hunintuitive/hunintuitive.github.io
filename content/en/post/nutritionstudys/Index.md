@@ -73,7 +73,7 @@ This article aims to help you interpret such statements calmly and sensibly, usi
 This article is **not intended to discredit Dívány or any other media outlet**. The article cited as an example illustrates a broader phenomenon: how scientific findings can become simplified or misrepresented in the media.  
 
 Newspaper articles are written by people with different backgrounds and intentions, and Dívány also publishes many balanced, informative articles.  
-The goal is **not to blame**, but to show how you, as a reader, can become better prepared so that the information you rely on will truly be useful to you.
+The goal is **not to blame**, but to show how you, as a reader, can become better prepared so that the information you rely on will truly be useful **to you**.
 
 ---
 

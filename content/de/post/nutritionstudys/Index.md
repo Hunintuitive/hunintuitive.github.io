@@ -73,7 +73,7 @@ Dieser Artikel soll dir helfen, solche Aussagen ruhig und vernünftig zu interpr
 Dieser Artikel **soll weder Dívány noch andere Medien diskreditieren**. Der als Beispiel angeführte Artikel veranschaulicht ein allgemeineres Phänomen: wie wissenschaftliche Erkenntnisse in den Medien vereinfacht oder falsch dargestellt werden können.  
 
 Zeitungsartikel werden von Menschen mit unterschiedlichen Hintergründen und Absichten geschrieben, und auch Dívány veröffentlicht viele ausgewogene, informative Artikel.  
-Das Ziel ist es **nicht, Schuld zuzuweisen**, sondern zu zeigen, wie du als Leser besser vorbereitet sein kannst, damit die Informationen, auf die du dich verlässt, für dich auch wirklich nützlich sind.
+Das Ziel ist es **nicht, Schuld zuzuweisen**, sondern zu zeigen, wie du als Leser besser vorbereitet sein kannst, damit die Informationen, auf die du dich verlässt, **für dich** auch wirklich nützlich sind.
 
 ---
 

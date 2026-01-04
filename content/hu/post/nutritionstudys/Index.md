@@ -73,7 +73,7 @@ Ez a cikk abban szeretne segíteni, hogy **kritikus ítélőképességgel**, nyu
 Ez az írás **nem a Dívány vagy bármely más médium diszkreditálására irányul**. A példaként említett cikk egy szélesebb jelenséget illusztrál: azt, hogy a tudományos eredmények hogyan válhatnak leegyszerűsítetté vagy félreérthetővé a médiában.  
 
 Újságcikkeket emberek írnak, különböző háttérrel és szándékkal, és a Díványon is számos kiegyensúlyozott, informatív cikk jelenik meg.  
-A cél **nem a hibáztatás**, hanem annak megmutatása, hogyan tudsz olvasóként felkészültebbé válni, hogy az információk, amikre támaszkodsz, valóban hasznosak lesznek neked.
+A cél **nem a hibáztatás**, hanem annak megmutatása, hogyan tudsz olvasóként felkészültebbé válni, hogy az információk, amikre támaszkodsz, valóban hasznosak legyenek **neked**.
 
 ---
 
