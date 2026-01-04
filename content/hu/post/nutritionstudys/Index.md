@@ -140,7 +140,7 @@ Példa: <8 órás étkezés összefüggést mutatott a szív- és érrendszeri h
 - Nézz a cím mögé is, vagy azon túl.  
 - Azonosítsd a zavaró tényezőket és a tanulmány korlátait.  
 - Hasonlítsd össze az eredményeket más tanulmányok eredményével.  
-- Tedd fel a kérdést, hogy bizonyított-e az okozati kapcsolat.  
+- Tedd fel a kérdést, hogy bizonyított-e az ok-okozati kapcsolat.  
 - Ellenőrizd az **eredeti** forrást.  
 
 💡 **Pro Tipp:** ChatGPT-t is használhatod a tanulmányok elemzésére. Másold be a tanulmány részleteit és kérdezd ezt:  
