@@ -14,7 +14,9 @@ sections:
       title: 'Learning, Growing, and Connecting with Others'
       subtitle: ''
       text: |-
-        ***A space to share my journey, experiences, and the lessons I’ve gathered along the way - in the hope that they may inspire and support others on their own paths.***
+        > A space to share my journey, experiences, and the lessons I’ve gathered along the way - in the hope that they may inspire and support others on their own paths.
+
+        > This site is a space for practice and reflection. Many of the ideas shared here are considered true for the moment, yet I accept that nothing -- and no one -- is infallible. My own imperfections, gaps in understanding, and evolving perspective are part of what is presented. These pages are not meant as final conclusions, but as part of an ongoing process of learning, exploring, and refining thought.
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)

@@ -14,7 +14,9 @@ sections:
       title: 'Lernen, Wachsen und Verbindungen schaffen'
       subtitle: ''
       text: |-
-        ***Ein Raum, in dem ich meine Reise, Erfahrungen und Erkenntnisse teile - in der Hoffnung, andere auf ihrem eigenen Weg zu inspirieren und zu unterstützen.***
+        > Ein Raum, in dem ich meine Reise, Erfahrungen und Erkenntnisse teile - in der Hoffnung, andere auf ihrem eigenen Weg zu inspirieren und zu unterstützen.
+
+        > Diese Website ist ein Ort zum Üben und Nachdenken. Viele der hier geteilten Ideen gelten derzeit als wahr, doch ich bin mir bewusst, dass nichts -- und niemand -- unfehlbar ist. Meine eigenen Unvollkommenheiten, Wissenslücken und sich weiterentwickelnden Perspektiven sind Teil dessen, was hier präsentiert wird. Diese Seiten sind nicht als endgültige Schlussfolgerungen gedacht, sondern als Teil eines fortlaufenden Prozesses des Lernens, Erforschens und Verfeinerns von Gedanken.
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)

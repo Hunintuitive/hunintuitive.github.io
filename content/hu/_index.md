@@ -14,7 +14,9 @@ sections:
       title: 'Tanulás, fejlődés és kapcsolódás másokkal'
       subtitle: ''
       text: |-
-        ***Egy hely, ahol megoszthatom az utamat, tapasztalataimat és az útközben szerzett tanulságokat - abban a reményben, hogy másokat is inspirálhatnak és támogathatnak a saját útjukon.***
+        > Egy hely, ahol megoszthatom az utamat, tapasztalataimat és az útközben szerzett tanulságokat - abban a reményben, hogy másokat is inspirálhatnak és támogathatnak a saját útjukon.
+
+        > Ez az oldal a gyakorlás és a reflexió helyszíne. Az itt megosztott gondolatok többsége jelenleg igaznak tekinthető, azonban elfogadom, hogy semmi -- és senki -- nem tévedhetetlen. Saját tökéletlenségeim, ismereteim hiányosságai és fejlődő szemléletmódom is része annak, amit itt bemutatok. Ezek az oldalak nem végleges következtetéseket tartalmaznak, hanem egy folyamatos tanulási, kutatási és gondolkodási folyamat részét képezik.
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
