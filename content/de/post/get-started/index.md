@@ -93,26 +93,59 @@ Trance-Musik ist für mich mehr als nur ein Genre; sie ist eine Reise in die Tie
 
 ### Harmonisierende Herzen: EduTrys Fusion von Trance und klassischer Musik
 
-Stelle dir eine nahtlose Verschmelzung des bezaubernden Pulses von Trance mit der zeitlosen Eleganz klassischer Melodien vor - ein musikalischer Wandteppich, der die Herzen berührt und die Stimmung hebt. EduTry, der talentierte Künstler aus Madrid, verwebt meisterhaft gefühlvolle Melodien mit elektronischen Elementen und schafft so eine Klanglandschaft, die den Zuhörer auf eine emotionale Reise einlädt. Seine Mischung aus Trance und klassischer Musik erweckt ein Gefühl der Verwunderung, wenn sich schwebende Akkorde mit pulsierenden Beats vermischen und so eine reichhaltige, eindringliche Klangwelt schaffen. Jeder Track fühlt sich wie eine herzliche Botschaft an, ein Moment der Verbindung, der tief in der Seele mitschwingt.
+Stell dir eine nahtlose Verschmelzung des bezaubernden Pulses von Trance mit der zeitlosen Eleganz klassischer Melodien vor - ein musikalisches Gewebe, das Herzen bewegt und die Stimmung sanft hebt. EduTry, der talentierte Künstler aus Madrid, verwebt gefühlvolle Melodielinien mit elektronischen Texturen und schafft so eine Klanglandschaft, die den Zuhörer auf eine tief emotionale Reise einlädt. Seine Mischung aus Trance-Elementen und klassisch inspirierten Harmonien ruft ein stilles Gefühl des Staunens hervor, in dem sich hochfliegende Melodien mit pulsierenden Rhythmen verflechten und eine immersive und resonante Klangwelt schaffen. Jeder Track fühlt sich wie eine persönliche Botschaft an - ein Moment der Verbindung, der in der Seele nachhallen soll.
 
-Inspiriert von der legendären Band Hybrid aus den 80er Jahren, deren innovative Herangehensweise an die Vermischung von Genres neue Dimensionen in der elektronischen Musik eröffnete, spiegelt die Arbeit von EduTry denselben Geist des Experimentierens und der emotionalen Tiefe wider. Wie die üppigen, vielschichtigen Klanglandschaften von Hybrid transportiert mich seine Musik jedes Mal aufs Neue - und lässt mich in ihrer lebendigen Welt aus Beats und Emotionen versinken. Es ist ein Ort, an dem die Zeit stillsteht und ich voll und ganz in den Reichtum des Klangs eintauchen kann, indem ich spüre, wie jede Note in mir mitschwingt.
+Beim Hören werde ich oft an die wegweisende walisische Elektronikband Hybrid erinnert, die Ende der 1990er Jahre durch ihre innovative Fusion von Orchesterarrangements und elektronischer Produktion bekannt wurde. Ich kann zwar nicht mit Sicherheit sagen, ob EduTry direkt von Hybrid inspiriert wurde, aber manchmal spüre ich eine Verwandtschaft zwischen ihren musikalischen Welten. Die filmische Überlagerung, die emotionale Resonanz und die Verschmelzung von elektronischem Rhythmus mit melodischer Tiefe fühlen sich auffallend ähnlich an. Ob beabsichtigt oder nicht, die Ähnlichkeit zeugt von einer gemeinsamen Sensibilität - einer ähnlichen Art, Klang zu etwas Immersivem und Herzlichem zu formen.
 
-***Hier einige Beispiele für dein Vergnügen:***
+Für mich bieten beide Künstler mehr als nur Musik; sie bieten Zuflucht, Inspiration und einen Raum, in dem die Zeit still zu stehen scheint. In ihrem Sound finde ich Trost, Fantasie und eine Erinnerung daran, wie tief Musik uns bewegen kann.
 
-{{< youtube X0HAN64UadM >}}
-{{< youtube cAsya--w9Sg >}}
-{{< youtube gxD_Zvyfo8o >}}
-{{< youtube T36DdNm5qMQ >}}
-{{< youtube J_M4Iadthy4 >}}
-{{< youtube H6onUXJdy-I >}}
-{{< youtube WjohBR3cvzE >}}
-{{< youtube jMlTXJAvIrY >}}
-{{< youtube 0qtdGd0pRqM >}}
-{{< youtube zN4j3_B5AW8 >}}
-{{< youtube F9smI1AHMEg >}}
-{{< youtube IVpwp6DBovs >}}
-{{< youtube Ty8QwaBbFwk >}}
-{{< youtube FuSYARW80bs >}}
+***Hier einige meiner persönlichen Favoriten zu deinem Vergnügen:***
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=286379130/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/chopin-raindrop">Chopin Raindrop by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1614114327/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/pure-devotion">Pure Devotion by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=215058967/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/under-the-stars-extended-mix">Under the Stars (Extended Mix) by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2305382563/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/lamour-me-prend-extended-mix">L&#39;amour me Prend (Extended Mix) by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1324269246/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/pure-pulse">Pure Pulse by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1644883204/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/la-m-sica-me-gu-a-original-mix">La música me guía (Original Mix) by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4048506597/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/synaptic-symphony-original-mix">Synaptic Symphony (Original Mix) by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3639776623/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/heart-on-fire-original-mix">Heart On Fire (Original Mix) by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3291210999/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/sarabande-edutry-remix">Sarabande [EduTry Remix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=67261290/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/hipnosis-droid-edutry-remix">Hipnosis - Droid [EduTry Remix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3382005507/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/ballade-pour-adeline-edutry-remix">Ballade pour Adeline [EduTry Remix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3296435551/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/vivaldi-winter-2k22-edutry-re-remix">Vivaldi Winter 2K22 [EduTry Re-ReMix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3946919041/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/love-story-theme-edutry-remix">Love Story Theme [EduTry Remix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2071487588/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/endless-roads">Endless Roads by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=3225486214/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/those-notes-again-original-mix">Those notes again [Original Mix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=2665570880/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/pachelbel-canon-in-d-major-edutry-remix">Pachelbel - Canon In D Major [Edutry Remix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1102990505/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/poem-without-words-2020-edutry-remix">Poem Without Words 2020 [EduTry Remix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=800983618/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/edutry-nobody-cares-original-mix">EduTry - Nobody Cares [Original Mix] - by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=4152679983/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/debussy-clair-de-lune-edutry-remix">Debussy - Clair de Lune - [EduTry Remix] by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1206914628/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/the-last-song-original-mix">The Last Song (Original Mix) by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1484208060/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/the-sound-of-an-endless-love">The Sound of an endless love by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=543536762/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/album/peaceful-serenity-album">Peaceful Serenity (Album) by EduTry</a></iframe>
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=202475137/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/album/dark-sunset-album">Dark Sunset (Album) by EduTry</a></iframe>
 
 ***Hybrid:***
 
