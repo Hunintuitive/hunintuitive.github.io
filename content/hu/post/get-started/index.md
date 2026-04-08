@@ -105,6 +105,8 @@ Számomra mindkét művész több mint egyszerű zenei alkotó: hangjaikban otth
 
 ***Íme a kedvenceim, melyek reményeim szerint örömet szerezhetnek:***
 
+{{< youtube 5Rew-vywsSk >}}
+
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=286379130/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/chopin-raindrop">Chopin Raindrop by EduTry</a></iframe>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=1614114327/size=large/bgcol=ffffff/linkcol=2ebd35/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://edutry.bandcamp.com/track/pure-devotion">Pure Devotion by EduTry</a></iframe>
