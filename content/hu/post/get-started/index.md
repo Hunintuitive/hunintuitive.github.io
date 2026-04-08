@@ -61,8 +61,9 @@ Ha annyira szereted a zenét és a táncot, mint én, akkor ezt értékelni fogo
 
 ![Breakdance Bear GIF](/hu/post/get-started/bear.gif)
 
-Az egyik kedvenc breakdance stílusom az **"Animation Break "** - ha valaha profi leszek, szeretnék egyszer egy ilyen bemutatót tartani!
+Az egyik kedvenc breaktánc stílusom, amit rendszeresen gyakorlok, az **"Animation Break "** - ha valaha profi leszek benne, szeretnék egyszer egy ilyen bemutatót tartani!
 
+{{< youtube 2dq9d-EUECc >}}
 {{< youtube 3qvCA60lPY8 >}}
 {{< youtube uOUVE5rGmhM >}}
 

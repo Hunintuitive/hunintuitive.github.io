@@ -61,8 +61,9 @@ If you love music and dance as I do, you'll appreciate this:
 
 ![Breakdance Bear GIF](/en/post/get-started/bear.gif)
 
-One of my favorite breakdance styles is the **"Animation Break"** - if I ever go pro, I’d love to put on a show like this someday!
+One of my favorite breakdance styles that I practice is **"Animation Break"** - if I ever go pro, I’d love to put on a show like this someday!
 
+{{< youtube 2dq9d-EUECc >}}
 {{< youtube 3qvCA60lPY8 >}}
 {{< youtube uOUVE5rGmhM >}}
   

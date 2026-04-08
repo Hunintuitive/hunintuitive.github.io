@@ -60,8 +60,9 @@ Wenn du Musik und Tanz genauso liebst wie ich, wirst du dies zu schätzen wissen
 
 ![Breakdance Bear GIF](/de/post/get-started/bear.gif)
 
-Einer meiner Lieblings-Breakdance-Stile ist der **"Animation Break"** - sollte ich jemals Profi werden, würde ich gerne eines Tages eine Show wie diese aufführen!
+Einer meiner Lieblings-Breakdance-Stile, die ich praktiziere, ist der **"Animation Break"** - sollte ich jemals Profi werden, würde ich gerne eines Tages eine Show wie diese aufführen!
 
+{{< youtube 2dq9d-EUECc >}}
 {{< youtube 3qvCA60lPY8 >}}
 {{< youtube uOUVE5rGmhM >}}
 
