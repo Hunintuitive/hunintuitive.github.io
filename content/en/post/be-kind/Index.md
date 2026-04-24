@@ -65,10 +65,10 @@ slides: example
 ## 🌱 Introduction: Why “Nice” Isn’t Working Anymore
 
 We live in a culture that often confuses *politeness* with *goodness.*  
-But politeness isn’t the same as honesty -- and “being nice” can sometimes mean betraying yourself.
+But politeness isn’t the same as honesty - and “being nice” can sometimes mean betraying yourself.
 
-We often believe that being agreeable will bring us peace — yet as Jefferson Fisher reminds us: *“Being nice won’t save you in difficult conversations.”*  
-His insights hit me hard, and I want to share why -- quite frankly because I’ve felt all the things Jefferson mentioned in his podcast. I see that this is a big problem in today’s society.
+We often believe that being agreeable will bring us peace - yet as Jefferson Fisher reminds us: *“Being nice won’t save you in difficult conversations.”*  
+His insights hit me hard, and I want to share why - quite frankly because I’ve felt all the things Jefferson mentioned in his podcast. I see that this is a big problem in today’s society.
 
 ---
 
@@ -79,21 +79,21 @@ Before we go further, I want to be clear: these ideas aren’t original inventio
 {{< youtube QvIodMG8tKE >}}
 
 His words spoke truth into my life and deserve a wider audience.  
-In that spirit of gratitude and shared growth, this piece distills Jefferson’s message into a practical guide for your own conversations and relationships -- how to stop *playing nice* at the expense of being *real*, and how to blend *honesty with kindness* in a way that honors both you and the people you care about.
+In that spirit of gratitude and shared growth, this piece distills Jefferson’s message into a practical guide for your own conversations and relationships - how to stop *playing nice* at the expense of being *real*, and how to blend *honesty with kindness* in a way that honors both you and the people you care about.
 
 ---
 
 ## 💬 What It Means to Stop Playing Nice
 
 We’ve all been there:  
-a coworker asks for more work, a family member makes a demand, or a friend nudges you into a plan you don’t really want -- or can’t commit to wholeheartedly.
+a coworker asks for more work, a family member makes a demand, or a friend nudges you into a plan you don’t really want - or can’t commit to wholeheartedly.
 
 Our reflex?  
 “It’s fine.”  
 “Sure, I can do that.”  
-A polite nod that keeps the peace -- while secretly carrying the weight.
+A polite nod that keeps the peace - while secretly carrying the weight.
 
->You know what it’s like to be the person that goes, ‘Oh, no, no. It’s fine. It’s fine.’ When somebody gives you an extra assignment, or your boss asks something you didn’t want to do, or someone says, ‘Hey, can you grab that?’ -- and you go, ‘Yeah, sure. That’s fine.’ People-please constantly. And everybody says, "They’re so nice." And then they use you. Whether you love them, whether they’re strangers, you’re giving a part of yourself away.
+>You know what it’s like to be the person that goes, ‘Oh, no, no. It’s fine. It’s fine.’ When somebody gives you an extra assignment, or your boss asks something you didn’t want to do, or someone says, ‘Hey, can you grab that?’ - and you go, ‘Yeah, sure. That’s fine.’ People-please constantly. And everybody says, "They’re so nice." And then they use you. Whether you love them, whether they’re strangers, you’re giving a part of yourself away.
 
 >I’m not saying don’t be of service. I’m absolutely saying have a servant’s heart. I’m not saying that you should be less of yourself. Not at all. The point is to serve without losing your integrity, boundaries, or sense of self. You can help and care for others without giving away more than you can truly afford.
 
@@ -104,7 +104,7 @@ But here’s the truth:
 >Jefferson Fisher explains it vividly: “Have you ever been the person who always goes out of their way? Always the one that seems to go the extra mile? Nice gets you steamrolled.
 
 “Nice” is surface-level. It’s about harmony, not honesty.  
-If we want integrity, we must move beyond surface politeness and express what we *really* think and need -- especially with those who matter most.
+If we want integrity, we must move beyond surface politeness and express what we *really* think and need - especially with those who matter most.
 
 ---
 
@@ -113,7 +113,7 @@ If we want integrity, we must move beyond surface politeness and express what we
 
 Jefferson highlights a common scenario:
 
->You might feel like you’re a nice person, yet you feel like you’re giving everything away. There are major differences between being nice and being kind that you may never have thought about — and after listening, you’ll know them.
+>You might feel like you’re a nice person, yet you feel like you’re giving everything away. There are major differences between being nice and being kind that you may never have thought about - and after listening, you’ll know them.
 
 ### 1. Surface vs. Depth
 
@@ -133,13 +133,13 @@ Jefferson highlights a common scenario:
 > **In short:** nice comforts the surface; kindness heals the core.
 
 And as Fisher points out, *“nice”* is rarely how we describe the people who matter most.  
-We call them **kind, caring, genuine**. Nice is for strangers — kindness is for those who shape our lives.
+We call them **kind, caring, genuine**. Nice is for strangers - kindness is for those who shape our lives.
 
 ---
 
 ## 💞 Real Relationships Require Realness
 
-Think of your closest circle -- your partner, children, parents, or best friend.  
+Think of your closest circle - your partner, children, parents, or best friend.  
 These people define your daily rhythm and sense of self.
 
 When you default to niceness with them, you risk saying yes when your soul screams no.  
@@ -151,7 +151,7 @@ Kindness, by contrast, looks like:
 * A decision that protects your health or priorities.  
 * A direct, respectful “no” when something doesn’t work.
 
-These choices nurture relationships that can weather storms -- because they’re built on *real understanding*, not fragile politeness.
+These choices nurture relationships that can weather storms - because they’re built on *real understanding*, not fragile politeness.
 
 ---
 
@@ -161,10 +161,10 @@ Jefferson Fisher highlights this hard reality:
 
 > Niceness that avoids truth eventually empties you out.
 
-When you keep saying yes just to avoid tension, you don’t only risk burnout -- you risk losing yourself.  
+When you keep saying yes just to avoid tension, you don’t only risk burnout - you risk losing yourself.  
 Bit by bit, your boundaries dissolve, and your life begins to serve appearances instead of authenticity.
 
-The goal isn’t to be blunt for its own sake -- it’s to *be honest in service of real kindness.*
+The goal isn’t to be blunt for its own sake - it’s to *be honest in service of real kindness.*
 
 ---
 
@@ -174,12 +174,12 @@ These sentence starters help you stay respectful **without abandoning your truth
 
 * “I hear you, and I can see why this matters. Here’s how I see it differently.”  
 * “I understand where you’re coming from. My take is a bit different.”  
-* “I appreciate you sharing that. I need to be honest -- this isn’t something I can do.”  
+* “I appreciate you sharing that. I need to be honest - this isn’t something I can do.”  
 * “I’m going to be real about my capacity right now.”  
 * “This doesn’t work for me at the moment.”  
 * “I’m honoring my priorities, so I can’t commit to that right now.”
 
-They’re kind but firm -- honest but compassionate.
+They’re kind but firm - honest but compassionate.
 
 ---
 
@@ -187,12 +187,12 @@ They’re kind but firm -- honest but compassionate.
 
 When you’re faced with a request that doesn’t fit, **start with your no.**
 
-* “No, thank you -- I can’t take that on.”  
+* “No, thank you - I can’t take that on.”  
 * “That won’t work for me this time.”  
 * “I can’t commit to that right now.”
 
 Starting with “no” prevents the spiral of over-explaining.  
-If pushback comes, add clarity -- not apology:
+If pushback comes, add clarity - not apology:
 
 > “I’m prioritizing X right now.”  
 > “That doesn’t align with my current focus.”
@@ -210,7 +210,7 @@ Once you’ve said no, you can soften the tone *without* undoing the boundary:
 * “I appreciate you thinking of me.”  
 * “I know this isn’t what you hoped for, and I value your honesty.”
 
-The goal isn’t to win -- it’s to preserve connection *and* integrity.
+The goal isn’t to win - it’s to preserve connection *and* integrity.
 
 ---
 
@@ -219,7 +219,7 @@ The goal isn’t to win -- it’s to preserve connection *and* integrity.
 Stopping the habit of “playing nice” begins inside.  
 If your gut says no, trust it.
 
-> The decision is already made -- you’re just choosing *how* to say it.
+> The decision is already made - you’re just choosing *how* to say it.
 
 Try this framework:
 
@@ -240,23 +240,23 @@ Boundaries without follow-through are just hopes. Protect your word.
 ![Tree showing inner integrity](/post/be-kind/tree.jpg)
 
 Imagine a tree.  
-A strong tree is solid from within -- roots deep, trunk sound.  
+A strong tree is solid from within - roots deep, trunk sound.  
 A hollow tree might look fine outside, but it collapses under pressure.
 
 When you “nice” your way through life, you hollow yourself out.  
-Real integrity means feeding your inner structure -- your truth, your values, your commitments -- so your outer actions can stand tall when life gets windy.
+Real integrity means feeding your inner structure - your truth, your values, your commitments - so your outer actions can stand tall when life gets windy.
 
 ---
 
 ## ❤️ Grace, Gratitude, and Growth
 
-This article isn’t about becoming tougher -- it’s about becoming truer.
+This article isn’t about becoming tougher - it’s about becoming truer.
 
-Kindness and honesty aren’t opposites -- they’re allies.  
+Kindness and honesty aren’t opposites - they’re allies.  
 You can set boundaries *and* stay compassionate.  
 You can be real *without* being rude.
 
-> It’s okay to please people -- just make sure *YOU* are one of them, too.
+> It’s okay to please people - just make sure *YOU* are one of them, too.
 
 ---
 
@@ -268,13 +268,13 @@ Try these small, consistent steps:
 * Practice “no-first” responses in low-stakes situations.  
 * Speak truth with warmth.  
 * Reflect after conversations: were you real *and* kind?  
-* Protect your energy -- generosity should be sustainable, not self-erasing.
+* Protect your energy - generosity should be sustainable, not self-erasing.
 
 ---
 
 ## 🌟 A Final Invitation
 
-The message — born from Jefferson Fisher’s insight and reframed here — is simple:
+The message - born from Jefferson Fisher’s insight and reframed here - is simple:
 
 > Stop playing nice at the expense of being real.  
 > Nice gets you steamrolled.  
@@ -282,18 +282,18 @@ The message — born from Jefferson Fisher’s insight and reframed here — is 
 
 I fully agree with Jefferson:  
 >Please, stop people-pleasing.  
->It’s okay to please people — as long as *you’re one of them.*  
+>It’s okay to please people - as long as *you’re one of them.*  
 
 >Being “nice” at the expense of being real isn’t compassion; it’s corrosion.  
 >It deadens you from the inside out.  
->Begin with the *no* — the negative first. It makes everything else easier.  
+>Begin with the *no* - the negative first. It makes everything else easier.  
 
 >Don’t rush to justify yourself unless the person asking truly matters to you.  
->Protect your energy, your values, and your integrity. Those who respect your honesty will stay — and those who don’t were only ever attached to your compliance.
+>Protect your energy, your values, and your integrity. Those who respect your honesty will stay - and those who don’t were only ever attached to your compliance.
 
 >Start small this week.  
 >Have one conversation where you replace *“nice”* with *“real.”*  
->See how it changes not just your relationships — but how you feel in your own skin.
+>See how it changes not just your relationships - but how you feel in your own skin.
 
 ---
 
@@ -303,7 +303,7 @@ The ideas in this piece are not original inventions of my own mind. They are ins
 
 This article distills and reinterprets Jefferson’s message to offer practical guidance you can apply in your own conversations and relationships. While I’ve added my own reflections, examples, and phrasing to help translate these concepts for broader reach, full credit and gratitude belong to Jefferson Fisher for the foundational concepts about moving from performative niceness to honest, compassionate candor.
 
-My aim is to honor his work by sharing it in a way that helps more people become better communicators and kinder, more authentic human beings -- just as I strive to become myself.
+My aim is to honor his work by sharing it in a way that helps more people become better communicators and kinder, more authentic human beings - just as I strive to become myself.
 
 ---
 
