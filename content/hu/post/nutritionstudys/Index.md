@@ -57,7 +57,7 @@ slides: example
 
 ---
 
-# Hogyan olvasd józan ítélőképességgel a táplálkozást érintő cikkeket – Navigálj biztonságosan az információk tengerén
+# Hogyan olvasd józan ítélőképességgel a táplálkozást érintő cikkeket - Navigálj biztonságosan az információk tengerén
 
 **Eredeti tanulmány:** [Association of eating duration less than 8 h with all-cause, cardiovascular, and cancer mortality](https://www.sciencedirect.com/science/article/abs/pii/S1871402125000955)  
 **A tanulmányról szóló cikk:** [Divány cikk](https://divany.hu/testem/dieta-halalozas/)
@@ -77,7 +77,7 @@ A cél **nem a hibáztatás**, hanem annak megmutatása, hogyan tudsz olvasóké
 
 ---
 
-## 1. Lépés -- Ismerd meg a tanulmány típusát
+## 1. Lépés - Ismerd meg a tanulmány típusát
 
 Két fő típus létezik az egészségügyi kutatásokban:
 
@@ -93,17 +93,17 @@ Két fő típus létezik az egészségügyi kutatásokban:
 
 ---
 
-## 2. Lépés -- Figyelj a zavaró tényezőkre
+## 2. Lépés - Figyelj a zavaró tényezőkre
 
 Olykor az eredményt más dolgok is befolyásolják, ezeket *zavaró tényezőknek* hívjuk. Ezek megnehezítik, hogy biztos légy az ok-okozati viszonnyal kapcsolatban.
 
 - A kevesebb mint 8 órás étkezés tanulmányában a résztvevők gyakrabban voltak fiatalabbak, férfiak, dohányzók, vagy élelmiszerbizonytalansággal élők.  
 - Még a statisztikai korrekciót követően is, ezek a különbségek befolyásolhatják a végeredményt.  
-- Gondolj rá úgy, mint a következő megfigyelésre: az emberek, akik esernyőt hordoznak, gyakran vizesek lesznek – viszont ez nem jelenti azt, hogy az esernyő okozza az esőt!
+- Gondolj rá úgy, mint a következő megfigyelésre: az emberek, akik esernyőt hordoznak, gyakran vizesek lesznek - viszont ez nem jelenti azt, hogy az esernyő okozza az esőt!
 
 ---
 
-## 3. Lépés -- Ellenőrizd a tanulmány korlátait
+## 3. Lépés - Ellenőrizd a tanulmány korlátait
 
 - A tanulmány **két 24 órás étrendi visszaemlékezésre** támaszkodott, ami nem biztos, hogy pontosan tükrözi, mit ettek valóban ezek a személyek.  
 - Fontos tényezők, mint az alvás, stressz vagy mozgás, nem voltak teljesen figyelembe véve.  
@@ -111,7 +111,7 @@ Olykor az eredményt más dolgok is befolyásolják, ezeket *zavaró tényezőkn
 
 ---
 
-## 4. Lépés -- Hasonlítsd össze más bizonyítékokkal
+## 4. Lépés - Hasonlítsd össze más bizonyítékokkal
 
 - Rövid távú RCT-k azt mutatják, hogy az időkorlátos étkezés (időszakos böjt) segíthet a testsúly és a vércukor szabályozásában.  
 - Hosszú távú RCT-k még nem léteznek halálozási eredményekkel.  
@@ -119,22 +119,22 @@ Olykor az eredményt más dolgok is befolyásolják, ezeket *zavaró tényezőkn
 
 ---
 
-## 5. Lépés -- Légy szkeptikus a címekkel szemben
+## 5. Lépés - Légy szkeptikus a címekkel szemben
 
 A média gyakran túlzásba viszi az eredményeket. Nézd meg, hogy a következtetés valóban megegyezik-e a tanulmány adataival. Ha a cím azt mondja: „Ez a diéta növeli a halálozás kockázatát”, gondolj arra, hogy más tényezők is okozhatják az összefüggést.
 
 ---
 
-## 6. Lépés -- Tedd fel a kérdést: ok-okozati kapcsolat vagy csupán összefüggés?
+## 6. Lépés - Tedd fel a kérdést: ok-okozati kapcsolat vagy csupán összefüggés?
 
 - **Összefüggés:** Két dolog együttesen történik, de az egyik nem feltétlenül okozza a másikat.  
 - **Ok-okozati kapcsolat:** Az egyik ténylegesen létrehozza a másikat.  
 
-Példa: <8 órás étkezés összefüggést mutatott a szív- és érrendszeri halálozással. Ez **nem jelenti**, hogy a rövid étkezési időablak okozza a kockázatot – más tényezők is szerepet játszhattak.
+Példa: <8 órás étkezés összefüggést mutatott a szív- és érrendszeri halálozással. Ez **nem jelenti**, hogy a rövid étkezési időablak okozza a kockázatot - más tényezők is szerepet játszhattak.
 
 ---
 
-## 7. Lépés -- Használd bölcsen az eszközöket és a forrásokat
+## 7. Lépés - Használd bölcsen az eszközöket és a forrásokat
 
 - Nézd meg a tanulmány típusát, mintaméretét és követési idejét.  
 - Nézz a cím mögé is, vagy azon túl.  
@@ -173,7 +173,7 @@ Ez segít a gondolkodásban, de **nem helyettesíti a saját kritikus kiértéke
 Ez az írás nem egyetlen szerzőről vagy médiumról szól, hanem arról, **hogyan fogyasztjuk az információt**.  
 A tudományos eredmények közvetítése összetett feladat, és még jó szándék mellett is könnyen félreérthetővé válhat.  
 
-A kritikus ítélőképesség nem támadás mások ellen -- hanem védelem saját magunk számára.
+A kritikus ítélőképesség nem támadás mások ellen - hanem védelem saját magunk számára.
 
 ---
 

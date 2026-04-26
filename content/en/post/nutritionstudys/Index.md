@@ -57,7 +57,7 @@ slides: example
 
 ---
 
-# How to Read Nutrition Headlines Critically – Navigate the Information Ocean Safely
+# How to Read Nutrition Headlines Critically - Navigate the Information Ocean Safely
 
 **Original study:** [Association of eating duration less than 8 h with all-cause, cardiovascular, and cancer mortality](https://www.sciencedirect.com/science/article/abs/pii/S1871402125000955)  
 **Media article based on this study:** [Divány Article](https://divany.hu/testem/dieta-halalozas/)
@@ -77,7 +77,7 @@ The goal is **not to blame**, but to show how you, as a reader, can become bette
 
 ---
 
-## Step 1 -- Know the Study Type
+## Step 1 - Know the Study Type
 
 There are two main types of studies you’ll see in health research:
 
@@ -93,17 +93,17 @@ There are two main types of studies you’ll see in health research:
 
 ---
 
-## Step 2 -- Watch for Confounding Factors
+## Step 2 - Watch for Confounding Factors
 
 Sometimes, results can be influenced by other variables, called *confounding factors*. These are things that make it hard to know whether the outcome is really caused by what you’re studying.
 
 - In the study on eating duration <8 h, participants were more likely to be younger, men, smokers, or from groups with food insecurity.  
 - Even after statistical adjustments, these differences could affect results.  
-- Think of it like noticing that people who carry umbrellas often get wet -- it doesn’t mean the umbrella causes rain!
+- Think of it like noticing that people who carry umbrellas often get wet - it doesn’t mean the umbrella causes rain!
 
 ---
 
-## Step 3 -- Check Study Limitations
+## Step 3 - Check Study Limitations
 
 - The study relied on **two 24-hour dietary recalls**, which may not perfectly represent what people usually eat.  
 - Important factors like sleep, stress, or physical activity were not fully accounted for.  
@@ -111,7 +111,7 @@ Sometimes, results can be influenced by other variables, called *confounding fac
 
 ---
 
-## Step 4 -- Compare with Other Evidence
+## Step 4 - Compare with Other Evidence
 
 - Short-term RCTs show that time-restricted eating can help with weight and blood sugar.  
 - No long-term RCTs exist yet showing mortality effects.  
@@ -119,22 +119,22 @@ Sometimes, results can be influenced by other variables, called *confounding fac
 
 ---
 
-## Step 5 -- Be Skeptical of Headlines
+## Step 5 - Be Skeptical of Headlines
 
 Media articles often exaggerate findings. Check whether the conclusion really matches the study data. Headlines like *“This diet increases your risk of death”* may ignore the fact that other factors could explain the results.
 
 ---
 
-## Step 6 -- Ask About Causation vs. Correlation
+## Step 6 - Ask About Causation vs. Correlation
 
 - **Correlation:** Two things happen together, but one does not necessarily cause the other.  
 - **Causation:** One thing actually produces the other.  
 
-Example: Eating <8 hours was linked to higher cardiovascular mortality in the study. That does not mean short eating windows caused it -- other factors may explain the link.
+Example: Eating <8 hours was linked to higher cardiovascular mortality in the study. That does not mean short eating windows caused it - other factors may explain the link.
 
 ---
 
-## Step 7 -- Use Tools and Resources Wisely
+## Step 7 - Use Tools and Resources Wisely
 
 - Check the study type, sample size, and follow-up time.  
 - Look beyond the headline.  
@@ -172,7 +172,7 @@ It can guide your thinking but **does not replace your own critical evaluation**
 This article is not about a single author or medium, but about **how we consume information**.  
 Communicating scientific results is a complex task, and even with good intentions, it can easily be misunderstood.  
 
-Critical thinking is not an attack on others -- it is a defense of ourselves.
+Critical thinking is not an attack on others - it is a defense of ourselves.
 
 ---
 

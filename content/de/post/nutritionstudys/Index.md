@@ -57,7 +57,7 @@ slides: example
 
 ---
 
-# Wie man Schlagzeilen zum Thema Ernährung kritisch liest -- sicher durch den Informationsdschungel navigieren
+# Wie man Schlagzeilen zum Thema Ernährung kritisch liest - sicher durch den Informationsdschungel navigieren
 
 **Originalstudie:** [Association of eating duration less than 8 h with all-cause, cardiovascular, and cancer mortality](https://www.sciencedirect.com/science/article/abs/pii/S1871402125000955)  
 **Medienartikel zur Studie:** [Divány-Artikel](https://divany.hu/testem/dieta-halalozas/)
@@ -77,7 +77,7 @@ Das Ziel ist es **nicht, Schuld zuzuweisen**, sondern zu zeigen, wie du als Lese
 
 ---
 
-## Schritt 1 -- Die Art der Studie kennen
+## Schritt 1 - Die Art der Studie kennen
 
 In der Gesundheitsforschung gibt es zwei Hauptarten von Studien:
 
@@ -93,17 +93,17 @@ In der Gesundheitsforschung gibt es zwei Hauptarten von Studien:
 
 ---
 
-## Schritt 2 -- Achte auf Störfaktoren
+## Schritt 2 - Achte auf Störfaktoren
 
 Manchmal können Ergebnisse durch andere Variablen beeinflusst werden, die als *Störfaktoren* bezeichnet werden. Das sind Dinge, die es schwierig machen, zu erkennen, ob das Ergebnis wirklich durch das verursacht wird, was du untersuchst.
 
 - In der Studie zur Essensdauer von weniger als 8 Stunden waren die Teilnehmer eher jünger, männlich, Raucher oder stammten aus Gruppen mit Ernährungsunsicherheit.
 - Selbst nach statistischen Anpassungen könnten diese Unterschiede die Ergebnisse beeinflussen.
-- Stell dir das so vor, als würdest du feststellen, dass Menschen, die Regenschirme mit sich führen, oft nass werden -- das bedeutet aber nicht, dass der Regenschirm den Regen verursacht!
+- Stell dir das so vor, als würdest du feststellen, dass Menschen, die Regenschirme mit sich führen, oft nass werden - das bedeutet aber nicht, dass der Regenschirm den Regen verursacht!
 
 ---
 
-## Schritt 3 -- Einschränkungen der Studie prüfen
+## Schritt 3 - Einschränkungen der Studie prüfen
 
 - Die Studie stützte sich auf **zwei 24-Stunden-Ernährungsprotokolle**, die möglicherweise nicht vollständig widerspiegeln, was Menschen normalerweise essen.  
 - Wichtige Faktoren wie Schlaf, Stress oder körperliche Aktivität wurden nicht vollständig berücksichtigt.  
@@ -111,7 +111,7 @@ Manchmal können Ergebnisse durch andere Variablen beeinflusst werden, die als *
 
 ---
 
-## Schritt 4 -- Vergleiche mit anderen Erkenntnissen
+## Schritt 4 - Vergleiche mit anderen Erkenntnissen
 
 - Kurzfristige randomisierte kontrollierte Studien zeigen, dass zeitlich begrenzte Ernährung beim Gewichtsmanagement und bei der Blutzuckerkontrolle helfen kann.
 - Es gibt noch keine langfristigen randomisierten kontrollierten Studien, die Auswirkungen auf die Sterblichkeit belegen.
@@ -119,22 +119,22 @@ Manchmal können Ergebnisse durch andere Variablen beeinflusst werden, die als *
 
 ---
 
-## Schritt 5 -- Sei skeptisch gegenüber Schlagzeilen
+## Schritt 5 - Sei skeptisch gegenüber Schlagzeilen
 
 Medienberichte übertreiben oft die Ergebnisse. Überprüfe, ob die Schlussfolgerung wirklich mit den Studiendaten übereinstimmt. Schlagzeilen wie „Diese Diät erhöht dein Sterberisiko” ignorieren möglicherweise die Tatsache, dass andere Faktoren die Ergebnisse erklären könnten.
 
 ---
 
-## Schritt 6 -- Frage nach Kausalität vs. Korrelation
+## Schritt 6 - Frage nach Kausalität vs. Korrelation
 
 - **Korrelation:** Zwei Dinge treten gleichzeitig auf, aber das eine verursacht nicht unbedingt das andere.  
 - **Kausalität:** Das eine bewirkt tatsächlich das andere.  
 
-Beispiel: In der Studie wurde das Essen innerhalb von weniger als 8 Stunden mit einer höheren kardiovaskulären Mortalität in Verbindung gebracht. Das bedeutet nicht, dass kurze Essenszeiten die Ursache dafür waren -- andere Faktoren könnten diesen Zusammenhang erklären.
+Beispiel: In der Studie wurde das Essen innerhalb von weniger als 8 Stunden mit einer höheren kardiovaskulären Mortalität in Verbindung gebracht. Das bedeutet nicht, dass kurze Essenszeiten die Ursache dafür waren - andere Faktoren könnten diesen Zusammenhang erklären.
 
 ---
 
-## Schritt 7 -- Setze Tools und Ressourcen weise ein
+## Schritt 7 - Setze Tools und Ressourcen weise ein
 
 - Überprüfe die Art der Studie, die Stichprobengröße und die Nachbeobachtungszeit.  
 - Schau hinter die Schlagzeilen.  
@@ -144,9 +144,9 @@ Beispiel: In der Studie wurde das Essen innerhalb von weniger als 8 Stunden mit 
 - Überprüfe die Originalquelle.  
 
 💡 **Profi-Tipp:** Du kannst sogar ChatGPT als Tool zur Studienanalyse verwenden. Füge Teile einer Studie ein und stelle Fragen wie:  
--- „Um welche Art von Studie handelt es sich?“  
--- „Welche möglichen Störfaktoren gibt es?“  
--- „Stimmen die Schlussfolgerungen mit den Daten überein?“  
+- „Um welche Art von Studie handelt es sich?“  
+- „Welche möglichen Störfaktoren gibt es?“  
+- „Stimmen die Schlussfolgerungen mit den Daten überein?“  
 
 Das kann dir als Denkanstoß dienen, ersetzt jedoch **nicht deine eigene kritische Bewertung**.
 
@@ -172,7 +172,7 @@ Das kann dir als Denkanstoß dienen, ersetzt jedoch **nicht deine eigene kritisc
 In diesem Artikel geht es nicht um einen einzelnen Autor oder ein einzelnes Medium, sondern darum, **wie wir Informationen konsumieren**.  
 Die Vermittlung wissenschaftlicher Ergebnisse ist eine komplexe Aufgabe, und selbst mit guten Absichten kann sie leicht missverstanden werden.  
 
-Kritisches Denken ist kein Angriff auf andere -- es ist eine Verteidigung unserer selbst.
+Kritisches Denken ist kein Angriff auf andere - es ist eine Verteidigung unserer selbst.
 
 ---
 
