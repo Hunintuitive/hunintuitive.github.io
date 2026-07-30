@@ -167,7 +167,7 @@ Az egyensúly helyreállításához tudatosan csökkentette ezt a tevékenysége
 
 ![Tevékenységek](/post/dopamine/activities.png)
 
-A mindennapi tapasztalatok - étkezés, társas kapcsolatok, mozgás, munka, szórakozás és sex - mind hatással vannak a dopamin működésére.
+A mindennapi tapasztalatok - étkezés, társas kapcsolatok, mozgás, munka, szórakozás és szex - mind hatással vannak a dopamin működésére.
 
 A dopamin segít az agynak felismerni, hogy mi fontos, és motivál bennünket jelentős célok követésére.
 
