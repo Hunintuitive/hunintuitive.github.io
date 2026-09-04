@@ -76,9 +76,10 @@ Here's a captivating breakdancing video full of energetic moves and beats that m
 
 {{< youtube x417V16UQBE >}}
 
-Discover my ultimate favorite blend of electrifying break beats that irresistibly get me moving - sure to energize and inspire your own playlist.
+Discover my absolute favorites - the ones that irresistibly get me moving. I’m sure they’ll add some spark to your own playlist and inspire you, too.
 
 {{< youtube rRrTdlqUF5M >}}
+{{< youtube mAfYbykA2aE >}}
 
 ---
 

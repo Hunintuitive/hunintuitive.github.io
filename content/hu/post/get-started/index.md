@@ -75,9 +75,10 @@ Az egyik kedvenc breaktánc stílusom, amit rendszeresen gyakorlok, az **"Animat
 
 {{< youtube x417V16UQBE >}}
 
-Fedezd fel az egyik abszolút kedvenc mixemet, ami ellenállhatatlanul megmozgat - biztos, hogy a saját lejátszási listádat is felpezsdítheti és inspirálhatja.
+Fedezd fel az abszolút kedvenceimet, amik ellenállhatatlanul megmozgatnak - biztos, hogy a saját lejátszási listádat is felpezsdíthetik és inspirálhatják.
 
 {{< youtube rRrTdlqUF5M >}}
+{{< youtube mAfYbykA2aE >}}
 
 ---
 

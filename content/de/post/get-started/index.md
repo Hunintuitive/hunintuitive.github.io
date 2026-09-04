@@ -74,9 +74,10 @@ Hier ist ein fesselndes Breakdance-Video voller energiegeladener Moves und Beats
 
 {{< youtube x417V16UQBE >}}
 
-Entdecke meine ultimative Lieblingsmischung aus elektrisierenden Breakbeats, die mich unwiderstehlich in Bewegung bringen - und sicher auch deine eigene Playlist anregen und inspirieren.
+Entdecke meine absoluten Lieblingsstücke - Songs, die mich unwiderstehlich in Bewegung bringen. Ich bin sicher, dass sie auch deine eigene Playlist aufpeppen und dich inspirieren können.
 
 {{< youtube rRrTdlqUF5M >}}
+{{< youtube mAfYbykA2aE >}}
 
 ---
 
