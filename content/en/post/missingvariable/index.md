@@ -895,7 +895,7 @@ Ed Goggin — Legacy
 
 ---
 
-### Note
+### Transparency Note:
 
 Some of the ideas in this article developed through conversations with artificial intelligence. I use AI as a tool for thinking and exploration, not as an authority. The questions, convictions, interpretations, and final editorial decisions are all my own.
 

@@ -899,6 +899,6 @@ Ed Goggin - Legacy
 
 ---
 
-### Megjegyzés
+### Átláthatósági tájékoztató:
 
 A cikkben szereplő gondolatok egy része mesterséges intelligenciával folytatott beszélgetésekből bontakozott ki. Az MI-t gondolkodási és felfedező eszközként használom, nem pedig tekintélyként. A kérdések, meggyőződések, értelmezések és a végső szerkesztői döntések mind a sajátjaim.

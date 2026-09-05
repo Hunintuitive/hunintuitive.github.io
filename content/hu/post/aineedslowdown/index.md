@@ -77,7 +77,7 @@ Ez lehetővé teszi számomra, hogy úgy törekedjek a fejlődésre, hogy közbe
 
 Szeretem a technológiát.
 
-Amióta csak az eszemet tudom, szeretem. A számítógépeket, a tudományt, az internetet, a science fictiont, és azokat a lenyűgöző dolgokat, amelyeket az ember képes létrehozni, amikor a kíváncsiság találkozik a képzelettel – mindez lenyűgöz.
+Amióta csak az eszemet tudom, szeretem. A számítógépeket, a tudományt, az internetet, a science fictiont, és azokat a lenyűgöző dolgokat, amelyeket az ember képes létrehozni, amikor a kíváncsiság találkozik a képzelettel - mindez lenyűgöz.
 
 És egyre inkább a mesterséges intelligenciát is szeretem.
 
@@ -1221,7 +1221,7 @@ Rábízhatom Istenre az út azon részeit, amelyeket még nem látok.
 
 ---
 
-### Megjegyzés:
+### Átláthatósági tájékoztató:
 
 A cikkben szereplő gondolatok egy része egy MI-asszisztenssel folytatott beszélgetések során született. Az MI-t a gondolkodás és a felfedezés eszközeként használom, nem tekintélyként. A kérdések, meggyőződések, értelmezések és a végső szerkesztői döntések tőlem származnak.
 

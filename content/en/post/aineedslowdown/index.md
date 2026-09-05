@@ -1221,6 +1221,6 @@ And continue walking, enjoying our wonderful journey.
 
 ---
 
-### Disclosure:
+### Transparency Note:
 
 Some of the reflections in this article grew out of conversations with an AI assistant. I use AI as a thinking and exploration tool, not as an authority. The questions, convictions, interpretations, and final editorial decisions are my own.

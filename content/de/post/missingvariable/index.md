@@ -899,7 +899,7 @@ Ed Goggin – Legacy
 
 ---
 
-### Hinweis
+### Transparenzhinweis:
 
 Ein Teil der Gedanken in diesem Artikel hat sich aus Gesprächen mit künstlicher Intelligenz entwickelt. Ich nutze KI als Werkzeug zum Denken und Erkunden, nicht als Autorität. Die Fragen, Überzeugungen, Interpretationen und die endgültigen redaktionellen Entscheidungen stammen alle von mir.
 
