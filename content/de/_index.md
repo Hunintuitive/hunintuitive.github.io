@@ -59,6 +59,19 @@ sections:
 
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: 'KI und der Schreibprozess'
+      subtitle: ''
+      text: |-
+        KI ist inzwischen Teil meiner Arbeit an dieser Website. Ich nutze einen KI-Assistenten als Werkzeug zum Denken, Erkunden, Entwerfen, Übersetzen und Überarbeiten. Er hilft mir dabei, plötzlich entstandene Gedanken in eine strukturierte Form zu bringen, Ideen aus verschiedenen Blickwinkeln zu betrachten, meine eigenen Annahmen zu hinterfragen und genauer zu formulieren, was ich ausdrücken möchte.
+
+        Die KI bestimmt weder, was ich glaube, noch, was ich sagen möchte. Die Fragen, meine Überzeugungen, meine Interpretationen, die Ausrichtung der einzelnen Artikel und die endgültigen redaktionellen Entscheidungen stammen von mir. Ich betrachte KI auch nicht als Autorität. Ihre Vorschläge sind für mich etwas, das ich prüfen, hinterfragen und gegebenenfalls verifizieren muss.
+
+        Ich erwähne das, weil mir Transparenz wichtig ist. KI hat es mir ermöglicht, Gedanken in eine zusammenhängende und nützliche Form zu bringen - auf eine Weise, die neben allem anderen im Leben sonst wesentlich schwieriger dauerhaft umzusetzen wäre. Mein Ziel ist nicht einfach, mehr Inhalte zu produzieren, sondern Gedanken und Erkenntnisse, die ich für teilenswert halte, sorgfältig zu durchdenken und sie so nützlich und fundiert wie möglich für andere aufzubereiten.
+
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:

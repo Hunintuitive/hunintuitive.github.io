@@ -59,6 +59,19 @@ sections:
 
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: 'AI and the Writing Process'
+      subtitle: ''
+      text: |-
+        AI has become part of how I work on this website. I use an AI assistant as a tool for thinking, exploration, drafting, translation, and editing. It helps me turn quickly formed thoughts into structured writing, examine ideas from different angles, challenge my assumptions, and refine what I want to express.
+
+        The AI does not determine what I believe or what I want to say. The questions, convictions, interpretations, direction of each article, and final editorial decisions are my own. I also do not treat AI as an authority. Its suggestions are something to examine, question, and, where appropriate, verify.
+
+        I mention this because I believe transparency matters. AI has made it possible for me to bring thoughts into a more coherent and useful form in a way that would otherwise be much harder to sustain alongside everything else in life. My aim is not simply to produce more content, but to take the thoughts and insights I find worth sharing, examine them carefully, and make them as useful and thoughtful as I can for others.
+
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:

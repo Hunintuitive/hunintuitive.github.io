@@ -59,6 +59,19 @@ sections:
 
     design:
       columns: '1'
+  - block: markdown
+    content:
+      title: 'Az MI és az írás folyamata'
+      subtitle: ''
+      text: |-
+        Az MI a weboldalon végzett munkám részévé vált. Egy MI-asszisztenst a gondolkodás, a felfedezés, a vázlatkészítés, a fordítás és a szerkesztés eszközeként használok. Segítséget jelent abban, hogy a hirtelen megfogalmazódó gondolataimat rendezett formába öntsem, az ötleteimet különböző nézőpontokból megvizsgáljam, megkérdőjelezzem a saját feltételezéseimet, ellenőrizzem, amit lehet, és pontosabban fogalmazzam meg azt, amit szeretnék kifejezni.
+
+        Az MI nem határozza meg, hogy miben hiszek, és azt sem, hogy mit szeretnék mondani. A kérdések, a meggyőződéseim, az értelmezéseim, az egyes cikkek iránya és a végső szerkesztői döntések tőlem származnak. Az MI-re sem tekintélyként tekintek. A javaslatait olyan kiindulópontként kezelem, amelyet meg kell vizsgálni, meg kell kérdőjelezni, és ahol szükséges, ellenőrizni kell.
+
+        Azért tartom fontosnak ezt megemlíteni, mert számomra az átláthatóság fontos. Az MI lehetővé tette számomra, hogy a gondolataimat olyan összefüggő és használható formába öntsem, ahogyan azt az élet egyéb terhei mellett egyébként sokkal nehezebb lenne fenntarthatóan megvalósítani. Nem egyszerűen több tartalmat szeretnék előállítani, hanem azokat a gondolatokat és felismeréseket, amelyeket érdemesnek tartok megosztani, szeretném alaposan átgondolni, és amennyire tőlem telik, minél hasznosabb és átgondoltabb formában mások rendelkezésére bocsátani.
+
+    design:
+      columns: '1'
   - block: collection
     id: papers
     content:
