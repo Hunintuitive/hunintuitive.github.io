@@ -37,7 +37,7 @@ featured: false
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Chat GPT generált'
+  caption: 'generiert mit Chat GPT'
   focal_point: ""
   preview_only: false
 
