@@ -361,7 +361,7 @@ Nem tudom pontosan, mit hoz a holnap.
 
 De attól még lehet okom megbízni abban, akihez a holnap tartozik.
 
-De itt van még valami, ami számomra érdekes.
+Azonban van itt még valami, ami számomra érdekes.
 
 A Biblia könyveit különböző emberek írták, különböző korokban. A későbbi bibliaírók közül sokan ismerték a korábbi írásokat, így önmagában az nem meglepő, ha bizonyos témák továbböröklődnek. Éppen ezért számomra nem az a legérdekesebb, amikor valaki egyszerűen megismétli azt, amit egy korábbi próféta már leírt.
 

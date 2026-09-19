@@ -361,7 +361,7 @@ I do not know exactly what tomorrow will bring.
 
 But I can still have reason to trust the one to whom tomorrow belongs.
 
-But there is something else I find interesting here.
+However, there’s something else here that I find interesting.
 
 The books of the Bible were written by different people in different periods. Many of the later Bible writers knew the earlier writings, so it is not surprising in itself that certain themes were carried forward. That is why what interests me most is not simply when someone repeats something an earlier prophet had already written.
 
