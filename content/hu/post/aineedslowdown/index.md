@@ -129,6 +129,12 @@ Vigyáznunk kellene, nehogy elkezdjük az embereket is úgy optimalizálni, mint
 
 Mert az embereknek más a ritmusuk.
 
+Nem algoritmusra táncolunk.
+
+**Nekünk cirkadián ritmusunk van.**
+
+És ezt nem árt tiszteletben tartanunk, ha egészségesek és működőképesek szeretnénk maradni.
+
 Néha le kell lassítanunk.
 
 Néha szükségünk van arra, hogy egy beszélgetésben úgy bolyongjunk, hogy még azt sem tudjuk, hová fog vezetni.
@@ -614,6 +620,8 @@ Néha időre ahhoz is, hogy meggondoljam magam.
 A technológia rendkívüli sebességgel képes ismételni és továbbfejleszteni önmagát.
 
 Az emberi megértés azonban nem feltétlenül képes ugyanerre.
+
+Emlékszel még a ritmusra? Nem algoritmusra táncolunk.
 
 Rendkívüli kognitív képességeink vannak, de ezek nem korlátlanok. **A figyelmünknek, a munkamemóriánknak és a tartós gondolkodásra való képességünknek is vannak határai.** Aludnunk kell. Szünetekre van szükségünk. Túlterhelődhetünk a túl sok információtól vagy a túl sok egyidejű elvárástól.
 

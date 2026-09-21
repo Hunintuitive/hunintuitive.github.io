@@ -129,6 +129,12 @@ Wir sollten vorsichtig sein, dass wir nicht anfangen, auch Menschen zu optimiere
 
 Denn Menschen haben andere Rhythmen.
 
+Wir tanzen nicht nach Algorithmen.
+
+**Wir haben einen zirkadianen Rhythmus.**
+
+Und wir tun gut daran, ihn zu respektieren, wenn wir gesund und leistungsfähig bleiben wollen.
+
 Manchmal müssen wir langsamer werden.
 
 Manchmal müssen wir uns in einem Gespräch verlieren, ohne zu wissen, wohin es führt.
@@ -614,6 +620,8 @@ Manchmal auch Zeit, meine Meinung zu ändern.
 Technologie kann sich mit außergewöhnlicher Geschwindigkeit weiterentwickeln.
 
 Das menschliche Verständnis kann das nicht unbedingt.
+
+Erinnerst du dich noch an unsere Rhythmen? Wir tanzen nicht nach Algorithmen.
 
 Wir verfügen über bemerkenswerte kognitive Fähigkeiten, aber sie sind nicht unbegrenzt. **Unsere Aufmerksamkeit, unser Arbeitsgedächtnis und unsere Fähigkeit zu anhaltendem, konzentriertem Denken haben Grenzen.** Wir brauchen Schlaf. Wir brauchen Pausen. Zu viele Informationen oder zu viele gleichzeitige Anforderungen können uns überfordern.
 

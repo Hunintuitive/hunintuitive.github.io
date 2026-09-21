@@ -129,6 +129,12 @@ We should be careful not to start optimizing human beings as though they were ma
 
 Because human beings have different rhythms.
 
+We don’t dance to algorithms.
+
+**We have a circadian rhythm.**
+
+And we’d do well to respect it if we want to stay healthy and functional.
+
 We sometimes need to slow down.
 
 We sometimes need to wander through a conversation without knowing where it is going.
@@ -614,6 +620,8 @@ Sometimes time to change my mind.
 Technology can iterate at extraordinary speed.
 
 Human understanding cannot necessarily do the same.
+
+Remember the rhythms? We don’t dance to algorithms.
 
 We have remarkable cognitive abilities, but they are not unlimited. **Our attention, working memory, and capacity for sustained reasoning all have limits.** We need sleep. We need breaks. We can become overwhelmed by too much information or too many simultaneous demands.
 
