@@ -665,7 +665,7 @@ It can simply mean:
 
 **“I do not see it yet.”**
 
-And perhaps that is exactly why I find it so exciting to keep exploring—in science, history, philosophy, and the Bible alike.
+And perhaps that is exactly why I find it so exciting to keep exploring - in science, history, philosophy, and the Bible alike.
 
 Not because I think I will understand everything.
 

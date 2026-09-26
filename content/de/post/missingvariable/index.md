@@ -665,7 +665,7 @@ Es kann einfach bedeuten:
 
 **„Ich sehe es noch nicht.“**
 
-Und vielleicht ist genau das der Grund, warum es für mich so spannend ist, weiterzuforschen – in der Wissenschaft, in der Geschichte, in der Philosophie und ebenso in der Bibel.
+Und vielleicht ist genau das der Grund, warum es für mich so spannend ist, weiterzuforschen - in der Wissenschaft, in der Geschichte, in der Philosophie und ebenso in der Bibel.
 
 Nicht, weil ich glaube, alles verstehen zu werden.
 
