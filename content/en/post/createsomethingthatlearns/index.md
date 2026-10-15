@@ -642,7 +642,7 @@ But I have become less interested in those questions than I was when I started.
 
 I am more interested in something much more ordinary.
 
-What happens when imperfect human beings create systems that can learn, adapt and act-and then gradually give those systems more power before they fully understand what they have created?
+**What happens when imperfect human beings create systems that can learn, adapt and act - and then gradually give those systems more power before they fully understand what they have created?**
 
 Maybe the most important thing we discover in that process isn't something about AI at all.
 

@@ -642,7 +642,7 @@ Aber diese Fragen interessieren mich inzwischen weniger als zu Beginn.
 
 Mich beschäftigt etwas viel Alltäglicheres.
 
-Was geschieht, wenn unvollkommene Menschen Systeme erschaffen, die lernen, sich anpassen und handeln können - und diesen Systemen nach und nach immer mehr Macht übertragen, bevor sie vollständig verstehen, was sie geschaffen haben?
+**Was geschieht, wenn unvollkommene Menschen Systeme erschaffen, die lernen, sich anpassen und handeln können - und diesen Systemen nach und nach immer mehr Macht übertragen, bevor sie vollständig verstehen, was sie geschaffen haben?**
 
 Vielleicht entdecken wir dabei am Ende gar nicht etwas über KI.
 
