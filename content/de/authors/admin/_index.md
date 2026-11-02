@@ -328,8 +328,20 @@ awards:
 
 ## Über mich
 
-Ich schätze Lernen, persönliche Weiterentwicklung und echte Verbindungen zu anderen Menschen. Mein beruflicher Weg führte mich durch IT, Kundenservice, Qualitätsmanagement, Vertrieb, Einkauf, Personalwesen und weitere Bereiche, die mir wertvolle Erfahrungen über Menschen, Zusammenarbeit und Problemlösung vermittelt haben.
+*Ein neugieriger Geist, ein offener Blick und ein Weg, der sich ständig weiterentwickelt.*
 
-Ich bemühe mich, dem Leben mit Neugier, Freundlichkeit und Integrität zu begegnen und Mitgefühl und Fairness in alles einzubringen, was ich tue. Ich versuche, mich mit den positiven Eigenschaften meines „inneren Kindes“ zu verbinden - Kreativität, Staunen und Freude - denn ich glaube, dass kleine, achtsame Taten die Welt ein wenig heller machen können.
+Ich glaube, dass das Lernen nie wirklich aufhört. Das Leben ist eine fortwährende Reise voller Entdeckungen, persönlicher Entwicklung und Begegnungen. Ich gehe neugierig durch die Welt und möchte nicht nur verstehen, wie Dinge funktionieren, sondern auch, warum sie von Bedeutung sind.
 
-Mein übergeordnetes Ziel ist es, das Gelernte zu nutzen, um andere zu unterstützen, meine Gemeinschaft positiv zu bereichern und Schritt für Schritt eine bessere Version meiner selbst zu werden.
+Meine Interessen reichen von Technologie, Wissenschaft und künstlicher Intelligenz über die menschliche Natur, Psychologie und Philosophie bis hin zu Fragen des Glaubens. Auch wenn diese Themen auf den ersten Blick unterschiedlich erscheinen mögen, führen sie für mich oft zu denselben grundlegenden Fragen: Wer sind wir? Wie verstehen wir die Welt? Und wie gehen wir miteinander um?
+
+Mein beruflicher Weg hat mich durch verschiedene Bereiche geführt, darunter IT, Kundenservice, Qualitätssicherung, Vertrieb, Einkauf und Personalwesen. Jeder dieser Bereiche hat mir neue Einblicke in den Umgang mit Menschen, Zusammenarbeit, Problemlösung und den Umgang mit neuen Herausforderungen ermöglicht. Ich bin überzeugt, dass jede ehrliche Arbeit ihre Würde hat und dass sich aus jeder neuen Erfahrung etwas Wertvolles lernen lässt.
+
+Neben beruflichen Erfahrungen und intellektueller Neugier schätze ich auch die einfachen Dinge, die das Leben bereichern: Kreativität, Staunen, Freundlichkeit und die Freude daran, Neues zu entdecken. Ich glaube, dass auch kleine Gesten der Aufmerksamkeit und des Respekts einen Unterschied darin machen können, wie wir miteinander umgehen.
+
+Diese Website ist mein persönlicher Raum, um Ideen zu erkunden, Entdeckungen festzuhalten, Gedanken und Erfahrungen zu teilen und gelegentlich auch Dinge zu hinterfragen, die ich früher vielleicht als selbstverständlich angesehen habe.
+
+Ich möchte nicht den Eindruck erwecken, auf alles eine Antwort zu haben oder Experte auf jedem Gebiet zu sein, über das ich schreibe. Ich stelle einfach gerne Fragen, die zum Nachdenken anregen, beschäftige mich mit unterschiedlichen Perspektiven und teile, was ich auf diesem Weg als wertvoll empfinde. Mir geht es nicht nur darum, Antworten zu finden, sondern auch darum, offen für Neues zu bleiben, eigene Gedanken zu überdenken und meine Sichtweise zu ändern, wenn neue Erkenntnisse dies nahelegen.
+
+Ich glaube, dass es sich lohnt, die eigene Neugier zu bewahren, dass Offenheit uns weiser macht und dass bedeutungsvolle zwischenmenschliche Beziehungen mit der Bereitschaft beginnen, einander wirklich verstehen zu wollen.
+
+Schön, dass du hier bist! 😊

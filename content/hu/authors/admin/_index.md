@@ -332,9 +332,20 @@ awards:
 
 ## Rólam
 
-Értékelem a tanulást, a fejlődést és a valódi kapcsolatokat másokkal. Szakmai utam során dolgoztam az informatikában, ügyfélszolgálaton, minőségbiztosításban, értékesítésben, beszerzésben, humánerőforrásban és más területeken, melyek mind értékes tapasztalatokat adtak az emberekről, az együttműködésről és a problémamegoldásról.
+*Nyitott gondolkodás, kíváncsiság és egy folyamatosan alakuló út.*
 
-Igyekszem kíváncsian, kedvességgel és integritással közelíteni az élethez, és mindenbe, amit teszek, együttérzést és méltányosságot vinni. Kapcsolódni próbálok a “belső gyermek” pozitív tulajdonságaihoz - a kreativitáshoz, a rácsodálkozáshoz és az örömhöz - mert hiszem, hogy a figyelmes és tiszteletteljes apró tettek több fényt hozhatnak a világba.
+Hiszem, hogy a tanulás soha nem ér véget igazán. Az élet a felfedezés, a fejlődés és a kapcsolódás folyamatos útja. Kíváncsian tekintek a körülöttem lévő világra, és nemcsak azt szeretem megérteni, hogyan működnek a dolgok, hanem azt is, hogy miért fontosak.
 
-Mindezek felett a célom, hogy azt, amit tanulok, mások támogatására, a közösség pozitív alakítására és saját fejlődésemre használjam - egyik lépésről a másikra.
+Érdeklődési köröm a technológiától, a tudománytól és a mesterséges intelligenciától az emberi természeten, a pszichológián és a filozófián át egészen a hit világáig terjed. Bár ezek a témák első pillantásra különbözőnek tűnhetnek, gyakran ugyanazokhoz az alapvető kérdésekhez vezetnek: kik vagyunk, hogyan értelmezzük a világot, és miként kapcsolódunk egymáshoz.
 
+Szakmai utam során számos területen megfordultam, többek között az informatikában, az ügyfélszolgálatban, a minőségbiztosításban, az értékesítésben, a beszerzésben és a humánerőforrás területén. Mindegyik más-más tapasztalattal gazdagított az emberekről, az együttműködésről, a problémamegoldásról és az új kihívásokhoz való alkalmazkodásról. Hiszem, hogy minden tisztességes munkának megvan a maga méltósága, és minden új tapasztalatban rejlik valami, amiből tanulhatunk.
+
+A szakmai tapasztalatok és a világ megértése iránti kíváncsiság mellett az élet egyszerű, mégis fontos értékeit is nagyra becsülöm: a kreativitást, a rácsodálkozás képességét, a kedvességet és az új dolgok felfedezésének örömét. Hiszem, hogy az egymás iránti apró figyelmességek és a tisztelet is számítanak abban, hogyan viszonyulunk egymáshoz.
+
+Ez a weboldal az én személyes területem arra, hogy gondolatokat járjak körül, felfedezéseket dokumentáljak, megosszam a felismeréseimet, és időnként olyan dolgokat is megkérdőjelezzek, amelyeket korábban magától értetődőnek tekintettem.
+
+Nem célom, hogy mindenre tudjam a választ, és nem is állítom, hogy minden témának szakértője vagyok, amelyről írok. Egyszerűen szeretek érdemi kérdéseket feltenni, különböző nézőpontokat megismerni, és megosztani mindazt, amit értékesnek találok ezen az úton. Számomra nemcsak a válaszok megtalálása fontos, hanem az is, hogy nyitott maradjak a tanulásra, a gondolataim újragondolására és a nézőpontom megváltoztatására, ha az új felismerések ezt indokolják.
+
+Hiszem, hogy érdemes megőriznünk a kíváncsiságunkat, hogy a nyitottság bölcsebbé tesz bennünket, és hogy az értékes emberi kapcsolatok az egymás megértésére való hajlandósággal kezdődnek.
+
+Örülök, hogy itt vagy! 😊

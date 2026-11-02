@@ -325,8 +325,20 @@ awards:
 
 ## About Me
 
-I am someone who values learning, growth, and meaningful connections with others. My professional journey has taken me through IT, customer service, quality assurance, sales, procurement, human resources, and other fields, each teaching me valuable lessons about people, collaboration, and problem-solving.
+*A curious mind, an open perspective, and a continuous journey.*
 
-I strive to approach life with curiosity, kindness, and integrity, seeking to bring compassion and fairness into everything I do. I try to stay connected to the positive qualities of my “inner child” - creativity, wonder, and joy - believing that small acts of care and respect can make the world a little brighter.
+I believe that learning never really ends. Life is a continuous journey of discovery, growth, and connection. I am curious about the world around me and interested in understanding not only how things work, but also why they matter.
 
-Above all, my goal is to use what I learn to support others, contribute positively to my community, and continue becoming a better version of myself - one step at a time.
+My interests span technology, science, artificial intelligence, human nature, psychology, philosophy, and faith. Although these subjects may seem different, I find that they often lead to the same fundamental questions about who we are, how we understand the world, and how we relate to one another.
+
+My professional journey has taken me through IT, customer service, quality assurance, sales, procurement, human resources, and other fields. Each has taught me something different about people, collaboration, problem-solving, and adapting to new challenges. I believe that every honest form of work has dignity, and that there is always something meaningful to learn from new experiences.
+
+Beyond professional experience and intellectual curiosity, I value the simple things that make life meaningful: creativity, wonder, kindness, and the joy of discovering something new. I believe that small acts of care and respect can make a difference in how we relate to one another.
+
+This website is my personal space to explore ideas, document discoveries, share reflections, and occasionally question things I might have previously taken for granted.
+
+I don't aim to have all the answers, nor do I claim to be an expert in everything I write about. I simply enjoy asking meaningful questions, exploring different perspectives, and sharing what I find valuable along the way. What matters to me is not just finding answers, but remaining open to learning, rethinking, and changing my perspective when new insights warrant it.
+
+I believe curiosity is worth preserving, that open-mindedness makes us wiser, and that meaningful connections begin with a willingness to understand one another.
+
+Welcome. I'm glad you're here. 😊
