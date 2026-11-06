@@ -57,7 +57,7 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: markdown
     content:
       title: ''
