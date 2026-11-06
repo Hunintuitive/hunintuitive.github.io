@@ -17,6 +17,25 @@ sections:
         > A space to share my journey, experiences, and the lessons I’ve gathered along the way - in the hope that they may inspire and support others on their own paths.
 
         > This site is a space for practice and reflection. Many of the ideas shared here are considered true for the moment, yet I accept that nothing -- and no one -- is infallible. My own imperfections, gaps in understanding, and evolving perspective are part of what is presented. These pages are not meant as final conclusions, but as part of an ongoing process of learning, exploring, and refining thought.
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-    
+
+    design:
+      css_class: dark
+      css_style: "min-height: 100vh;"
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: avatar.png
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -26,6 +45,7 @@ sections:
       button:
         text: Get My Professional CV
         url: uploads/resume.pdf
+
     design:
       css_class: dark
       background:
@@ -37,7 +57,26 @@ sections:
             brightness: 1.0
           size: cover
           position: center
-          parallax: false
+          parallax: true
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-        
+
+    design:
+      css_class: dark
+      css_style: "min-height: 100vh;"
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: avatar.png
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   - block: markdown
     content:
       title: '🎯 My Mission'

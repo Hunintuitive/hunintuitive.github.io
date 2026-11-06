@@ -17,6 +17,25 @@ sections:
         > Ein Raum, in dem ich meine Reise, Erfahrungen und Erkenntnisse teile - in der Hoffnung, andere auf ihrem eigenen Weg zu inspirieren und zu unterstützen.
 
         > Diese Website ist ein Ort zum Üben und Nachdenken. Viele der hier geteilten Ideen gelten derzeit als wahr, doch ich bin mir bewusst, dass nichts -- und niemand -- unfehlbar ist. Meine eigenen Unvollkommenheiten, Wissenslücken und sich weiterentwickelnden Perspektiven sind Teil dessen, was hier präsentiert wird. Diese Seiten sind nicht als endgültige Schlussfolgerungen gedacht, sondern als Teil eines fortlaufenden Prozesses des Lernens, Erforschens und Verfeinerns von Gedanken.
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-    
+
+    design:
+      css_class: dark
+      css_style: "min-height: 100vh;"
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: avatar.png
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -26,6 +45,7 @@ sections:
       button:
         text: Professionellen Lebenslauf
         url: uploads/resume.de.pdf
+
     design:
       css_class: dark
       background:
@@ -38,6 +58,25 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: markdown
+    content:
+      title: ''
+      subtitle: ''
+      text: |-        
+
+    design:
+      css_class: dark
+      css_style: "min-height: 100vh;"
+      background:
+        color: black
+        image:
+          # Add your image background to `assets/media/`.
+          filename: avatar.png
+          filters:
+            brightness: 1.0
+          size: cover
+          position: center
+          parallax: true
   - block: markdown
     content:
       title: '🎯 Meine Mission'
