@@ -26,7 +26,7 @@ tags:
 ---
 ## 🎶 Merülés a zenei világomba
 
-![ÉN](/hu/post/get-started/break.png)
+![ÉN](/en/post/get-started/break.gif)
 
 Szia, kedves olvasóm!👋
 
@@ -59,7 +59,7 @@ A *Star Trek*-ben Spock mondása volt: 🖖 *Élj sokáig és jólétben!* 😊 
 
 Ha annyira szereted a zenét és a táncot, mint én, akkor ezt értékelni fogod:
 
-![Breakdance Bear GIF](/hu/post/get-started/bear.gif)
+![Breakdance Bear GIF](/en/post/get-started/bear.gif)
 
 Az egyik kedvenc breaktánc stílusom, amit rendszeresen gyakorlok, az **"Animation Break "** - ha valaha profi leszek benne, szeretnék egyszer egy ilyen bemutatót tartani!
 
@@ -210,6 +210,8 @@ Egy másik művész Kebu, aki szintén visszarepít a csodálatos 80-as évekbe 
 ### További inspiráló 80-as évekbeli zenei gyöngyszemek:
 
 {{< youtube wFOEubKzyQA >}} 
+Ez a tévésorozat annak idején a kedvenc öltözködési stílusomat is meghatározta. Nem véletlen, hogy a mesterséges intelligencia segítségével Sonny Crockett stílusában öltöztem fel. 😎
+![Hunor Crockett](/en/post/get-started/crockett.png)
 {{< youtube 8FZkZKPZo4k >}} 
 {{< youtube 3pYNd0MSVXs >}} 
 {{< youtube ZvMsp7s78Do >}} 

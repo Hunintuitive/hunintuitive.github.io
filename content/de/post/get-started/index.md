@@ -25,7 +25,7 @@ tags:
 ---
 ## 🎶 Ein Tauchgang in meine musikalische Welt
 
-![ICH](/de/post/get-started/break.png)
+![ICH](/en/post/get-started/break.gif)
 
 Hallo, lieber Leser!👋
 
@@ -58,7 +58,7 @@ Genieße die Vibes!
 
 Wenn du Musik und Tanz genauso liebst wie ich, wirst du dies zu schätzen wissen:
 
-![Breakdance Bear GIF](/de/post/get-started/bear.gif)
+![Breakdance Bear GIF](/en/post/get-started/bear.gif)
 
 Einer meiner Lieblings-Breakdance-Stile, die ich praktiziere, ist der **"Animation Break"** - sollte ich jemals Profi werden, würde ich gerne eines Tages eine Show wie diese aufführen!
 
@@ -207,6 +207,8 @@ Ein weiterer Künstler ist Kebu, der mich ebenfalls in die wunderbaren 80er Jahr
 ### Weitere inspirierende Juwelen der 80er-Jahre-Musik:
 
 {{< youtube wFOEubKzyQA >}} 
+Diese TV-Serie hat damals auch meinen bevorzugten Kleidungsstil geprägt. Nicht umsonst habe ich mich mithilfe von KI wie Sonny Crockett eingekleidet.😎
+![Hunor Crockett](/en/post/get-started/crockett.png)
 {{< youtube 8FZkZKPZo4k >}} 
 {{< youtube 3pYNd0MSVXs >}} 
 {{< youtube ZvMsp7s78Do >}} 

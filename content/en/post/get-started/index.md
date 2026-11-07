@@ -26,7 +26,7 @@ tags:
 ---
 ## 🎶 A Dive Into My Musical World
 
-![ME](/en/post/get-started/break.png)
+![ME](/en/post/get-started/break.gif)
 
 Hello, dear reader!👋
 
@@ -209,6 +209,8 @@ Another artist is Kebu, who also transports me back to the wonderful 80s and my 
 ### Other inspiring 80's Music gems:
 
 {{< youtube wFOEubKzyQA >}} 
+This TV series also helped shape my preferred clothing style back in the day. It's no coincidence that I used AI to dress up like Sonny Crockett. 😎
+![Hunor Crockett](/en/post/get-started/crockett.png)
 {{< youtube 8FZkZKPZo4k >}} 
 {{< youtube 3pYNd0MSVXs >}} 
 {{< youtube ZvMsp7s78Do >}} 

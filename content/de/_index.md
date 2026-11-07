@@ -11,17 +11,9 @@ design:
 sections:
   - block: markdown
     content:
-      title: 'Lernen, Wachsen und Verbindungen schaffen'
-      subtitle: ''
-      text: |-
-        > Ein Raum, in dem ich meine Reise, Erfahrungen und Erkenntnisse teile - in der Hoffnung, andere auf ihrem eigenen Weg zu inspirieren und zu unterstützen.
-
-        > Diese Website ist ein Ort zum Üben und Nachdenken. Viele der hier geteilten Ideen gelten derzeit als wahr, doch ich bin mir bewusst, dass nichts -- und niemand -- unfehlbar ist. Meine eigenen Unvollkommenheiten, Wissenslücken und sich weiterentwickelnden Perspektiven sind Teil dessen, was hier präsentiert wird. Diese Seiten sind nicht als endgültige Schlussfolgerungen gedacht, sondern als Teil eines fortlaufenden Prozesses des Lernens, Erforschens und Verfeinerns von Gedanken.
-  - block: markdown
-    content:
       title: ''
       subtitle: ''
-      text: |-    
+      text: |- 
 
     design:
       css_class: dark
@@ -33,9 +25,19 @@ sections:
           filename: avatar.png
           filters:
             brightness: 1.0
-          size: cover
+          size: contain
           position: center
-          parallax: true
+          parallax: false
+
+  - block: markdown
+    content:
+      title: 'Lernen, Wachsen und Verbindungen schaffen'
+      subtitle: ''
+      text: |-
+        > Ein Raum, in dem ich meine Reise, Erfahrungen und Erkenntnisse teile - in der Hoffnung, andere auf ihrem eigenen Weg zu inspirieren und zu unterstützen.
+
+        > Diese Website ist ein Ort zum Üben und Nachdenken. Viele der hier geteilten Ideen gelten derzeit als wahr, doch ich bin mir bewusst, dass nichts -- und niemand -- unfehlbar ist. Meine eigenen Unvollkommenheiten, Wissenslücken und sich weiterentwickelnden Perspektiven sind Teil dessen, was hier präsentiert wird. Diese Seiten sind nicht als endgültige Schlussfolgerungen gedacht, sondern als Teil eines fortlaufenden Prozesses des Lernens, Erforschens und Verfeinerns von Gedanken.
+
   - block: resume-biography-3
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
@@ -58,25 +60,7 @@ sections:
           size: cover
           position: center
           parallax: true
-  - block: markdown
-    content:
-      title: ''
-      subtitle: ''
-      text: |-        
 
-    design:
-      css_class: dark
-      css_style: "min-height: 100vh;"
-      background:
-        color: black
-        image:
-          # Add your image background to `assets/media/`.
-          filename: avatar.png
-          filters:
-            brightness: 1.0
-          size: cover
-          position: center
-          parallax: true
   - block: markdown
     content:
       title: '🎯 Meine Mission'
@@ -98,6 +82,7 @@ sections:
 
     design:
       columns: '1'
+
   - block: markdown
     content:
       title: 'KI und der Schreibprozess'
@@ -111,6 +96,7 @@ sections:
 
     design:
       columns: '1'
+
   - block: collection
     id: papers
     content:
@@ -122,6 +108,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+
   - block: collection
     content:
       title: Neueste Veröffentlichungen
@@ -132,6 +119,7 @@ sections:
         exclude_featured: true
     design:
       view: citation
+
   - block: collection
     id: talks
     content:
@@ -142,6 +130,7 @@ sections:
     design:
       view: article-grid
       columns: 1
+
   - block: collection
     id: news
     content:
