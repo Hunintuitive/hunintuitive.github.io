@@ -27,13 +27,9 @@ summary: Hogyan válasszunk olyan klímaberendezést, amely nemcsak a katalógus
 tags:
 - klímaválasztás
 - klíma fűtésre
-- inverteres klíma
-- hőszivattyús fűtés
 - klíma hatásfok	
 - COP SCOP és SEER
 - klíma műszaki adatok
-- klíma méretezés
-- klíma fűtési teljesítmény
 - klíma vásárlási útmutató
 
 

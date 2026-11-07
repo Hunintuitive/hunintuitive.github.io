@@ -27,13 +27,9 @@ summary: How do you choose an air conditioner that performs well not only on pap
 tags:
 - air conditioner selection
 - heating with air conditioning
-- inverter air conditioner
-- air source heat pump
 - air conditioner efficiency	
 - COP SCOP SEER
 - air conditioner specifications
-- heat pump performance
-- air conditioner sizing
 - air conditioner buying guide
 
 
@@ -148,7 +144,7 @@ It is also important to remember that nominal capacity alone does not tell the w
 
 ### Same Nominal Capacity, Different Technical Design
 
-wo air conditioners with the same nominal capacity can differ significantly in terms of engineering quality, technical design and actual performance.
+Two air conditioners with the same nominal capacity can differ significantly in terms of engineering quality, technical design and actual performance.
 
 For example, two 3.5 kW inverter air conditioners do not necessarily provide the same heating capacity, efficiency or modulation capability. The difference may lie not in their nominal capacity, but in the technology and engineering behind it.
 

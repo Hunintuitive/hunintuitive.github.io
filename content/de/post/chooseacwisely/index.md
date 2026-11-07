@@ -27,13 +27,9 @@ summary: Wie findet man eine Klimaanlage, die nicht nur im Prospekt überzeugt, 
 tags:
 - Klimaanlage auswählen
 - Heizen mit Klimaanlage
-- Inverter Klimaanlage
-- Luft-Luft-Wärmepumpe
 - Energieeffizienz Klimaanlage
 - COP SCOP SEER
 - technische Daten Klimaanlage
-- Heizleistung Wärmepumpe
-- Klimaanlage dimensionieren
 - Klimaanlage Kaufberatung
 
 
