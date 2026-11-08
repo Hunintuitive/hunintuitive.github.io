@@ -25,8 +25,6 @@ tags:
 ---
 ## 🎶 Ein Tauchgang in meine musikalische Welt
 
-![ICH](/en/post/get-started/break.gif)
-
 Hallo, lieber Leser!👋
 
 Willkommen in meiner kleinen Ecke des Internets. Dies war mein allererster Blogbeitrag - und da ich vorhabe, ihn von Zeit zu Zeit zu aktualisieren und meine Leidenschaften, Entdeckungen und Geschichten mitzuteilen, ist dies die neueste Version davon.
@@ -65,6 +63,9 @@ Einer meiner Lieblings-Breakdance-Stile, die ich praktiziere, ist der **"Animati
 {{< youtube 2dq9d-EUECc >}}
 {{< youtube 3qvCA60lPY8 >}}
 {{< youtube uOUVE5rGmhM >}}
+
+**Platzhalter 🤭**
+![ICH](/en/post/get-started/break.gif)
 
 ---
 

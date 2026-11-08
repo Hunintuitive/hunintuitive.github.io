@@ -26,8 +26,6 @@ tags:
 ---
 ## 🎶 Merülés a zenei világomba
 
-![ÉN](/en/post/get-started/break.gif)
-
 Szia, kedves olvasóm!👋
 
 Üdvözöllek az én kis internetes zugomban. Ez volt a legelső blogbejegyzésem - és mivel tervezem, hogy időről időre frissíteni fogom, megosztva szenvedélyeimet, felfedezéseimet és történeteimet, ez most a legfrissebb verziója.
@@ -66,6 +64,9 @@ Az egyik kedvenc breaktánc stílusom, amit rendszeresen gyakorlok, az **"Animat
 {{< youtube 2dq9d-EUECc >}}
 {{< youtube 3qvCA60lPY8 >}}
 {{< youtube uOUVE5rGmhM >}}
+
+**Helyörző 🤭**
+![ÉN](/en/post/get-started/break.gif)
 
 ---
 

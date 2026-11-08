@@ -26,8 +26,6 @@ tags:
 ---
 ## 🎶 A Dive Into My Musical World
 
-![ME](/en/post/get-started/break.gif)
-
 Hello, dear reader!👋
 
 Welcome to my little corner of the internet. This was my very first blog post - and as I plan to update it from time to time, sharing my passions, discoveries, and stories, this is the latest version of it.
@@ -66,7 +64,9 @@ One of my favorite breakdance styles that I practice is **"Animation Break"** - 
 {{< youtube 2dq9d-EUECc >}}
 {{< youtube 3qvCA60lPY8 >}}
 {{< youtube uOUVE5rGmhM >}}
-  
+
+**Placeholder 🤭**
+![ME](/en/post/get-started/break.gif)
 
 ---
 
