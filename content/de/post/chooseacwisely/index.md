@@ -92,9 +92,38 @@ Die ersten Fragen sollten deshalb nicht lauten, welche Marke wir kaufen wollen, 
 
 Die Quadratmeterzahl allein reicht für die Auslegung nicht aus. Zwei Wohnungen mit gleicher Fläche können einen sehr unterschiedlichen Wärmebedarf haben.
 
+Auch das Raumvolumen ist eine hilfreiche Kenngröße. Es lässt sich mit dieser einfachen Formel berechnen:
+
+**V = A × h**
+
+Dabei gilt:
+- **V** ist das Raumvolumen in Kubikmetern (m³);
+- **A** ist die Grundfläche in Quadratmetern (m²);
+- **h** ist die Raumhöhe in Metern (m).
+
+Beispiel: Ein Raum mit 20 m² Grundfläche und 2,7 m Raumhöhe hat folgendes Volumen:
+
+**20 m² × 2,7 m = 54 m³**
+
+Das Raumvolumen beschreibt den Raum vollständiger als die Grundfläche allein und kann auch bei der Einschätzung des Luftwechsels und der Lüftungswärmelast hilfreich sein. Für die Bestimmung der erforderlichen Klimaanlagenleistung reicht es jedoch ebenfalls nicht aus. Eine pauschale Faustregel in W/m³ oder W/m² sollte keine fachgerechte Auslegung ersetzen. Die tatsächliche Kühllast und der Heizwärmeverlust müssen für jeden Raum getrennt betrachtet werden.
+
+Dabei sind unter anderem folgende Faktoren zu berücksichtigen:
+
+- die Dämmung der Außenwände, der Decke und des Fußbodens;
+- Größe, Art und Ausrichtung der Fenster;
+- Sonneneinstrahlung und Verschattung;
+- die Differenz zwischen Außen- und gewünschter Innentemperatur;
+- Luftwechsel, Lüftung und mögliche Undichtigkeiten;
+- Wärmeabgabe durch Personen, Beleuchtung und elektrische Geräte;
+- angrenzende Räume und tatsächliche Nutzungsgewohnheiten.
+
+Heizwärmeverlust und Kühllast sind nicht zwangsläufig gleich. Eine große, nach Süden ausgerichtete Glasfläche kann im Sommer eine erhebliche Kühllast verursachen. Der Wärmeverlust im Winter hängt dagegen unter anderem von der Qualität der Verglasung und der Dämmung ab. Das Raumvolumen ist somit eine hilfreiche beschreibende Größe; bei der Auslegung müssen jedoch die Wärmeübertragung durch die Gebäudehülle, solare und interne Wärmeeinträge sowie der Luftwechsel gemeinsam berücksichtigt werden.
+
+Das Raumvolumen ist somit eine wichtige Eingangsgröße für die Auslegung, aber keine eigenständige Dimensionierungsmethode. Die endgültige Leistungswahl sollte auf einer raumweisen Berechnung der Heiz- und Kühllast beruhen.
+
 ## 📊 2. Was sagen die Effizienzwerte tatsächlich aus?
 
-### COP - momentane Heizleistung im Verhältnis zur Stromaufnahme
+### COP - Leistungszahl im Heizbetrieb
 
 Der COP (Coefficient of Performance) gibt an, wie viel Wärme eine Wärmepumpe unter bestimmten Prüfbedingungen pro eingesetzter Einheit elektrischer Energie liefert.
 
@@ -104,7 +133,7 @@ Die zusätzliche Wärme entsteht nicht aus dem Nichts: Sie wird aus der Umgebung
 
 Der COP ist kein fester Wert. Die Leistung bei +7 °C kann sich deutlich von der bei -10 °C unterscheiden. Auch die Luftfeuchtigkeit und die Abtauvorgänge beeinflussen den tatsächlichen Betrieb.
 
-### SCOP - saisonale Heizleistung
+### SCOP - saisonale Leistungszahl im Heizbetrieb
 
 Der SCOP ist ein normierter saisonaler Effizienzkennwert für den Heizbetrieb. Er ist für den Vergleich von Geräten hilfreich, entspricht aber nicht automatisch der Effizienz, die ein bestimmtes Gerät in einer konkreten Wohnung tatsächlich erreichen wird.
 
@@ -164,6 +193,24 @@ Deshalb reicht es beim Vergleich von Klimaanlagen nicht aus, ausschließlich die
 Ein größerer Wärmetauscher, ein modernerer Verdichter oder ein optimierter Kältemittelkreislauf garantieren für sich genommen noch keine höhere Effizienz. Diese Merkmale können technische Vorteile bieten. Ob sie sich tatsächlich positiv auswirken, muss jedoch anhand der Leistung des Gesamtsystems und entsprechender Messdaten beurteilt werden.
 
 **Entscheidend ist: Wir benötigen nicht zwangsläufig eine größere Klimaanlage, sondern unter Umständen ein technisch besser konstruiertes und effizienteres Gerät, das die gleiche Nennleistung mit einem geringeren Energieaufwand bereitstellen kann.**
+
+### Mono-Split oder Multi-Split?
+
+Wenn mehrere Räume klimatisiert werden sollen, geht es nicht nur um die Anzahl der benötigten Innengeräte. Es stellt sich auch die Frage, ob separate Mono-Split-Anlagen oder ein Multi-Split-System mit gemeinsamem Außengerät sinnvoller sind.
+
+Multi-Split-Systeme bieten durchaus praktische Vorteile: Ein Außengerät kann mehrere Innengeräte versorgen. Dadurch sinkt die Zahl der Außengeräte und der benötigte Platz. Das kann besonders dann wichtig sein, wenn Fassadenvorschriften, bauliche Einschränkungen oder ästhetische Gründe die Zahl der Außengeräte begrenzen.
+
+Ein Multi-Split-System ist jedoch nicht einfach eine Zusammenfassung mehrerer Mono-Split-Anlagen. Die verfügbare Leistung des Außengeräts ist begrenzt und wird entsprechend der Systemauslegung und den jeweiligen Betriebsbedingungen auf die angeschlossenen Innengeräte verteilt. Werden beispielsweise zwei Innengeräte mit jeweils 3,5 kW Nennleistung an ein 5-kW-Außengerät angeschlossen, bedeutet das nicht, dass beide gleichzeitig jeweils 3,5 kW liefern können. Die tatsächlich gleichzeitig verfügbare Leistung hängt von der konkreten Kombination, der Außentemperatur, dem Betriebszustand und den Kombinationstabellen des Herstellers ab. Die Summe der Nennleistungen der Innengeräte entspricht also nicht der gleichzeitigen Leistung des Gesamtsystems.
+
+Auch der Teillastbetrieb sollte geprüft werden. Wenn beispielsweise nur ein Innengerät läuft, kann die Mindestleistung des Außengeräts bei manchen Systemen über dem aktuellen Bedarf des Raumes liegen. Das kann häufigeres Ein- und Ausschalten verursachen. Das gilt jedoch nicht für jedes Multi-Split-System: Entscheidend sind die technischen Daten des konkreten Modells, seine Mindestleistung und die Kombinationstabellen des Herstellers.
+
+Herkömmliche Multi-Split-Systeme für Wohngebäude arbeiten außerdem üblicherweise in einer gemeinsamen Betriebsart: Die angeschlossenen Innengeräte heizen oder kühlen in der Regel gemeinsam. Es ist also normalerweise nicht möglich, einen Raum zu heizen und einen anderen gleichzeitig zu kühlen. Spezielle VRF-Systeme mit Wärmerückgewinnung können hiervon abweichen. Deshalb sollte immer die Dokumentation des konkreten Systems geprüft werden.
+
+Die Rohrleitungen zu mehreren Innengeräten können komplexer sein und zusätzliche Anschlüsse sowie Begrenzungen bei Leitungslängen und Höhenunterschieden mit sich bringen. Eine sorgfältige Planung, Installation und Inbetriebnahme ist daher besonders wichtig. Das gemeinsame Außengerät ist zugleich ein gemeinsamer Fehlerpunkt: Bestimmte Störungen können alle angeschlossenen Innengeräte betreffen.
+
+Zwei oder mehr getrennte Mono-Split-Anlagen verfügen dagegen über eigene Außengeräte und Verdichter, lassen sich unabhängig regeln und bieten eine größere betriebliche Unabhängigkeit. Fällt eine Anlage aus, kann die andere weiterlaufen. Je nach den konkreten Geräten kann auch der Teillastbetrieb flexibler sein. Nachteile sind die größere Zahl an Außengeräten, der höhere Platzbedarf und gegebenenfalls höhere Anschaffungskosten.
+
+Es gibt keine allgemein überlegene Lösung: Multi-Split und mehrere Mono-Split-Anlagen bringen unterschiedliche Kompromisse mit sich. Für die Entscheidung sollten die Herstellerdaten der konkreten Innen-/Außengerätekombinationen, das Verhalten im Teillastbetrieb, die Installationsbedingungen und die Folgen eines möglichen Ausfalls miteinander verglichen werden.
 
 ### Heizleistung bei niedrigen Außentemperaturen
 
@@ -249,7 +296,7 @@ Zu prüfen sind:
 
 Die Installation sollte von einer Elektrofachkraft geprüft werden. Aus der nominellen Heiz- oder Kühlleistung allein lässt sich nicht ableiten, ob das vorhandene Stromnetz neue Geräte sicher versorgen kann.
 
-In Ungarn kann der H-Tarif für berechtigte Wärmepumpenanlagen genutzt werden, die an einen separat gemessenen Stromkreis angeschlossen sind und die geltenden Voraussetzungen erfüllen. Die vergünstigte Heizperiode dauert vom 15. Oktober bis zum 15. April. Die Anspruchsvoraussetzungen und Anschlussbedingungen müssen anhand der jeweils gültigen Vorschriften und der Vorgaben des Versorgers geprüft werden.
+In Ungarn kann der H-Tarif für berechtigte Wärmepumpenanlagen genutzt werden, die an einen separat gemessenen Stromkreis angeschlossen sind und die geltenden Voraussetzungen erfüllen. Nach den aktuellen MVM-Angaben müssen Luft-Luft-Wärmepumpen einen SCOP von mindestens 3,4 erreichen; außerdem muss das Gerät dauerhaft und nicht über einen Stecker an den separat gemessenen Stromkreis angeschlossen sein. Die vergünstigte Heizperiode dauert vom 15. Oktober bis zum 15. April. Vor dem Kauf sollten die Zulässigkeit des konkreten Geräts und die Anschlussbedingungen beim zuständigen Verteilnetzbetreiber geprüft werden, da die technischen und administrativen Einzelheiten entscheidend sind.
 
 Der H-Tarif kann ein wichtiger Vorteil sein. Die Wirtschaftlichkeit hängt jedoch nicht allein vom Stromtarif ab. Auch die tatsächliche Effizienz, der Wärmebedarf des Gebäudes, die Nutzung, die Investitionskosten und die Wartung spielen eine Rolle.
 
@@ -274,9 +321,9 @@ Die angegebene Wohnfläche der Wohnung beträgt 60 m², während die Summe der a
 
 In jedem der beiden Zimmer ist ein Innengerät vom Typ Gree Amber GWH12YC-K6DNA1A/I installiert. Die Geräte wurden ungefähr 2018-2019 gekauft.
 
-Die nominelle Kühlleistung dieses Modells beträgt 3,5 kW, die nominelle Heizleistung 3,81 kW. In den veröffentlichten Produktdaten werden außerdem SCOP 4,4 und SEER 8,5 angegeben. Das sind standardisierte Produktwerte und keine Messungen in dieser Wohnung.
+Die nominelle Kühlleistung dieses Modells beträgt 3,5 kW, die nominelle Heizleistung 3,81 kW. Das Energielabel weist einen SCOP von 4,4 für die durchschnittliche Klimazone und einen SEER von 8,5 für den Kühlbetrieb aus. Dies sind standardisierte Herstellerangaben und keine Messungen in dieser Wohnung. Sie bedeuten auch nicht, dass das Gerät bei jeder Außentemperatur seine nominelle Heizleistung abgibt.
 
-Im Küchen- und Essbereich ist keine separate Klimaanlage installiert. Bei Bedarf wird ein Midea-Luftentfeuchter mit einer nominalen Entfeuchtungsleistung von 50 Litern pro Tag eingesetzt. Während des Betriebs gibt das Gerät auch Wärme ab, die zur Erwärmung des Raumes beitragen kann. Die nominale elektrische Leistungsaufnahme des Geräts beträgt 1.060 W.
+Im Küchen- und Essbereich ist keine separate Klimaanlage installiert. Bei Bedarf wird ein Midea-Luftentfeuchter mit einer angegebenen Entfeuchtungsleistung von 50 Litern pro Tag eingesetzt. Dieser Wert gilt für festgelegte warme und feuchte Prüfbedingungen; in einem kühleren oder trockeneren Raum kann die tatsächliche Entfeuchtungsleistung deutlich geringer sein. Während des Betriebs gibt das Gerät auch Wärme ab, die zur Erwärmung des Raumes beitragen kann. Die Angabe von 1.060 W ist als maximale elektrische Leistungsaufnahme zu verstehen, nicht als kontinuierlicher Nennverbrauch.
 
 ### Was zeigt die langjährige Nutzung?
 
@@ -294,13 +341,13 @@ Ein Luftentfeuchter kann insbesondere im Winter eine sinnvolle Ergänzung zur He
 
 Ein kompressorbasierter Luftentfeuchter mit Wärmepumpentechnologie - wie beispielsweise das hier gezeigte Midea-Gerät - erfüllt in diesem Fall gleich zwei Funktionen: Er reduziert die Luftfeuchtigkeit und gibt während des Betriebs gleichzeitig Wärme an den Raum ab.
 
-Besonders interessant ist dabei der zweite Aspekt. Das Gerät gibt sowohl die Wärme, die bei der Kondensation der der Raumluft entzogenen Feuchtigkeit entsteht, als auch einen Teil der aufgenommenen elektrischen Energie in Form von Wärme an den Raum ab. Dadurch kann es neben der Entfeuchtung auch einen Beitrag zur Beheizung des Raumes leisten.
+Das Gerät gibt die latente Wärme, die bei der Kondensation des der Raumluft entzogenen Wasserdampfs frei wird, über den Kältekreislauf an den Raum ab. Auch die aufgenommene elektrische Energie wird letztlich in Wärme umgewandelt. Die an den Raum abgegebene Wärme stammt somit sowohl aus dem Kondensationsprozess als auch aus der vom Gerät verbrauchten elektrischen Energie. Das ist keine „kostenlose“ Heizung: Auch für die ursprüngliche Verdunstung der Feuchtigkeit wurde Energie benötigt, und die Hauptaufgabe des Luftentfeuchters ist die Feuchtigkeitsentfernung, nicht die wirtschaftliche Raumheizung.
 
-**Wenn eine Entfeuchtung ohnehin erforderlich ist, kann die vom Gerät abgegebene Wärme somit eine sinnvolle Ergänzung zur winterlichen Raumheizung darstellen. In diesem Fall bezahlen wir nicht ausschließlich für die Entfeuchtung, sondern profitieren gleichzeitig auch von der Wärme, die während des Betriebs entsteht und im Wohnraum genutzt wird.**
+**Wenn die Entfeuchtung ohnehin erforderlich ist, kann diese Wärmeabgabe im Winter ein nützlicher Nebeneffekt sein.** Das bedeutet jedoch nicht automatisch, dass ein Luftentfeuchter unter allen Bedingungen wirtschaftlicher heizt als ein elektrischer Widerstandsheizer. Das tatsächliche Ergebnis hängt von den Betriebsbedingungen, dem Energieverbrauch und davon ab, ob eine Entfeuchtung überhaupt erforderlich ist.
 
 Wichtig ist jedoch: Ein Luftentfeuchter ersetzt weder eine ausreichende Beheizung noch regelmäßiges Lüften oder die Beseitigung der eigentlichen Feuchtigkeitsquellen. Bei der Bewertung der Wirtschaftlichkeit des Gesamtsystems müssen daher auch der Energiebedarf für die Entfeuchtung und die tatsächliche Leistungsfähigkeit des Geräts berücksichtigt werden.
 
-Das hier als Beispiel verwendete Midea-Gerät verfügt über eine nominale Entfeuchtungsleistung von 50 Litern pro Tag und eine nominale elektrische Leistungsaufnahme von 1.060 W. Dabei beschreiben die beiden Werte unterschiedliche Eigenschaften: Der erste Wert gibt die Entfeuchtungskapazität unter definierten Prüfbedingungen an, während der zweite die elektrische Leistungsaufnahme des Geräts beschreibt.
+Das hier als Beispiel verwendete Midea-Gerät hat eine angegebene Entfeuchtungsleistung von 50 Litern pro Tag, die vom Hersteller unter festgelegten Temperatur- und Feuchtigkeitsbedingungen ermittelt wird. Dieser Wert ist nicht als erwartbare Tagesleistung in einer kalten Winterwohnung zu verstehen: Bei niedrigeren Temperaturen und geringerer relativer Luftfeuchtigkeit kann die Entfeuchtungsleistung deutlich sinken. Die Angabe von 1.060 W bezeichnet die maximale elektrische Leistungsaufnahme und nicht zwangsläufig den kontinuierlichen oder typischen Verbrauch im Betrieb. Zum Beispiel nennt das Datenblatt des Midea MDDP-50DEN7-QA3-WIFI eine Entfeuchtungsleistung von 50 Litern pro Tag bei Prüfbedingungen von 30 °C und 80 % relativer Luftfeuchtigkeit. Unter denselben Bedingungen beträgt die Leistungsaufnahme 850 W; 1.060 W ist die maximale Leistungsaufnahme. Diese Angaben gelten für das hier verwendete Gerät jedoch nur, wenn es sich tatsächlich um genau diese Modellvariante handelt. Die Werte des konkreten Geräts sollten daher immer anhand des Typenschilds und des Herstellerdatenblatts überprüft werden.
 
 ## 🔍 10. Wie vergleichen wir konkrete Modelle?
 
@@ -315,6 +362,13 @@ Nützliche Quellen sind:
 - technische Videos und Erklärungen;
 - langfristige Erfahrungsberichte;
 - Rückmeldungen von lokalen Installateuren und Servicetechnikern.
+
+Nützliche Ausgangspunkte zur Überprüfung:
+
+- [Europäische Kommission – Energielabels für Klimageräte und EPREL-Daten](https://energy-efficient-products.ec.europa.eu/product-list/air-conditioners-and-comfort-fans_en)
+- [MVM-Netz – Erklärung zum H-Tarif und technische Voraussetzungen](https://mvmhalozat.hu/attachments/40414)
+- [Natural Resources Canada – Wärmepumpen und Abtauzyklen](https://natural-resources.canada.ca/energy-efficiency/energy-star/heating-cooling-heat-pump)
+- [Midea – Produktdaten der MDDP-Luftentfeuchter](https://www.midea.com.ua/uk/products/pobutovi-kondytsionery-osushuvachi-povitrya/osushuvachi-povitrya/mddp)
 
 Dabei sollten wir verschiedene Informationsarten auseinanderhalten:
 
@@ -361,12 +415,17 @@ Das ist die Betrachtung der gesamten Lebenszykluskosten (Total Cost of Ownership
 
 Dieses Thema wurde nicht in wenigen Minuten anhand einiger Produktseiten abgehandelt. Ich habe mich über viele Stunden und in mehreren Gesprächsrunden mit den technischen Grundlagen des Heizens mit Klimaanlagen beschäftigt: mit Effizienzkennwerten, Betrieb bei niedrigen Temperaturen, Abtauvorgängen, Wartungsfreundlichkeit, Reparierbarkeit und Wirtschaftlichkeit.
 
-Dazu habe ich technische Erklärungen, Herstellerunterlagen, technische Daten und Videos ausgewertet. Dazu gehörten auch die Erklärvideos von **Energiatudat - Gulyás Levente**, in denen unter anderem der Unterschied zwischen für den Heizbetrieb optimierten und lediglich wintertauglich gemachten Klimageräten erläutert wird.
+Zur Recherche gehörten technische Erläuterungen, Herstellerunterlagen, technische Daten und Videos. Dazu zählten auch die Erklärvideos von **Energiatudat - Gulyás Levente**. Ich habe sie aufgenommen, weil sie technische Aspekte der Klimatisierung anhand praktischer Beispiele verständlich vermitteln, die bei der Geräteauswahl leicht in den Hintergrund geraten können. Für mich waren sie eine hilfreiche fachliche Orientierung. Angaben und Aussagen zu konkreten Geräten sollten dennoch mit den Herstellerunterlagen des jeweiligen Modells und, sofern verfügbar, mit unabhängigen Messungen abgeglichen werden.
 
+**Welche Klimaanlagen sind tatsächlich für das Heizen optimiert?**
 {{< youtube 48takfflzKk >}}
+**SCOP, SEER und Energieeffizienzklassen**
 {{< youtube 8hucapL8-Vg >}}
+**Wie kann man mit einer Klimaanlage effizient kühlen?**
 {{< youtube dAVXaZaX6Rk >}}
+**Heizen mit einer Klimaanlage lohnt sich nicht nur mit dem H-Tarif. Wann lohnt sich ein Wechsel zum H-Tarif und wann nicht?**
 {{< youtube tg-9OpRfpnQ >}}
+**Die richtige Reinigung von Klimaanlagen macht einen großen Unterschied - dabei kommt es auf die richtige Vorgehensweise an**
 {{< youtube dJl9F3q610o >}}
 
 KI diente dabei als Recherche- und Denkwerkzeug: Ich habe Fragen formuliert, technische Kriterien geordnet, Aussagen überprüft und unterschiedliche Perspektiven miteinander verglichen.
@@ -393,15 +452,14 @@ Empfiehl nicht sofort konkrete Produkte. Erfasse zuerst die Immobilie, die Nutzu
 
 **1. Bedarfsermittlung**
 
-Frage mich nach:
-
-- Wohnfläche, Raumhöhe und Grundriss;
-- Größe und Anordnung der Räume sowie deren Verbindung untereinander;
-- Stockwerk, Ausrichtung, Dach oder beheizter Wohnung darüber;
-- Außenwänden, Dämmung, Fenstern und Verschattung;
-- vorhandener Heiz- und Kühltechnik;
-- gewünschter Tag- und Nachttemperatur;
-- täglichem Nutzungsverhalten;
+- Gesamtwohnfläche, Raumhöhe und Grundriss der Immobilie;
+- Grundfläche und Raumhöhe jedes einzelnen Raumes; berechne daraus das jeweilige Raumvolumen in Kubikmetern (m³);
+- Anordnung und Verbindung der Räume sowie Möglichkeiten für den Luftaustausch zwischen ihnen;
+- Stockwerk, Ausrichtung, Dach oder beheizte Wohnung darüber;
+- Außenwände, Decke, Fußboden, Dämmung, Fenster und Verschattung;
+- vorhandene Heiz- und Kühltechnik;
+- gewünschte Tag- und Nachttemperatur;
+- tägliches Nutzungsverhalten;
 - Anforderungen an Geräuschentwicklung, Luftströmung und Komfort;
 - Elektroinstallation, Phasen, Sicherungen und gegebenenfalls Sondertarif.
 
@@ -409,7 +467,7 @@ Stelle möglichst immer nur eine wichtige Frage auf einmal. Wenn ich eine Angabe
 
 **2. Technische Anforderungen**
 
-Leite aus der Bestandsaufnahme ab:
+Leite aus der Bestandsaufnahme für jeden Raum getrennt ab:
 
 - benötigte Heiz- und Kühlleistung;
 - minimale und maximale Leistung;
@@ -421,7 +479,13 @@ Leite aus der Bestandsaufnahme ab:
 - Wartungsfreundlichkeit und Reparierbarkeit;
 - Voraussetzungen der Elektroinstallation.
 
-Dimensioniere das Gerät nicht allein anhand der Quadratmeterzahl.
+Berechne das Raumvolumen (Grundfläche × Raumhöhe) und berücksichtige es als eine der Eingangsgrößen für die Auslegung. Verwende es jedoch nicht allein zur Bestimmung der erforderlichen Leistung. Nutze für die endgültige Dimensionierung keine pauschale Faustregel in W/m³ oder W/m². Ermittle Heizwärmeverluste und Kühllasten getrennt und berücksichtige dabei die Dämmung von Außenwänden, Decke und Fußboden, Größe, Art und Ausrichtung der Fenster, Sonneneinstrahlung und Verschattung, Luftwechsel, Lüftung und Undichtigkeiten, interne Wärmequellen, angrenzende Räume und das tatsächliche Nutzungsverhalten.
+
+Wenn mehrere Räume klimatisiert werden sollen, vergleiche ein Multi-Split-System mit zwei oder mehr getrennten Mono-Split-Anlagen. Prüfe bei Multi-Split-Systemen die Kombinationstabellen des Herstellers für die konkrete Konfiguration, die gleichzeitige Heiz- und Kühlleistung, die Kapazität des Außengeräts, die Mindestleistung des Systems und das Verhalten, wenn nur ein Innengerät in Betrieb ist. Bewerte außerdem Teillastbetrieb, Regelbarkeit, Ausfallrisiken, Installation und Wartung.
+
+Wähle keine Geräte allein anhand der Quadratmeter- oder Kubikmeterzahl aus. Schätze die erforderliche Leistung nicht anhand fehlender Angaben und leite keine minimalen oder maximalen Leistungswerte ab, die der Hersteller nicht veröffentlicht hat. Kennzeichne nicht verfügbare wichtige Daten ausdrücklich als unbekannt. Wenn die Angaben nicht ausreichen, benenne die fehlenden Informationen und erkläre, welche zusätzliche Vor-Ort-Prüfung oder Heiz-/Kühllastberechnung erforderlich ist.
+
+Wenn der ungarische H-Tarif relevant ist, prüfe auch die jeweils geltenden Voraussetzungen. Nach den aktuellen MVM-Angaben ist für Luft-Luft-Wärmepumpen ein SCOP von mindestens 3,4 erforderlich. Ob das konkrete Modell und sein elektrischer Anschluss anerkannt werden, muss jedoch mit dem zuständigen Verteilnetzbetreiber geklärt werden.
 
 **3. Belege und Quellen**
 
