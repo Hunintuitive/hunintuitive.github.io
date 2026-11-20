@@ -26,6 +26,8 @@ tags:
 ---
 ## 🎶 Merülés a zenei világomba
 
+![Hunor Crockett](/en/post/get-started/me.png)
+
 Szia, kedves olvasóm!👋
 
 Üdvözöllek az én kis internetes zugomban. Ez volt a legelső blogbejegyzésem - és mivel tervezem, hogy időről időre frissíteni fogom, megosztva szenvedélyeimet, felfedezéseimet és történeteimet, ez most a legfrissebb verziója.

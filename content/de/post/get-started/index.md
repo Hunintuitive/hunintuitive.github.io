@@ -25,6 +25,8 @@ tags:
 ---
 ## 🎶 Ein Tauchgang in meine musikalische Welt
 
+![Hunor Crockett](/en/post/get-started/me.png)
+
 Hallo, lieber Leser!👋
 
 Willkommen in meiner kleinen Ecke des Internets. Dies war mein allererster Blogbeitrag - und da ich vorhabe, ihn von Zeit zu Zeit zu aktualisieren und meine Leidenschaften, Entdeckungen und Geschichten mitzuteilen, ist dies die neueste Version davon.

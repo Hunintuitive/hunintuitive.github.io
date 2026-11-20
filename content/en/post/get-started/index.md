@@ -26,6 +26,8 @@ tags:
 ---
 ## 🎶 A Dive Into My Musical World
 
+![Hunor Crockett](/en/post/get-started/me.png)
+
 Hello, dear reader!👋
 
 Welcome to my little corner of the internet. This was my very first blog post - and as I plan to update it from time to time, sharing my passions, discoveries, and stories, this is the latest version of it.
