@@ -31,6 +31,15 @@ sections:
 
   - block: markdown
     content:
+      title: ''
+      subtitle: ''
+      text: |-
+        A creative self-portrait, created with the help of AI – a tribute to a style that has inspired me for a long time.
+
+        If I could, I'd take this style with me wherever I go. Elegance? For me, this is pretty much where the story begins. 😉😎
+
+  - block: markdown
+    content:
       title: 'Learning, Growing, and Connecting with Others'
       subtitle: ''
       text: |-

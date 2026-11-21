@@ -31,6 +31,15 @@ sections:
 
   - block: markdown
     content:
+      title: ''
+      subtitle: ''
+      text: |-
+        Ein kreatives Selbstporträt, mithilfe von KI gestaltet – eine kleine Liebeserklärung an einen Stil, der mich schon seit Langem inspiriert.
+
+        Wenn ich könnte, würde ich diesen Stil überallhin mitnehmen. Eleganz? Für mich fängt sie ungefähr hier an. 😉😎
+
+  - block: markdown
+    content:
       title: 'Lernen, Wachsen und Verbindungen schaffen'
       subtitle: ''
       text: |-

@@ -31,6 +31,15 @@ sections:
 
   - block: markdown
     content:
+      title: ''
+      subtitle: ''
+      text: |-
+        Egy kreatív önportré, MI segítségével – tisztelgés egy stílus előtt, amely már régóta inspirál.
+
+        Ha tehetném, ezt a stílust mindenhová magammal vinném. Elegancia? Nálam valahol itt kezdődik a történet. 😉😎
+
+  - block: markdown
+    content:
       title: 'Tanulás, fejlődés és kapcsolódás másokkal'
       subtitle: ''
       text: |-
